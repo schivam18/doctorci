@@ -1,7 +1,7 @@
 # main.py
 
 from src.openai_client import OpenAIClient
-from src.pdf_processing import PDFProcessor
+from src.pdf_processor import PDFProcessor
 
 
 def main():
