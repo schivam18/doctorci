@@ -13,7 +13,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Constants
-ABSTRACT_IDS_TO_PROCESS = [1]  # You can update this list or parameterize it
+ABSTRACT_IDS_TO_PROCESS = [1,2,3,4,5]  # You can update this list or parameterize it
 
 
 def process_pdfs():
