@@ -24,7 +24,7 @@ class OpenAIClient:
         # Initialize the OpenAI client
         self.client = OpenAI(api_key=self.api_key)
 
-    def get_chat_completion(self, messages, max_tokens=150):
+    def get_chat_completion(self, messages, max_tokens=1500):
         # Estimate tokens for messages and completion
         prompt_tokens = self.num_tokens_from_messages(messages)
         # For estimation, assume max_tokens will be used for the completion
