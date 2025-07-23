@@ -1,0 +1,1063 @@
+{
+  "pdf_path": "resources/15.pdf",
+  "pdf_name": "15",
+  "marker_processing": {
+    "pdf_path": "resources/15.pdf",
+    "pdf_name": "15",
+    "markdown_path": "/var/folders/k8/d1yv1yjs12d97mqvcvxgjnhm0000gn/T/tmpa6zmz55w/15/15.md",
+    "json_path": "/var/folders/k8/d1yv1yjs12d97mqvcvxgjnhm0000gn/T/tmpa6zmz55w/15/15_meta.json",
+    "success": true,
+    "markdown_content": "# **Pembrolizumab versus ipilimumab for advanced melanoma: final overall survival results of a multicentre, randomised, open-label phase 3 study (KEYNOTE-006)**\n\n![](_page_0_Picture_2.jpeg)\n\n*Jacob Schachter, Antoni Ribas, Georgina V Long, Ana Arance, Jean-Jacques Grob, Laurent Mortier, Adil Daud, Matteo S Carlino, Catriona McNeil, Michal Lotem, James Larkin, Paul Lorigan, Bart Neyns, Christian Blank, Teresa M Petrella, Omid Hamid, Honghong Zhou, Scot Ebbinghaus, Nageatte Ibrahim, Caroline Robert*\n\n# **Summary**\n\n**Background Interim analyses of the phase 3 KEYNOTE-006 study showed superior overall and progression-free survival of pembrolizumab versus ipilimumab in patients with advanced melanoma. We present the final protocolspecified survival analysis.**\n\n**Methods In this multicentre, open-label, randomised, phase 3 trial, we recruited patients from 87 academic institutions, hospitals, and cancer centres in 16 countries (Australia, Austria, Belgium, Canada, Chile, Colombia, France, Germany, Israel, Netherlands, New Zealand, Norway, Spain, Sweden, UK, and USA). We randomly assigned participants (1:1:1) to one of two dose regimens of pembrolizumab, or one regimen of ipilimumab, using a centralised, computer-generated allocation schedule. Treatment assignments used blocked randomisation within strata. Eligible patients were at least 18 years old, with an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1, at least one measurable lesion per Response Evaluation Criteria In Solid Tumors version 1.1 (RECIST v1.1), unresectable stage III or IV melanoma (excluding ocular melanoma), and up to one previous systemic therapy (excluding anti-CTLA-4, PD-1, or PD-L1 agents). Secondary eligibility criteria are described later. Patients were excluded if they had active brain metastases or active autoimmune disease requiring systemic steroids. The primary outcome was overall survival (defined as the time from randomisation to death from any cause). Response was assessed per RECIST v1.1 by independent central review at week 12, then every 6 weeks up to week 48, and then every 12 weeks thereafter. Survival was assessed every 12 weeks, and final analysis occurred after all patients were followed up for at least 21 months. Primary analysis was done on the intention-to-treat population (all randomly assigned patients) and safety analyses were done in the treated population (all randomly assigned patients who received at least one dose of study treatment). Data cutoff date for this analysis was Dec 3, 2015. This study was registered with ClinicalTrials.gov, number NCT01866319.**\n\n**Findings Between Sept 18, 2013, and March 3, 2014, 834 patients with advanced melanoma were enrolled and randomly assigned to receive intravenous pembrolizumab every 2 weeks (n=279), intravenous pembrolizumab every 3 weeks (n=277), or intravenous ipilimumab every 3 weeks (ipilimumab for four doses; n=278). One patient in the pembrolizumab 2 week group and 22 patients in the ipilimumab group withdrew consent and did not receive treatment. A total of 811 patients received at least one dose of study treatment. Median follow-up was 22\u00b79 months; 383 patients died. Median overall survival was not reached in either pembrolizumab group and was 16\u00b70 months with ipilimumab (hazard ratio [HR] 0\u00b768, 95% CI 0\u00b753\u20130\u00b787 for pembrolizumab every 2 weeks** *vs* **ipilimumab; p=0\u00b70009 and 0\u00b768, 0\u00b753\u20130\u00b786 for pembrolizumab every 3 weeks** *vs* **ipilimumab; p=0\u00b70008). 24-month overall survival rate was 55% in the 2-week group, 55% in the 3-week group, and 43% in the ipilimumab group.**\n\n**Interpretation Substantiating the results of the interim analyses of KEYNOTE-006, pembrolizumab continued to provide superior overall survival versus ipilimumab, with no difference between pembrolizumab dosing schedules. These conclusions further support the use of pembrolizumab as a standard of care for advanced melanoma.**\n\n## **Funding Merck & Co.**\n\n# **Introduction**\n\nThe immune system is an effective target in oncology therapy. Checkpoint pathways, including the cytotoxic T-lymphocyte\u2013associated antigen 4 (CTLA-4) pathway, which downregulates early T-cell function, and the programmed death 1 (PD-1) pathway, which regulates T-cell activity at the effector phase, can be coopted by tumours to elude an immune response.1 Checkpoint inhibitors restore anti-tumour immune responses, and have become a mainstay in cancer therapy. Several checkpoint inhibitors have been extensively studied, including the anti-CTLA-4 monoclonal antibody ipilimumab and anti-PD-1 monoclonal antibodies pembrolizumab and nivolumab, all of which are approved for the treatment of advanced melanoma.2\u20134 PD-1 inhibitors are typically associated with better outcomes and fewer grade\n\n#### *Lancet* **2017; 390: 1853\u201362**\n\nPublished **Online** August 16, 2017 http://dx.doi.org/10.1016/ S0140-6736(17)31601-X\n\nSee **Comment** page 1816\n\n**Division of Oncology, Ella Lemelbaum Institute for Melanoma, Sheba Medical Center, Tel Hashomer, Israel**  (J Schachter MD)**; Department of Medicine, University of California, Los Angeles, Los Angeles, CA, USA** (A Ribas MD)**; Department of Medical Oncology and Translational Research, Melanoma Institute Australia, The University of Sydney, Mater Hospital and Royal North Shore Hospital, Sydney, Australia**  (G V Long MD)**; Department of Medical Oncology, Hospital Clinic de Barcelona, Barcelona, Spain** (A Arance MD)**; Department of Dermatology and Skin Cancer, Aix Marseille University, H\u00f4pital de la Timone, Marseille, France**  (J Grob MD)**; Department of Dermatology, Universit\u00e9 Lille, INSERM U1189, CHU Lille, F-59000, France** (L Mortier MD)**; Department of Hematology/ Oncology, University of California, San Francisco, San Francisco, CA, USA**  (A Daud MD)**; Department of Medical Oncology, Westmead and Blacktown Hospitals, Melanoma Institute Australia, and The University of Sydney, Sydney, Australia**  (M S Carlino PhD)**; Department of Medical Oncology, Chris O'Brien Lifehouse, Royal Prince Alfred Hospital, and Melanoma Institute Australia, Camperdown, Australia**  (C McNeil PhD)**; Department of Melanoma and Cancer Immunotherapy, Sharett Institute of Oncology, Hadassah Hebrew University Medical Center, Jerusalem, Israel** (M Lotem MD)**;** \n\n**Department of Medical Oncology, Royal Marsden Hospital, London, UK**  (J Larkin FRCP)**; Department of Medical Oncology University of Manchester and the Christie NHS Foundation Trust, Manchester, UK**  (P Lorigan FRCP)**; Department of Medical Oncology, Universitair Ziekenhuis Brussel, Brussels, Belgium**  (B Neyns MD)**; Department of Medical Oncology, Netherlands Cancer Institute, Amsterdam, Netherlands** (C Blank MD)**; Department of Medicine, Division of Medical Oncology/Hematology, Sunnybrook Health Sciences Center, Toronto, ON, Canada**  (T M Petrella MD)**; Department of Hematology/Oncology, The Angeles Clinic and Research Institute, Los Angeles, CA, USA**  (O Hamid MD)**; Departments of Clinical Oncology (SE, NI) and BARDS (HZ), Merck & Co, Kenilworth, NJ, USA**  (H Zhou PhD; S Ebbinghaus MD; N Ibrahim MD)**; Department of Oncology, Gustave Roussy and Paris-Sud University, Villejuif, France** (C Robert MD)\n\nCorrespondence to: Jacob Schachter, The Ella Lemelbaum Institute for Melanoma, Sheba Medical Center, Tel Hashomer, Israel **jacob.schachter@sheba.health. gov.il**\n\n## **Research in context**\n\n#### **Evidence before this study**\n\nIn August, 2016, we performed an extensive PubMed search for studies of PD-1, PD-L1, and CTLA-4 inhibitors in advanced cancer using the primary search terms of \"PD-1 OR PD-L1 OR pembrolizumab OR MK-3475 OR lambrolizumab OR CTLA-4 OR ipilimumab OR nivolumab OR BMS-936558 OR atezolizumab OR MPDL3280A OR durvalumab OR MEDI4763 OR atezolizumab OR MSB0010718C OR BMS-936559.\" Congress abstracts from annual oncology meetings were also included. Our search was not limited by date. The final reference list was generated on the basis of relevance to the scope of this paper.\n\n#### **Added value of this study**\n\nKEYNOTE-006 is the first head-to-head comparison of pembrolizumab versus ipilimumab for advanced melanoma.\n\n3\u20134 treatment-related adverse events than is ipilimumab.5,6 Additional immune checkpoint inhibitors in clinical development for various solid malignancies, including advanced melanoma, include the anti-programmed death ligand 1 (PD-L1) antibodies atezolizumab, durvalumab, and avelumab.\n\nKEYNOTE-006 was a randomised, phase 3 trial comparing two dosing schedules of pembrolizumab (10 mg/kg every 2 weeks or every 3 weeks) versus ipilimumab (3 mg/kg every 3 weeks for 4 doses) in patients with ipilimumab-naive unresectable or advanced melanoma. Data from two protocol-specified interim analyses suggested that pembrolizumab provides superior progression-free survival and overall survival compared with ipilimumab, with fewer grade 3\u20135 treatment-related adverse events.6,7 On the basis of these promising results, the US Food and Drug Administration (FDA) expanded the indication of pembrolizumab to include first-line treatment of patients with advanced melanoma regardless of *BRAF*V600 status.3 After the second protocol-specified interim analysis, an external data monitoring committee recommended making pembrolizumab available to patients in KEYNOTE-006 whose disease progressed while in the ipilimumab group, and continuing to follow up all patients for overall survival until the planned final analysis of the study. We present the results of the protocol-specified final analysis to assess long-term survival benefit of pembrolizumab compared with ipilimumab.\n\n# **Methods**\n\n# **Study design**\n\nKEYNOTE-006 was a multi-centre, open-label, randomised, controlled, phase 3 study done at 87 academic institutions, cancer centres, and hospitals in 16 countries (Australia, Austria, Belgium, Canada, Chile, Colombia, France, Germany, Israel, Netherlands, New Zealand, Norway, Spain, Sweden, UK, and USA) and compared pembrolizumab with ipilimumab in patients with Interim analyses reported superiority of pembrolizumab to ipilimumab for overall survival, progression-free survival, and objective response rate, with fewer high-grade treatment-related toxicities with pembrolizumab. Results of the final analysis substantiated the survival advantage of pembrolizumab over ipilimumab and suggested that delayed responses with immunotherapy were possible. Importantly, this study showed that long-term treatment with pembrolizumab is well tolerated and efficacious.\n\n#### **Implications of all the available evidence**\n\nPembrolizumab provides a favourable benefit-risk profile in comparison with ipilimumab, supporting pembrolizumab as a standard of care for advanced melanoma.\n\nipilimumab-naive unresectable or advanced melanoma. The study protocol and all amendments were approved by the institutional review board or independent ethics committee of each participating institution. The trial complied with the Declaration of Helsinki, Good Clinical Practice guidelines, and all local laws and regulations.\n\n## **Participants**\n\nEligible patients were aged at least 18 years, with an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1, at least one measurable lesion per Response Evaluation Criteria In Solid Tumors version 1.1 (RECIST v1.1), unresectable stage III or IV melanoma (excluding ocular melanoma), and up to one previous systemic therapy (excluding anti-CTLA-4, PD-1, or PD-L1 agents). Additional eligibility criteria included known *BRAF* status (previous treatment with BRAF inhibitor therapy was not required for patients with normal lactate dehydrogenase [LDH] and no clinically significant tumour-related symptoms or evidence of rapidly progressing disease), and provision of a tumour sample for determination of PD-L1 status by immunohistochemistry using the 22C3 anti-PD-L1 antibody (Merck & Co, Kenilworth, NJ, USA) at a central laboratory. Patients were excluded if they had active brain metastases (patients with previously-treated stable brain metastases without evidence of progression by magnetic resonance imaging at least 4 weeks before the first dose of pembrolizumab were permitted) or active autoimmune disease requiring systemic steroids. All participants provided written informed consent.\n\n## **Randomisation and masking**\n\nPatients were randomly assigned to receive pembrolizumab or ipilimumab using a centralised, computergenerated allocation schedule. Following patient consent, an interactive voice/web response system (IVRS/IWRS) assigned a unique screening number to each patient. Randomisation was stratified by ECOG performance status (0 *vs* 1), line of therapy (first *vs* second), and PD-L1 status (positive [defined as \u22651% staining in tumour and adjacent immune cells as assessed by immunohistochemistry using the 22C3 antibody] or negative). Treatment assignments used blocked randomisation within strata.\n\n## **Procedures**\n\nPatients were randomly assigned 1:1:1 to receive intravenous pembrolizumab 10 mg/kg every 2 or 3 weeks or intravenous ipilimumab 3 mg/kg every 3 weeks for four doses (ipilimumab only). Treatment was given for 2 years (pembrolizumab groups only) or until disease progression, intolerable toxicity, complete response, patient withdrawal of consent, or investigator decision to discontinue treatment. Patients achieving complete response per RECIST v1.1, supported by two scans at least 4 weeks apart, and who received pembrolizumab treatment for at least 6 months were permitted to discontinue treatment. Eligible patients who had disease progression were permitted to remain on treatment until progression was substantiated by imaging at least 4 weeks later.\n\n## **Outcomes**\n\nThe pre-specified primary endpoint at the final analysis was overall survival (defined as the time from randomisation to death from any cause); secondary analyses included progression-free survival (defined as the time from randomisation to first documented progressive disease [based on blinded independent central review using RECIST v1.1] or death from any cause, whichever occurs first), objective response rate (defined as the proportion of the patients in the analysis population who have best response as complete response or partial response), and duration of response (defined as the time from the first documented response to radiologic progression according to RECIST v1.1). Response was assessed per RECIST v1.1 by independent central review at week 12, then every 6 weeks up to week 48, and then every 12 weeks thereafter; clinical decisions were based on investigator-assessed immune-related response criteria (irRC). Survival was assessed every 12 weeks during the survival follow-up phase. Adverse events were recorded throughout the study and for 30 days thereafter (90 days for serious adverse events), and were graded per National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0. Pre-specified immunemediated adverse events (defined as events of unknown cause associated with drug exposure and consistent with an immune event) were recorded throughout the study.\n\n## **Statistical analyses**\n\nThere were two planned interim analyses (first interim analysis data cutoff date: Sep 3, 2014; second interim analysis data cutoff date: Mar 3, 2015), the results of which have been reported.6,7 Although crossover was not allowed per protocol, after the second interim analysis, an external data monitoring committee recommended making pembrolizumab available to patients in KEYNOTE-006 whose disease progressed during treatment with ipilimumab, and continuing to follow all patients for overall survival until the planned final analysis of the study, which was to be done after 435 survival events had occurred or after all patients had at least 21 months of follow-up, whichever occurred first. The primary progression-free analysis was planned for the first interim analysis (after 6 months of follow-up and about 260 progression-free survival events); the study had at least 95% power to detect a true hazard ratio (HR) of 0\u00b75 (comparing each pembrolizumab regimen with ipilimumab), testing each of the two comparisons at \u03b1 of 0\u00b72%, assuming there were 180 progression-free survival events between the pembrolizumab and ipilimumab groups. At the final analysis, the available \u03b1 for testing overall survival was expected to be between 1\u00b75% and 2\u00b70%; with 1% available for each pembrolizumab regimen compared with ipilimumab, there was 85% power to detect a true HR of 0\u00b770, provided 300 deaths were observed in the comparison. These criteria are based on random assignment of about 645 patients across the three treatment groups. In actuality, 834 patients were randomly assigned.\n\nOverall survival, progression-free survival, and objective response rate analyses were done in the intent-to-treat population (all randomised patients); safety analyses were done in the treated population (all randomised patients who received at least one dose of study treatment).\n\nThe Kaplan-Meier method was used to estimate overall and progression-free survival and duration of response. Treatment differences in survival were assessed using the stratified log-rank test with the Hochberg procedure,8 using a one-sided \u03b1 of 0\u00b702 as the superiority threshold for overall survival. The Hochberg procedure controlled for multiple testing and for the planned interim analyses; type I error rate was strongly controlled at 2\u00b75% (one-sided). The stratified Cox model9 was used to estimate HRs for progression-free and overall survival, comparing each of the pembrolizumab regimens with ipilimumab, and was used to estimate the HRs for overall survival, comparing the pooled pembrolizumab regimens with ipilimumab within pre-specified subsets of patients. The same stratification factors used for randomisation were applied to the stratified log-rank test and the stratified Cox model. Patients for whom death was not documented at the time of final analysis were censored at the last-known alive date. Treatment differences in objective response rate were assessed using the stratified Miettinen and Nurminen method,10 which was used to calculate the CI for the difference between the proportions. No \u03b1 was pre-specified at the final analysis for supportive analyses. Adverse events were summarised by 6-week periods across treatment groups. Time-adjusted and exposure-adjusted comparisons of safety events were done to adjust for the decreased reporting period for ipilimumab treatment. The cutoff date for the final analysis was Dec 3, 2015. This trial was registered with ClinicalTrials.gov, number NCT01866319.\n\n## **Role of funding source**\n\nThe sponsor collaborated jointly with the senior academic authors to design the study and gather, analyse, and interpret the results. The corresponding author had full access to all study data, and all authors had final responsibility for the decision to submit the manuscript for publication.\n\n# **Results**\n\nBetween Sep 18, 2013 and Mar 3, 2014, 834 patients with advanced melanoma were enrolled and randomly assigned to receive pembrolizumab every 2 weeks (n=279), pembrolizumab every 3 weeks (n=277), or ipilimumab every 3 weeks for four doses (ipilimumab only; n=278); 811 received treatment (figure 1). Baseline characteristics were well balanced across treatment groups (table 1). Median age was 62 years and 497 (60%) of 834 patients were male; 270 (32%) of 834 patients had elevated LDH; 302 (36%) of 834 had *BRAF*V600/EK mutations; 671 (80%) of 834 patients had PD-L1-positive tumours; and 549 (66%) of 834 patients had not received previous systemic therapy. Median time on therapy was 28\u00b71 weeks (range 0\u00b71\u2013108\u00b71) for pembrolizumab every 2 weeks, 24\u00b70 weeks (0\u00b71\u2013111\u00b71) for pembrolizumab every 3 weeks, and 9\u00b70 weeks (0\u00b71\u201313\u00b71) for ipilimumab. At final analysis, median follow-up was 22\u00b79 months; per protocol, all patients had been followed up for at least 21 months.\n\nAs of the data cutoff date, treatment was ongoing in 52 (19%) of 279 patients who received pembrolizumab every 2 weeks and in 38 (14%) of 277 patients who received pembrolizumab every 3 weeks; 25 (9%) of 279 patients in the 2-week group and 26 (9%) of 277 patients in the 3-week group completed the protocol-specified maximum 2 years of treatment (figure 1). In the ipilimumab group, 155 (56%) of 278 patients received all four doses of treatment. The most common reasons for discontinuation across treatment groups were progressive disease and adverse events (figure 1). After discontinuing study treatment, more patients given ipilimumab (133 [52%] of 256) started new oncologic therapy than those given pembrolizumab (111 [40%] of 278 patients in the 2-week group and 108 [39%] of 277 patients in the 3-week group); these post-study anti-neoplastic therapies most commonly included immunotherapy (24\u201335%) and BRAF inhibitor or MEK inhibitors (17\u201329%, appendix). Patients receiving pembrolizumab were more likely to receive an anti-CTLA-4 agent post-study (127 [23%] of 555), whereas those who received ipilimumab most commonly received anti-PD-1 therapy (76 [30%] of 256), including 30 patients who received pembrolizumab.\n\nAt the time of data cutoff, 383 patients had died, representing 88% of the target number of events at final analysis (435 deaths). Median overall survival was not\n\n![](_page_3_Figure_9.jpeg)\n\n*Figure 1***: Trial profile**\n\nSee **Online** for appendix\n\nreached in either pembrolizumab group (range 22\u00b71 months\u2013not reached for the 2-week group and 23\u00b75 months\u2013not reached for the 3-week group) and was 16\u00b70 months (range 13\u00b75\u201322\u00b70) for ipilimumab; 24-month overall survival rates were 55% in the 2-week group (95% CI 49\u201361), 55% in the 3-week group (95% CI 49\u201361), and 43% in the ipilimumab group (95% CI 37\u201349; figure 2A). Both pembrolizumab groups were superior to the ipilimumab group (HR 0\u00b768; 95% CI 0\u00b753\u20130\u00b787; p=0\u00b70009 for the 2-week schedule and HR 0\u00b768; 95% CI 0\u00b753\u20130\u00b786; p=0\u00b70008 for the 3-week schedule *vs* ipilimumab; figure 2A). There was no difference between the two pembrolizumab schedules (HR 1\u00b701; p=0\u00b793). Additionally, overall survival was superior in the pooled pembrolizumab groups compared with ipilimumab across subgroups, including in those with typically poor prognosis (eg, patients with elevated LDH and baseline tumour size greater than or equal to the median; figure 3).\n\nOverall, 566 progression-free survival events were reported. 364 (65%) of these 556 events occurred in the pooled pembrolizumab groups. Progression-free survival was longer with pembrolizumab than with ipilimumab (HR 0.61; 95% CI 0\u00b750\u20130\u00b775; p<0\u00b70001 for both pembrolizumab schedules *vs* ipilimumab). There was no difference in progression-free survival between the two pembrolizumab schedules (HR 0.95; 95% CI 0\u00b777\u20131\u00b717; p=0\u00b762). Median progression-free survival was 5\u00b76 months (range 3\u00b74\u20138\u00b72), 4\u00b71 months (range 2\u00b79\u20137\u00b72), and 2\u00b78 months (range 2\u00b78\u20132\u00b79) for pembrolizumab every 2 and 3 weeks and ipilimumab, respectively, with the curves showing a definite separation after the week 12 assessment (figure 2B). Additionally, the 24-month progression-free survival rate was 31% in the 2-week group, 28% in the 3-week group, and 14% in the ipilimumab group.\n\nObjective response was reported in 103 (37%) of 279 patients taking pembrolizumab every 2 weeks, 100 (36%) of 277 patients taking pembrolizumab every 3 weeks, and 37 (13%) of 278 patients taking ipilimumab (table 2). Best overall response was complete response in 33 (12%) of 279 patients in the 2-week group, 36 (13%) of 277 patients in the 3-week group, and 14 (5%) of 278 patients in the ipilimumab group; an additional 30 (11%) of 279 patients in the 2-week group, 30 (11%) of 277 patients in the 3-week group, and 43 (15%) of 278 patients in the ipilimumab group had stable disease. Disease control (complete response plus partial response plus stable disease) was seen in 145 (52%) of 279 patients in the 2-week group and 144 (52%) of 277 patients in the 3-week group and 89 (32%) of 278 patients in the ipilimumab group. Although there were differences in response rate among treatments (p<0\u00b70001 for both pembrolizumab groups compared with ipilimumab), there was no difference between pembrolizumab schedules (p=0\u00b782). At the final analysis, responses (including complete responses) continued to accrue, and\n\n|                                            | Pembrolizumab<br>every 2 weeks n=279 | Pembrolizumab<br>every 3 weeks n=277 | Ipilimumab<br>n=278 |\n|--------------------------------------------|--------------------------------------|--------------------------------------|---------------------|\n| Age, median (range), years                 | 61 (18\u201389)                           | 63 (22\u201389)                           | 62 (18\u201388)          |\n| Sex                                        |                                      |                                      |                     |\n| Male                                       | 161 (58%)                            | 174 (63%)                            | 162 (58%)           |\n| Female                                     | 118 (42%)                            | 103 (37%)                            | 116 (42%)           |\n| ECOG performance status                    |                                      |                                      |                     |\n| 0                                          | 196 (70%)                            | 189 (68%)                            | 188 (68%)           |\n| 1                                          | 83 (30%)                             | 88 (32%)                             | 90 (32%)            |\n| LDH                                        |                                      |                                      |                     |\n| Normal                                     | 194 (70%)                            | 175 (63%)                            | 178 (64%)           |\n| Elevated                                   | 81 (29%)                             | 98 (35%)                             | 91 (33%)            |\n| Missing                                    | 4 (1%)                               | 4 (1%)                               | 9 (3%)              |\n| BRAFV600E/K status                         |                                      |                                      |                     |\n| Wild-type                                  | 177 (63%)                            | 178 (64%)                            | 170 (61%)           |\n| Mutant                                     | 98 (35%)                             | 97 (35%)                             | 107 (39%)           |\n| Undetermined                               | 4 (1%)                               | 2 (1%)                               | 1 (<1%)             |\n| PD-L1 expression                           |                                      |                                      |                     |\n| Positive*                                  | 225 (81%)                            | 221 (80%)                            | 225 (81%)           |\n| Negative                                   | 49 (18%)                             | 54 (20%)                             | 47 (17%)            |\n| Unknown                                    | 5 (2%)                               | 2 (1%)                               | 6 (2%)              |\n| M staging of the extent of metastasis\u2020     |                                      |                                      |                     |\n| M0                                         | 9 (3%)                               | 8 (3%)                               | 13 (5%)             |\n| M1                                         | 6 (2%)                               | 4 (1%)                               | 5 (2%)              |\n| M1a                                        | 21 (8%)                              | 35 (13%)                             | 30 (11%)            |\n| M1b                                        | 64 (23%)                             | 41 (15%)                             | 52 (19%)            |\n| M1c                                        | 179 (64%)                            | 189 (68%)                            | 178 (64%)           |\n| Lines of previous therapy                  |                                      |                                      |                     |\n| 0                                          | 183 (66%)                            | 185 (67%)                            | 181 (65%)           |\n| 1                                          | 96 (34%)                             | 91 (33%)                             | 97 (35%)            |\n| 2                                          | 0                                    | 1 (<1%)                              | 0                   |\n| Previous (neo)adjuvant therapy             | 42 (15%)                             | 30 (11%)                             | 37 (13%)            |\n| Previous chemotherapy                      | 36 (131%)                            | 41 (15%)                             | 29 (10%)            |\n| Previous BRAF or MEK inhibitor             | 50 (18%)                             | 45 (16%)                             | 56 (20%)            |\n| Previous immunotherapy                     | 8 (3%)                               | 7 (2%)                               | 12 (4%)             |\n| Interferon                                 | 3 (1%)                               | 2 (<1%)                              | 6 (2%)              |\n| Peg-interferon                             | 1 (<1%)                              | 0                                    | 0                   |\n| IL-2                                       | 1 (<1%)                              | 3 (1%)                               | 2 (<1%)             |\n| Baseline tumour size,<br>median (range) mm | 58\u00b75 (10\u2013390)                        | 63\u00b74 (11\u2013554)                        | 55\u00b76 (10\u2013465)       |\n| Brain metastases                           |                                      |                                      |                     |\n| Yes                                        | 24 (9%)                              | 27 (10%)                             | 29 (10%)            |\n| No                                         | 252 (90%)                            | 248 (90%)                            | 248 (89%)           |\n| Missing                                    | 3 (1%)                               | 2 (1%)                               | 1 (<1%)             |\n\nData are n (%) unless otherwise specified. ECOG=Eastern Cooperative Oncology Group performance status; IL-2=interleukin-2; LDH=lactate dehydrogenase; PD-L1=programmed death ligand 1.\\*Defined as \u22651% staining in tumour and adjacent immune cells as assessed by immunohistochemistry using the 22C3 antibody.\u2020M0=no distant metastasis. M1a=metastasis to skin, subcutaneous tissues, or distant lymph nodes. M1b=metastasis to lung. M1c=metastasis to all other visceral sites or distant metastases at any site associated with elevated serum concentrations of LDH.\n\n*Table 1:* **Patient characteristics**\n\npembrolizumab continued to show superiority over ipilimumab (appendix). Responses were ongoing in approximately 129 (64%) of 203 of patients who\n\n![](_page_5_Figure_1.jpeg)\n\n## *Figure 2***: Kaplan-Meier plots**\n\n(A) overall survival; (B) progression-free survival assessed per RECIST v1.1 by independent central review; and (C) duration of response assessed per RECIST v1.1 by independent central review. p values for progression-free survival are nominal because no \u03b1 was pre-specified at the final analysis. HR=hazard ratio; NR=not reached; Q2W=every 2 weeks; Q3W=every 3 weeks.\n\nresponded to pembrolizumab and in 23 (62%) of 37 of those who responded to ipilimumab, with approximately 70% of responses lasting 78 weeks or longer (figure 2C). Median duration of response was not reached in any treatment group.\n\nOf the 834 patients enrolled, one patient in the pembrolizumab 2-week group and 22 patients in the ipilimumab group withdrew consent and did not receive treatment. A total of 811 patients received at least one dose of study treatment and were included in the safety analysis population. Median time on treatment was 197 days for pembrolizumab every 2 weeks (mean 312 days, SD 260), 168 days for pembrolizumab every 3 weeks (292 days, 264), and 63 days for ipilimumab (50 days, 21). After week 12, almost all patients in the ipilimumab group had completed or discontinued active treatment as planned; consequently, the adverse event reporting period for ipilimumab was shorter than that for pembrolizumab. Any-grade treatment-related adverse events occurred in 229 (82%) of 278 patients in the 2-week group, 213 (77%) of 277 patients in the 3-week group, and 190 (74%) of 256 patients in the ipilimumab group (table 3); most of these treatment-related adverse events were grade 1\u20132. The most common any-grade treatment-related adverse events were fatigue, pruritus, diarrhoea, and rash. Grade 3\u20135 treatment-related toxicities occurred in 47 (17%) of 278 patients in the 2-week group and 46 (17%) of 277 patients in the 3-week group, compared with 50 (20%) of 256 patients in the ipilimumab group (table 3). Most grade 3\u20135 treatment-related adverse events occurred in less than 1% of patients, with the exception of colitis, diarrhoea, fatigue, alanine aminotransferase increase, hypokalemia, and pneumonitis. Treatment-related toxicity resulted in treatment discontination for 19 (7%) of 278 patients in the 2-week group, 30 (11%) of 277 patients in the 3-week group, and 23 (9%) of 256 of patients in the ipilimumab group. Treatment-related adverse events leading to discontinuation that were reported more than once included colitis (three patients) and autoimmune hepatitis (two patients) in the pembrolizumab every 2 weeks group; colitis (four patients), pneumonitis (three patients), hepatitis (two patients), and tubulointerstitial nephritis (two patients) in the pembrolizumab every 3 weeks group; and colitis (nine patients) and diarrhoea (five patients) in the ipilimumab group. One treatment-related death in the pembrolizumab every 2 weeks group was a result of sepsis. Immune-mediated adverse events occurred across treatment groups and most commonly included thyroid disorders (includes hyperthyroidism, hypothyroidism, and thyroiditis) and colitis (appendix). Adverse events were generally managed with supportive care, withholding treatment, or corticosteroid therapy. There were no differences in the overall safety profile between pembrolizumab treatment schedules.\n\nSerious and treatment-related grade 3\u20134 adverse events occurred more frequently in the ipilimumab group than in the pembrolizumab groups in each 6-week reporting\n\nElevated LDH 270 *BRAF*V600E/K wild type\\* 532 *BRAF*V600E/K mutant 302 0 previous therapies 549 1 previous therapy 284 PD-L1 positive 671 PD-L1 negative 150 BTS <median 359\n\nMale 497 Female 337 Age \u226565 years 471 Age <65 years 363 ECOG PS 0 573 ECOG PS 1 261 Normal LDH 547\n\n#### *Figure 3:* **Overall survival in key subgroups**\n\nBTS \u2265median 363\n\nPembrolizumab groups were pooled. Dotted vertical line represents hazard ratio in the total population. BTS=baseline tumour size; ECOG PS=Eastern Cooperative Oncology Group performance status; LDH=lactate dehyrogenase; PD-L1=programmed death ligand 1. \\*Includes patients with unknown *BRAF*V600 mutation status (n=17).\n\n0\u00b71 1 10 Favours pembrolizumab Favours ipilimumab\n\n**n Hazard ratio**\n\n|                                                      | Pembrolizumab<br>every 2 weeks n=279 | Pembrolizumab<br>every 3 weeks n=277 | Ipilimumab<br>n=278 |\n|------------------------------------------------------|--------------------------------------|--------------------------------------|---------------------|\n| Objective response rate,<br>% (95% CI)               | 37 (31\u201343)                           | 36 (30\u201342)                           | 13 (10\u201318)          |\n| Best overall response                                |                                      |                                      |                     |\n| Complete response                                    | 33 (12%)                             | 36 (13%)                             | 14 (5%)             |\n| Partial response                                     | 70 (25%)                             | 64 (23%)                             | 23 (8%)             |\n| Stable disease                                       | 30 (11%)                             | 30 (11%)                             | 43 (16%)            |\n| Non-complete response or<br>non\u2013progressive disease* | 12 (4%)                              | 14 (5%)                              | 9 (3%)              |\n| Progressive disease                                  | 107 (38%)                            | 115 (42%)                            | 137 (49%)           |\n| Not evaluable\u2020                                       | 19 (7%)                              | 15 (5%)                              | 50 (18%)            |\n| No assessment\u2021                                       | 8 (3%)                               | 3 (1%)                               | 2 (<1%)             |\n| Ongoing responses\u00a7                                   | 69 (67%)                             | 60 (60%)                             | 23 (62%)            |\n| Duration of response,<br>median (range), months      | NR (1\u00b78 to >22\u00b78)                    | NR (2\u00b70 to >22\u00b78)                    | NR (>1\u00b71 to >23\u00b78)  |\n\nData are n (%) unless otherwise specified. Tumour response as assessed per RECIST v1.1 by independent central review. NR=not reached. \\*Patients without measurable disease per independent central review at baseline who did not have complete response or disease progression. \u2020Target lesion not captured by post-baseline scan or for whom a target lesion was surgically removed.\u2021No post-baseline scan performed or scans not evaluable. \u00a7Patients without progression, death, or new anticancer therapy.\n\n*Table 2:* **Tumour response**\n\nperiod between start of treatment and week 18 (appendix). From week 13 through week 18 (when most patients in the ipilimumab group had discontinued treatment), a smaller percentage of patients on pembrolizumab had treatmentrelated serious adverse events (five [2%] of 236 patients in the pembrolizumab 2-week group, one [<1%] of 232 patients in the pembrolizumab 3-week group, and four [3%] of 160 patients in the ipilimumab group) or treatment-related grade 3\u20134 adverse events (six [3%] of 236 patients in the 2-week group, three [1%] of 232 patients in the 3-week group, and four [3%] of 160 patients in the ipilimumab group; appendix). Across treatment groups,\n\n|                                                     | Pembrolizumab<br>every 2 weeks n=278 |           |           | Pembrolizumab<br>every 3 weeks n=277 |           | Ipilimumab<br>n=256 |  |\n|-----------------------------------------------------|--------------------------------------|-----------|-----------|--------------------------------------|-----------|---------------------|--|\n|                                                     | Any grade                            | Grade 3\u20134 | Any grade | Grade 3\u20134                            | Any grade | Grade 3\u20134           |  |\n| Any                                                 | 229 (82%)                            | 47 (17%)  | 213 (77%) | 46 (17%)                             | 190 (74%) | 50 (20%)            |  |\n| Serious                                             | 34 (12%)                             | 0         | 32 (12%)  | 0                                    | 44 (17%)  | 0                   |  |\n| Led to discontinuation                              | 19 (7%)                              | 0         | 30 (11%)  | 0                                    | 23 (9%)   | 0                   |  |\n| Led to death                                        | 1 (<1%)*                             | 0         | 0         | 0                                    | 0         | 0                   |  |\n| Observed in \u226510% of patients in any treatment group |                                      |           |           |                                      |           |                     |  |\n| Fatigue                                             | 79 (28%)                             | 1 (<1%)   | 64 (23%)  | 3 (1%)                               | 43 (17%)  | 3 (1%)              |  |\n| Pruritus                                            | 56 (20%)                             | 0         | 55 (20%)  | 0                                    | 67 (26%)  | 0                   |  |\n| Diarrhoea                                           | 54 (19%)                             | 7 (3%)    | 46 (17%)  | 3 (1%)                               | 59 (23%)  | 7 (3%)              |  |\n| Rash                                                | 44 (16%)                             | 0         | 48 (17%)  | 0                                    | 40 (16%)  | 0                   |  |\n| Arthralgia                                          | 35 (13%)                             | 0         | 38 (14%)  | 0                                    | 13 (5%)   | 0                   |  |\n| Nausea                                              | 36 (13%)                             | 0         | 37 (13%)  | 0                                    | 24 (9%)   | 0                   |  |\n| Hypothyroidism                                      | 30 (11%)                             | 0         | 23 (8%)   | 0                                    | 2 (1%)    | 0                   |  |\n| Data are n (%). *Sepsis.                            |                                      |           |           |                                      |           |                     |  |\n\nadverse events were reported most frequently in the first 3 months of treatment when adjusted for exposure, and then decreased in frequency thereafter (appendix); most immune-mediated adverse events occurred within the first 6 months in all treatment groups (appendix). Colitis occurred more frequently in the ipilimumab group, whereas hepatitis and endocrinopathies occurred more frequently in the pembrolizumab group (appendix). 38 (19%) of 202 patients given pembrolizumab for at least 1 year had grade 3\u20134 treatment-related adverse events, nine (4%) of these 202 patients discontinued pembrolizumab because of a treatment-related adverse event, and none died of treatment-related toxicity.\n\n# **Discussion**\n\nKEYNOTE-006 is the first head-to-head comparison of pembrolizumab versus ipilimumab for advanced melanoma. Results of the protocol-specified first and second interim analyses showed that pembrolizumab provided superior progression-free and overall survival, respectively, compared with ipilimumab, with fewer grade 3-4 treatment-related adverse events.6,7 The results of this protocol-specified final analysis substantiate the survival advantage for pembrolizumab compared with ipilimumab. The final analysis showed that pembrolizumab treatment resulted in twice the percentage of patients alive and without disease progression compared with ipilimumab (24-month progression-free survival rates of 31% in the pembrolizumab every 2 weeks group, 28% for the pembrolizumab every 3 weeks group, and f14% for the ipilimumab group).\n\nCompared with earlier published results, pembrolizumab continued to provide a greater reduction in risk for death than ipilimumab, with 24-month survival rates approximately 12% higher with pembrolizumab than with ipilimumab. Overall survival for ipilimumab in KEYNOTE-006 is substantially longer than previously reported in other phase 3 studies,11,12 probably because more than half the patients in the ipilimumab group of this study received a subsequent efficacious anticancer therapy, including 76 (30%) of 256 patients who received anti-PD-1 therapy after discontinuation of ipilimumab (appendix). Despite this, we observed a significant improvement in survival with pembrolizumab. Importantly, however, it is difficult to draw strict comparisons about longer term survival with ipilimumab between previously published data and the KEYNOTE-006 study.\n\nResponse rates at the final analysis, which were consistent with the previously published interim data,6,7 remain substantially higher with either pembrolizumab schedule than with ipilimumab, with an approximately three times higher improvement in objective response rate. Most responses were durable and ongoing at the time of data cutoff, regardless of treatment group. Long-term benefit with ipilimumab, including durable responses lasting more than 8 years13,14 and survival of up to 10 years,15 has been reported in patients with advanced melanoma. Here we report durability of response with pembrolizumab and ipilimumab with a 2-year follow-up. Results suggest that the percentage of patients with ongoing response as of the data cutoff date is similar across the three treatment groups.\n\nOur data show that additional objective responses, including complete responses, with pembrolizumab, and to a lesser extent with ipilimumab, can occur after 21 months of follow-up and support the fact that delayed responses or late conversion of partial responses to complete responses are possible with these immunotherapies. Prolonged complete response after pembrolizumab discontinuation was observed in the KEYNOTE-001 study: 59 (97%) of 61 patients maintained response and only two (3%) of 61 patients had progression after 2 years or longer on treatment.16 As patients continue to have long-term benefits after short duration of treatment, questions regarding the optimal duration of treatment should be further investigated.\n\nThe results reported here are similar to those in the phase 3 CheckMate 067 trial in which nivolumab monotherapy provided improved median overall survival (not reached *vs* 20\u00b70 months),17 median progression-free survival (6\u00b79 *vs* 2\u00b79 months),5 and objective response rate (44 *vs* 19%)5 compared with ipilimumab monotherapy in previously untreated patients with advanced melanoma. Differences in eligibility criteria and treatment framework between the two studies might have contributed to the slightly improved responses seen with nivolumab.\n\nIn KEYNOTE-006, more patients given ipilimumab than pembrolizumab went on to receive post-study anti-neoplastic therapy, including anti-PD-1 therapy. The tolerability profile of pembrolizumab makes it a promising candidate for combination therapy, which has the potential to further improve outcomes for patients with advanced melanoma. In the phase 1 KEYNOTE-029 study of standard-dose pembrolizumab with low-dose ipilimumab, combination therapy provided higher objective response rates and improved survival than those historically reported with either therapy alone, but also led to higher rates of toxicity;6,18 as a result, we assessed two additional ipilimumab dosing regimens with standarddose pembrolizumab. Similarly, the combination of lowdose nivolumab with standard-dose ipilimumab led to higher objective response rates and longer progressionfree survival than either therapy alone, but at the expense of higher grade toxicity; as shown by the data that have been reported, the overall survival benefit with the combination was encouraging but not statistically significant.5,19\u201321 Results from phase 1 and phase 2 studies of pembrolizumab in combination with the indoleamine 2,3-dioxygenase 1 inhibitor epacadostat, or the oncolytic virus talimogene laherparevec, reported an acceptable safety profile and high objective response rates in patients with melanoma;22\u201326 phase 3 trials of these combinations in melanoma are underway.\n\nAlthough first-line therapy with anti-PD-1 antibodies has shown superiority to ipilimumab, and combination therapy with anti-PD-1 and anti-CTLA-4 antibodies appears to improve anti-tumour efficacy, optimal sequencing of these agents has not been established. Arguments exist for first line use of BRAF inhibitors because of the rapid responses often observed with these agents,27,28 whereas other studies support use of immunotherapy as front line treatment since these agents typically result in more durable anti-tumour responses and might have reduced benefit following targeted therapy.29 Retrospective studies suggest that patients might benefit regardless of the treatment sequence.28,30 Of note, a considerable percentage of patients in this study (71 [26%] of 278 patients in the pembrolizumab every 2 weeks group, 48 [17%] of 277 patients in the pembrolizumab every 3 weeks group, and 74 [29%] of 256 patients in the ipilimumab group) received BRAF or MEK targeted therapy following checkpoint inhibitor therapy. Although no additional data are available, analysis of the clinical activity in this subset of patients would be of interest for sequencing discussions. Clearly, the optimal sequencing strategy remains to be elucidated. Questions also remain as to the effect that LDH and other potential prognostic factors might have on sequencing strategy, and appropriate biomarkers to select for those patients most likely to respond to anti-PD-1 therapy.\n\nIn KEYNOTE-006, the prevalence of adverse events and rate of discontinuation for patients receiving pembrolizumab for more than 1 year were similar to those in the overall population, showing that tolerability of pembrolizumab is maintained over time. Additionally, despite a three times longer duration of exposure, pembrolizumab continued to provide a favourable safety profile compared with ipilimumab. As expected from the mechanisms of action of pembrolizumab and ipilimumab,31,32 immune-mediated events occurred across treatment groups. As has been previously reported,33,34 frequency and type of adverse events differed between pembrolizumab and ipilimumab, owing to their unique targets. Notably, and in line with previous findings, colitis was more frequently reported with use of ipilimumab, whereas thyroid disorders were more prevalent with use of pembrolizumab. The number of pembrolizumab and ipilimumab exposure-adjusted adverse events decreased with time, although the decrease was more pronounced in the ipilimumab group, probably because treatment was completed (after four doses) much earlier in the study. Although it is difficult to directly compare the safety profiles because of the difference in reporting periods across the three groups, the average frequency of grade 3-4, serious, and immune-mediated adverse events leading to discontinuation was slightly higher for patients given ipilimumab than those on either pembrolizumab schedule. No new safety signals or increase in adverse event frequency was seen with longer duration of pembrolizumab therapy.\n\nIn conclusion, results of the final analysis from KEYNOTE-006 show that after close to a median of 2 years follow-up, pembrolizumab continues to show a clear and significant superiority compared with ipilimumab for patients with advanced melanoma, and further support the use of pembrolizumab as a standard of care in this patient population.\n\n#### **Contributors**\n\nThe study was conceived, designed, or planned by JS, AD, HZ, SE, and CR. Acquisition of the data was done by JS, GVL, AA, J-JG, LM, AD, MSC, CMcN, ML, JL, PL, BN, CB, OH, HZ, and NI. Data analysis was done by JS, AR, GVL, AD, ML, JL, OH, HZ, SE, NI, and CR. Intepretation of the results was done by JS, AR, GVL, AA, J-JG, LM, AD, MSC, ML, JL, PL, BN, TMP, OH, HZ, SE, NI, and CR. The manuscript was drafted by JS, GVL, SE, and NI. All authors critically reviewed iterations of the manuscript and approved the final draft for submission.\n\n#### **Declaration of interests**\n\nJS reports personal fees for advisory board participation and presentations from Merck Sharp & Dohme Corp (a subsidiary of Merck & Co), and Bristol-Myers Squibb outside the submitted work. AR reports grants and honoraria to his institution from Merck & Co outside the submitted work. GVL reports consulting fees from Bristol-Myers Squibb, Amgen, Novartis, Roche, Pierre-Fabre, Array, and Merck Sharp & Dohme Corp, outside the submitted work. AA reports grant support from Merck & Co in support of the submitted work; personal fees from Novartis, Roche, and Bristol-Myers Squibb outside the submitted work; and non-financial support from Roche outside the submitted work. J-JG reports personal fees for advisory board participation from Merck Sharp & Dohme Corp, Bristol-Myers Squibb, Roche, Novartis, Amgen, Pierre-Fabre, and Merck & Co, outside the submitted work; and grant support from Bristol-Myers Squibb outside the submitted work. LM reports study support from Merck & Co in support of the submitted work. MSC reports personal fees for advisory board participation from Merck Sharp & Dohme Corp, Bristol-Myers Squibb, Novartis, and Amgen outside the submitted work. CMcN reports fees for her staff for travel to scientific meetings from Merck Sharp & Dohme Corp, and Bristol-Myers Squibb outside the submitted work; advisory board participation from Bristol-Myers Squibb, Merck Sharp & Dohme Corp, and Roche to her institution outside the submitted work; fees for her institution for presentations from Bristol-Myers Squibb, Merck Sharp & Dohme Corp, Novartis, and Roche outside the submitted work; and grants to her institution from Merck Sharp & Dohme Corp, outside the submitted work. PL reports personal fees for advisory board participation, speaker's bureau, and travel support from Merck Sharp & Dohme Corp outside the submitted work. BN reports personal fees for advisory board participation and public\n\nspeaking from Merck Sharp & Dohme Corp outside the submitted work. CB reports personal fees to his institution from Merck Sharp & Dohme Corp, Bristol-Myers Squibb, Roche, Novartis, Lilly, Pfizer, and GlaxoSmithKline outside the submitted work; and grants to his institution from Novartis outside the submitted work. TMP reports grant support and honoraria for advisory board participation from Merck & Co in support of the submitted work; honoraria from Bristol-Myers Squibb, Novatis, and Roche outside the submitted work; and grants from Roche and Bristol-Myers Squibb outside the submitted work. OH reports consulting fees from Amgen, Novartis, Roche, Bristol-Myers Squibb, and Merck & Co outside the submitted work; speaker fees from Bristol-Myers Squibb, Genentech, Novartis, and Amgen outside the submitted work; and contracted research for AstraZeneca, Bristol-Myers Squibb, Celldex, Genentech, Immunocore, Incyte, Merck & Co, Merck Serono, MedImmune, Novartis, Pfizer, Rinat, and Roche outside the submitted work. HZ was an employee of Merck Sharp & Dohme Corp at the time of the study. SE is an employee of Merck Sharp & Dohme Corp and holds stock in the company. NI is an employee of Merck Sharp & Dohme Corp, and holds stock in Merck Sharp & Dohme Corp, and GlaxoSmithKline. CR reports personal fees for advisory board participation from Bristol-Myers Squibb, GlaxoSmithKline, Novartis, Amgen, Merck Sharp & Dohme Corp, and Roche outside the submitted work. AD, ML, and JL report no competing interests.\n\n#### **Acknowledgments**\n\nThe authors thank the patients and their families and caregivers; all primary investigators and site personnel, including Peter D. Boasberg (The Angeles Clinic and Research Institute, Los Angeles, CA, USA); Karen Favata, Shannon Meroney-Davis, Christina Wagner, Michele Kosh, Lamar Eaton, Erin Jensen, James Anderson (Merck & Co., Inc., Kenilworth, NJ, USA); and Damian Butters (PRAHS, Bluebell, PA, USA) for study support; Tricia Brown and Payal Gandhi (the ApotheCom pembrolizumab team, Yardley, PA, USA), for assistance with manuscript editing; and Roger Dansey (Merck & Co., Inc., Kenilworth, NJ, USA) for critical review of the manuscript. This study was funded by Merck & Co., Inc., Kenilworth, NJ, USA.\n\n#### **References**\n\n- 1 Pardoll DM. The blockade of immune checkpoints in cancer immunotherapy. *Nat Rev Cancer* 2012; **12:** 252\u201364.\n- 2 Yervoy [package insert]. Princeton, NJ, USA: Bristol-Myers Squibb; 2015.\n- 3 Keytruda [package insert]. Kenilworth, NJ, USA: Merck Sharp & Dohme Corp; 2016.\n- 4 Opdivo [package insert]. Princeton, NJ, USA: Bristol-Myers Squibb; 2016.\n- 5 Larkin J, Chiarion-Sileni V, Gonzalez R, et al. Combined nivolumab and ipilimumab or monotherapy in untreated melanoma. *N Engl J Med* 2015; **373:** 23\u201334.\n- 6 Robert C, Schachter J, Long GV, et al. Pembrolizumab versus ipilimumab in advanced melanoma. *N Engl J Med* 2015; **372:** 2521\u201332.\n- 7 Schachter J, Robert C, Long GV, et al. Pembrolizumab (pembro) vs ipilimumab (ipi) in Patients with ipilimumab-naive advanced melanoma: updated efficacy and safety of the phase 3 KEYNOTE-006 study. Poster presented at the Society for Melanoma Research 2015 Congress; November 18\u201321, 2015; San Francisco, California, USA.\n- 8 Hochberg Y. A sharper Bonferroni procedure for multiple tests of significance. *Biometrika* 1988; **75:** 800\u201302.\n- 9 Cox DR. Regression models and life tables. *J Royal Stat Soc* 1972; **34:** 187\u2013220.\n- 10 Miettinen O, Nurminen M. Comparative analysis of two rates. *Stat Med* 1985; **4:** 213\u201326.\n- 11 Hodi FS, O'Day SJ, McDermott DF, et al. Improved survival with ipilimumab in patients with metastatic melanoma. *N Engl J Med* 2010; **363:** 711\u201323.\n- 12 O'Day SJ, Maio M, Chiarion-Sileni V, et al. Efficacy and safety of ipilimumab monotherapy in patients with pretreated advanced melanoma: a multicenter single-arm phase II study. *Ann Oncol* 2010; **21:** 1712\u201317.\n- 13 Farolfi A, Ridolfi L, Guidoboni M, et al. Ipilimumab in advanced melanoma: reports of long-lasting responses. *Mel Res* 2012; **22:** 263\u201370.\n- 14 Callahan MK, Postow MA, Wolchok JD. Immunomodulatory therapy for melanoma: ipilimumab and beyond. *Clin Dermatol* 2013; **31:** 191\u201399.\n\n- 15 Schadendorf D, Hodi FS, Robert C, et al. Pooled analysis of long-term survival data from phase II and phase III trials of ipilimumab in unresectable or metastatic melanoma. *J Clin Oncol* 2015; **33:** 1889\u201394.\n- 16 Robert C, Ribas A, Hamid O, et al. Three-year overall survival for patients with advanced melanoma treated with pembrolizumab in KEYNOTE-001. *J Clin Oncol* 2016; **34:** abstr 9503.\n- 17 Larkin J, Chiarion-Sileni V, Gonzalez R. Overall survival results from a phase III trial of nivolumab combined with ipilimumab in treatment-na\u00efve patients with advanced melanoma (CheckMate-067). 2017 American Association of Cancer Research; Washington, DC, USA; April 1\u20135, 2017. Abstract CT075.\n- 18 Long GV, Atkinson V, Cebon JS, et al. Pembrolizumab (pembro) plus ipilimumab (ipi) for advanced melanoma: results of the KEYNOTE-029 expansion cohort. *J Clin Oncol* 2016; **34**(suppl)**:** abstr 9506.\n- 19 Postow MA, Chesney J, Pavlick AC, et al. Nivolumab and ipilimumab versus ipilimumab in untreated melanoma. *N Engl J Med* 2015; **372:** 2006\u201317.\n- 20 Hodi FS, Chesney J, Pavlick AC, et al. Combined nivolumab and ipilimumab versus ipilimumab alone in patients with advanced melanoma: 2-year overall survival outcomes in a multicentre, randomised, controlled, phase 2 trial. *Lancet Oncol* 2016; **17:** 1558\u201368.\n- 21 Sznol M, Kluger HM, Callahan MK, et al. Survival, response duration, and activity by BRAF mutation (MT) status of nivolumab (NIVO, anti-PD-1, BMS-936558, ONO-4538) and ipilimumab (IPI) concurrent therapy in advanced melanoma (MEL). *J Clin Oncol* 2014; **32** (suppl)**:** abstr LBA 9003.\n- 22 Gangadhar TC, Hamid O, Smith DC, et al. Preliminary results from a phase I/II study of epacadostat (incb024360) in combination with pembrolizumab in patients with selected adbanced cancers. *J Immunother Cancer* 2015; **3**(suppl)**:** 07.\n- 23 Hamid O, Gadjewski TF, Smith DC, et al. Preliminary data from a phase I/II study of epacadostat (INCB024360) in combination with pembrolizumab in patients with advanced/metastatic melanoma. Presented at: 12th International Congress of the Society for Melanoma Research; November 18\u201321, 2015; San Francisco, CA.\n- 24 Gangadhar TC, Hamid O, Smith DC, et al. Epacadostat plus pembrolizumab in patients with advanced melanoma and select solid tumors: Updated phase 1 results from ECHO-202/KEYNOTE-037. European Society for Medical Oncology Congress; Copenhagen, Denmark; Oct 7\u201311, 2016.\n- 25 Long GV, Drummer R, Ribas A, et al. Efficacy analysis of MASTERKEY-265 phase 1b study of talimogene laherparepvec (T-VEC) and pembrolizumab (pembro) for unresectable stage IIIB-IV melanoma. *J Clin Oncol* **34:** 6-3-2016.\n- 26 Long GV, Drummer R, Ribas A, et al. Safety data from the phase 1b part of the MASTERKEY-265 study combining talimogene laherparepvec (T-VEC) and pembrolizumab for unresectable stage IIIB-IV melanoma. Presented at: 2015 European Cancer Congress; September 25-29; Vienna, Austria. Abstract LBA24.\n- 27 Sosman JA, Kim KB, Schuchter L, et al. Survival in BRAFV600-mutant advanced melanoma treated with vemurafenib. *N Engl J Med* 2012; **366:** 707\u201314.\n- 28 Aya F, Fernandez-Martinez A, Gaba L, et al. Sequential treatment with immunotherapy and BRAF inhibitors in BRAF-mutant advanced melanoma. *Clinical Translations in Oncology* 2017; **19:** 119\u201324.\n- 29 Ackerman A, Klein O, McDermott DF, et al. Outcomes of patients with metastatic melanoma treated with immunotherapy prior to or after BRAF inhibitors. *Cancer* 2014.\n- 30 Johnson DB, Pectasides E, Feld E, et al. Sequencing treatment in BRAFV600 mutant melanoma: anti-PD-1 before and after BRAF inhibition. *J Immunother* 2017; **40:** 31\u201335.\n- 31 Postow MA. Managing immune checkpoint-blocking antibody side effects. *Am Soc Clin Oncol Educ Book* 2015; **2015:** 76\u201383.\n- 32 Kahler KC, Hassel JC, Heinzerling L, Loquai C, Mossner R, Ugurel S, Zimmer L, Gutzmer R. Management of side effects of immune checkpoint blockade by anti-CTLA-4 and anti-PD-1 antibodies in metastatic melanoma. *J Dtsch Dermato Ges* 2016; **14:** 662\u201381.\n- 33 Naidoo J, Page DB, Li BT, Connell LC, Schindler K, Lacouture ME, Postow MA, Wolchok JD. Toxicities of the Anti-PD-1 and Anti-PD-L1 Immune Checkpoint Antibodies. *Ann Oncol* 2015; **26:** 2375\u201391.\n- 34 Spain L, Diem S, Larkin J. Management of toxicities of immune checkpoint inhibitors. *Cancer Treat Rev* 2016; **44:** 51\u201360.",
+    "json_data": {
+      "table_of_contents": [
+        {
+          "title": "Pembrolizumab versus ipilimumab for advanced melanoma: \nfinal overall survival results of a multicentre, randomised, \nopen-label phase 3 study (KEYNOTE-006)",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              34.33984375,
+              119.82421875
+            ],
+            [
+              479.01171875,
+              119.82421875
+            ],
+            [
+              479.01171875,
+              183.65216064453125
+            ],
+            [
+              34.33984375,
+              183.65216064453125
+            ]
+          ]
+        },
+        {
+          "title": "Summary",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              36.376953125,
+              236.328125
+            ],
+            [
+              80.53857421875,
+              236.328125
+            ],
+            [
+              80.53857421875,
+              248.27960205078125
+            ],
+            [
+              36.376953125,
+              248.27960205078125
+            ]
+          ]
+        },
+        {
+          "title": "Funding Merck & Co.",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              36.8134765625,
+              644.921875
+            ],
+            [
+              116.41039276123047,
+              644.921875
+            ],
+            [
+              116.41039276123047,
+              655.0826568603516
+            ],
+            [
+              36.8134765625,
+              655.0826568603516
+            ]
+          ]
+        },
+        {
+          "title": "Introduction",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              36.7952880859375,
+              665.625
+            ],
+            [
+              93.70703125,
+              665.625
+            ],
+            [
+              93.70703125,
+              677.2795867919922
+            ],
+            [
+              36.7952880859375,
+              677.2795867919922
+            ]
+          ]
+        },
+        {
+          "title": "Lancet 2017; 390: 1853\u201362",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              484.7243957519531,
+              248.828125
+            ],
+            [
+              554.3838500976562,
+              248.828125
+            ],
+            [
+              554.3838500976562,
+              257.962158203125
+            ],
+            [
+              484.7243957519531,
+              257.962158203125
+            ]
+          ]
+        },
+        {
+          "title": "Research in context",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              126.009765625,
+              135.25390625
+            ],
+            [
+              194.107421875,
+              135.25390625
+            ],
+            [
+              194.107421875,
+              145.129150390625
+            ],
+            [
+              126.009765625,
+              145.129150390625
+            ]
+          ]
+        },
+        {
+          "title": "Evidence before this study",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              123.02685546875,
+              153.29766845703125
+            ],
+            [
+              216.43409729003906,
+              153.29766845703125
+            ],
+            [
+              216.43409729003906,
+              161.9140625
+            ],
+            [
+              123.02685546875,
+              161.9140625
+            ]
+          ]
+        },
+        {
+          "title": "Added value of this study",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              125.71875,
+              279.95611572265625
+            ],
+            [
+              213.34010314941406,
+              279.95611572265625
+            ],
+            [
+              213.34010314941406,
+              288.671875
+            ],
+            [
+              125.71875,
+              288.671875
+            ]
+          ]
+        },
+        {
+          "title": "Methods",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              118.07958984375,
+              655.2795867919922
+            ],
+            [
+              161.22265625,
+              655.2795867919922
+            ],
+            [
+              161.22265625,
+              668.75
+            ],
+            [
+              118.07958984375,
+              668.75
+            ]
+          ]
+        },
+        {
+          "title": "Study design",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              118.37060546875,
+              667.4837646484375
+            ],
+            [
+              168.9345703125,
+              667.4837646484375
+            ],
+            [
+              168.9345703125,
+              678.515625
+            ],
+            [
+              118.37060546875,
+              678.515625
+            ]
+          ]
+        },
+        {
+          "title": "Implications of all the available evidence",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              344.41009521484375,
+              268.94866943359375
+            ],
+            [
+              484.83203125,
+              268.94866943359375
+            ],
+            [
+              484.83203125,
+              277.5390625
+            ],
+            [
+              344.41009521484375,
+              277.5390625
+            ]
+          ]
+        },
+        {
+          "title": "Participants",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              344.4080810546875,
+              403.4837951660156
+            ],
+            [
+              390.833984375,
+              403.4837951660156
+            ],
+            [
+              390.833984375,
+              412.9837951660156
+            ],
+            [
+              344.4080810546875,
+              412.9837951660156
+            ]
+          ]
+        },
+        {
+          "title": "Randomisation and masking",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              341.943359375,
+              678.483757019043
+            ],
+            [
+              455.439453125,
+              678.483757019043
+            ],
+            [
+              455.439453125,
+              687.983757019043
+            ],
+            [
+              341.943359375,
+              687.983757019043
+            ]
+          ]
+        },
+        {
+          "title": "Procedures",
+          "heading_level": null,
+          "page_id": 2,
+          "polygon": [
+            [
+              36.2860107421875,
+              205.078125
+            ],
+            [
+              79.15625,
+              205.078125
+            ],
+            [
+              79.15625,
+              214.98382568359375
+            ],
+            [
+              36.2860107421875,
+              214.98382568359375
+            ]
+          ]
+        },
+        {
+          "title": "Outcomes",
+          "heading_level": null,
+          "page_id": 2,
+          "polygon": [
+            [
+              36.3587646484375,
+              392.4837951660156
+            ],
+            [
+              76.1005859375,
+              392.4837951660156
+            ],
+            [
+              76.1005859375,
+              401.9837951660156
+            ],
+            [
+              36.3587646484375,
+              401.9837951660156
+            ]
+          ]
+        },
+        {
+          "title": "Statistical analyses",
+          "heading_level": null,
+          "page_id": 2,
+          "polygon": [
+            [
+              36.2132568359375,
+              700.390625
+            ],
+            [
+              109.29740905761719,
+              700.390625
+            ],
+            [
+              109.29740905761719,
+              709.983757019043
+            ],
+            [
+              36.2132568359375,
+              709.983757019043
+            ]
+          ]
+        },
+        {
+          "title": "Role of funding source",
+          "heading_level": null,
+          "page_id": 3,
+          "polygon": [
+            [
+              117.7158203125,
+              183.48382568359375
+            ],
+            [
+              205.3115234375,
+              183.48382568359375
+            ],
+            [
+              205.3115234375,
+              193.1640625
+            ],
+            [
+              117.7158203125,
+              193.1640625
+            ]
+          ]
+        },
+        {
+          "title": "Results",
+          "heading_level": null,
+          "page_id": 3,
+          "polygon": [
+            [
+              119.05380249023438,
+              270.27960205078125
+            ],
+            [
+              152.3466796875,
+              270.27960205078125
+            ],
+            [
+              152.3466796875,
+              281.27960205078125
+            ],
+            [
+              119.05380249023438,
+              281.27960205078125
+            ]
+          ]
+        },
+        {
+          "title": "Figure 2: Kaplan-Meier plots",
+          "heading_level": null,
+          "page_id": 5,
+          "polygon": [
+            [
+              32.880802154541016,
+              628.90625
+            ],
+            [
+              110.55281066894531,
+              628.90625
+            ],
+            [
+              110.55281066894531,
+              639.7247161865234
+            ],
+            [
+              32.880802154541016,
+              639.7247161865234
+            ]
+          ]
+        },
+        {
+          "title": "Figure 3: Overall survival in key subgroups",
+          "heading_level": null,
+          "page_id": 6,
+          "polygon": [
+            [
+              258.712890625,
+              313.0859375
+            ],
+            [
+              379.775390625,
+              313.0859375
+            ],
+            [
+              379.775390625,
+              321.5490417480469
+            ],
+            [
+              258.712890625,
+              321.5490417480469
+            ]
+          ]
+        },
+        {
+          "title": "Discussion",
+          "heading_level": null,
+          "page_id": 7,
+          "polygon": [
+            [
+              118.5888671875,
+              523.2796325683594
+            ],
+            [
+              166.8974609375,
+              523.2796325683594
+            ],
+            [
+              166.8974609375,
+              534.2796325683594
+            ],
+            [
+              118.5888671875,
+              534.2796325683594
+            ]
+          ]
+        },
+        {
+          "title": "Contributors",
+          "heading_level": null,
+          "page_id": 8,
+          "polygon": [
+            [
+              262.205078125,
+              428.125
+            ],
+            [
+              299.455078125,
+              428.125
+            ],
+            [
+              299.455078125,
+              436.71875
+            ],
+            [
+              262.205078125,
+              436.71875
+            ]
+          ]
+        },
+        {
+          "title": "Declaration of interests",
+          "heading_level": null,
+          "page_id": 8,
+          "polygon": [
+            [
+              261.1865234375,
+              511.71874999999994
+            ],
+            [
+              328.265625,
+              511.71874999999994
+            ],
+            [
+              328.265625,
+              519.53125
+            ],
+            [
+              261.1865234375,
+              519.53125
+            ]
+          ]
+        },
+        {
+          "title": "Acknowledgments",
+          "heading_level": null,
+          "page_id": 9,
+          "polygon": [
+            [
+              118.07958984375,
+              324.8046875
+            ],
+            [
+              172.3657989501953,
+              324.8046875
+            ],
+            [
+              172.3657989501953,
+              333.0078125
+            ],
+            [
+              118.07958984375,
+              333.0078125
+            ]
+          ]
+        },
+        {
+          "title": "References",
+          "heading_level": null,
+          "page_id": 9,
+          "polygon": [
+            [
+              118.15234375,
+              434.375
+            ],
+            [
+              150.3095703125,
+              434.375
+            ],
+            [
+              150.3095703125,
+              442.1875
+            ],
+            [
+              118.15234375,
+              442.1875
+            ]
+          ]
+        }
+      ],
+      "page_stats": [
+        {
+          "page_id": 0,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              261
+            ],
+            [
+              "Line",
+              115
+            ],
+            [
+              "Text",
+              10
+            ],
+            [
+              "SectionHeader",
+              5
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Picture",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 1,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              308
+            ],
+            [
+              "Line",
+              148
+            ],
+            [
+              "Text",
+              12
+            ],
+            [
+              "SectionHeader",
+              8
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 2,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              235
+            ],
+            [
+              "Line",
+              114
+            ],
+            [
+              "Text",
+              7
+            ],
+            [
+              "SectionHeader",
+              3
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 3,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              213
+            ],
+            [
+              "Line",
+              100
+            ],
+            [
+              "Text",
+              7
+            ],
+            [
+              "SectionHeader",
+              2
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Figure",
+              1
+            ],
+            [
+              "Caption",
+              1
+            ],
+            [
+              "FigureGroup",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 4,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              435
+            ],
+            [
+              "TableCell",
+              168
+            ],
+            [
+              "Line",
+              118
+            ],
+            [
+              "Text",
+              6
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Table",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 5,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              618
+            ],
+            [
+              "Line",
+              265
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Figure",
+              1
+            ],
+            [
+              "SectionHeader",
+              1
+            ],
+            [
+              "Text",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 6,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              312
+            ],
+            [
+              "Line",
+              123
+            ],
+            [
+              "TableCell",
+              48
+            ],
+            [
+              "Text",
+              12
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "SectionHeader",
+              1
+            ],
+            [
+              "Table",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 7,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              271
+            ],
+            [
+              "Line",
+              116
+            ],
+            [
+              "TableCell",
+              103
+            ],
+            [
+              "Text",
+              8
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Table",
+              1
+            ],
+            [
+              "SectionHeader",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 8,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              241
+            ],
+            [
+              "Line",
+              123
+            ],
+            [
+              "Text",
+              7
+            ],
+            [
+              "SectionHeader",
+              2
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 9,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              455
+            ],
+            [
+              "Line",
+              147
+            ],
+            [
+              "ListItem",
+              34
+            ],
+            [
+              "Text",
+              2
+            ],
+            [
+              "SectionHeader",
+              2
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "ListGroup",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        }
+      ],
+      "debug_data_path": "debug_data/15"
+    },
+    "tables": [],
+    "metadata": {
+      "total_pages": 0,
+      "document_type": "unknown",
+      "processing_time": 0,
+      "ocr_used": false
+    },
+    "processing_stats": {
+      "return_code": 0,
+      "stdout_length": 87,
+      "stderr_length": 795
+    },
+    "processing_mode": "marker_enhanced",
+    "use_llm": false,
+    "markdown_quality_score": 100.0
+  },
+  "clinical_extraction": {
+    "prompt": "\nTASK: Extract comprehensive clinical trial data from this publication.\n\nCRITICAL REQUIREMENTS:\n1. NCT number: NCT01866319 (already validated)\n2. Expected treatment arms: 3\n3. Output raw JSON only (no markdown, no explanations)\n4. Extract ONLY explicit information - never infer or guess\n5. Use empty string \"\" for missing values\n\nTREATMENT ARMS:\n- Each unique treatment = separate arm\n- Different doses of same drug = separate arms  \n- Combination therapies use \"+\" (e.g., \"Drug A + Drug B\")\n\nDATA FORMATS:\n- Numbers: Extract digits only (e.g., \"25%\" \u2192 \"25\")\n- Survival: Months only (e.g., \"12.5 months\" \u2192 \"12.5\") \n- Binary: \"YES\" or \"NO\" only\n- Missing: Use \"\"\n\nCOMPREHENSIVE JSON STRUCTURE:\n{\n  \"NCT Number\": \"NCT01866319\",\n  \"Publication name\": \"Journal YYYY; Volume:Pages\",\n  \"Publication Year\": \"YYYY\",\n  \"PDF number\": \"filename\",\n  \"Trial name\": \"Trial name or 'No Name'\",\n  \"Sponsors\": \"Industry-Sponsored or non Industry-Sponsored\",\n  \"Clinical Trial Phase\": \"Stage X\",\n  \"Cancer Type\": \"Select from controlled list\",\n  \"Primary endpoint\": \"text\",\n  \"Secondary endpoint\": \"text\",\n  \"Median Age\": \"number\",\n  \"Mechanism of action\": \"text\",\n  \"Target Protein\": \"text\",\n  \"Type of therapy\": \"text\",\n  \"Dosage\": \"text\",\n  \"Type of dosing\": \"text\",\n  \"Number of doses per year\": \"number\",\n  \"Biomarker Inclusion\": \"YES/NO\",\n  \"Biomarkers Inclusion Criteria\": \"text\",\n  \"Biomarkers Exclusion Criteria\": \"text\",\n  \"Major country where clinical trial is conducted\": \"text\",\n  \"Study start date\": \"YYYY-MM-DD\",\n  \"Study completion date\": \"YYYY-MM-DD\",\n  \"First results\": \"YYYY-MM-DD\",\n  \"Trial run in Europe\": \"YES/NO\",\n  \"Trial run in US\": \"YES/NO\",\n  \"Trial run in China\": \"YES/NO\",\n  \"treatment_arms\": [\n    {\n      \"Generic name\": \"Drug name or Drug A + Drug B\",\n      \"Brand name\": \"text\",\n      \"Line of Treatment\": \"Neoadjuvant/First Line/2nd Line/3rd Line+\",\n      \"Number of patients\": \"number\",\n      \"Company EU\": \"text\",\n      \"Company US\": \"text\",\n      \"Company China\": \"text\",\n      \"Biosimilar\": \"YES/NO\",\n      \"Chemotherapy Naive\": \"YES/NO\",\n      \"Chemotherapy Failed\": \"YES/NO\",\n      \"Immune Checkpoint Inhibitor (ICI) Naive\": \"YES/NO\",\n      \"Immune Checkpoint Inhibitor (ICI) failed\": \"YES/NO\",\n      \"Ipilimumab-failure or Ipilimumab-refractory\": \"YES/NO\",\n      \"Anti PD-1/L1-failure or Anti PD-1/L1-refractory\": \"YES/NO\",\n      \"Mutation status\": \"text\",\n      \"BRAF-mutation\": \"YES/NO\",\n      \"NRAS-Mutation\": \"YES/NO\",\n      \"Objective response rate (ORR)\": \"percentage\",\n      \"Complete Response (CR)\": \"percentage\",\n      \"Pathological Complete Response (pCR)\": \"percentage\",\n      \"Complete Metabolic Response (CMR)\": \"percentage\",\n      \"Disease Control Rate or DCR\": \"percentage\",\n      \"Clinical Benefit Rate (CBR)\": \"percentage\",\n      \"Duration of Response (DOR) rate\": \"percentage\",\n      \"Progression free survival (PFS) rate at 6 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 9 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 12 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 18 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 24 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 48 months\": \"percentage\",\n      \"Overall survival (OS) rate at 6 months\": \"percentage\",\n      \"Overall survival (OS) rate at 9 months\": \"percentage\",\n      \"Overall survival (OS) rate at 12 months\": \"percentage\",\n      \"Overall survival (OS) rate at 18 months\": \"percentage\",\n      \"Overall survival (OS) rate at 24 months\": \"percentage\",\n      \"Overall survival (OS) rate at 48 months\": \"percentage\",\n      \"Median Progression free survival (PFS)\": \"months\",\n      \"Length of measuring PFS\": \"months\",\n      \"p-value of PFS\": \"Non-Significant/Significant/Highly Significant\",\n      \"Hazard ratio (HR) PFS\": \"decimal\",\n      \"Median Overall survival (OS)\": \"months\",\n      \"Length of measuring OS\": \"months\",\n      \"p-value of OS\": \"Non-Significant/Significant/Highly Significant\",\n      \"Hazard ratio (HR) OS\": \"decimal\",\n      \"Event-Free Survival (EFS)\": \"months\",\n      \"p-value of EFS\": \"Non-Significant/Significant/Highly Significant\",\n      \"Hazard ratio (HR) EFS\": \"decimal\",\n      \"Recurrence-Free Survival (RFS)\": \"months\",\n      \"p-value of RFS\": \"Non-Significant/Significant/Highly Significant\",\n      \"Length of measuring RFS\": \"months\",\n      \"Hazard ratio (HR) RFS\": \"decimal\",\n      \"Metastasis-Free Survival (MFS)\": \"months\",\n      \"Length of measuring MFS\": \"months\",\n      \"Hazard ratio (HR) MFS\": \"decimal\",\n      \"Time to response (TTR)\": \"months\",\n      \"Time to Progression (TTP)\": \"months\",\n      \"Time to Next Treatment (TTNT)\": \"months\",\n      \"Time to Treatment Failure (TTF)\": \"months\",\n      \"Median Duration of response or DOR\": \"months\",\n      \"Adverse events (AE)\": \"percentage\",\n      \"Treatment emergent adverse events (TEAE)\": \"percentage\",\n      \"Treatment-related adverse events (TRAE)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 higher adverse events (AE)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 higher treatment emergent adverse events (TEAE)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 higher treatment-related adverse events (TRAE)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 higher treatment-emergent adverse events (TEAE)\": \"percentage\",\n      \"Grade 4 treatment emergent adverse events\": \"percentage\",\n      \"Grade 5 treatment emergent adverse events\": \"percentage\",\n      \"Serious Adverse Events (SAE)\": \"percentage\",\n      \"Serious treatment emergent adverse events\": \"percentage\",\n      \"Serious treatment related adverse events\": \"percentage\",\n      \"Treatment-emergent adverse events (TEAE) led to treatment discontinuation\": \"percentage\",\n      \"Adverse events (AEs) leading to discontinuation\": \"percentage\",\n      \"Treatment-emergent adverse events (TEAE) led to death\": \"percentage\",\n      \"Adverse Events leading to death\": \"percentage\",\n      \"Immune related adverse events (irAEs)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Immune related adverse events (irAEs)\": \"percentage\",\n      \"Cytokine Release Syndrome or CRS\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Cytokine Release Syndrome or CRS\": \"percentage\",\n      \"White blood cell (WBC) decreased\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Thrombocytopenia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Neutropenia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Leukopenia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Anemia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Neutrophil count decreased\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 White blood cell (WBC) decreased\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Nausea\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Diarrhea\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Colitis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Constipation\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Dyspnea\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Cough\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Pneumonia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Pneumonitis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Hyperglycemia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Thyroiditis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Hypophysitis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Hepatitis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Alanine aminotransferase\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Pyrexia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Bleeding\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Pruritus\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Rash\": \"percentage\"\n    }\n  ]\n}\n\nEXTRACTION INSTRUCTIONS:\n1. Extract ALL fields listed above that are explicitly mentioned in the publication\n2. For percentages: extract number only (e.g., \"25%\" \u2192 \"25\")\n3. For months: extract number only (e.g., \"12.5 months\" \u2192 \"12.5\")\n4. For binary fields: use \"YES\" or \"NO\" only\n5. For missing data: use empty string \"\"\n6. For survival data with \"not reached\": use \"NR\"\n\nPUBLICATION TEXT:\n# **Pembrolizumab versus ipilimumab for advanced melanoma: final overall survival results of a multicentre, randomised, open-label phase 3 study (KEYNOTE-006)**\n\n![](_page_0_Picture_2.jpeg)\n\n*Jacob Schachter, Antoni Ribas, Georgina V Long, Ana Arance, Jean-Jacques Grob, Laurent Mortier, Adil Daud, Matteo S Carlino, Catriona McNeil, Michal Lotem, James Larkin, Paul Lorigan, Bart Neyns, Christian Blank, Teresa M Petrella, Omid Hamid, Honghong Zhou, Scot Ebbinghaus, Nageatte Ibrahim, Caroline Robert*\n\n# **Summary**\n\n**Background Interim analyses of the phase 3 KEYNOTE-006 study showed superior overall and progression-free survival of pembrolizumab versus ipilimumab in patients with advanced melanoma. We present the final protocolspecified survival analysis.**\n\n**Methods In this multicentre, open-label, randomised, phase 3 trial, we recruited patients from 87 academic institutions, hospitals, and cancer centres in 16 countries (Australia, Austria, Belgium, Canada, Chile, Colombia, France, Germany, Israel, Netherlands, New Zealand, Norway, Spain, Sweden, UK, and USA). We randomly assigned participants (1:1:1) to one of two dose regimens of pembrolizumab, or one regimen of ipilimumab, using a centralised, computer-generated allocation schedule. Treatment assignments used blocked randomisation within strata. Eligible patients were at least 18 years old, with an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1, at least one measurable lesion per Response Evaluation Criteria In Solid Tumors version 1.1 (RECIST v1.1), unresectable stage III or IV melanoma (excluding ocular melanoma), and up to one previous systemic therapy (excluding anti-CTLA-4, PD-1, or PD-L1 agents). Secondary eligibility criteria are described later. Patients were excluded if they had active brain metastases or active autoimmune disease requiring systemic steroids. The primary outcome was overall survival (defined as the time from randomisation to death from any cause). Response was assessed per RECIST v1.1 by independent central review at week 12, then every 6 weeks up to week 48, and then every 12 weeks thereafter. Survival was assessed every 12 weeks, and final analysis occurred after all patients were followed up for at least 21 months. Primary analysis was done on the intention-to-treat population (all randomly assigned patients) and safety analyses were done in the treated population (all randomly assigned patients who received at least one dose of study treatment). Data cutoff date for this analysis was Dec 3, 2015. This study was registered with ClinicalTrials.gov, number NCT01866319.**\n\n**Findings Between Sept 18, 2013, and March 3, 2014, 834 patients with advanced melanoma were enrolled and randomly assigned to receive intravenous pembrolizumab every 2 weeks (n=279), intravenous pembrolizumab every 3 weeks (n=277), or intravenous ipilimumab every 3 weeks (ipilimumab for four doses; n=278). One patient in the pembrolizumab 2 week group and 22 patients in the ipilimumab group withdrew consent and did not receive treatment. A total of 811 patients received at least one dose of study treatment. Median follow-up was 22\u00b79 months; 383 patients died. Median overall survival was not reached in either pembrolizumab group and was 16\u00b70 months with ipilimumab (hazard ratio [HR] 0\u00b768, 95% CI 0\u00b753\u20130\u00b787 for pembrolizumab every 2 weeks** *vs* **ipilimumab; p=0\u00b70009 and 0\u00b768, 0\u00b753\u20130\u00b786 for pembrolizumab every 3 weeks** *vs* **ipilimumab; p=0\u00b70008). 24-month overall survival rate was 55% in the 2-week group, 55% in the 3-week group, and 43% in the ipilimumab group.**\n\n**Interpretation Substantiating the results of the interim analyses of KEYNOTE-006, pembrolizumab continued to provide superior overall survival versus ipilimumab, with no difference between pembrolizumab dosing schedules. These conclusions further support the use of pembrolizumab as a standard of care for advanced melanoma.**\n\n## **Funding Merck & Co.**\n\n# **Introduction**\n\nThe immune system is an effective target in oncology therapy. Checkpoint pathways, including the cytotoxic T-lymphocyte\u2013associated antigen 4 (CTLA-4) pathway, which downregulates early T-cell function, and the programmed death 1 (PD-1) pathway, which regulates T-cell activity at the effector phase, can be coopted by tumours to elude an immune response.1 Checkpoint inhibitors restore anti-tumour immune responses, and have become a mainstay in cancer therapy. Several checkpoint inhibitors have been extensively studied, including the anti-CTLA-4 monoclonal antibody ipilimumab and anti-PD-1 monoclonal antibodies pembrolizumab and nivolumab, all of which are approved for the treatment of advanced melanoma.2\u20134 PD-1 inhibitors are typically associated with better outcomes and fewer grade\n\n#### *Lancet* **2017; 390: 1853\u201362**\n\nPublished **Online** August 16, 2017 http://dx.doi.org/10.1016/ S0140-6736(17)31601-X\n\nSee **Comment** page 1816\n\n**Division of Oncology, Ella Lemelbaum Institute for Melanoma, Sheba Medical Center, Tel Hashomer, Israel**  (J Schachter MD)**; Department of Medicine, University of California, Los Angeles, Los Angeles, CA, USA** (A Ribas MD)**; Department of Medical Oncology and Translational Research, Melanoma Institute Australia, The University of Sydney, Mater Hospital and Royal North Shore Hospital, Sydney, Australia**  (G V Long MD)**; Department of Medical Oncology, Hospital Clinic de Barcelona, Barcelona, Spain** (A Arance MD)**; Department of Dermatology and Skin Cancer, Aix Marseille University, H\u00f4pital de la Timone, Marseille, France**  (J Grob MD)**; Department of Dermatology, Universit\u00e9 Lille, INSERM U1189, CHU Lille, F-59000, France** (L Mortier MD)**; Department of Hematology/ Oncology, University of California, San Francisco, San Francisco, CA, USA**  (A Daud MD)**; Department of Medical Oncology, Westmead and Blacktown Hospitals, Melanoma Institute Australia, and The University of Sydney, Sydney, Australia**  (M S Carlino PhD)**; Department of Medical Oncology, Chris O'Brien Lifehouse, Royal Prince Alfred Hospital, and Melanoma Institute Australia, Camperdown, Australia**  (C McNeil PhD)**; Department of Melanoma and Cancer Immunotherapy, Sharett Institute of Oncology, Hadassah Hebrew University Medical Center, Jerusalem, Israel** (M Lotem MD)**;** \n\n**Department of Medical Oncology, Royal Marsden Hospital, London, UK**  (J Larkin FRCP)**; Department of Medical Oncology University of Manchester and the Christie NHS Foundation Trust, Manchester, UK**  (P Lorigan FRCP)**; Department of Medical Oncology, Universitair Ziekenhuis Brussel, Brussels, Belgium**  (B Neyns MD)**; Department of Medical Oncology, Netherlands Cancer Institute, Amsterdam, Netherlands** (C Blank MD)**; Department of Medicine, Division of Medical Oncology/Hematology, Sunnybrook Health Sciences Center, Toronto, ON, Canada**  (T M Petrella MD)**; Department of Hematology/Oncology, The Angeles Clinic and Research Institute, Los Angeles, CA, USA**  (O Hamid MD)**; Departments of Clinical Oncology (SE, NI) and BARDS (HZ), Merck & Co, Kenilworth, NJ, USA**  (H Zhou PhD; S Ebbinghaus MD; N Ibrahim MD)**; Department of Oncology, Gustave Roussy and Paris-Sud University, Villejuif, France** (C Robert MD)\n\nCorrespondence to: Jacob Schachter, The Ella Lemelbaum Institute for Melanoma, Sheba Medical Center, Tel Hashomer, Israel **jacob.schachter@sheba.health. gov.il**\n\n## **Research in context**\n\n#### **Evidence before this study**\n\nIn August, 2016, we performed an extensive PubMed search for studies of PD-1, PD-L1, and CTLA-4 inhibitors in advanced cancer using the primary search terms of \"PD-1 OR PD-L1 OR pembrolizumab OR MK-3475 OR lambrolizumab OR CTLA-4 OR ipilimumab OR nivolumab OR BMS-936558 OR atezolizumab OR MPDL3280A OR durvalumab OR MEDI4763 OR atezolizumab OR MSB0010718C OR BMS-936559.\" Congress abstracts from annual oncology meetings were also included. Our search was not limited by date. The final reference list was generated on the basis of relevance to the scope of this paper.\n\n#### **Added value of this study**\n\nKEYNOTE-006 is the first head-to-head comparison of pembrolizumab versus ipilimumab for advanced melanoma.\n\n3\u20134 treatment-related adverse events than is ipilimumab.5,6 Additional immune checkpoint inhibitors in clinical development for various solid malignancies, including advanced melanoma, include the anti-programmed death ligand 1 (PD-L1) antibodies atezolizumab, durvalumab, and avelumab.\n\nKEYNOTE-006 was a randomised, phase 3 trial comparing two dosing schedules of pembrolizumab (10 mg/kg every 2 weeks or every 3 weeks) versus ipilimumab (3 mg/kg every 3 weeks for 4 doses) in patients with ipilimumab-naive unresectable or advanced melanoma. Data from two protocol-specified interim analyses suggested that pembrolizumab provides superior progression-free survival and overall survival compared with ipilimumab, with fewer grade 3\u20135 treatment-related adverse events.6,7 On the basis of these promising results, the US Food and Drug Administration (FDA) expanded the indication of pembrolizumab to include first-line treatment of patients with advanced melanoma regardless of *BRAF*V600 status.3 After the second protocol-specified interim analysis, an external data monitoring committee recommended making pembrolizumab available to patients in KEYNOTE-006 whose disease progressed while in the ipilimumab group, and continuing to follow up all patients for overall survival until the planned final analysis of the study. We present the results of the protocol-specified final analysis to assess long-term survival benefit of pembrolizumab compared with ipilimumab.\n\n# **Methods**\n\n# **Study design**\n\nKEYNOTE-006 was a multi-centre, open-label, randomised, controlled, phase 3 study done at 87 academic institutions, cancer centres, and hospitals in 16 countries (Australia, Austria, Belgium, Canada, Chile, Colombia, France, Germany, Israel, Netherlands, New Zealand, Norway, Spain, Sweden, UK, and USA) and compared pembrolizumab with ipilimumab in patients with Interim analyses reported superiority of pembrolizumab to ipilimumab for overall survival, progression-free survival, and objective response rate, with fewer high-grade treatment-related toxicities with pembrolizumab. Results of the final analysis substantiated the survival advantage of pembrolizumab over ipilimumab and suggested that delayed responses with immunotherapy were possible. Importantly, this study showed that long-term treatment with pembrolizumab is well tolerated and efficacious.\n\n#### **Implications of all the available evidence**\n\nPembrolizumab provides a favourable benefit-risk profile in comparison with ipilimumab, supporting pembrolizumab as a standard of care for advanced melanoma.\n\nipilimumab-naive unresectable or advanced melanoma. The study protocol and all amendments were approved by the institutional review board or independent ethics committee of each participating institution. The trial complied with the Declaration of Helsinki, Good Clinical Practice guidelines, and all local laws and regulations.\n\n## **Participants**\n\nEligible patients were aged at least 18 years, with an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1, at least one measurable lesion per Response Evaluation Criteria In Solid Tumors version 1.1 (RECIST v1.1), unresectable stage III or IV melanoma (excluding ocular melanoma), and up to one previous systemic therapy (excluding anti-CTLA-4, PD-1, or PD-L1 agents). Additional eligibility criteria included known *BRAF* status (previous treatment with BRAF inhibitor therapy was not required for patients with normal lactate dehydrogenase [LDH] and no clinically significant tumour-related symptoms or evidence of rapidly progressing disease), and provision of a tumour sample for determination of PD-L1 status by immunohistochemistry using the 22C3 anti-PD-L1 antibody (Merck & Co, Kenilworth, NJ, USA) at a central laboratory. Patients were excluded if they had active brain metastases (patients with previously-treated stable brain metastases without evidence of progression by magnetic resonance imaging at least 4 weeks before the first dose of pembrolizumab were permitted) or active autoimmune disease requiring systemic steroids. All participants provided written informed consent.\n\n## **Randomisation and masking**\n\nPatients were randomly assigned to receive pembrolizumab or ipilimumab using a centralised, computergenerated allocation schedule. Following patient consent, an interactive voice/web response system (IVRS/IWRS) assigned a unique screening number to each patient. Randomisation was stratified by ECOG performance status (0 *vs* 1), line of therapy (first *vs* second), and PD-L1 status (positive [defined as \u22651% staining in tumour and adjacent immune cells as assessed by immunohistochemistry using the 22C3 antibody] or negative). Treatment assignments used blocked randomisation within strata.\n\n## **Procedures**\n\nPatients were randomly assigned 1:1:1 to receive intravenous pembrolizumab 10 mg/kg every 2 or 3 weeks or intravenous ipilimumab 3 mg/kg every 3 weeks for four doses (ipilimumab only). Treatment was given for 2 years (pembrolizumab groups only) or until disease progression, intolerable toxicity, complete response, patient withdrawal of consent, or investigator decision to discontinue treatment. Patients achieving complete response per RECIST v1.1, supported by two scans at least 4 weeks apart, and who received pembrolizumab treatment for at least 6 months were permitted to discontinue treatment. Eligible patients who had disease progression were permitted to remain on treatment until progression was substantiated by imaging at least 4 weeks later.\n\n## **Outcomes**\n\nThe pre-specified primary endpoint at the final analysis was overall survival (defined as the time from randomisation to death from any cause); secondary analyses included progression-free survival (defined as the time from randomisation to first documented progressive disease [based on blinded independent central review using RECIST v1.1] or death from any cause, whichever occurs first), objective response rate (defined as the proportion of the patients in the analysis population who have best response as complete response or partial response), and duration of response (defined as the time from the first documented response to radiologic progression according to RECIST v1.1). Response was assessed per RECIST v1.1 by independent central review at week 12, then every 6 weeks up to week 48, and then every 12 weeks thereafter; clinical decisions were based on investigator-assessed immune-related response criteria (irRC). Survival was assessed every 12 weeks during the survival follow-up phase. Adverse events were recorded throughout the study and for 30 days thereafter (90 days for serious adverse events), and were graded per National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0. Pre-specified immunemediated adverse events (defined as events of unknown cause associated with drug exposure and consistent with an immune event) were recorded throughout the study.\n\n## **Statistical analyses**\n\nThere were two planned interim analyses (first interim analysis data cutoff date: Sep 3, 2014; second interim analysis data cutoff date: Mar 3, 2015), the results of which have been reported.6,7 Although crossover was not allowed per protocol, after the second interim analysis, an external data monitoring committee recommended making pembrolizumab available to patients in KEYNOTE-006 whose disease progressed during treatment with ipilimumab, and continuing to follow all patients for overall survival until the planned final analysis of the study, which was to be done after 435 survival events had occurred or after all patients had at least 21 months of follow-up, whichever occurred first. The primary progression-free analysis was planned for the first interim analysis (after 6 months of follow-up and about 260 progression-free survival events); the study had at least 95% power to detect a true hazard ratio (HR) of 0\u00b75 (comparing each pembrolizumab regimen with ipilimumab), testing each of the two comparisons at \u03b1 of 0\u00b72%, assuming there were 180 progression-free survival events between the pembrolizumab and ipilimumab groups. At the final analysis, the available \u03b1 for testing overall survival was expected to be between 1\u00b75% and 2\u00b70%; with 1% available for each pembrolizumab regimen compared with ipilimumab, there was 85% power to detect a true HR of 0\u00b770, provided 300 deaths were observed in the comparison. These criteria are based on random assignment of about 645 patients across the three treatment groups. In actuality, 834 patients were randomly assigned.\n\nOverall survival, progression-free survival, and objective response rate analyses were done in the intent-to-treat population (all randomised patients); safety analyses were done in the treated population (all randomised patients who received at least one dose of study treatment).\n\nThe Kaplan-Meier method was used to estimate overall and progression-free survival and duration of response. Treatment differences in survival were assessed using the stratified log-rank test with the Hochberg procedure,8 using a one-sided \u03b1 of 0\u00b702 as the superiority threshold for overall survival. The Hochberg procedure controlled for multiple testing and for the planned interim analyses; type I error rate was strongly controlled at 2\u00b75% (one-sided). The stratified Cox model9 was used to estimate HRs for progression-free and overall survival, comparing each of the pembrolizumab regimens with ipilimumab, and was used to estimate the HRs for overall survival, comparing the pooled pembrolizumab regimens with ipilimumab within pre-specified subsets of patients. The same stratification factors used for randomisation were applied to the stratified log-rank test and the stratified Cox model. Patients for whom death was not documented at the time of final analysis were censored at the last-known alive date. Treatment differences in objective response rate were assessed using the stratified Miettinen and Nurminen method,10 which was used to calculate the CI for the difference between the proportions. No \u03b1 was pre-specified at the final analysis for supportive analyses. Adverse events were summarised by 6-week periods across treatment groups. Time-adjusted and exposure-adjusted comparisons of safety events were done to adjust for the decreased reporting period for ipilimumab treatment. The cutoff date for the final analysis was Dec 3, 2015. This trial was registered with ClinicalTrials.gov, number NCT01866319.\n\n## **Role of funding source**\n\nThe sponsor collaborated jointly with the senior academic authors to design the study and gather, analyse, and interpret the results. The corresponding author had full access to all study data, and all authors had final responsibility for the decision to submit the manuscript for publication.\n\n# **Results**\n\nBetween Sep 18, 2013 and Mar 3, 2014, 834 patients with advanced melanoma were enrolled and randomly assigned to receive pembrolizumab every 2 weeks (n=279), pembrolizumab every 3 weeks (n=277), or ipilimumab every 3 weeks for four doses (ipilimumab only; n=278); 811 received treatment (figure 1). Baseline characteristics were well balanced across treatment groups (table 1). Median age was 62 years and 497 (60%) of 834 patients were male; 270 (32%) of 834 patients had elevated LDH; 302 (36%) of 834 had *BRAF*V600/EK mutations; 671 (80%) of 834 patients had PD-L1-positive tumours; and 549 (66%) of 834 patients had not received previous systemic therapy. Median time on therapy was 28\u00b71 weeks (range 0\u00b71\u2013108\u00b71) for pembrolizumab every 2 weeks, 24\u00b70 weeks (0\u00b71\u2013111\u00b71) for pembrolizumab every 3 weeks, and 9\u00b70 weeks (0\u00b71\u201313\u00b71) for ipilimumab. At final analysis, median follow-up was 22\u00b79 months; per protocol, all patients had been followed up for at least 21 months.\n\nAs of the data cutoff date, treatment was ongoing in 52 (19%) of 279 patients who received pembrolizumab every 2 weeks and in 38 (14%) of 277 patients who received pembrolizumab every 3 weeks; 25 (9%) of 279 patients in the 2-week group and 26 (9%) of 277 patients in the 3-week group completed the protocol-specified maximum 2 years of treatment (figure 1). In the ipilimumab group, 155 (56%) of 278 patients received all four doses of treatment. The most common reasons for discontinuation across treatment groups were progressive disease and adverse events (figure 1). After discontinuing study treatment, more patients given ipilimumab (133 [52%] of 256) started new oncologic therapy than those given pembrolizumab (111 [40%] of 278 patients in the 2-week group and 108 [39%] of 277 patients in the 3-week group); these post-study anti-neoplastic therapies most commonly included immunotherapy (24\u201335%) and BRAF inhibitor or MEK inhibitors (17\u201329%, appendix). Patients receiving pembrolizumab were more likely to receive an anti-CTLA-4 agent post-study (127 [23%] of 555), whereas those who received ipilimumab most commonly received anti-PD-1 therapy (76 [30%] of 256), including 30 patients who received pembrolizumab.\n\nAt the time of data cutoff, 383 patients had died, representing 88% of the target number of events at final analysis (435 deaths). Median overall survival was not\n\n![](_page_3_Figure_9.jpeg)\n\n*Figure 1***: Trial profile**\n\nSee **Online** for appendix\n\nreached in either pembrolizumab group (range 22\u00b71 months\u2013not reached for the 2-week group and 23\u00b75 months\u2013not reached for the 3-week group) and was 16\u00b70 months (range 13\u00b75\u201322\u00b70) for ipilimumab; 24-month overall survival rates were 55% in the 2-week group (95% CI 49\u201361), 55% in the 3-week group (95% CI 49\u201361), and 43% in the ipilimumab group (95% CI 37\u201349; figure 2A). Both pembrolizumab groups were superior to the ipilimumab group (HR 0\u00b768; 95% CI 0\u00b753\u20130\u00b787; p=0\u00b70009 for the 2-week schedule and HR 0\u00b768; 95% CI 0\u00b753\u20130\u00b786; p=0\u00b70008 for the 3-week schedule *vs* ipilimumab; figure 2A). There was no difference between the two pembrolizumab schedules (HR 1\u00b701; p=0\u00b793). Additionally, overall survival was superior in the pooled pembrolizumab groups compared with ipilimumab across subgroups, including in those with typically poor prognosis (eg, patients with elevated LDH and baseline tumour size greater than or equal to the median; figure 3).\n\nOverall, 566 progression-free survival events were reported. 364 (65%) of these 556 events occurred in the pooled pembrolizumab groups. Progression-free survival was longer with pembrolizumab than with ipilimumab (HR 0.61; 95% CI 0\u00b750\u20130\u00b775; p<0\u00b70001 for both pembrolizumab schedules *vs* ipilimumab). There was no difference in progression-free survival between the two pembrolizumab schedules (HR 0.95; 95% CI 0\u00b777\u20131\u00b717; p=0\u00b762). Median progression-free survival was 5\u00b76 months (range 3\u00b74\u20138\u00b72), 4\u00b71 months (range 2\u00b79\u20137\u00b72), and 2\u00b78 months (range 2\u00b78\u20132\u00b79) for pembrolizumab every 2 and 3 weeks and ipilimumab, respectively, with the curves showing a definite separation after the week 12 assessment (figure 2B). Additionally, the 24-month progression-free survival rate was 31% in the 2-week group, 28% in the 3-week group, and 14% in the ipilimumab group.\n\nObjective response was reported in 103 (37%) of 279 patients taking pembrolizumab every 2 weeks, 100 (36%) of 277 patients taking pembrolizumab every 3 weeks, and 37 (13%) of 278 patients taking ipilimumab (table 2). Best overall response was complete response in 33 (12%) of 279 patients in the 2-week group, 36 (13%) of 277 patients in the 3-week group, and 14 (5%) of 278 patients in the ipilimumab group; an additional 30 (11%) of 279 patients in the 2-week group, 30 (11%) of 277 patients in the 3-week group, and 43 (15%) of 278 patients in the ipilimumab group had stable disease. Disease control (complete response plus partial response plus stable disease) was seen in 145 (52%) of 279 patients in the 2-week group and 144 (52%) of 277 patients in the 3-week group and 89 (32%) of 278 patients in the ipilimumab group. Although there were differences in response rate among treatments (p<0\u00b70001 for both pembrolizumab groups compared with ipilimumab), there was no difference between pembrolizumab schedules (p=0\u00b782). At the final analysis, responses (including complete responses) continued to accrue, and\n\n|                                            | Pembrolizumab<br>every 2 weeks n=279 | Pembrolizumab<br>every 3 weeks n=277 | Ipilimumab<br>n=278 |\n|--------------------------------------------|--------------------------------------|--------------------------------------|---------------------|\n| Age, median (range), years                 | 61 (18\u201389)                           | 63 (22\u201389)                           | 62 (18\u201388)          |\n| Sex                                        |                                      |                                      |                     |\n| Male                                       | 161 (58%)                            | 174 (63%)                            | 162 (58%)           |\n| Female                                     | 118 (42%)                            | 103 (37%)                            | 116 (42%)           |\n| ECOG performance status                    |                                      |                                      |                     |\n| 0                                          | 196 (70%)                            | 189 (68%)                            | 188 (68%)           |\n| 1                                          | 83 (30%)                             | 88 (32%)                             | 90 (32%)            |\n| LDH                                        |                                      |                                      |                     |\n| Normal                                     | 194 (70%)                            | 175 (63%)                            | 178 (64%)           |\n| Elevated                                   | 81 (29%)                             | 98 (35%)                             | 91 (33%)            |\n| Missing                                    | 4 (1%)                               | 4 (1%)                               | 9 (3%)              |\n| BRAFV600E/K status                         |                                      |                                      |                     |\n| Wild-type                                  | 177 (63%)                            | 178 (64%)                            | 170 (61%)           |\n| Mutant                                     | 98 (35%)                             | 97 (35%)                             | 107 (39%)           |\n| Undetermined                               | 4 (1%)                               | 2 (1%)                               | 1 (<1%)             |\n| PD-L1 expression                           |                                      |                                      |                     |\n| Positive*                                  | 225 (81%)                            | 221 (80%)                            | 225 (81%)           |\n| Negative                                   | 49 (18%)                             | 54 (20%)                             | 47 (17%)            |\n| Unknown                                    | 5 (2%)                               | 2 (1%)                               | 6 (2%)              |\n| M staging of the extent of metastasis\u2020     |                                      |                                      |                     |\n| M0                                         | 9 (3%)                               | 8 (3%)                               | 13 (5%)             |\n| M1                                         | 6 (2%)                               | 4 (1%)                               | 5 (2%)              |\n| M1a                                        | 21 (8%)                              | 35 (13%)                             | 30 (11%)            |\n| M1b                                        | 64 (23%)                             | 41 (15%)                             | 52 (19%)            |\n| M1c                                        | 179 (64%)                            | 189 (68%)                            | 178 (64%)           |\n| Lines of previous therapy                  |                                      |                                      |                     |\n| 0                                          | 183 (66%)                            | 185 (67%)                            | 181 (65%)           |\n| 1                                          | 96 (34%)                             | 91 (33%)                             | 97 (35%)            |\n| 2                                          | 0                                    | 1 (<1%)                              | 0                   |\n| Previous (neo)adjuvant therapy             | 42 (15%)                             | 30 (11%)                             | 37 (13%)            |\n| Previous chemotherapy                      | 36 (131%)                            | 41 (15%)                             | 29 (10%)            |\n| Previous BRAF or MEK inhibitor             | 50 (18%)                             | 45 (16%)                             | 56 (20%)            |\n| Previous immunotherapy                     | 8 (3%)                               | 7 (2%)                               | 12 (4%)             |\n| Interferon                                 | 3 (1%)                               | 2 (<1%)                              | 6 (2%)              |\n| Peg-interferon                             | 1 (<1%)                              | 0                                    | 0                   |\n| IL-2                                       | 1 (<1%)                              | 3 (1%)                               | 2 (<1%)             |\n| Baseline tumour size,<br>median (range) mm | 58\u00b75 (10\u2013390)                        | 63\u00b74 (11\u2013554)                        | 55\u00b76 (10\u2013465)       |\n| Brain metastases                           |                                      |                                      |                     |\n| Yes                                        | 24 (9%)                              | 27 (10%)                             | 29 (10%)            |\n| No                                         | 252 (90%)                            | 248 (90%)                            | 248 (89%)           |\n| Missing                                    | 3 (1%)                               | 2 (1%)                               | 1 (<1%)             |\n\nData are n (%) unless otherwise specified. ECOG=Eastern Cooperative Oncology Group performance status; IL-2=interleukin-2; LDH=lactate dehydrogenase; PD-L1=programmed death ligand 1.\\*Defined as \u22651% staining in tumour and adjacent immune cells as assessed by immunohistochemistry using the 22C3 antibody.\u2020M0=no distant metastasis. M1a=metastasis to skin, subcutaneous tissues, or distant lymph nodes. M1b=metastasis to lung. M1c=metastasis to all other visceral sites or distant metastases at any site associated with elevated serum concentrations of LDH.\n\n*Table 1:* **Patient characteristics**\n\npembrolizumab continued to show superiority over ipilimumab (appendix). Responses were ongoing in approximately 129 (64%) of 203 of patients who\n\n![](_page_5_Figure_1.jpeg)\n\n## *Figure 2***: Kaplan-Meier plots**\n\n(A) overall survival; (B) progression-free survival assessed per RECIST v1.1 by independent central review; and (C) duration of response assessed per RECIST v1.1 by independent central review. p values for progression-free survival are nominal because no \u03b1 was pre-specified at the final analysis. HR=hazard ratio; NR=not reached; Q2W=every 2 weeks; Q3W=every 3 weeks.\n\nresponded to pembrolizumab and in 23 (62%) of 37 of those who responded to ipilimumab, with approximately 70% of responses lasting 78 weeks or longer (figure 2C). Median duration of response was not reached in any treatment group.\n\nOf the 834 patients enrolled, one patient in the pembrolizumab 2-week group and 22 patients in the ipilimumab group withdrew consent and did not receive treatment. A total of 811 patients received at least one dose of study treatment and were included in the safety analysis population. Median time on treatment was 197 days for pembrolizumab every 2 weeks (mean 312 days, SD 260), 168 days for pembrolizumab every 3 weeks (292 days, 264), and 63 days for ipilimumab (50 days, 21). After week 12, almost all patients in the ipilimumab group had completed or discontinued active treatment as planned; consequently, the adverse event reporting period for ipilimumab was shorter than that for pembrolizumab. Any-grade treatment-related adverse events occurred in 229 (82%) of 278 patients in the 2-week group, 213 (77%) of 277 patients in the 3-week group, and 190 (74%) of 256 patients in the ipilimumab group (table 3); most of these treatment-related adverse events were grade 1\u20132. The most common any-grade treatment-related adverse events were fatigue, pruritus, diarrhoea, and rash. Grade 3\u20135 treatment-related toxicities occurred in 47 (17%) of 278 patients in the 2-week group and 46 (17%) of 277 patients in the 3-week group, compared with 50 (20%) of 256 patients in the ipilimumab group (table 3). Most grade 3\u20135 treatment-related adverse events occurred in less than 1% of patients, with the exception of colitis, diarrhoea, fatigue, alanine aminotransferase increase, hypokalemia, and pneumonitis. Treatment-related toxicity resulted in treatment discontination for 19 (7%) of 278 patients in the 2-week group, 30 (11%) of 277 patients in the 3-week group, and 23 (9%) of 256 of patients in the ipilimumab group. Treatment-related adverse events leading to discontinuation that were reported more than once included colitis (three patients) and autoimmune hepatitis (two patients) in the pembrolizumab every 2 weeks group; colitis (four patients), pneumonitis (three patients), hepatitis (two patients), and tubulointerstitial nephritis (two patients) in the pembrolizumab every 3 weeks group; and colitis (nine patients) and diarrhoea (five patients) in the ipilimumab group. One treatment-related death in the pembrolizumab every 2 weeks group was a result of sepsis. Immune-mediated adverse events occurred across treatment groups and most commonly included thyroid disorders (includes hyperthyroidism, hypothyroidism, and thyroiditis) and colitis (appendix). Adverse events were generally managed with supportive care, withholding treatment, or corticosteroid therapy. There were no differences in the overall safety profile between pembrolizumab treatment schedules.\n\nSerious and treatment-related grade 3\u20134 adverse events occurred more frequently in the ipilimumab group than in the pembrolizumab groups in each 6-week reporting\n\nElevated LDH 270 *BRAF*V600E/K wild type\\* 532 *BRAF*V600E/K mutant 302 0 previous therapies 549 1 previous therapy 284 PD-L1 positive 671 PD-L1 negative 150 BTS <median 359\n\nMale 497 Female 337 Age \u226565 years 471 Age <65 years 363 ECOG PS 0 573 ECOG PS 1 261 Normal LDH 547\n\n#### *Figure 3:* **Overall survival in key subgroups**\n\nBTS \u2265median 363\n\nPembrolizumab groups were pooled. Dotted vertical line represents hazard ratio in the total population. BTS=baseline tumour size; ECOG PS=Eastern Cooperative Oncology Group performance status; LDH=lactate dehyrogenase; PD-L1=programmed death ligand 1. \\*Includes patients with unknown *BRAF*V600 mutation status (n=17).\n\n0\u00b71 1 10 Favours pembrolizumab Favours ipilimumab\n\n**n Hazard ratio**\n\n|                                                      | Pembrolizumab<br>every 2 weeks n=279 | Pembrolizumab<br>every 3 weeks n=277 | Ipilimumab<br>n=278 |\n|------------------------------------------------------|--------------------------------------|--------------------------------------|---------------------|\n| Objective response rate,<br>% (95% CI)               | 37 (31\u201343)                           | 36 (30\u201342)                           | 13 (10\u201318)          |\n| Best overall response                                |                                      |                                      |                     |\n| Complete response                                    | 33 (12%)                             | 36 (13%)                             | 14 (5%)             |\n| Partial response                                     | 70 (25%)                             | 64 (23%)                             | 23 (8%)             |\n| Stable disease                                       | 30 (11%)                             | 30 (11%)                             | 43 (16%)            |\n| Non-complete response or<br>non\u2013progressive disease* | 12 (4%)                              | 14 (5%)                              | 9 (3%)              |\n| Progressive disease                                  | 107 (38%)                            | 115 (42%)                            | 137 (49%)           |\n| Not evaluable\u2020                                       | 19 (7%)                              | 15 (5%)                              | 50 (18%)            |\n| No assessment\u2021                                       | 8 (3%)                               | 3 (1%)                               | 2 (<1%)             |\n| Ongoing responses\u00a7                                   | 69 (67%)                             | 60 (60%)                             | 23 (62%)            |\n| Duration of response,<br>median (range), months      | NR (1\u00b78 to >22\u00b78)                    | NR (2\u00b70 to >22\u00b78)                    | NR (>1\u00b71 to >23\u00b78)  |\n\nData are n (%) unless otherwise specified. Tumour response as assessed per RECIST v1.1 by independent central review. NR=not reached. \\*Patients without measurable disease per independent central review at baseline who did not have complete response or disease progression. \u2020Target lesion not captured by post-baseline scan or for whom a target lesion was surgically removed.\u2021No post-baseline scan performed or scans not evaluable. \u00a7Patients without progression, death, or new anticancer therapy.\n\n*Table 2:* **Tumour response**\n\nperiod between start of treatment and week 18 (appendix). From week 13 through week 18 (when most patients in the ipilimumab group had discontinued treatment), a smaller percentage of patients on pembrolizumab had treatmentrelated serious adverse events (five [2%] of 236 patients in the pembrolizumab 2-week group, one [<1%] of 232 patients in the pembrolizumab 3-week group, and four [3%] of 160 patients in the ipilimumab group) or treatment-related grade 3\u20134 adverse events (six [3%] of 236 patients in the 2-week group, three [1%] of 232 patients in the 3-week group, and four [3%] of 160 patients in the ipilimumab group; appendix). Across treatment groups,\n\n|                                                     | Pembrolizumab<br>every 2 weeks n=278 |           |           | Pembrolizumab<br>every 3 weeks n=277 |           | Ipilimumab<br>n=256 |  |\n|-----------------------------------------------------|--------------------------------------|-----------|-----------|--------------------------------------|-----------|---------------------|--|\n|                                                     | Any grade                            | Grade 3\u20134 | Any grade | Grade 3\u20134                            | Any grade | Grade 3\u20134           |  |\n| Any                                                 | 229 (82%)                            | 47 (17%)  | 213 (77%) | 46 (17%)                             | 190 (74%) | 50 (20%)            |  |\n| Serious                                             | 34 (12%)                             | 0         | 32 (12%)  | 0                                    | 44 (17%)  | 0                   |  |\n| Led to discontinuation                              | 19 (7%)                              | 0         | 30 (11%)  | 0                                    | 23 (9%)   | 0                   |  |\n| Led to death                                        | 1 (<1%)*                             | 0         | 0         | 0                                    | 0         | 0                   |  |\n| Observed in \u226510% of patients in any treatment group |                                      |           |           |                                      |           |                     |  |\n| Fatigue                                             | 79 (28%)                             | 1 (<1%)   | 64 (23%)  | 3 (1%)                               | 43 (17%)  | 3 (1%)              |  |\n| Pruritus                                            | 56 (20%)                             | 0         | 55 (20%)  | 0                                    | 67 (26%)  | 0                   |  |\n| Diarrhoea                                           | 54 (19%)                             | 7 (3%)    | 46 (17%)  | 3 (1%)                               | 59 (23%)  | 7 (3%)              |  |\n| Rash                                                | 44 (16%)                             | 0         | 48 (17%)  | 0                                    | 40 (16%)  | 0                   |  |\n| Arthralgia                                          | 35 (13%)                             | 0         | 38 (14%)  | 0                                    | 13 (5%)   | 0                   |  |\n| Nausea                                              | 36 (13%)                             | 0         | 37 (13%)  | 0                                    | 24 (9%)   | 0                   |  |\n| Hypothyroidism                                      | 30 (11%)                             | 0         | 23 (8%)   | 0                                    | 2 (1%)    | 0                   |  |\n| Data are n (%). *Sepsis.                            |                                      |           |           |                                      |           |                     |  |\n\nadverse events were reported most frequently in the first 3 months of treatment when adjusted for exposure, and then decreased in frequency thereafter (appendix); most immune-mediated adverse events occurred within the first 6 months in all treatment groups (appendix). Colitis occurred more frequently in the ipilimumab group, whereas hepatitis and endocrinopathies occurred more frequently in the pembrolizumab group (appendix). 38 (19%) of 202 patients given pembrolizumab for at least 1 year had grade 3\u20134 treatment-related adverse events, nine (4%) of these 202 patients discontinued pembrolizumab because of a treatment-related adverse event, and none died of treatment-related toxicity.\n\n# **Discussion**\n\nKEYNOTE-006 is the first head-to-head comparison of pembrolizumab versus ipilimumab for advanced melanoma. Results of the protocol-specified first and second interim analyses showed that pembrolizumab provided superior progression-free and overall survival, respectively, compared with ipilimumab, with fewer grade 3-4 treatment-related adverse events.6,7 The results of this protocol-specified final analysis substantiate the survival advantage for pembrolizumab compared with ipilimumab. The final analysis showed that pembrolizumab treatment resulted in twice the percentage of patients alive and without disease progression compared with ipilimumab (24-month progression-free survival rates of 31% in the pembrolizumab every 2 weeks group, 28% for the pembrolizumab every 3 weeks group, and f14% for the ipilimumab group).\n\nCompared with earlier published results, pembrolizumab continued to provide a greater reduction in risk for death than ipilimumab, with 24-month survival rates approximately 12% higher with pembrolizumab than with ipilimumab. Overall survival for ipilimumab in KEYNOTE-006 is substantially longer than previously reported in other phase 3 studies,11,12 probably because more than half the patients in the ipilimumab group of this study received a subsequent efficacious anticancer therapy, including 76 (30%) of 256 patients who received anti-PD-1 therapy after discontinuation of ipilimumab (appendix). Despite this, we observed a significant improvement in survival with pembrolizumab. Importantly, however, it is difficult to draw strict comparisons about longer term survival with ipilimumab between previously published data and the KEYNOTE-006 study.\n\nResponse rates at the final analysis, which were consistent with the previously published interim data,6,7 remain substantially higher with either pembrolizumab schedule than with ipilimumab, with an approximately three times higher improvement in objective response rate. Most responses were durable and ongoing at the time of data cutoff, regardless of treatment group. Long-term benefit with ipilimumab, including durable responses lasting more than 8 years13,14 and survival of up to 10 years,15 has been reported in patients with advanced melanoma. Here we report durability of response with pembrolizumab and ipilimumab with a 2-year follow-up. Results suggest that the percentage of patients with ongoing response as of the data cutoff date is similar across the three treatment groups.\n\nOur data show that additional objective responses, including complete responses, with pembrolizumab, and to a lesser extent with ipilimumab, can occur after 21 months of follow-up and support the fact that delayed responses or late conversion of partial responses to complete responses are possible with these immunotherapies. Prolonged complete response after pembrolizumab discontinuation was observed in the KEYNOTE-001 study: 59 (97%) of 61 patients maintained response and only two (3%) of 61 patients had progression after 2 years or longer on treatment.16 As patients continue to have long-term benefits after short duration of treatment, questions regarding the optimal duration of treatment should be further investigated.\n\nThe results reported here are similar to those in the phase 3 CheckMate 067 trial in which nivolumab monotherapy provided improved median overall survival (not reached *vs* 20\u00b70 months),17 median progression-free survival (6\u00b79 *vs* 2\u00b79 months),5 and objective response rate (44 *vs* 19%)5 compared with ipilimumab monotherapy in previously untreated patients with advanced melanoma. Differences in eligibility criteria and treatment framework between the two studies might have contributed to the slightly improved responses seen with nivolumab.\n\nIn KEYNOTE-006, more patients given ipilimumab than pembrolizumab went on to receive post-study anti-neoplastic therapy, including anti-PD-1 therapy. The tolerability profile of pembrolizumab makes it a promising candidate for combination therapy, which has the potential to further improve outcomes for patients with advanced melanoma. In the phase 1 KEYNOTE-029 study of standard-dose pembrolizumab with low-dose ipilimumab, combination therapy provided higher objective response rates and improved survival than those historically reported with either therapy alone, but also led to higher rates of toxicity;6,18 as a result, we assessed two additional ipilimumab dosing regimens with standarddose pembrolizumab. Similarly, the combination of lowdose nivolumab with standard-dose ipilimumab led to higher objective response rates and longer progressionfree survival than either therapy alone, but at the expense of higher grade toxicity; as shown by the data that have been reported, the overall survival benefit with the combination was encouraging but not statistically significant.5,19\u201321 Results from phase 1 and phase 2 studies of pembrolizumab in combination with the indoleamine 2,3-dioxygenase 1 inhibitor epacadostat, or the oncolytic virus talimogene laherparevec, reported an acceptable safety profile and high objective response rates in patients with melanoma;22\u201326 phase 3 trials of these combinations in melanoma are underway.\n\nAlthough first-line therapy with anti-PD-1 antibodies has shown superiority to ipilimumab, and combination therapy with anti-PD-1 and anti-CTLA-4 antibodies appears to improve anti-tumour efficacy, optimal sequencing of these agents has not been established. Arguments exist for first line use of BRAF inhibitors because of the rapid responses often observed with these agents,27,28 whereas other studies support use of immunotherapy as front line treatment since these agents typically result in more durable anti-tumour responses and might have reduced benefit following targeted therapy.29 Retrospective studies suggest that patients might benefit regardless of the treatment sequence.28,30 Of note, a considerable percentage of patients in this study (71 [26%] of 278 patients in the pembrolizumab every 2 weeks group, 48 [17%] of 277 patients in the pembrolizumab every 3 weeks group, and 74 [29%] of 256 patients in the ipilimumab group) received BRAF or MEK targeted therapy following checkpoint inhibitor therapy. Although no additional data are available, analysis of the clinical activity in this subset of patients would be of interest for sequencing discussions. Clearly, the optimal sequencing strategy remains to be elucidated. Questions also remain as to the effect that LDH and other potential prognostic factors might have on sequencing strategy, and appropriate biomarkers to select for those patients most likely to respond to anti-PD-1 therapy.\n\nIn KEYNOTE-006, the prevalence of adverse events and rate of discontinuation for patients receiving pembrolizumab for more than 1 year were similar to those in the overall population, showing that tolerability of pembrolizumab is maintained over time. Additionally, despite a three times longer duration of exposure, pembrolizumab continued to provide a favourable safety profile compared with ipilimumab. As expected from the mechanisms of action of pembrolizumab and ipilimumab,31,32 immune-mediated events occurred across treatment groups. As has been previously reported,33,34 frequency and type of adverse events differed between pembrolizumab and ipilimumab, owing to their unique targets. Notably, and in line with previous findings, colitis was more frequently reported with use of ipilimumab, whereas thyroid disorders were more prevalent with use of pembrolizumab. The number of pembrolizumab and ipilimumab exposure-adjusted adverse events decreased with time, although the decrease was more pronounced in the ipilimumab group, probably because treatment was completed (after four doses) much earlier in the study. Although it is difficult to directly compare the safety profiles because of the difference in reporting periods across the three groups, the average frequency of grade 3-4, serious, and immune-mediated adverse events leading to discontinuation was slightly higher for patients given ipilimumab than those on either pembrolizumab schedule. No new safety signals or increase in adverse event frequency was seen with longer duration of pembrolizumab therapy.\n\nIn conclusion, results of the final analysis from KEYNOTE-006 show that after close to a median of 2 years follow-up, pembrolizumab continues to show a clear and significant superiority compared with ipilimumab for patients with advanced melanoma, and further support the use of pembrolizumab as a standard of care in this patient population.\n\n#### **Contributors**\n\nThe study was conceived, designed, or planned by JS, AD, HZ, SE, and CR. Acquisition of the data was done by JS, GVL, AA, J-JG, LM, AD, MSC, CMcN, ML, JL, PL, BN, CB, OH, HZ, and NI. Data analysis was done by JS, AR, GVL, AD, ML, JL, OH, HZ, SE, NI, and CR. Intepretation of the results was done by JS, AR, GVL, AA, J-JG, LM, AD, MSC, ML, JL, PL, BN, TMP, OH, HZ, SE, NI, and CR. The manuscript was drafted by JS, GVL, SE, and NI. All authors critically reviewed iterations of the manuscript and approved the final draft for submission.\n\n#### **Declaration of interests**\n\nJS reports personal fees for advisory board participation and presentations from Merck Sharp & Dohme Corp (a subsidiary of Merck & Co), and Bristol-Myers Squibb outside the submitted work. AR reports grants and honoraria to his institution from Merck & Co outside the submitted work. GVL reports consulting fees from Bristol-Myers Squibb, Amgen, Novartis, Roche, Pierre-Fabre, Array, and Merck Sharp & Dohme Corp, outside the submitted work. AA reports grant support from Merck & Co in support of the submitted work; personal fees from Novartis, Roche, and Bristol-Myers Squibb outside the submitted work; and non-financial support from Roche outside the submitted work. J-JG reports personal fees for advisory board participation from Merck Sharp & Dohme Corp, Bristol-Myers Squibb, Roche, Novartis, Amgen, Pierre-Fabre, and Merck & Co, outside the submitted work; and grant support from Bristol-Myers Squibb outside the submitted work. LM reports study support from Merck & Co in support of the submitted work. MSC reports personal fees for advisory board participation from Merck Sharp & Dohme Corp, Bristol-Myers Squibb, Novartis, and Amgen outside the submitted work. CMcN reports fees for her staff for travel to scientific meetings from Merck Sharp & Dohme Corp, and Bristol-Myers Squibb outside the submitted work; advisory board participation from Bristol-Myers Squibb, Merck Sharp & Dohme Corp, and Roche to her institution outside the submitted work; fees for her institution for presentations from Bristol-Myers Squibb, Merck Sharp & Dohme Corp, Novartis, and Roche outside the submitted work; and grants to her institution from Merck Sharp & Dohme Corp, outside the submitted work. PL reports personal fees for advisory board participation, speaker's bureau, and travel support from Merck Sharp & Dohme Corp outside the submitted work. BN reports personal fees for advisory board participation and public\n\nspeaking from Merck Sharp & Dohme Corp outside the submitted work. CB reports personal fees to his institution from Merck Sharp & Dohme Corp, Bristol-Myers Squibb, Roche, Novartis, Lilly, Pfizer, and GlaxoSmithKline outside the submitted work; and grants to his institution from Novartis outside the submitted work. TMP reports grant support and honoraria for advisory board participation from Merck & Co in support of the submitted work; honoraria from Bristol-Myers Squibb, Novatis, and Roche outside the submitted work; and grants from Roche and Bristol-Myers Squibb outside the submitted work. OH reports consulting fees from Amgen, Novartis, Roche, Bristol-Myers Squibb, and Merck & Co outside the submitted work; speaker fees from Bristol-Myers Squibb, Genentech, Novartis, and Amgen outside the submitted work; and contracted research for AstraZeneca, Bristol-Myers Squibb, Celldex, Genentech, Immunocore, Incyte, Merck & Co, Merck Serono, MedImmune, Novartis, Pfizer, Rinat, and Roche outside the submitted work. HZ was an employee of Merck Sharp & Dohme Corp at the time of the study. SE is an employee of Merck Sharp & Dohme Corp and holds stock in the company. NI is an employee of Merck Sharp & Dohme Corp, and holds stock in Merck Sharp & Dohme Corp, and GlaxoSmithKline. CR reports personal fees for advisory board participation from Bristol-Myers Squibb, GlaxoSmithKline, Novartis, Amgen, Merck Sharp & Dohme Corp, and Roche outside the submitted work. AD, ML, and JL report no competing interests.\n\n#### **Acknowledgments**\n\nThe authors thank the patients and their families and caregivers; all primary investigators and site personnel, including Peter D. Boasberg (The Angeles Clinic and Research Institute, Los Angeles, CA, USA); Karen Favata, Shannon Meroney-Davis, Christina Wagner, Michele Kosh, Lamar Eaton, Erin Jensen, James Anderson (Merck & Co., Inc., Kenilworth, NJ, USA); and Damian Butters (PRAHS, Bluebell, PA, USA) for study support; Tricia Brown and Payal Gandhi (the ApotheCom pembrolizumab team, Yardley, PA, USA), for assistance with manuscript editing; and Roger Dansey (Merck & Co., Inc., Kenilworth, NJ, USA) for critical review of the manuscript. This study was funded by Merck & Co., Inc., Kenilworth, NJ, USA.\n\n#### **References**\n\n- 1 Pardoll DM. The blockade of immune checkpoints in cancer immunotherapy. *Nat Rev Cancer* 2012; **12:** 252\u201364.\n- 2 Yervoy [package insert]. Princeton, NJ, USA: Bristol-Myers Squibb; 2015.\n- 3 Keytruda [package insert]. Kenilworth, NJ, USA: Merck Sharp & Dohme Corp; 2016.\n- 4 Opdivo [package insert]. Princeton, NJ, USA: Bristol-Myers Squibb; 2016.\n- 5 Larkin J, Chiarion-Sileni V, Gonzalez R, et al. Combined nivolumab and ipilimumab or monotherapy in untreated melanoma. *N Engl J Med* 2015; **373:** 23\u201334.\n- 6 Robert C, Schachter J, Long GV, et al. Pembrolizumab versus ipilimumab in advanced melanoma. *N Engl J Med* 2015; **372:** 2521\u201332.\n- 7 Schachter J, Robert C, Long GV, et al. Pembrolizumab (pembro) vs ipilimumab (ipi) in Patients with ipilimumab-naive advanced melanoma: updated efficacy and safety of the phase 3 KEYNOTE-006 study. Poster presented at the Society for Melanoma Research 2015 Congress; November 18\u201321, 2015; San Francisco, California, USA.\n- 8 Hochberg Y. A sharper Bonferroni procedure for multiple tests of significance. *Biometrika* 1988; **75:** 800\u201302.\n- 9 Cox DR. Regression models and life tables. *J Royal Stat Soc* 1972; **34:** 187\u2013220.\n- 10 Miettinen O, Nurminen M. Comparative analysis of two rates. *Stat Med* 1985; **4:** 213\u201326.\n- 11 Hodi FS, O'Day SJ, McDermott DF, et al. Improved survival with ipilimumab in patients with metastatic melanoma. *N Engl J Med* 2010; **363:** 711\u201323.\n- 12 O'Day SJ, Maio M, Chiarion-Sileni V, et al. Efficacy and safety of ipilimumab monotherapy in patients with pretreated advanced melanoma: a multicenter single-arm phase II study. *Ann Oncol* 2010; **21:** 1712\u201317.\n- 13 Farolfi A, Ridolfi L, Guidoboni M, et al. Ipilimumab in advanced melanoma: reports of long-lasting responses. *Mel Res* 2012; **22:** 263\u201370.\n- 14 Callahan MK, Postow MA, Wolchok JD. Immunomodulatory therapy for melanoma: ipilimumab and beyond. *Clin Dermatol* 2013; **31:** 191\u201399.\n\n- 15 Schadendorf D, Hodi FS, Robert C, et al. Pooled analysis of long-term survival data from phase II and phase III trials of ipilimumab in unresectable or metastatic melanoma. *J Clin Oncol* 2015; **33:** 1889\u201394.\n- 16 Robert C, Ribas A, Hamid O, et al. Three-year overall survival for patients with advanced melanoma treated with pembrolizumab in KEYNOTE-001. *J Clin Oncol* 2016; **34:** abstr 9503.\n- 17 Larkin J, Chiarion-Sileni V, Gonzalez R. Overall survival results from a phase III trial of nivolumab combined with ipilimumab in treatment-na\u00efve patients with advanced melanoma (CheckMate-067). 2017 American Association of Cancer Research; Washington, DC, USA; April 1\u20135, 2017. Abstract CT075.\n- 18 Long GV, Atkinson V, Cebon JS, et al. Pembrolizumab (pembro) plus ipilimumab (ipi) for advanced melanoma: results of the KEYNOTE-029 expansion cohort. *J Clin Oncol* 2016; **34**(suppl)**:** abstr 9506.\n- 19 Postow MA, Chesney J, Pavlick AC, et al. Nivolumab and ipilimumab versus ipilimumab in untreated melanoma. *N Engl J Med* 2015; **372:** 2006\u201317.\n- 20 Hodi FS, Chesney J, Pavlick AC, et al. Combined nivolumab and ipilimumab versus ipilimumab alone in patients with advanced melanoma: 2-year overall survival outcomes in a multicentre, randomised, controlled, phase 2 trial. *Lancet Oncol* 2016; **17:** 1558\u201368.\n- 21 Sznol M, Kluger HM, Callahan MK, et al. Survival, response duration, and activity by BRAF mutation (MT) status of nivolumab (NIVO, anti-PD-1, BMS-936558, ONO-4538) and ipilimumab (IPI) concurrent therapy in advanced melanoma (MEL). *J Clin Oncol* 2014; **32** (suppl)**:** abstr LBA 9003.\n- 22 Gangadhar TC, Hamid O, Smith DC, et al. Preliminary results from a phase I/II study of epacadostat (incb024360) in combination with pembrolizumab in patients with selected adbanced cancers. *J Immunother Cancer* 2015; **3**(suppl)**:** 07.\n- 23 H  # Increased text length for comprehensive extraction\n\nReturn JSON only:",
+    "validation_data": {
+      "can_process": true,
+      "nct_number": "NCT01866319",
+      "treatment_arms_count": 3,
+      "errors": [],
+      "warnings": []
+    },
+    "extraction_ready": true,
+    "source": "marker_enhanced",
+    "markdown_length": 62528,
+    "extraction_timestamp": "2025-07-23T12:33:46.697015"
+  },
+  "quality_assessment": {
+    "markdown_quality": 100.0,
+    "clinical_keywords_found": 12,
+    "table_structures": 424,
+    "section_headers": 61,
+    "nct_numbers": 2,
+    "extraction_fields_filled": 6,
+    "processing_success": true
+  },
+  "success": true,
+  "processing_time": 1753254226.7010329,
+  "use_llm": false
+}

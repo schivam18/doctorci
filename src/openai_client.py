@@ -1,14 +1,26 @@
 # openai_client.py
 
+import json
 import os
-from openai import OpenAI
-import tiktoken
+from typing import Any, Dict, List, Optional
 
+import tiktoken
+from dotenv import load_dotenv
+from openai import OpenAI
+
+from src.logger_config import get_logger, log_performance
+from src.prompts_pub import generate_arm_aware_prompt
+from src.post_processor import process_extracted_data
+
+# Load environment variables
+load_dotenv()
+
+# KEYWORDS_STRUCTURE is no longer needed here, it's handled by the prompt generator.
 
 def calculate_cost(prompt_tokens, completion_tokens):
     # Rates per 1K tokens for 'gpt-4o-mini'
-    rate_per_1k_prompt_tokens = 0.00015  # $0.150 per 1M input tokens
-    rate_per_1k_completion_tokens = 0.0006  # $0.600 per 1M output tokens
+    rate_per_1k_prompt_tokens = 0.00015
+    rate_per_1k_completion_tokens = 0.0006
 
     prompt_cost = (prompt_tokens / 1000) * rate_per_1k_prompt_tokens
     completion_cost = (completion_tokens / 1000) * rate_per_1k_completion_tokens
@@ -17,56 +29,237 @@ def calculate_cost(prompt_tokens, completion_tokens):
 
 
 class OpenAIClient:
-    def __init__(self, api_key=None):
-        # Use the given API key or fetch from environment variable
-        self.api_key = api_key or os.environ.get("OPENAI_API_KEY", "<your OpenAI API key if not set as env var>")
-        self.model = 'gpt-4o-mini'  # Fixed model
-        # Initialize the OpenAI client
-        self.client = OpenAI(api_key=self.api_key)
+    def __init__(self):
+        self.logger = get_logger(__name__)
+        self.logger.info("OpenAIClient initialized")
+        api_key = os.getenv("OPENAI_API_KEY")
+        if not api_key:
+            self.logger.critical("OPENAI_API_KEY environment variable is not set")
+            raise ValueError("OPENAI_API_KEY is not set")
+        self.client = OpenAI(api_key=api_key, base_url="https://api.openai.com/v1")
+        self.model = "gpt-4o-mini"
+        self.max_tokens = 8000
+        self.total_cost = 0.0
+        self.total_prompt_tokens = 0
+        self.total_completion_tokens = 0
+        self.request_count = 0
 
-    def get_chat_completion(self, messages, max_tokens=1500):
-        # Estimate tokens for messages and completion
+    def get_chat_completion(self, messages, max_tokens=8000) -> str:
         prompt_tokens = self.num_tokens_from_messages(messages)
-        # For estimation, assume max_tokens will be used for the completion
-        completion_tokens_estimated = max_tokens
-        estimated_cost = calculate_cost(prompt_tokens, completion_tokens_estimated)
-        print(f"Estimated cost for this request: ${estimated_cost:.6f}")
+        estimated_cost = calculate_cost(prompt_tokens, max_tokens)
+        self.logger.info(f"Estimated cost for this request: ${estimated_cost:.6f}")
 
-        # Make request to OpenAI ChatCompletion API
         completion = self.client.chat.completions.create(
             model=self.model,
             messages=messages,
-            max_tokens=max_tokens
+            max_tokens=max_tokens,
+            temperature=0.0, # Set to 0.0 for maximum fact-based extraction
         )
-
-        # Extract the assistant's reply
-        response_message = completion.choices[0].message
-
-        # Get actual token usage from response
+        response_message = completion.choices[0].message.content
         usage = completion.usage
         actual_cost = calculate_cost(usage.prompt_tokens, usage.completion_tokens)
-        print(f"Actual cost for this request: ${actual_cost:.6f}")
+        self.logger.info(f"Actual cost for this request: ${actual_cost:.6f}")
 
+        self._update_totals(usage.prompt_tokens, usage.completion_tokens, actual_cost)
         return response_message
 
+    @log_performance
+    def extract_publication_data(self, full_text: str) -> Optional[Dict[str, Any]]:
+        """
+        Runs a single, comprehensive extraction process on the full text of a document,
+        expecting a nested JSON with document and treatment arm data.
+        """
+        self.logger.info("Starting arm-aware extraction from full paper text.")
+        
+        if not full_text:
+            self.logger.error("Extraction skipped: The provided text is empty.")
+            return None
+
+        prompt = generate_arm_aware_prompt(full_text)
+        
+        try:
+            response_content = self.get_chat_completion([{"role": "user", "content": prompt}])
+            parsed_data = self._parse_json_response(response_content)
+            if parsed_data and "treatment_arms" in parsed_data:
+                # Apply comprehensive post-processing (includes all validation and formatting)
+                processed_data = process_extracted_data(parsed_data, full_text)
+                self.logger.info(f"Extraction successful. Found {len(processed_data['treatment_arms'])} treatment arms.")
+                return processed_data
+            else:
+                self.logger.error("Extraction failed: The returned JSON is missing the 'treatment_arms' key or is invalid.")
+                return None
+        except Exception as e:
+            self.logger.error(f"An error occurred during extraction: {e}", exc_info=True)
+            return None
+
     def num_tokens_from_messages(self, messages):
-        """Returns the number of tokens used by a list of messages."""
         try:
             encoding = tiktoken.encoding_for_model(self.model)
         except KeyError:
-            # If the model is not recognized, default to 'o200k_base' encoding
-            print("Warning: model not found. Using o200k_base encoding.")
             encoding = tiktoken.get_encoding("o200k_base")
-
-        tokens_per_message = 3  # Every message follows <|start|>{role/name}\n{content}<|end|>\n
-        tokens_per_name = 1  # If there's a name, the role is omitted
-
+        
+        tokens_per_message = 3
+        tokens_per_name = 1
         num_tokens = 0
         for message in messages:
             num_tokens += tokens_per_message
             for key, value in message.items():
                 num_tokens += len(encoding.encode(value))
-                if key == 'name':
+                if key == "name":
                     num_tokens += tokens_per_name
-        num_tokens += 3  # Every reply is primed with <|start|>assistant<|message|>
+        num_tokens += 3
         return num_tokens
+
+    def _update_totals(self, prompt_tokens: int, completion_tokens: int, cost: float):
+        self.total_prompt_tokens += prompt_tokens
+        self.total_completion_tokens += completion_tokens
+        self.total_cost += cost
+        self.request_count += 1
+
+    def _robust_parse_json(self, json_string: str) -> Optional[Dict[str, Any]]:
+        """
+        A more robust JSON parser that attempts to fix common errors from LLMs.
+        - Removes markdown code fences.
+        - Attempts to find the main JSON object even with leading/trailing text.
+        - Fixes trailing commas.
+        """
+        original_string = json_string  # Keep for debugging
+        
+        # 1. Strip markdown fences and whitespace
+        json_string = json_string.strip()
+        if json_string.startswith("```json"):
+            json_string = json_string[7:]
+        if json_string.endswith("```"):
+            json_string = json_string[:-3]
+        json_string = json_string.strip()
+
+        # 2. Find the start and end of the main JSON object
+        try:
+            start_index = json_string.index('{')
+            end_index = json_string.rindex('}') + 1
+            json_string = json_string[start_index:end_index]
+        except ValueError:
+            self.logger.error("Could not find a valid JSON object within the response string.")
+            return None
+
+        # 3. Fix trailing commas in objects and arrays
+        # This is a common LLM error.
+        import re
+        json_string = re.sub(r",\s*([\}\]])", r"\1", json_string)
+
+        # 4. Attempt to parse the cleaned string
+        try:
+            parsed = json.loads(json_string)
+            # Check if this has the required structure
+            if "treatment_arms" in parsed:
+                return parsed
+            else:
+                self.logger.warning("Parsed JSON is missing 'treatment_arms' key. Attempting recovery.")
+                # Continue to fallback logic
+        except json.JSONDecodeError as e:
+            self.logger.warning(f"Initial JSON parsing failed: {e}. Attempting to find largest valid JSON object.")
+
+        # Enhanced fallback: try to find the complete JSON object
+        try:
+            # Look for patterns that might indicate a complete JSON with treatment_arms
+            treatment_arms_pattern = r'"treatment_arms"\s*:\s*\['
+            if re.search(treatment_arms_pattern, json_string):
+                self.logger.info("Found treatment_arms pattern in JSON string. Attempting targeted recovery.")
+                
+                # Try to find the JSON object that contains treatment_arms
+                start_pos = json_string.find('{')
+                if start_pos != -1:
+                    # Find the matching closing brace by counting braces
+                    brace_count = 0
+                    for i in range(start_pos, len(json_string)):
+                        if json_string[i] == '{':
+                            brace_count += 1
+                        elif json_string[i] == '}':
+                            brace_count -= 1
+                            if brace_count == 0:
+                                candidate = json_string[start_pos:i+1]
+                                try:
+                                    parsed = json.loads(candidate)
+                                    if "treatment_arms" in parsed:
+                                        self.logger.info("Successfully recovered complete JSON with treatment_arms.")
+                                        return parsed
+                                except json.JSONDecodeError:
+                                    continue
+            
+            # Original fallback logic if targeted recovery fails
+            best_match = None
+            best_match_has_arms = False
+            
+            # Find all possible JSON objects (stuff between balanced {})
+            open_braces = [i for i, char in enumerate(json_string) if char == '{']
+            close_braces = [i for i, char in enumerate(json_string) if char == '}']
+            
+            for start in open_braces:
+                for end in close_braces:
+                    if start < end:
+                        substring = json_string[start:end+1]
+                        try:
+                            # Test if this substring is valid JSON
+                            parsed = json.loads(substring)
+                            has_treatment_arms = "treatment_arms" in parsed
+                            
+                            # Prioritize JSON objects that have treatment_arms
+                            if has_treatment_arms and not best_match_has_arms:
+                                best_match = substring
+                                best_match_has_arms = True
+                            elif (not best_match_has_arms and 
+                                  (best_match is None or len(substring) > len(best_match))):
+                                best_match = substring
+                                
+                        except json.JSONDecodeError:
+                            continue # This substring is not valid JSON
+            
+            if best_match:
+                self.logger.info(f"Successfully recovered a valid JSON object from the response. Has treatment_arms: {best_match_has_arms}")
+                parsed = json.loads(best_match)
+                
+                # Debug logging for problematic cases
+                if not best_match_has_arms:
+                    self.logger.warning(f"Recovered JSON is missing treatment_arms. Keys found: {list(parsed.keys())}")
+                    self.logger.debug(f"Original response length: {len(original_string)}")
+                    self.logger.debug(f"Cleaned JSON length: {len(json_string)}")
+                    self.logger.debug(f"Recovered JSON length: {len(best_match)}")
+                    
+                return parsed
+
+        except Exception as fallback_e:
+            self.logger.error(f"Fallback JSON parsing also failed: {fallback_e}")
+
+        self.logger.error(f"Final JSON parsing attempt failed after all fallbacks.")
+        self.logger.debug(f"Problematic JSON string after cleaning: {json_string[:500]}...")
+        return None
+
+
+    def _parse_json_response(self, response: str) -> dict:
+        if not response:
+            return {}
+        
+        # Use the new robust parser
+        parsed_data = self._robust_parse_json(response)
+        return parsed_data if parsed_data else {}
+
+    def get_usage_summary(self) -> Dict[str, Any]:
+        return {
+            "total_requests": self.request_count,
+            "total_prompt_tokens": self.total_prompt_tokens,
+            "total_completion_tokens": self.total_completion_tokens,
+            "total_tokens": self.total_prompt_tokens + self.total_completion_tokens,
+            "total_cost": self.total_cost,
+        }
+
+    def print_usage_summary(self):
+        summary = self.get_usage_summary()
+        print("\n" + "=" * 50)
+        print("OPENAI API USAGE SUMMARY")
+        print("=" * 50)
+        print(f"Total Requests: {summary['total_requests']}")
+        print(f"Total Prompt Tokens: {summary['total_prompt_tokens']:,}")
+        print(f"Total Completion Tokens: {summary['total_completion_tokens']:,}")
+        print(f"Total Tokens: {summary['total_tokens']:,}")
+        print(f"Total Cost: ${summary['total_cost']:.6f}")
+        print("=" * 50)

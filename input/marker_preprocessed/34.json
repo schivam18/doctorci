@@ -1,0 +1,1517 @@
+{
+  "pdf_path": "resources/34.pdf",
+  "pdf_name": "34",
+  "marker_processing": {
+    "pdf_path": "resources/34.pdf",
+    "pdf_name": "34",
+    "markdown_path": "/var/folders/k8/d1yv1yjs12d97mqvcvxgjnhm0000gn/T/tmp9qcoytqa/34/34.md",
+    "json_path": "/var/folders/k8/d1yv1yjs12d97mqvcvxgjnhm0000gn/T/tmp9qcoytqa/34/34_meta.json",
+    "success": true,
+    "markdown_content": "# communications Pembrolizumab Plus Ipilimumab Following Anti-PD-1/L1 Failure in Melanoma\n\nDaniel J. Olson, MD<sup>1</sup> ; Zeynep Eroglu, MD<sup>2</sup> ; Bruce Brockstein, MD<sup>3</sup> ; Andrew S. Poklepovic, MD4 ; Madhuri Bajaj, MD<sup>5</sup> ; Sunil Babu, MD<sup>6</sup> ; Sigrun Hallmeyer, MD<sup>7</sup> ; Mario Velasco, MD8 ; Jose Lutzky, MD<sup>9</sup> ; Emily Higgs, BS<sup>1</sup> ; Riyue Bao, PhD10; Timothy C. Carll, MD1 ; Brian Labadie, MD1 ; Thomas Krausz, MD1 ; Yuanyuan Zha, PhD1 ; Theodore Karrison, PhD<sup>1</sup> ; Vernon K. Sondak, MD2 ; Thomas F. Gajewski, MD, PhD<sup>1</sup> ; Nikhil I. Khushalani, MD<sup>2</sup> ; and Jason J. Luke, MD10\n\nabstract PURPOSE Combination of antiprogrammed cell death protein-1 (PD-1) plus anti\u2013cytotoxic T-cell lymphocyte-4 (anti-CTLA-4) immunotherapy shows greater response rates (RRs) than anti-PD-1 antibody alone in melanoma, but RR after initial anti-PD-1 and programmed death ligand-1 (PD-L1) antibody progression awaits robust investigation. Anti-CTLA-4 antibody alone after anti-PD-1/L1 antibody progression has a historical RR of 13%. We report the results of the first prospective clinical trial evaluating ipilimumab 1 mg/kg plus pembrolizumab following progression on anti-PD-1 immunotherapy.\n\nMETHODS Patients with advanced melanoma who had progressed on anti-PD-1/L1 antibody as immediate prior therapy (including non\u2013anti-CTLA-4 antibody combinations) were eligible. Patients received pembrolizumab 200 mg plus ipilimumab 1 mg/kg once every 3 weeks for four doses, followed by pembrolizumab monotherapy. The primary end point was RR by irRECIST. After 35 patients, the trial met the primary end point and was expanded to enroll a total of 70 patients to better estimate the RR.\n\nRESULTS Prior treatments included 60 on anti-PD-1 antibody alone and 10 on anti-PD-1/L1 antibody\u2013based combinations. Thirteen patients had progressed in the adjuvant setting. The median length of prior treatment with anti-PD-1/L1 antibody was 4.8 months. Response assessments included five complete and 15 partial responses, making the irRECIST RR 29% among the entire trial population. The median progression-free survival was 5.0 months, and the median overall survival was 24.7 months. The median duration of response was 16.6 months. There was no difference in median time on prior anti-PD1/L1 or time to PD1 1 CTLA4 initiation between responders and nonresponders. Grade 3-4 drug-related adverse events occurred in 27% of patients. Responses occurred in PD-L1\u2013negative, non-T-cell\u2013inflamed, and intermediate tumor phenotypes.\n\nCONCLUSION To our knowledge, this is the first prospective study in melanoma of pembrolizumab plus low-dose ipilimumab after anti-PD-1/L1 immunotherapy failure, demonstrating significant antitumor activity and tolerability.\n\nJ Clin Oncol 39:2647-2655. \u00a9 2021 by American Society of Clinical Oncology\n\n# INTRODUCTION\n\nFor patients with advanced melanoma, the introduction of targeted and immune checkpoint inhibitor therapies has greatly improved systemic therapy outcomes.[1](#page-7-0) With antibodies against the immune checkpoints cytotoxic T-lymphocyte\u2013associated antigen 4 (anti\u2013cytotoxic T-cell lymphocyte-4 [CTLA-4]; ipilimumab) and programmed cell death protein-1 (PD-1; pembrolizumab and nivolumab), some patients have achieved long-term disease control, with 5 year survival rates ranging from 34% to 52%.[2](#page-7-1),[3](#page-7-2) Combination immunotherapy using both anti-PD-1 and anti-CTLA-4 antibodies demonstrates a numerically higher response rate (RR), progression-free survival (PFS), and overall survival (OS) relative to anti-PD-1 antibody monotherapy, but with a grade 3-4 toxicity rate of up to 59%.[4](#page-7-3) This has prompted many treating oncologists to begin with single-agent anti-PD-1 therapy, with the prospect of using ipilimumab in the second line upon treatment failure.\n\nHowever, in patients who have experienced tumor progression on anti-PD-1 and programmed death ligand-1 (PD-L1) antibody monotherapy, no prospective trials of ipilimumab or an anti-PD-1 plus anti-CTLA-4\n\nASSOCIATED CONTENT See accompanying editorial on page [2637](http://ascopubs.org/doi/full/10.1200/JCO.21.00943) Appendix [Protocol](https://ascopubs.org/doi/suppl/10.1200/JCO.21.00079)\n\nAuthor affiliations and support information (if applicable) appear at the end of this article. Accepted on March 31, 2021 and published at [ascopubs.org/journal/](http://ascopubs.org/journal/jco) [jco](http://ascopubs.org/journal/jco) on May 4, 2021: DOI [https://doi.org/10.](http://ascopubs.org/doi/full/10.1200/JCO.21.00079) [1200/JCO.21.00079](http://ascopubs.org/doi/full/10.1200/JCO.21.00079)\n\n![](_page_0_Picture_16.jpeg)\n\n#### CONTEXT\n\n# Key Objective\n\nTo assess the efficacy of pembrolizumab plus low-dose ipilimumab in advanced melanoma in patients refractory to an antiprogrammed cell death protein-1 (PD-1) and programmed death ligand-1 (PD-L1) antibody.\n\n# Knowledge Generated\n\nAmong 70 enrolled patients, 20 confirmed responses were observed (irRECIST response rate 29%) with a median duration of response of 16.6 months. Grade 3-4 adverse events occurred in 27% of patients, and responses occurred primarily among PD-L1\u2013negative, non-T-cell\u2013inflamed, and intermediate tumor phenotypes.\n\n# Relevance\n\nTo our knowledge, this is the first prospective study in melanoma of pembrolizumab plus low-dose ipilimumab after anti-PD-1/L1 immunotherapy failure, demonstrating significant antitumor activity and tolerability.\n\nantibody combination exist. Post hoc assessment of 97 patients who crossed over to ipilimumab directly after pembrolizumab in the randomized phase III KEYNOTE-006 trial demonstrated a 13% objective response rate (ORR)[.5](#page-7-4) Similarly, a retrospective review of treatment outcomes in 355 patients with progression on an anti-PD-1/L1 antibody demonstrated that those who subsequently received ipilimumab achieved an RR of 13% versus 32% in those who received ipilimumab of dose 3 mg/kg once every 3 weeks for four doses plus an anti-PD-1/L1 antibody. The OS also appeared to favor the combination group at 20.4 months versus 8.8 months, respectively.[6](#page-7-5) These findings support the hypothesis that combined PD-1 and CTLA-4 inhibition can be effective after progression on a prior anti-PD-1/L1. The use of this combination in the second line might also theoretically spare the higher toxicity rate for patients who only required single-agent anti-PD-1 therapy for disease control.\n\nDespite demonstrating the highest ORR, PFS, and OS, the combination of nivolumab plus ipilimumab at 3 mg/kg treatment is not uniformly used in advanced melanoma because of serious immune-related adverse events.[4](#page-7-3) A strategy for mitigating toxicity with this combination immunotherapy is administration of low-dose ipilimumab, 1 mg/kg, in combination with an anti-PD-1 antibody. The randomized Checkmate-511 study compared nivolumab with ipilimumab at 1 mg/kg or 3 mg/kg, demonstrating that high-grade adverse events (grades 3-5) occurred in 34% versus 48% of patients, respectively, whereas exploratory efficacy outcomes were similar.[7](#page-7-6) No prospective studies have yet described the utility of anti-PD-1 plus anti-CTLA-4 antibody therapy following progression on anti-PD-1/L1 monotherapy.\n\nMultiple biomarkers of anti-PD-1 treatment response, such as PD-L1 immunohistochemistry and gene expression profiling centered on interferon-associated transcripts, have been identified to stratify immunotherapy treatment outcomes. T-cell\u2013inflamed gene expression, which more broadly describes the tumor microenvironment than PD-L1 staining alone, perhaps has the strongest predictive association with response in melanoma.[8](#page-7-7) Immunotherapy biomarkers have been predominately explored in the treatment-na\u00a8\u0131ve setting, and it remains unclear what relationship these biomarkers have with response after failure on an anti-PD-1/L1 antibody.\n\nHerein, we report outcomes from a phase II clinical trial for the combination of pembrolizumab plus low-dose ipilimumab following progression on an anti-PD-1/L1 antibody in advanced melanoma. We also report baseline tumor biomarkers of clinical response to this combination immunotherapy regimen.\n\n# METHODS\n\n# Study Design and Participants\n\nIn this open-label, single-arm phase II trial, we recruited patients from seven medical centers across the United States. Eligible adult patients had unresectable or metastatic melanoma with known BRAF mutation status, uveal melanoma excluded, measurable disease according to immune-related RECIST (irRECIST) version 1.1,[9](#page-7-8) and adequate organ function and performance status. Patients with previous grade 3-4 toxicity from anti-PD-1/L1 antibody therapy leading to treatment discontinuation were excluded. All patients must have experienced disease progression during treatment with an anti-PD-1/L1 antibody immediately before accrual to this study or disease progression within 6 months of adjuvant anti-PD-1 antibody without intercurrent therapy. For patients without clear clinical progression on the prior anti-PD-1/L1 antibody, a confirmatory scan was recommended but not required. Patients with active CNS metastases were excluded (previously treated, stable CNS disease allowed); no prior anti-CTLA-4 antibody use in the metastatic setting was permitted. Full inclusion and exclusion criteria are listed in the study Protocol (online only [pp 12-15]). The study Protocol was reviewed and approved by the appropriate institutional review boards at each participating site. We conducted the study in accordance with the Protocol with subsequent amendments and with the Declaration of Helsinki. All patients provided written informed consent.\n\n# Procedures\n\nPatients received pembrolizumab (200 mg) intravenously along with low-dose ipilimumab (1 mg/kg) intravenously once every 3 weeks for four doses, followed by pembrolizumab intravenously 200 mg once every 3 weeks for up to 2 years. Treatment continued until confirmed radiographic disease progression, intolerable toxicity, patient withdrawal of consent, investigator decision, or completion of therapy. Per irRECIST, patients with initial evidence of radiographic progression were allowed to continue through to a second confirmatory scan to account for tumor flare; however, patients with evidence of clinical deterioration or clear objective disease progression, as assessed by the treating physician, were not required to have repeat imaging for confirmation of progressive disease. Study treatments continued for up to 2 years, although patients who attained a complete response confirmed on at least two scans after a minimum of 24 weeks of study treatment could discontinue treatment early. Full discontinuation criteria are included in the study Protocol (pp 25-26). No dose reductions of pembrolizumab or ipilimumab were permitted.\n\nImmunohistochemistry for tumor PD-L1 expression and gene expression profiling were performed on archival formalin-fixed paraffin-embedded (FFPE). Full methods for PD-L1 scoring, as well as procedures for RNA extraction and gene expression profiling by RNAseq, are included in the [Appendix](#page-10-0) (online only).\n\nFormal clinical assessments of response were completed per irRECIST version 1.1 before initiation of study therapy and every 12 weeks thereafter, with intervals of at least every 3 weeks required for confirmation of disease progression. At all treatment and follow-up visits, we assessed physical examination status, vital signs, and laboratory values. Adverse events were documented according to the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0.\n\n# Outcome Analysis\n\nThe primary objective of this study was to determine the ORR of pembrolizumab with low-dose ipilimumab following initial progression on an anti-PD-1/L1 antibody in advanced melanoma. Secondary objectives included summarizing PFS (defined as time on study treatment until immunerelated progressive disease, clear clinical progression, or death) and safety. Exploratory objectives included associations of baseline tumor gene expression patterns with clinical outcomes. Although not prespecified end points in the study Protocol, OS (defined as the time from enrollment to death from any cause) and duration of response (DOR; defined as the time from first evidence of response until disease progression or death) were also assessed.\n\n# Statistical Analysis\n\nThe initial design of this study sought to test a null hypothesis of a 10% RR (based on known historical controls for ipilimumab) versus a 30% alternative.[5](#page-7-4) Simon's optimal two-stage design was initially employed to enroll up to a total of 35 patients. In the first stage, 12 patients were enrolled with two responses required to initiate the second stage, where a total of 35 patients would be enrolled (one-sided alpha .10, 90% power). Given the investigator-initiated and open-label nature of the study, no formal accrual hold was planned for interim analysis. It was observed that two patients responded within the first five patients accrued and there were seven responders in the first 12 patients of the Simon design. The primary end point for the total study was met when eight responses were observed in the first 17 patients, after which the trial was expanded to enroll a total of 70 patients in an exploratory manner to better describe the ORR in this population.[10](#page-7-9) We assessed ORR and, using the Kaplan-Meier method, estimated PFS and OS in all enrolled patients as well as DOR in patients achieving a partial or complete response. We provided descriptive statistics for baseline patient characteristics and for adverse events. Frequency of adverse events for each grade level was recorded among all patients receiving at least one dose of study therapy.\n\nAvailable tumor specimens were analyzed for PD-L1 expression and gene expression profiling; these biomarkers were then compared with clinical response outcomes. We used a previously described T-cell inflammation score,[11](#page-7-10) which correlates with other validated interferon-g gene signatures [\\(Appendix\\)](#page-10-0).[12](#page-7-11) This trial is registered with ClinicalTrials.gov identifier: [NCT02743819.](https://www.clinicaltrials.gov/ct2/show/NCT02743819) The trial is closed to enrollment, but patients remain on treatment and in observation for safety and ongoing response assessments.\n\n# RESULTS\n\nFrom December 9, 2016 to November 4, 2019, 70 patients were enrolled and treated with at least one dose of pembrolizumab plus low-dose ipilimumab. Before enrollment, the median time on prior anti-PD-1/L1 antibody was 4.8 months (Appendix [Fig A1,](#page-10-1) online only). Thirteen study patients (19%) progressed previously in the adjuvant setting. Two patients received adjuvant ipilimumab and completed this treatment 15 and 22 months before receiving an anti-PD-1/L1 antibody. Progression to prior anti-PD-1/L1 therapy was determined by confirmatory scans in 55 (79%) patients and by assessment of clinical progression by the treating physician in 15 (21%) patients. Most patients were male and had cutaneous melanoma; 20 patients (29%) had BRAFV600 mutations. Additionally, 34 patients (49%) had M1c or M1d disease, and 22 patients (31%) had elevated serum lactate dehydrogenase (LDH) concentrations ([Table 1\\)](#page-3-0).\n\n<span id=\"page-3-0\"></span>TABLE 1. Baseline Characteristics\n\n|                                                     | Study Patients<br>Receiving |\n|-----------------------------------------------------|-----------------------------|\n| Characteristic                                      | \u2021 1 Dose (N 5 70)           |\n| Age, years                                          |                             |\n| Median                                              | 64                          |\n| Range                                               | 27-87                       |\n| Sex, No. (%)                                        |                             |\n| Male                                                | 47 (67)                     |\n| Female                                              | 23 (33)                     |\n| BRAF status, No. (%)                                |                             |\n| Mutant (V600)                                       | 20 (29)                     |\n| Wild type                                           | 50 (71)                     |\n| AJCC stage, No. (%)                                 |                             |\n| IIIc (unresectable)                                 | 12 (17)                     |\n| IV                                                  | 58 (83)                     |\n| M1a                                                 | 15 (21)                     |\n| M1b                                                 | 9 (13)                      |\n| M1c                                                 | 27 (39)                     |\n| M1d                                                 | 7 (10)                      |\n| Melanoma subtypes, No. (%)                          |                             |\n| Cutaneous (non-acral)                               | 62 (89)                     |\n| Acral                                               | 7 (10)                      |\n| Mucosal                                             | 1 (1)                       |\n| Adjuvant anti-PD-1 Ab progression                   | 13 (19)                     |\n| Baseline LDH, No. (%)                               |                             |\n| # ULN                                               | 48 (69)                     |\n| . ULN                                               | 17 (24)                     |\n| \\$ 23 ULN                                           | 5 (7)                       |\n| History of brain metastases (treated), No. (%)      |                             |\n| Yes                                                 | 7 (10)                      |\n| No                                                  | 53 (90)                     |\n| Liver metastases, No. (%)                           |                             |\n| Yes                                                 | 17 (24)                     |\n| No                                                  | 53 (76)                     |\n| Prior lines of systemic therapy (mean 5 1), No. (%) |                             |\n| Anti-PD-1 Ab alone                                  | 60 (86)                     |\n| Anti-PD-1/L1 Ab combination (non\u2013anti-CTLA-4 Ab)    | 8 (11)                      |\n| Anti-PD-L1 Ab combination (non\u2013CTLA-4 Ab)           | 2 (3)                       |\n| Prior adjuvant ipilimumab (pre\u2013anti-PD-1/L1 Ab)     | 2 (3)                       |\n| Adjuvant interferon (pre\u2013anti-PD-1/L1 Ab)           | 3 (4)                       |\n| Prior BRAF-directed therapy (pre\u2013anti-PD-1/L1 Ab)   | 5 (7)                       |\n\nAbbreviations: Ab, antibody; AJCC, American Joint Committee on Cancer; CTLA-4, cytotoxic T-cell lymphocyte-4; LDH, lactate dehydrogenase; M, distant metastasis; PD-1, programmed cell death protein-1; PD-L1, programmed death ligand-1; ULN, upper limit of normal.\n\nBy the data cutoff date of April 28, 2020, the median followup was 12.0 months (interquartile range [IQR], 6.0- 22.6 months); among patients still alive, the median follow-up time was 13.3 months (IQR, 6.2-23.1 months). At the time of the analysis, five patients (7%) were continuing to receive pembrolizumab monotherapy and one patient had completed 2 years of study therapy. All other patients have discontinued because of clinical or radiographic disease progression in 47 patients (67%), adverse events in nine patients (13%), elective discontinuation of therapy after complete response in four patients (6%), death unrelated to study therapy in two patients (3%), or withdrawal of consent in two patients (3%). Fifty-three patients (76%) received four or more doses of pembrolizumab plus lowdose ipilimumab. Of those who did not complete four cycles of study therapy, the median number of cycles was 2 (IQR, 1.75-2.25) and reasons for discontinuation among these patients were progressive disease (n 5 11), adverse events (n 5 4), and death (n 5 2). For patients continuing pembrolizumab monotherapy, the median number of cycles was 9 (IQR, 5.0-15.8).\n\nTwenty of 70 enrolled patients (29%) achieved a confirmed response (95% CI, 18.4 to 40.6), including five complete (7.2%) and 15 partial responses (21.4%) [\\(Fig 1\\)](#page-4-0). Three additional patients had unconfirmed responses, all with subsequent disease progression. Eight patients were nonevaluable for radiographic assessment of the primary end point but are included in the overall analysis for ORR (as nonresponders) and secondary end points. Of the eight nonevaluable patients, five had clear clinical progression before first response assessment, two patients died of complications related to disease progression before restaging, and one patient withdrew consent after experiencing grade three immune-related hepatitis after one dose of study therapy. The median PFS was 5 months (95% CI, 2.8 to 8.3). In responding patients, the median DOR was 16.6 months (95% CI, 7.9 to not reached). The median OS was 24.7 months (95% CI, 15.2 to not reached) (Appendix [Fig A2](#page-11-0), online only). At the time of data lock, 14 of 20 responses (70%) were ongoing.\n\nResponses were observed across clinical and biomarker subgroups ([Table 2](#page-5-0)), including patients who progressed on an anti-PD-1/L1 antibody in the adjuvant setting (two of 13 [15%]), patients with liver metastases and previously treated CNS metastases (six of 25 [17%]), and patients with an elevated LDH at study entry (six of 22 [27%]). No association between time on prior anti-PD-1/L1 antibody therapy and subsequent response to study therapy was observed. The median time between prior anti-PD-1/L1 treatments and initiating pembrolizumab plus low-dose ipilimumab was 1.5 months in responders vs 1.4 months in nonresponders. More responses were observed in PD-L1\u2013negative archival tumors (15 of 39 [38%]) as compared with PD-L1\u2013positive archival tumors (four of 27 [15%]). T-cell\u2013inflamed gene expression scores were calculated across all patients with archival tissue adequate for RNA extraction (n 5 58). Two T-cell\u2013inflamed tumors were observed among the 20 responders, with the remainder being either non-T-cell\u2013inflamed or intermediate ([Table 3\\)](#page-5-1).\n\nTreatment-related adverse events occurred in 62 of 70 patients (87%), with the most frequent events being pruritis, rash, diarrhea, fatigue, nausea, and transaminase elevations [\\(Table 4\\)](#page-6-0). Grade 3-4 treatment-related adverse events occurred in 19 of 70 patients (27%), with the most common being colitis or diarrhea, rash, and transaminase elevations. Only one patient experienced a grade four treatment-related adverse event, which was a concurrent lipase elevation in a patient with grade three pancreatitis.\n\n![](_page_4_Figure_3.jpeg)\n\n<span id=\"page-4-0\"></span>FIG 1. Antitumor activity. (A) Best percentage change from baseline in the sum of the longest diameters of target lesions in all patients with at least one on-treatment radiographic assessment. Kaplan-Meier estimates of (B) PFS and (C) duration of response. <sup>a</sup> Unconfirmed response. PD-L1, programmed death ligand-1; PFS, progression-free survival.\n\n<span id=\"page-5-0\"></span>TABLE 2. RRs in Overall Study Population and by Clinical and Biomarker Subgroups\n\n| Response subgroups                                            | Overall irRECIST RR 20/70 (29%),<br>No. (%) |\n|---------------------------------------------------------------|---------------------------------------------|\n| After adjuvant anti-PD-1 Ab progression                       | 2/13 (15)                                   |\n| Liver or CNS disease                                          | 6/24 (17)                                   |\n| Acral or mucosal melanoma                                     | 1/8 (14)                                    |\n| Elevated LDH                                                  | 6/22 (27)                                   |\n| LDH in normal range                                           | 14/48 (29)                                  |\n| BRAF status                                                   |                                             |\n| Mutant                                                        | 5/20 (25)                                   |\n| Wild type                                                     | 15/50 (30)                                  |\n| Time on prior anti-PD-1/L1 treatment                          |                                             |\n| . 6 months                                                    | 4/25 (16)                                   |\n| , 6 months                                                    | 16/45 (36)                                  |\n| . 12 months                                                   | 0/8 (0)                                     |\n| Assessment of progression to prior anti-PD-1/<br>L1 treatment |                                             |\n| Confirmed progressive disease (irPD)                          | 14/55 (25)                                  |\n| Clinical progressive disease                                  | 6/15 (40)                                   |\n| PD-L1 statusa                                                 |                                             |\n| PD-L1\u2013positive                                                | 4/27 (15)                                   |\n| PD-L1\u2013negative                                                | 15/39 (38)                                  |\n\nAbbreviations: Ab, antibody; irPD, immune-related progressive disease; LDH, lactate dehydrogenase; PD-1, programmed cell death protein-1; PD-L1, programmed death ligand-1; RR, response rate.\n\na One responder with PD-L1 stain inadequate for scoring.\n\n> Four other patients also experienced concurrent grade three treatment-related adverse events. There were no deaths related to study treatment. The median time to onset of grade 3-4 adverse events was 55 days.\n\n# DISCUSSION\n\nWe performed this prospective study of patients with advanced melanoma refractory to an anti-PD-1/L1 antibody and demonstrate that the combination of pembrolizumab plus low-dose ipilimumab has substantial antitumor activity\n\n<span id=\"page-5-1\"></span>TABLE 3. Responses by T-Cell\u2013Inflamed Gene Expression Signature Best Overall Response\n\n| T Cell Inflammation Score | CR | PR | SD | PD | Total, No. (%) |\n|---------------------------|----|----|----|----|----------------|\n| T-cell\u2013inflamed           | 1  | 1  | 0  | 3  | 5 (9)          |\n| Intermediate              | 1  | 9  | 8  | 18 | 34 (59)        |\n| Non-T-cell\u2013inflamed       | 2  | 6  | 3  | 8  | 19 (33)        |\n\nNOTE. Response categories by T-cell\u2013inflamed GEPs in all patients with available tumor specimens passing RNA quality control (n 5 58).\n\nAbbreviations: CR, complete response; GEP, gene expression profile; PD, progressive disease; PR, partial response; SD, stable disease.\n\nand a manageable toxicity profile. Responses were observed in 29% of all study patients. Responses are ongoing in 70% of responding patients, with a median response duration of 16.6 months. Responses were also observed across all clinical subgroups, including patients with elevated LDH and brain and liver metastases and in patients who progressed on an anti-PD-1/L1 antibody in the adjuvant setting. Most responses were observed among patients who progressed on a prior anti-PD-1/L1 antibody within 6 months, although responses were also observed among those with longer prior treatment. Additionally, these responses occurred predominantly among patients with intermediate to non-T-cell\u2013inflamed and PD-L1\u2013negative tumors. The study regimen showed a relatively low rate of toxicity, with grade 3-4 adverse events occurring in 27% of all study patients.\n\nProlonged response, even after cessation of therapy, is a hallmark feature of immune checkpoint inhibitors.[3](#page-7-2)[,13](#page-7-12) The durable responses observed with pembrolizumab plus lowdose ipilimumab suggest that this benefit may carry forward when using an anti-PD-1 plus anti-CTLA-4 antibody combination after anti-PD-1 antibody failure. These findings may be particularly informative for future drug development after failure of an anti-PD-1/L1 antibody by setting an important benchmark for therapies in this space.\n\nAlthough high rates of toxicity have previously limited safe delivery of anti-PD-1 plus anti-CTLA-4 combinations, the 27% grade 3-4 adverse event rate observed with pembrolizumab plus low-dose ipilimumab reflects a comparatively manageable side effect profile. Currently, there is no prospective comparison of toxicity for anti-PD-1 and anti-CTLA-4 antibody combinations in the anti-PD-1/L1 antibody\u2013refractory setting, although high-grade toxicity rates in the anti-PD-1/L1 antibody\u2013na\u00a8\u0131ve setting surpass 50%[.4](#page-7-3) In this study, we used a 1 mg/kg dose of ipilimumab to mitigate such high rates of toxicity, while seeking to maintain antitumor activity, as this strategy has shown promise in the anti-PD-1/L1\u2013na\u00a8\u0131ve setting.[7](#page-7-6),[14](#page-7-13) The 1 mg/kg ipilimumab dose may, to an extent, explain the relatively favorable rates of toxicity observed with pembrolizumab plus low-dose ipilimumab. We would, however, make only cautious comparisons between toxicity rates between the anti-PD-1/L1 antibody\u2013refractory and antibody\u2013na\u00a8\u0131ve settings. As anti-PD-1/L1 antibody refractory patients who experienced high-grade toxicity were ineligible for our study, toxicity rates observed with ipilimumab combination in the anti-PD-1/L1 antibody\u2013refractory setting may be subject to this selection bias.\n\nResponses to pembrolizumab plus low-dose ipilimumab were observed predominantly among PD-L1\u2013negative and intermediate to non-T-cell\u2013inflamed tumors. This is contrary to what has been observed in the anti-PD-1/L1 antibody\u2013na\u00a8\u0131ve setting, where biomarkers of T-cell inflammation and PD-L1 expression enrich for response[.8](#page-7-7)[,15,](#page-7-14)[16](#page-8-0) Previously, MHC class II expression has been shown to predict\n\n<span id=\"page-6-0\"></span>TABLE 4. TRAEs\n\n| Variable                                                                                      | Grade 1-2  | Grade 3-4a |\n|-----------------------------------------------------------------------------------------------|------------|------------|\n| Any TRAE, No. (%)                                                                             | 62/70 (87) | 19/70 (27) |\n| TRAEs in . 10 of patients                                                                     |            |            |\n| Pruritis                                                                                      | 28 (40)    |            |\n| Rash (maculopapular, acneiform, and<br>papulopustular)                                        | 25 (36)    | 4 (6)      |\n| Colitis or diarrhea                                                                           | 28 (40)    | 6 (9)      |\n| Fatigue                                                                                       | 23 (33)    | 0          |\n| Nausea                                                                                        | 17 (24)    | 1 (1)      |\n| ALT/AST increased                                                                             | 14 (20)    | 4 (6)      |\n| Anorexia                                                                                      | 14 (20)    | 0          |\n| Arthralgia                                                                                    | 7 (10)     | 0          |\n| TRAEs leading to treatment discontinuation, No. (%)                                           |            |            |\n| Rash maculopapular                                                                            | 0          | 1 (1)      |\n| Skin and subcutaneous tissue disorders\u2014others<br>(vasculitis)                                 | 0          | 1 (1)      |\n| AST and/or ALT elevation                                                                      | 0          | 2 (3)      |\n| Colitis or diarrhea                                                                           | 0          | 1 (1)      |\n| No. of patients with \\$ grade 3 toxicity at least possibly<br>related to study drug, No. (%)b |            |            |\n| Colitis or diarrhea                                                                           | NA         | 6 (9)      |\n| Rash (acneiform or maculopapular)                                                             | NA         | 4 (6)      |\n| AST and/or ALT elevation                                                                      | NA         | 4 (6)      |\n| Lipase elevationa                                                                             | NA         | 3 (4)      |\n| Acute kidney injury                                                                           | NA         | 2 (3)      |\n| Hyperglycemia                                                                                 | NA         | 2 (3)      |\n| Pancreatitis                                                                                  | NA         | 1 (1)      |\n| Skin and subcutaneous tissue disorders\u2014others,<br>specify (vasculitis)                        | NA         | 1 (1)      |\n| Anemia                                                                                        | NA         | 1 (1)      |\n| Nausea                                                                                        | NA         | 1 (1)      |\n| Lymphocyte count decreased                                                                    | NA         | 1 (1)      |\n| Lymphocyte count increased                                                                    | NA         | 1 (1)      |\n| Lung infection                                                                                | NA         | 1 (1)      |\n| Alkaline phosphatase elevation                                                                | NA         | 1 (1)      |\n\nAbbreviations: NA, not available; TRAE, treatment-related adverse event. a A single grade 4 lipase elevation TRAE occurred concurrently in a patient with grade 3 pancreatitis.\n\nb A given patient might be counted in more than one toxicity grade category.\n\n> response to anti-PD-1 but not anti-CTLA-4 antibody therapy, suggesting that distinct mechanisms of antigen presentation may drive the differential benefit between the two immune checkpoint inhibitors.[17-](#page-8-1)[19](#page-8-2) These findings would also suggest that patients with highest pre-existing IFNg\u2013associated immune activation are most likely to benefi<sup>t</sup> from upfront anti-PD-1/L1 antibody therapy and hence may\n\nbe less represented in the anti-PD-1/L1 antibody\u2013refractory setting. This could explain in part why patients who benefited from pembrolizumab plus low-dose ipilimumab were found to have non-T-cell\u2013inflamed tumor phenotypes. It remains unclear, however, how the addition of ipilimumab drives antitumor responses after a failure of an anti-PD-1/L1 antibody. One possibility is that ipilimumab may enhance the development of de novo antitumor responses in the peripheral immune compartment and/or relieve independent mechanisms of resistance associated with PD-1/L1 expression in the tumor microenvironment. These hypotheses are supported by neoadjuvant ipilimumab studies in which an influx of CD8<sup>1</sup> T cells into the tumor microenvironment was observed after treatment[.20](#page-8-3) The exact immunologic mechanisms by which ipilimumab may facilitate these antitumor responses require further investigation.\n\nWe recognize that our study has certain limitations. Given the constraints of an uncontrolled study, we would await the randomized results of anti-PD-1 plus anti-CTLA-4 antibody combination after anti-PD-1 antibody failure to definitively make a claim of superiority for the combination regimen[.21](#page-8-4) Additionally, at the time this study began, there was not a formal consensus to define progression on an anti-PD-1/L1 antibody as it exists currently.[22](#page-8-5) In reviewing our study, 79% of patients had two scans to confirm progression on a prior anti-PD-1/L1 antibody, and for patients without confirmatory scans, treating physicians used their clinical judgment to ascertain a lack of benefit from the prior anti-PD-1/L1 antibody. Although RECIST 1.1 remains a predominant treatment response method, we chose irRECIST to more completely describe the clinical outcomes as the primary end point analysis for an immunotherapy trial. Regarding our observations surrounding lack of a T-cell\u2013inflamed tumor phenotype with response, these findings are predicated on baseline, archival FFPE tumor samples. Future studies incorporating pre- and on-treatment biopsies after anti-PD-1/L1 antibody failure will be helpful to fully characterize mechanisms of tumor microenvironment modulation by ipilimumab. We also recognize that in clinical practice, some patients may receive intercurrent BRAF-/ MEK-directed therapy after progression on an anti-PD-1/L1 antibody. Outcomes for this specific subgroup await further study.\n\nThe combination of pembrolizumab plus low-dose ipilimumab demonstrated significant antitumor activity and tolerability in a multicenter clinical trial. This study demonstrated long-term responses, suggesting that durable survival\u2014a hallmark of immunotherapy activity\u2014may be possible even after failure of an anti-PD-1/L1 antibody. These findings warrant further investigation and support the ongoing effort to directly compare combination of anti-PD-1 and anti-CTLA-4 antibodies with ipilimumab alone in the anti-PD-1/L1 antibody\u2013refractory setting.\n\n# AFFILIATIONS\n\n1 University of Chicago Comprehensive Cancer Center, Chicago, IL 2 H. Lee Moffitt Cancer Center and Research Institute, Tampa, FL 3 NorthShore University Health System, Evanston, IL\n\n4 VCU Massey Cancer Center, Richmond, VA\n\n5 Illinois Cancer Care, Peoria, IL\n\n6 Fort Wayne Medical Oncology and Hematology, Ft Wayne, IN\n\n7 Advocate-Aurora Health, Park Ridge, IL\n\n8 Decatur Memorial Hospital, Decatur, IL\n\n9 University of Miami Sylvester Comprehensive Cancer Center, Miami Beach, FL\n\n10UPMC Hillman Cancer Center, Pittsburgh, PA\n\n# CORRESPONDING AUTHOR\n\nJason J. Luke, MD, University of Pittsburgh Medical Center and Hillman Cancer Center, 5150 Centre Ave, Rm 564, Pittsburgh, PA 15232; e-mail: [lukejj@upmc.edu.](mailto:lukejj@upmc.edu)\n\n# DISCLAIMER\n\nThe content is solely the responsibility of the authors and does not necessarily represent the official views of the National Cancer Institute or the National Institutes of Health.\n\n# EQUAL CONTRIBUTION\n\nT.F.G., N.I.K., and J.J.L. are co-senior authors.\n\n#### PRIOR PRESENTATION\n\nPresented in part at the American Society of Clinical Oncology Annual Meeting, Chicago, IL, June 4, 2018; and the American Society of Clinical Oncology Annual Meeting, Chicago, IL, May 29, 2020.\n\n#### SUPPORT\n\nSupported by the Merck Investigator Studies Program. Merck provided pembrolizumab and grant funding for the trial and reviewed the final\n\ndrafts of the Protocol and of this manuscript before submission; they played no direct role in study design, data collection, data analysis, or writing of the manuscript. All authors had full access to all the data in the study and had final responsibility for the decision to submit for publication.\n\nD.J.O. was supported by Award Number K12CA139160 from the National Cancer Institute. J.J.L. was supported by DOD W81XWH-17-1- 0265, UM1CA186690-06, the Sy Holzer Endowed Immunotherapy Research Fund Award, and 2020 Hillman Senior Faculty Fellow for Innovative Cancer Research.\n\n# AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST\n\nDisclosures provided by the authors are available with this article at DOI [https://doi.org/10.1200/JCO.21.00079.](https://ascopubs.org/doi/full/10.1200/JCO.21.00079)\n\n# AUTHOR CONTRIBUTIONS\n\nConception and design: Andrew S. Poklepovic, Theodore Karrison, Thomas F. Gajewski, Jason J. Luke\n\nAdministrative support: Vernon K. Sondak, Jason J. Luke\n\nProvision of study materials or patients: Madhuri Bajaj, Mario Velasco, Vernon K. Sondak, Thomas F. Gajewski, Nikhil I. Khushalani, Jason J. Luke\n\nCollection and assembly of data: Daniel J. Olson, Zeynep Eroglu, Andrew S. Poklepovic, Madhuri Bajaj, Sunil Babu, Sigrun Hallmeyer, Mario Velasco, Jose Lutzky, Brian Labadie, Yuanyuan Zha, Vernon K. Sondak, Thomas F. Gajewski, Nikhil I. Khushalani, Jason J. Luke\n\nData analysis and interpretation: Daniel J. Olson, Zeynep Eroglu, Bruce Brockstein, Andrew S. Poklepovic, Sunil Babu, Sigrun Hallmeyer, Emily Higgs, Riyue Bao, Timothy C. Carll, Thomas Krausz, Theodore Karrison, Vernon K. Sondak, Thomas F. Gajewski, Nikhil I. Khushalani, Jason J. Luke\n\nManuscript writing: All authors Final approval of manuscript: All authors Accountable for all aspects of the work: All authors\n\n#### REFERENCES\n\n- <span id=\"page-7-0\"></span>1. Luke JJ, Flaherty KT, Ribas A, et al: Targeted agents and immunotherapies: Optimizing outcomes in melanoma. Nat Rev Clin Oncol 14:463-482, 2017\n- <span id=\"page-7-1\"></span>2. Robert C, Grob JJ, Stroyakovskiy D, et al: Five-year outcomes with dabrafenib plus trametinib in metastatic melanoma. N Engl J Med 381:626-636, 2019\n- <span id=\"page-7-2\"></span>3. Larkin J, Chiarion-Sileni V, Gonzalez R, et al: Five-year survival with combined nivolumab and ipilimumab in advanced melanoma. N Engl J Med 381: 1535-1546, 2019\n- <span id=\"page-7-3\"></span>4. Hodi FS, Chiarion-Sileni V, Gonzalez R, et al: Nivolumab plus ipilimumab or nivolumab alone versus ipilimumab alone in advanced melanoma (CheckMate 067): 4-year outcomes of a multicentre, randomised, phase 3 trial. Lancet Oncol 19:1480-1492, 2018\n- <span id=\"page-7-4\"></span>5. Long GV, Robert C, Blank CU, et al: Outcomes in patients (pts) treated with ipilimumab (ipi) after pembrolizumab (pembro) in KEYNOTE-006. Pigment Cell Melanoma Res 30:118, 2017\n- <span id=\"page-7-5\"></span>6. Pires Da Silva I, Ahmed T, Lo S, et al: Ipilimumab (IPI) alone or in combination with anti-PD-1 (IPI1PD1) in patients (pts) with metastatic melanoma (MM) resistant to PD1 monotherapy. J Clin Oncol 38, 2020 (suppl; abstr 10005)\n- <span id=\"page-7-6\"></span>7. Lebbe C, Meyer N, Mortier L, et al: Evaluation of two dosing regimens for nivolumab in combination with ipilimumab in patients with advanced melanoma: \u00b4 Results from the phase IIIb/IV CheckMate 511 trial. J Clin Oncol 37:867-875, 2019\n- <span id=\"page-7-7\"></span>8. Cristescu R, Mogg R, Ayers M, et al: Pan-tumor genomic biomarkers for PD-1 checkpoint blockade\u2013based immunotherapy. Science 362:eaar3593, 2018\n- <span id=\"page-7-8\"></span>9. Nishino M, Jagannathan JP, Ramaiya NH, et al: Revised RECIST guideline version 1.1: What oncologists want to know and what radiologists need to know. AJR Am J Roentgenol 195:281-289, 2010\n- <span id=\"page-7-9\"></span>10. Olson D, Luke JJ, Hallmeyer S, et al: Phase II trial of pembrolizumab (pembro) plus 1 mg/kg ipilimumab (ipi) immediately following progression on anti-PD-1 Ab in melanoma (mel). J Clin Oncol 36:9514, 2018 (suppl; abstr 9514)\n- <span id=\"page-7-10\"></span>11. Spranger S, Luke JJ, Bao R, et al: Density of immunogenic antigens does not explain the presence or absence of the T-cell-inflamed tumor microenvironment in melanoma. Proc Natl Acad Sci USA 113:E7759-E7768, 2016\n- <span id=\"page-7-11\"></span>12. Bao R, Stapor D, Luke JJ: Molecular correlates and therapeutic targets in T cell-inflamed versus non-T cell-inflamed tumors across cancer types. Genome Med 12:90-19, 2020\n- <span id=\"page-7-12\"></span>13. Ribas A, Hamid O, Daud A, et al: Association of pembrolizumab with tumor response and survival among patients with advanced melanoma. JAMA 315: 1600-1609, 2016\n- <span id=\"page-7-13\"></span>14. Long GV, Atkinson V, Cebon JS, et al: Standard-dose pembrolizumab in combination with reduced-dose ipilimumab for patients with advanced melanoma (KEYNOTE-029): An open-label, phase 1b trial. Lancet Oncol 18:1202-1210, 2017\n- <span id=\"page-7-14\"></span>15. Ayers M, Lunceford J, Nebozhyn M, et al: IFN-g-related mRNA profile predicts clinical response to PD-1 blockade. J Clin Invest 127:2930-2940, 2017\n\n- <span id=\"page-8-0\"></span>16. Taube JM, Klein A, Brahmer JR, et al: Association of PD-1, PD-1 ligands, and other features of the tumor immune microenvironment with response to anti-PD-1 therapy. Clin Cancer Res 20:5064-5074, 2014\n- <span id=\"page-8-1\"></span>17. Rodig SJ, Gusenleitner D, Jackson DG, et al: MHC proteins confer differential sensitivity to CTLA-4 and PD-1 blockade in untreated metastatic melanoma. Sci Transl Med 10:eaar3342, 2018\n- 18. Johnson DB, Bordeaux J, Kim JY, et al: Quantitative spatial profiling of PD-1/PD-L1 interaction and HLA-DR/IDO-1 predicts improved outcomes of anti-PD-1 therapies in metastatic melanoma. Clin Cancer Res 24:5250-5260, 2018\n- <span id=\"page-8-2\"></span>19. Johnson DB, Estrada MV, Salgado R, et al: Melanoma-specific MHC-II expression represents a tumour-autonomous phenotype and predicts response to anti-PD-1/PD-L1 therapy. Nat Commun 7:10582, 2016\n- <span id=\"page-8-3\"></span>20. Tarhini AA, Edington H, Butterfield LH, et al: Immune monitoring of the circulation and the tumor microenvironment in patients with regionally advanced melanoma receiving neoadjuvant ipilimumab. PLoS One 9:e87705, 2014\n- <span id=\"page-8-4\"></span>21. Vanderwalde AM, Latkovic-Taber M, Hu-Lieskovan S, et al: Combining ipilimumab (ipi) and nivolumab (nivo) in advanced melanoma following progression on a PD-1 inhibitor (SWOG S1616). J Clin Oncol 36, 2018 (suppl; abstr TPS9597)\n- <span id=\"page-8-5\"></span>22. Kluger HM, Tawbi HA, Ascierto ML, et al: Defining tumor resistance to PD-1 pathway blockade: Recommendations from the first meeting of the SITC immunotherapy resistance taskforce. J ImmunoTherapy Cancer 8:e000398, 2020\n- <span id=\"page-8-6\"></span>23. Gaule P, Smithy JW, Toki M, et al: A quantitative comparison of antibodies to programmed cell death 1 ligand 1. JAMA Oncol 3:256-259, 2017\n- <span id=\"page-8-7\"></span>24. Andrews S: fastqc SAHWBBAUP, 2012: FastQC: A Quality Control Application for High Throughput Sequence Data. [www.bioinformatics.babraham.ac.uk/](http://www.bioinformatics.babraham.ac.uk/projects/fastqc) [projects/fastqc](http://www.bioinformatics.babraham.ac.uk/projects/fastqc)\n- <span id=\"page-8-8\"></span>25. Bray NL, Pimentel H, Melsted P, et al: Near-optimal probabilistic RNA-seq quantification. Nat Biotechnol 34:525-527, 2016\n- <span id=\"page-8-9\"></span>26. Soneson C, Love MI, Robinson MD: Differential analyses for RNA-seq: Transcript-level estimates improve gene-level inferences. F1000 Res 4:1521, 2015\n\nnnn\n\n#### AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST\n\n#### Pembrolizumab Plus Ipilimumab Following Anti-PD-1/L1 Failure in Melanoma\n\nThe following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated unless otherwise noted. Relationships are self-held unless noted. I 5 Immediate Family Member, Inst 5 My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO's conflict of interest policy, please refer to [www.asco.org/rwc](http://www.asco.org/rwc) or [ascopubs.org/jco/authors/author-center](http://ascopubs.org/jco/authors/author-center).\n\nOpen Payments is a public database containing information reported by companies about payments made to US-licensed physicians [\\(Open Payments](https://openpaymentsdata.cms.gov/)).\n\n#### Zeynep Eroglu\n\nConsulting or Advisory Role: Regeneron, Sun Pharma, Genentech/Roche, Novartis, OncoSec, Natera, Elsevier Research Funding: Novartis, Pfizer\n\n#### Bruce Brockstein\n\nConsulting or Advisory Role: Exelixis/Ipsen\n\nResearch Funding: AstraZeneca Patents, Royalties, Other Intellectual Property: UpToDate. Author and Editorial duties\n\nAndrew S. Poklepovic Consulting or Advisory Role: Novartis Speakers' Bureau: Bristol Myers Squibb\n\n#### Sunil Babu\n\nEmployment: Fort Wayne Medical Oncology & Hematology\n\nStock and Other Ownership Interests: Fort Wayne Medical Oncology & Hematology, Lutheran Hospital\n\nHonoraria: Bristol Myers Squibb, Alexion Pharmaceuticals, Lilly, Bayer, AstraZeneca\n\nConsulting or Advisory Role: Bristol Myers Squibb, Alexion Pharmaceuticals, AstraZeneca, argenx, Boehringer Ingelheim, Bayer, Kite, a Gilead company, Janssen Oncology, Amgen\n\nSpeakers' Bureau: Alexion Pharmaceuticals\n\nResearch Funding: Bristol Myers Squibb, Novartis, Genentech/Roche, AstraZeneca/MedImmune, Janssen Oncology, Amgen, TG Therapeutics, Abbvie, Lilly, Alexion Pharmaceuticals, Merck, Novartis, Syndax, Nektar, Sanofi, argenx\n\nTravel, Accommodations, Expenses: Bristol Myers Squibb, Alexion Pharmaceuticals, Lilly, Janssen Oncology, Genentech/Roche\n\n#### Sigrun Hallmeyer\n\nLeadership: Association of Community Cancer Centers (ACCC) Honoraria: Cardinal Health\n\nConsulting or Advisory Role: Bristol Myers Squibb, Cardinal Health, Array Pharamceutical\n\nSpeakers' Bureau: Bristol Myers Squibb\n\nTravel, Accommodations, Expenses: Cardinal Health, Bristol Myers Squibb Uncompensated Relationships: Society for Immunotherapy of Cancer\n\n#### Mario Velasco\n\nEmployment: Cancer Care Specialists of IL\n\n#### Jose Lutzky\n\nConsulting or Advisory Role: Castle Biosciences, Iovance Biotherapeutics, Replimune, Regeneron\n\nResearch Funding: Bristol Myers Squibb, Novartis, Iovance Biotherapeutics, Immunocore, Regeneron, Replimune, Vyriad\n\n#### Emily Higgs\n\nEmployment: Lilly Stock and Other Ownership Interests: Lilly\n\n#### Research Funding: Lilly\n\nPatents, Royalties, Other Intellectual Property: Jeffrey D. Helterbrand, Richard E. Higgs, Phillip W. Iversen, Automatic Contextual Segmentation for Imaging Bones for Osteoporosis Therapies (Granted February 1, 2000, US Patent 6,021,213). Raymond E. Kaiser, Richard E. Higgs, Randall K. Julian Jr, System and Methods for Quantitatively Comparing Complex Mixtures Using Single Ion Chromatograms Derived From Spectroscopic Analysis of Such Admixtures (Granted March 23, 1999, US Patent 5,885,841)\n\nTravel, Accommodations, Expenses: Lilly\n\n#### Vernon K. Sondak\n\nConsulting or Advisory Role: Merck/Schering Plough, Novartis, Bristol Myers Squibb, Regeneron, Replimune, Eisai\n\nTravel, Accommodations, Expenses: Polynoma, Merck, Bristol Myers Squibb, Replimune\n\n#### Thomas F. Gajewski\n\nStock and Other Ownership Interests: Jounce Therapeutics, Evelo Therapeutics, Five Prime Therapeutics, Pyxis\n\nConsulting or Advisory Role: Merck, Jounce Therapeutics, Adaptimmune, FOGPharma, Allogene Therapeutics, Pyxis, Trillium Therapeutics, Janssen Oncology, Gilead Sciences\n\nResearch Funding: Bristol Myers Squibb, Merck, Roche/Genentech, Incyte, Seattle Genetics, Ono Pharmaceutical, Aduro Biotech, Pyxis, Bayer Patents, Royalties, Other Intellectual Property: Licensing to Evelo, Licensing to Aduro, Licensing to BMS, Licensing to Pyxis\n\n#### Nikhil I. Khushalani\n\nStock and Other Ownership Interests: Bellicum Pharmaceuticals, Mazor Robotics, Amarin Corporation, Asensus Surgical\n\nHonoraria: Sanofi Consulting or Advisory Role: Bristol Myers Squibb, AstraZeneca, Regeneron, Array BioPharma, Immunocore, Merck, Incyte, Jounce Therapeutics, Iovance Biotherapeutics, NCCN/Pfizer\n\nResearch Funding: Bristol Myers Squibb, Merck, Novartis, GlaxoSmithKline, HUYA Bioscience International, Amgen, Regeneron, Celgene, Replimune\n\n#### Jason J. Luke\n\nStock and Other Ownership Interests: Actym Therapeutics, Mavu Pharmaceutical, Pyxis, Alphamab, Tempest Therapeutics, Kanaph Therapeutics, Onc.AI, Arch Oncology\n\nConsulting or Advisory Role: Array BioPharma, Bristol Myers Squibb, Merck, EMD Serono, Novartis, 7 Hills Pharma, Janssen, Reflexion Medical, Tempest Therapeutics, TTC Oncology, Alphamab, Compugen, Spring Bank, Abbvie, Astellas Pharma, Bayer, Incyte, Mersana, Partner Therapeutics, Synlogic, Eisai, Werewolf Therapeutics, Ribon Therapeutics, Checkmate Pharmaceuticals, CStone Pharmaceuticals, Nektar, Regeneron, Rubius Therapeutics, Tesaro, Xilio Therapeutics, Xencor\n\nResearch Funding: Merck, Bristol Myers Squibb, Incyte, Corvus Pharmaceuticals, Abbvie, Checkmate Pharmaceuticals, Macrogenics, Xencor, Array BioPharma, Agios, Astellas Pharma, EMD Serono, Immatics, Kadmon, Moderna Therapeutics, Nektar, Spring Bank, Trishula Therapeutics\n\nPatents, Royalties, Other Intellectual Property: Serial #15/612,657 (Cancer Immunotherapy), Serial #PCT/US18/36052 (Microbiome Biomarkers for Anti-PD-1/PD-L1 Responsiveness: Diagnostic, Prognostic and Therapeutic Uses Thereof)\n\nTravel, Accommodations, Expenses: Bristol Myers Squibb, Array BioPharma, EMD Serono, Janssen, Merck, Novartis, Reflexion Medical, Mersana, Pyxis, Xilio Therapeutics\n\nNo other potential conflicts of interest were reported.\n\n# <span id=\"page-10-0\"></span>APPENDIX\n\n#### Tumor Biomarker Procedures\n\nPD-L1 scoring. The Cell Signaling Technology EIL3N programmed death ligand-1 (PD-L1) monoclonal antibody was used for PD-L1 scoring. This antibody has been previously validated for PD-L1 scoring and showed high concordance with commercially available PD-L1 antibodies, including DAKO 22C35.[23](#page-8-6) Tumor cells were scored by University of Chicago pathologists using the DAKO 22C3 method as taught in the interactive primer course on the DAKO 22C3 website; this method is employed as standard practice for PD-L1 scoring at the University of Chicago. A cutoff of \\$ 1% was used to define PD-L1 positivity as consistent with the melanoma KEYNOTE trials.\n\nRNA sequencing and gene expression profiling. Tumor RNA was isolated from available formalin-fixed paraffin-embedded (FFPE) tumor samples using the QIAGEN AllPrep DNA/RNA FFPE kit (Qiagen, Hilden, Germany) at the Human Immunologic Monitoring Facility at the University of Chicago according to the manufacturer's instruction. The quality and quantity of RNA were measured on an Agilent 2100 Bio-analyzer using Agilent reagents and protocols (Agilent Technologies, Santa Clara, CA). RNAseq libraries were generated using Illumina TruSEQ Total RNA stranded library\u2013making kits using Illumina protocols (Illumina, San Diego, CA). The quality and quantity of the library were determined using an Agilent 2100 Bio-analyzer using Agilent reagents and protocols. Sequencing data were collected using an Illumina NovaSEQ sequencer and demultiplexed using Illumina bcl2fastq software. The quality of raw reads was assessed by FastQC[.24](#page-8-7) Reads were aligned to human reference transcriptome with Gencode gene annotation (GRCh38) by Kallisto.[25](#page-8-8) Transcript abundance was quantified at the transcript level using the strand-specific protocol, summarized into gene level using tximport[,26](#page-8-9) normalized by the trimmed mean of M values (TMM) method, and log2-transformed for further analysis. T-cell\u2013inflamed gene expression scores were determined using a 160-gene signature of T-cell inflammation[,11](#page-7-10) and the expression for each gene was normalized to its mean expression level by subtracting the average value and dividing by the standard deviation, such that the average value of the normalized data was 0 and the standard deviation was 1. T-cell\u2013inflamed gene expression scores were calculated by taking the median of the normalized values for each gene in the signature. Of the 58 tumor specimens with RNA adequate for analysis, 50 were obtained before initial anti-PD-1/L1 antibody treatment and eight were obtained after anti-PD-1/L1 antibody treatment, but before initiating study treatment with pembrolizumab plus low-dose ipilimumab.\n\n![](_page_10_Figure_6.jpeg)\n\n<span id=\"page-10-1\"></span>FIG A1. Time on prior anti-PD-1/L1 antibody (blue) versus progression-free time on pembrolizumab plus low-dose ipilimumab (red). Red bars indicate progression-free time after initiating study treatment, blue bars indicate time on prior anti-PD-1/L1 antibody, green arrows indicate patients currently on treatment, blue arrows represent those who either completed treatment or stopped early, and orange arrows represent patients who came off for an adverse event and remain progression-free. PD-1, programmed cell death protein-1; PD-L1, programmed death ligand-1.\n\n![](_page_11_Figure_1.jpeg)\n\n<span id=\"page-11-0\"></span>FIG A2. Overall survival in the total population.",
+    "json_data": {
+      "table_of_contents": [
+        {
+          "title": "communications Pembrolizumab Plus Ipilimumab Following\nAnti-PD-1/L1 Failure in Melanoma",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              98.18286895751953,
+              43.178741455078125
+            ],
+            [
+              501.591796875,
+              43.178741455078125
+            ],
+            [
+              501.591796875,
+              205.3907470703125
+            ],
+            [
+              98.18286895751953,
+              205.3907470703125
+            ]
+          ]
+        },
+        {
+          "title": "INTRODUCTION",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              114.400634765625,
+              557.81103515625
+            ],
+            [
+              174.671630859375,
+              557.81103515625
+            ],
+            [
+              174.671630859375,
+              568.8748779296875
+            ],
+            [
+              114.400634765625,
+              568.8748779296875
+            ]
+          ]
+        },
+        {
+          "title": "CONTEXT",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              48.59527587890625,
+              58.92572021484375
+            ],
+            [
+              86.121826171875,
+              58.92572021484375
+            ],
+            [
+              86.121826171875,
+              68.73004150390625
+            ],
+            [
+              48.59527587890625,
+              68.73004150390625
+            ]
+          ]
+        },
+        {
+          "title": "Key Objective",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              55.66497802734375,
+              75.2530517578125
+            ],
+            [
+              112.115478515625,
+              75.2530517578125
+            ],
+            [
+              112.115478515625,
+              85.1627197265625
+            ],
+            [
+              55.66497802734375,
+              85.1627197265625
+            ]
+          ]
+        },
+        {
+          "title": "Knowledge Generated",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              56.27197265625,
+              111.08319091796875
+            ],
+            [
+              143.3935546875,
+              111.08319091796875
+            ],
+            [
+              143.3935546875,
+              121.005615234375
+            ],
+            [
+              56.27197265625,
+              121.005615234375
+            ]
+          ]
+        },
+        {
+          "title": "Relevance",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              55.70068359375,
+              158.932373046875
+            ],
+            [
+              97.68384552001953,
+              158.932373046875
+            ],
+            [
+              97.68384552001953,
+              169.2740478515625
+            ],
+            [
+              55.70068359375,
+              169.2740478515625
+            ]
+          ]
+        },
+        {
+          "title": "METHODS",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              317.35107421875,
+              393.029296875
+            ],
+            [
+              357.34130859375,
+              393.029296875
+            ],
+            [
+              357.34130859375,
+              403.38897705078125
+            ],
+            [
+              317.35107421875,
+              403.38897705078125
+            ]
+          ]
+        },
+        {
+          "title": "Study Design and Participants",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              317.92236328125,
+              409.46923828125
+            ],
+            [
+              443.60595703125,
+              409.46923828125
+            ],
+            [
+              443.60595703125,
+              419.30340576171875
+            ],
+            [
+              317.92236328125,
+              419.30340576171875
+            ]
+          ]
+        },
+        {
+          "title": "Procedures",
+          "heading_level": null,
+          "page_id": 2,
+          "polygon": [
+            [
+              77.6953125,
+              74.60101318359375
+            ],
+            [
+              125.255126953125,
+              74.60101318359375
+            ],
+            [
+              125.255126953125,
+              85.30609130859375
+            ],
+            [
+              77.6953125,
+              85.30609130859375
+            ]
+          ]
+        },
+        {
+          "title": "Outcome Analysis",
+          "heading_level": null,
+          "page_id": 2,
+          "polygon": [
+            [
+              76.552734375,
+              526.46044921875
+            ],
+            [
+              151.248779296875,
+              526.46044921875
+            ],
+            [
+              151.248779296875,
+              536.8871917724609
+            ],
+            [
+              76.552734375,
+              536.8871917724609
+            ]
+          ]
+        },
+        {
+          "title": "Statistical Analysis",
+          "heading_level": null,
+          "page_id": 2,
+          "polygon": [
+            [
+              313.35205078125,
+              43.130950927734375
+            ],
+            [
+              395.61767578125,
+              43.130950927734375
+            ],
+            [
+              395.61767578125,
+              53.0474853515625
+            ],
+            [
+              313.35205078125,
+              53.0474853515625
+            ]
+          ]
+        },
+        {
+          "title": "RESULTS",
+          "heading_level": null,
+          "page_id": 2,
+          "polygon": [
+            [
+              316.20849609375,
+              478.28759765625
+            ],
+            [
+              354.48486328125,
+              478.28759765625
+            ],
+            [
+              354.48486328125,
+              489.0515441894531
+            ],
+            [
+              316.20849609375,
+              489.0515441894531
+            ]
+          ]
+        },
+        {
+          "title": "DISCUSSION",
+          "heading_level": null,
+          "page_id": 5,
+          "polygon": [
+            [
+              76.7669677734375,
+              486.31640625
+            ],
+            [
+              128.1829833984375,
+              486.31640625
+            ],
+            [
+              128.1829833984375,
+              496.2568359375
+            ],
+            [
+              76.7669677734375,
+              496.2568359375
+            ]
+          ]
+        },
+        {
+          "title": "AFFILIATIONS",
+          "heading_level": null,
+          "page_id": 7,
+          "polygon": [
+            [
+              77.7667236328125,
+              42.77252197265625
+            ],
+            [
+              131.4678955078125,
+              42.77252197265625
+            ],
+            [
+              131.4678955078125,
+              52.68597412109375
+            ],
+            [
+              77.7667236328125,
+              52.68597412109375
+            ]
+          ]
+        },
+        {
+          "title": "CORRESPONDING AUTHOR",
+          "heading_level": null,
+          "page_id": 7,
+          "polygon": [
+            [
+              77.78260040283203,
+              176.824951171875
+            ],
+            [
+              181.38427734375,
+              176.824951171875
+            ],
+            [
+              181.38427734375,
+              187.21826171875
+            ],
+            [
+              77.78260040283203,
+              187.21826171875
+            ]
+          ]
+        },
+        {
+          "title": "DISCLAIMER",
+          "heading_level": null,
+          "page_id": 7,
+          "polygon": [
+            [
+              77.78260040283203,
+              231.6884765625
+            ],
+            [
+              127.68310546875,
+              231.6884765625
+            ],
+            [
+              127.68310546875,
+              241.9835205078125
+            ],
+            [
+              77.78260040283203,
+              241.9835205078125
+            ]
+          ]
+        },
+        {
+          "title": "EQUAL CONTRIBUTION",
+          "heading_level": null,
+          "page_id": 7,
+          "polygon": [
+            [
+              75.9814453125,
+              286.934326171875
+            ],
+            [
+              166.04754638671875,
+              286.934326171875
+            ],
+            [
+              166.04754638671875,
+              296.8055725097656
+            ],
+            [
+              75.9814453125,
+              296.8055725097656
+            ]
+          ]
+        },
+        {
+          "title": "PRIOR PRESENTATION",
+          "heading_level": null,
+          "page_id": 7,
+          "polygon": [
+            [
+              76.4813232421875,
+              322.2071838378906
+            ],
+            [
+              166.2451171875,
+              322.2071838378906
+            ],
+            [
+              166.2451171875,
+              331.857421875
+            ],
+            [
+              76.4813232421875,
+              331.857421875
+            ]
+          ]
+        },
+        {
+          "title": "SUPPORT",
+          "heading_level": null,
+          "page_id": 7,
+          "polygon": [
+            [
+              76.552734375,
+              376.780517578125
+            ],
+            [
+              115.23970031738281,
+              376.780517578125
+            ],
+            [
+              115.23970031738281,
+              386.4371032714844
+            ],
+            [
+              76.552734375,
+              386.4371032714844
+            ]
+          ]
+        },
+        {
+          "title": "AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF\nINTEREST",
+          "heading_level": null,
+          "page_id": 7,
+          "polygon": [
+            [
+              316.494140625,
+              158.1866455078125
+            ],
+            [
+              535.2978515625,
+              158.1866455078125
+            ],
+            [
+              535.2978515625,
+              180.75531005859375
+            ],
+            [
+              316.494140625,
+              180.75531005859375
+            ]
+          ]
+        },
+        {
+          "title": "AUTHOR CONTRIBUTIONS",
+          "heading_level": null,
+          "page_id": 7,
+          "polygon": [
+            [
+              317.93377685546875,
+              216.3955078125
+            ],
+            [
+              418.44024658203125,
+              216.3955078125
+            ],
+            [
+              418.44024658203125,
+              226.619873046875
+            ],
+            [
+              317.93377685546875,
+              226.619873046875
+            ]
+          ]
+        },
+        {
+          "title": "REFERENCES",
+          "heading_level": null,
+          "page_id": 7,
+          "polygon": [
+            [
+              77.78260040283203,
+              433.5556640625
+            ],
+            [
+              130.968017578125,
+              433.5556640625
+            ],
+            [
+              130.968017578125,
+              443.2433776855469
+            ],
+            [
+              77.78260040283203,
+              443.2433776855469
+            ]
+          ]
+        },
+        {
+          "title": "AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST",
+          "heading_level": null,
+          "page_id": 9,
+          "polygon": [
+            [
+              76.83837890625,
+              41.864501953125
+            ],
+            [
+              271.07666015625,
+              41.864501953125
+            ],
+            [
+              271.07666015625,
+              50.34869384765625
+            ],
+            [
+              76.83837890625,
+              50.34869384765625
+            ]
+          ]
+        },
+        {
+          "title": "Pembrolizumab Plus Ipilimumab Following Anti-PD-1/L1 Failure in Melanoma",
+          "heading_level": null,
+          "page_id": 9,
+          "polygon": [
+            [
+              75.7672119140625,
+              55.83544921875
+            ],
+            [
+              314.49462890625,
+              55.83544921875
+            ],
+            [
+              314.49462890625,
+              63.51361083984375
+            ],
+            [
+              75.7672119140625,
+              63.51361083984375
+            ]
+          ]
+        },
+        {
+          "title": "Zeynep Eroglu",
+          "heading_level": null,
+          "page_id": 9,
+          "polygon": [
+            [
+              77.40966796875,
+              120.43212890625
+            ],
+            [
+              123.11279296875,
+              120.43212890625
+            ],
+            [
+              123.11279296875,
+              128.07861328125
+            ],
+            [
+              77.40966796875,
+              128.07861328125
+            ]
+          ]
+        },
+        {
+          "title": "Bruce Brockstein",
+          "heading_level": null,
+          "page_id": 9,
+          "polygon": [
+            [
+              77.552490234375,
+              157.0396728515625
+            ],
+            [
+              129.76950073242188,
+              157.0396728515625
+            ],
+            [
+              129.76950073242188,
+              165.93499755859375
+            ],
+            [
+              77.552490234375,
+              165.93499755859375
+            ]
+          ]
+        },
+        {
+          "title": "",
+          "heading_level": null,
+          "page_id": 9,
+          "polygon": [
+            [
+              78.3380126953125,
+              201.1025390625
+            ],
+            [
+              128.0401611328125,
+              201.1025390625
+            ],
+            [
+              128.0401611328125,
+              207.984375
+            ],
+            [
+              78.3380126953125,
+              207.984375
+            ]
+          ]
+        },
+        {
+          "title": "Sunil Babu",
+          "heading_level": null,
+          "page_id": 9,
+          "polygon": [
+            [
+              77.0526123046875,
+              233.982421875
+            ],
+            [
+              113.9007568359375,
+              233.982421875
+            ],
+            [
+              113.9007568359375,
+              241.6202392578125
+            ],
+            [
+              77.0526123046875,
+              241.6202392578125
+            ]
+          ]
+        },
+        {
+          "title": "Sigrun Hallmeyer",
+          "heading_level": null,
+          "page_id": 9,
+          "polygon": [
+            [
+              75.6243896484375,
+              374.104248046875
+            ],
+            [
+              132.1820068359375,
+              374.104248046875
+            ],
+            [
+              132.1820068359375,
+              381.14227294921875
+            ],
+            [
+              75.6243896484375,
+              381.14227294921875
+            ]
+          ]
+        },
+        {
+          "title": "Mario Velasco",
+          "heading_level": null,
+          "page_id": 9,
+          "polygon": [
+            [
+              76.124267578125,
+              445.8855895996094
+            ],
+            [
+              121.97021484375,
+              445.8855895996094
+            ],
+            [
+              121.97021484375,
+              453.05419921875
+            ],
+            [
+              76.124267578125,
+              453.05419921875
+            ]
+          ]
+        },
+        {
+          "title": "Jose Lutzky",
+          "heading_level": null,
+          "page_id": 9,
+          "polygon": [
+            [
+              75.267333984375,
+              466.80560302734375
+            ],
+            [
+              117.685546875,
+              466.80560302734375
+            ],
+            [
+              117.685546875,
+              473.7794189453125
+            ],
+            [
+              75.267333984375,
+              473.7794189453125
+            ]
+          ]
+        },
+        {
+          "title": "Emily Higgs",
+          "heading_level": null,
+          "page_id": 9,
+          "polygon": [
+            [
+              76.0528564453125,
+              513.1242065429688
+            ],
+            [
+              115.3289794921875,
+              513.1242065429688
+            ],
+            [
+              115.3289794921875,
+              521.10791015625
+            ],
+            [
+              76.0528564453125,
+              521.10791015625
+            ]
+          ]
+        },
+        {
+          "title": "Research Funding: Lilly",
+          "heading_level": null,
+          "page_id": 9,
+          "polygon": [
+            [
+              75.41015625,
+              538.48193359375
+            ],
+            [
+              162.53173828125,
+              538.48193359375
+            ],
+            [
+              162.53173828125,
+              546.7236328125
+            ],
+            [
+              75.41015625,
+              546.7236328125
+            ]
+          ]
+        },
+        {
+          "title": "Vernon K. Sondak",
+          "heading_level": null,
+          "page_id": 9,
+          "polygon": [
+            [
+              317.93377685546875,
+              120.623291015625
+            ],
+            [
+              372.5128479003906,
+              120.623291015625
+            ],
+            [
+              372.5128479003906,
+              128.06219482421875
+            ],
+            [
+              317.93377685546875,
+              128.06219482421875
+            ]
+          ]
+        },
+        {
+          "title": "Thomas F. Gajewski",
+          "heading_level": null,
+          "page_id": 9,
+          "polygon": [
+            [
+              316.494140625,
+              167.40625
+            ],
+            [
+              378.6595153808594,
+              167.40625
+            ],
+            [
+              378.6595153808594,
+              175.1044921875
+            ],
+            [
+              316.494140625,
+              175.1044921875
+            ]
+          ]
+        },
+        {
+          "title": "Nikhil I. Khushalani",
+          "heading_level": null,
+          "page_id": 9,
+          "polygon": [
+            [
+              316.77978515625,
+              256.07391357421875
+            ],
+            [
+              378.8038635253906,
+              256.07391357421875
+            ],
+            [
+              378.8038635253906,
+              263.612548828125
+            ],
+            [
+              316.77978515625,
+              263.612548828125
+            ]
+          ]
+        },
+        {
+          "title": "Jason J. Luke",
+          "heading_level": null,
+          "page_id": 9,
+          "polygon": [
+            [
+              317.63671875,
+              336.294921875
+            ],
+            [
+              359.3637390136719,
+              336.294921875
+            ],
+            [
+              359.3637390136719,
+              343.900634765625
+            ],
+            [
+              317.63671875,
+              343.900634765625
+            ]
+          ]
+        },
+        {
+          "title": "APPENDIX",
+          "heading_level": null,
+          "page_id": 10,
+          "polygon": [
+            [
+              77.78260040283203,
+              42.844207763671875
+            ],
+            [
+              119.11376953125,
+              42.844207763671875
+            ],
+            [
+              119.11376953125,
+              52.68597412109375
+            ],
+            [
+              77.78260040283203,
+              52.68597412109375
+            ]
+          ]
+        },
+        {
+          "title": "Tumor Biomarker Procedures",
+          "heading_level": null,
+          "page_id": 10,
+          "polygon": [
+            [
+              76.409912109375,
+              63.1611328125
+            ],
+            [
+              198.094482421875,
+              63.1611328125
+            ],
+            [
+              198.094482421875,
+              72.625732421875
+            ],
+            [
+              76.409912109375,
+              72.625732421875
+            ]
+          ]
+        }
+      ],
+      "page_stats": [
+        {
+          "page_id": 0,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              256
+            ],
+            [
+              "Line",
+              96
+            ],
+            [
+              "Text",
+              11
+            ],
+            [
+              "PageHeader",
+              3
+            ],
+            [
+              "SectionHeader",
+              2
+            ],
+            [
+              "Picture",
+              1
+            ],
+            [
+              "PageFooter",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 1,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              222
+            ],
+            [
+              "Line",
+              91
+            ],
+            [
+              "Text",
+              9
+            ],
+            [
+              "SectionHeader",
+              6
+            ],
+            [
+              "PageHeader",
+              2
+            ],
+            [
+              "PageFooter",
+              2
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 2,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              292
+            ],
+            [
+              "Line",
+              108
+            ],
+            [
+              "Text",
+              8
+            ],
+            [
+              "SectionHeader",
+              4
+            ],
+            [
+              "PageHeader",
+              2
+            ],
+            [
+              "PageFooter",
+              2
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 3,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              274
+            ],
+            [
+              "Line",
+              103
+            ],
+            [
+              "TableCell",
+              80
+            ],
+            [
+              "Text",
+              5
+            ],
+            [
+              "PageHeader",
+              2
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "Table",
+              1
+            ],
+            [
+              "Reference",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 4,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              178
+            ],
+            [
+              "Line",
+              63
+            ],
+            [
+              "PageHeader",
+              2
+            ],
+            [
+              "Text",
+              2
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "Figure",
+              1
+            ],
+            [
+              "Caption",
+              1
+            ],
+            [
+              "FigureGroup",
+              1
+            ],
+            [
+              "Reference",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 5,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              313
+            ],
+            [
+              "Line",
+              109
+            ],
+            [
+              "TableCell",
+              65
+            ],
+            [
+              "Text",
+              11
+            ],
+            [
+              "PageHeader",
+              2
+            ],
+            [
+              "Table",
+              2
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "Reference",
+              2
+            ],
+            [
+              "SectionHeader",
+              1
+            ],
+            [
+              "Caption",
+              1
+            ],
+            [
+              "TableGroup",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 6,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              284
+            ],
+            [
+              "Line",
+              109
+            ],
+            [
+              "TableCell",
+              93
+            ],
+            [
+              "Text",
+              6
+            ],
+            [
+              "PageHeader",
+              2
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "Caption",
+              1
+            ],
+            [
+              "Table",
+              1
+            ],
+            [
+              "TableGroup",
+              1
+            ],
+            [
+              "Reference",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 7,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              253
+            ],
+            [
+              "Line",
+              102
+            ],
+            [
+              "Text",
+              22
+            ],
+            [
+              "ListItem",
+              15
+            ],
+            [
+              "Reference",
+              15
+            ],
+            [
+              "SectionHeader",
+              9
+            ],
+            [
+              "PageHeader",
+              2
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "ListGroup",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 8,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              63
+            ],
+            [
+              "Line",
+              24
+            ],
+            [
+              "ListItem",
+              11
+            ],
+            [
+              "Reference",
+              10
+            ],
+            [
+              "PageHeader",
+              2
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "Text",
+              1
+            ],
+            [
+              "ListGroup",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 9,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              356
+            ],
+            [
+              "Line",
+              112
+            ],
+            [
+              "Text",
+              37
+            ],
+            [
+              "SectionHeader",
+              15
+            ],
+            [
+              "PageFooter",
+              3
+            ],
+            [
+              "PageHeader",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 10,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              153
+            ],
+            [
+              "Line",
+              55
+            ],
+            [
+              "Text",
+              3
+            ],
+            [
+              "PageHeader",
+              2
+            ],
+            [
+              "SectionHeader",
+              2
+            ],
+            [
+              "Reference",
+              2
+            ],
+            [
+              "Figure",
+              1
+            ],
+            [
+              "Caption",
+              1
+            ],
+            [
+              "PageFooter",
+              1
+            ],
+            [
+              "FigureGroup",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 11,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              45
+            ],
+            [
+              "Line",
+              15
+            ],
+            [
+              "PageHeader",
+              2
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "Figure",
+              1
+            ],
+            [
+              "Caption",
+              1
+            ],
+            [
+              "FigureGroup",
+              1
+            ],
+            [
+              "Reference",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        }
+      ],
+      "debug_data_path": "debug_data/34"
+    },
+    "tables": [],
+    "metadata": {
+      "total_pages": 0,
+      "document_type": "unknown",
+      "processing_time": 0,
+      "ocr_used": false
+    },
+    "processing_stats": {
+      "return_code": 0,
+      "stdout_length": 87,
+      "stderr_length": 795
+    },
+    "processing_mode": "marker_enhanced",
+    "use_llm": false,
+    "markdown_quality_score": 100.0
+  },
+  "clinical_extraction": {
+    "prompt": "\nTASK: Extract comprehensive clinical trial data from this publication.\n\nCRITICAL REQUIREMENTS:\n1. NCT number: NCT02743819 (already validated)\n2. Expected treatment arms: 0\n3. Output raw JSON only (no markdown, no explanations)\n4. Extract ONLY explicit information - never infer or guess\n5. Use empty string \"\" for missing values\n\nTREATMENT ARMS:\n- Each unique treatment = separate arm\n- Different doses of same drug = separate arms  \n- Combination therapies use \"+\" (e.g., \"Drug A + Drug B\")\n\nDATA FORMATS:\n- Numbers: Extract digits only (e.g., \"25%\" \u2192 \"25\")\n- Survival: Months only (e.g., \"12.5 months\" \u2192 \"12.5\") \n- Binary: \"YES\" or \"NO\" only\n- Missing: Use \"\"\n\nCOMPREHENSIVE JSON STRUCTURE:\n{\n  \"NCT Number\": \"NCT02743819\",\n  \"Publication name\": \"Journal YYYY; Volume:Pages\",\n  \"Publication Year\": \"YYYY\",\n  \"PDF number\": \"filename\",\n  \"Trial name\": \"Trial name or 'No Name'\",\n  \"Sponsors\": \"Industry-Sponsored or non Industry-Sponsored\",\n  \"Clinical Trial Phase\": \"Stage X\",\n  \"Cancer Type\": \"Select from controlled list\",\n  \"Primary endpoint\": \"text\",\n  \"Secondary endpoint\": \"text\",\n  \"Median Age\": \"number\",\n  \"Mechanism of action\": \"text\",\n  \"Target Protein\": \"text\",\n  \"Type of therapy\": \"text\",\n  \"Dosage\": \"text\",\n  \"Type of dosing\": \"text\",\n  \"Number of doses per year\": \"number\",\n  \"Biomarker Inclusion\": \"YES/NO\",\n  \"Biomarkers Inclusion Criteria\": \"text\",\n  \"Biomarkers Exclusion Criteria\": \"text\",\n  \"Major country where clinical trial is conducted\": \"text\",\n  \"Study start date\": \"YYYY-MM-DD\",\n  \"Study completion date\": \"YYYY-MM-DD\",\n  \"First results\": \"YYYY-MM-DD\",\n  \"Trial run in Europe\": \"YES/NO\",\n  \"Trial run in US\": \"YES/NO\",\n  \"Trial run in China\": \"YES/NO\",\n  \"treatment_arms\": [\n    {\n      \"Generic name\": \"Drug name or Drug A + Drug B\",\n      \"Brand name\": \"text\",\n      \"Line of Treatment\": \"Neoadjuvant/First Line/2nd Line/3rd Line+\",\n      \"Number of patients\": \"number\",\n      \"Company EU\": \"text\",\n      \"Company US\": \"text\",\n      \"Company China\": \"text\",\n      \"Biosimilar\": \"YES/NO\",\n      \"Chemotherapy Naive\": \"YES/NO\",\n      \"Chemotherapy Failed\": \"YES/NO\",\n      \"Immune Checkpoint Inhibitor (ICI) Naive\": \"YES/NO\",\n      \"Immune Checkpoint Inhibitor (ICI) failed\": \"YES/NO\",\n      \"Ipilimumab-failure or Ipilimumab-refractory\": \"YES/NO\",\n      \"Anti PD-1/L1-failure or Anti PD-1/L1-refractory\": \"YES/NO\",\n      \"Mutation status\": \"text\",\n      \"BRAF-mutation\": \"YES/NO\",\n      \"NRAS-Mutation\": \"YES/NO\",\n      \"Objective response rate (ORR)\": \"percentage\",\n      \"Complete Response (CR)\": \"percentage\",\n      \"Pathological Complete Response (pCR)\": \"percentage\",\n      \"Complete Metabolic Response (CMR)\": \"percentage\",\n      \"Disease Control Rate or DCR\": \"percentage\",\n      \"Clinical Benefit Rate (CBR)\": \"percentage\",\n      \"Duration of Response (DOR) rate\": \"percentage\",\n      \"Progression free survival (PFS) rate at 6 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 9 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 12 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 18 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 24 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 48 months\": \"percentage\",\n      \"Overall survival (OS) rate at 6 months\": \"percentage\",\n      \"Overall survival (OS) rate at 9 months\": \"percentage\",\n      \"Overall survival (OS) rate at 12 months\": \"percentage\",\n      \"Overall survival (OS) rate at 18 months\": \"percentage\",\n      \"Overall survival (OS) rate at 24 months\": \"percentage\",\n      \"Overall survival (OS) rate at 48 months\": \"percentage\",\n      \"Median Progression free survival (PFS)\": \"months\",\n      \"Length of measuring PFS\": \"months\",\n      \"p-value of PFS\": \"Non-Significant/Significant/Highly Significant\",\n      \"Hazard ratio (HR) PFS\": \"decimal\",\n      \"Median Overall survival (OS)\": \"months\",\n      \"Length of measuring OS\": \"months\",\n      \"p-value of OS\": \"Non-Significant/Significant/Highly Significant\",\n      \"Hazard ratio (HR) OS\": \"decimal\",\n      \"Event-Free Survival (EFS)\": \"months\",\n      \"p-value of EFS\": \"Non-Significant/Significant/Highly Significant\",\n      \"Hazard ratio (HR) EFS\": \"decimal\",\n      \"Recurrence-Free Survival (RFS)\": \"months\",\n      \"p-value of RFS\": \"Non-Significant/Significant/Highly Significant\",\n      \"Length of measuring RFS\": \"months\",\n      \"Hazard ratio (HR) RFS\": \"decimal\",\n      \"Metastasis-Free Survival (MFS)\": \"months\",\n      \"Length of measuring MFS\": \"months\",\n      \"Hazard ratio (HR) MFS\": \"decimal\",\n      \"Time to response (TTR)\": \"months\",\n      \"Time to Progression (TTP)\": \"months\",\n      \"Time to Next Treatment (TTNT)\": \"months\",\n      \"Time to Treatment Failure (TTF)\": \"months\",\n      \"Median Duration of response or DOR\": \"months\",\n      \"Adverse events (AE)\": \"percentage\",\n      \"Treatment emergent adverse events (TEAE)\": \"percentage\",\n      \"Treatment-related adverse events (TRAE)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 higher adverse events (AE)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 higher treatment emergent adverse events (TEAE)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 higher treatment-related adverse events (TRAE)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 higher treatment-emergent adverse events (TEAE)\": \"percentage\",\n      \"Grade 4 treatment emergent adverse events\": \"percentage\",\n      \"Grade 5 treatment emergent adverse events\": \"percentage\",\n      \"Serious Adverse Events (SAE)\": \"percentage\",\n      \"Serious treatment emergent adverse events\": \"percentage\",\n      \"Serious treatment related adverse events\": \"percentage\",\n      \"Treatment-emergent adverse events (TEAE) led to treatment discontinuation\": \"percentage\",\n      \"Adverse events (AEs) leading to discontinuation\": \"percentage\",\n      \"Treatment-emergent adverse events (TEAE) led to death\": \"percentage\",\n      \"Adverse Events leading to death\": \"percentage\",\n      \"Immune related adverse events (irAEs)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Immune related adverse events (irAEs)\": \"percentage\",\n      \"Cytokine Release Syndrome or CRS\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Cytokine Release Syndrome or CRS\": \"percentage\",\n      \"White blood cell (WBC) decreased\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Thrombocytopenia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Neutropenia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Leukopenia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Anemia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Neutrophil count decreased\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 White blood cell (WBC) decreased\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Nausea\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Diarrhea\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Colitis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Constipation\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Dyspnea\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Cough\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Pneumonia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Pneumonitis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Hyperglycemia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Thyroiditis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Hypophysitis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Hepatitis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Alanine aminotransferase\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Pyrexia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Bleeding\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Pruritus\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Rash\": \"percentage\"\n    }\n  ]\n}\n\nEXTRACTION INSTRUCTIONS:\n1. Extract ALL fields listed above that are explicitly mentioned in the publication\n2. For percentages: extract number only (e.g., \"25%\" \u2192 \"25\")\n3. For months: extract number only (e.g., \"12.5 months\" \u2192 \"12.5\")\n4. For binary fields: use \"YES\" or \"NO\" only\n5. For missing data: use empty string \"\"\n6. For survival data with \"not reached\": use \"NR\"\n\nPUBLICATION TEXT:\n# communications Pembrolizumab Plus Ipilimumab Following Anti-PD-1/L1 Failure in Melanoma\n\nDaniel J. Olson, MD<sup>1</sup> ; Zeynep Eroglu, MD<sup>2</sup> ; Bruce Brockstein, MD<sup>3</sup> ; Andrew S. Poklepovic, MD4 ; Madhuri Bajaj, MD<sup>5</sup> ; Sunil Babu, MD<sup>6</sup> ; Sigrun Hallmeyer, MD<sup>7</sup> ; Mario Velasco, MD8 ; Jose Lutzky, MD<sup>9</sup> ; Emily Higgs, BS<sup>1</sup> ; Riyue Bao, PhD10; Timothy C. Carll, MD1 ; Brian Labadie, MD1 ; Thomas Krausz, MD1 ; Yuanyuan Zha, PhD1 ; Theodore Karrison, PhD<sup>1</sup> ; Vernon K. Sondak, MD2 ; Thomas F. Gajewski, MD, PhD<sup>1</sup> ; Nikhil I. Khushalani, MD<sup>2</sup> ; and Jason J. Luke, MD10\n\nabstract PURPOSE Combination of antiprogrammed cell death protein-1 (PD-1) plus anti\u2013cytotoxic T-cell lymphocyte-4 (anti-CTLA-4) immunotherapy shows greater response rates (RRs) than anti-PD-1 antibody alone in melanoma, but RR after initial anti-PD-1 and programmed death ligand-1 (PD-L1) antibody progression awaits robust investigation. Anti-CTLA-4 antibody alone after anti-PD-1/L1 antibody progression has a historical RR of 13%. We report the results of the first prospective clinical trial evaluating ipilimumab 1 mg/kg plus pembrolizumab following progression on anti-PD-1 immunotherapy.\n\nMETHODS Patients with advanced melanoma who had progressed on anti-PD-1/L1 antibody as immediate prior therapy (including non\u2013anti-CTLA-4 antibody combinations) were eligible. Patients received pembrolizumab 200 mg plus ipilimumab 1 mg/kg once every 3 weeks for four doses, followed by pembrolizumab monotherapy. The primary end point was RR by irRECIST. After 35 patients, the trial met the primary end point and was expanded to enroll a total of 70 patients to better estimate the RR.\n\nRESULTS Prior treatments included 60 on anti-PD-1 antibody alone and 10 on anti-PD-1/L1 antibody\u2013based combinations. Thirteen patients had progressed in the adjuvant setting. The median length of prior treatment with anti-PD-1/L1 antibody was 4.8 months. Response assessments included five complete and 15 partial responses, making the irRECIST RR 29% among the entire trial population. The median progression-free survival was 5.0 months, and the median overall survival was 24.7 months. The median duration of response was 16.6 months. There was no difference in median time on prior anti-PD1/L1 or time to PD1 1 CTLA4 initiation between responders and nonresponders. Grade 3-4 drug-related adverse events occurred in 27% of patients. Responses occurred in PD-L1\u2013negative, non-T-cell\u2013inflamed, and intermediate tumor phenotypes.\n\nCONCLUSION To our knowledge, this is the first prospective study in melanoma of pembrolizumab plus low-dose ipilimumab after anti-PD-1/L1 immunotherapy failure, demonstrating significant antitumor activity and tolerability.\n\nJ Clin Oncol 39:2647-2655. \u00a9 2021 by American Society of Clinical Oncology\n\n# INTRODUCTION\n\nFor patients with advanced melanoma, the introduction of targeted and immune checkpoint inhibitor therapies has greatly improved systemic therapy outcomes.[1](#page-7-0) With antibodies against the immune checkpoints cytotoxic T-lymphocyte\u2013associated antigen 4 (anti\u2013cytotoxic T-cell lymphocyte-4 [CTLA-4]; ipilimumab) and programmed cell death protein-1 (PD-1; pembrolizumab and nivolumab), some patients have achieved long-term disease control, with 5 year survival rates ranging from 34% to 52%.[2](#page-7-1),[3](#page-7-2) Combination immunotherapy using both anti-PD-1 and anti-CTLA-4 antibodies demonstrates a numerically higher response rate (RR), progression-free survival (PFS), and overall survival (OS) relative to anti-PD-1 antibody monotherapy, but with a grade 3-4 toxicity rate of up to 59%.[4](#page-7-3) This has prompted many treating oncologists to begin with single-agent anti-PD-1 therapy, with the prospect of using ipilimumab in the second line upon treatment failure.\n\nHowever, in patients who have experienced tumor progression on anti-PD-1 and programmed death ligand-1 (PD-L1) antibody monotherapy, no prospective trials of ipilimumab or an anti-PD-1 plus anti-CTLA-4\n\nASSOCIATED CONTENT See accompanying editorial on page [2637](http://ascopubs.org/doi/full/10.1200/JCO.21.00943) Appendix [Protocol](https://ascopubs.org/doi/suppl/10.1200/JCO.21.00079)\n\nAuthor affiliations and support information (if applicable) appear at the end of this article. Accepted on March 31, 2021 and published at [ascopubs.org/journal/](http://ascopubs.org/journal/jco) [jco](http://ascopubs.org/journal/jco) on May 4, 2021: DOI [https://doi.org/10.](http://ascopubs.org/doi/full/10.1200/JCO.21.00079) [1200/JCO.21.00079](http://ascopubs.org/doi/full/10.1200/JCO.21.00079)\n\n![](_page_0_Picture_16.jpeg)\n\n#### CONTEXT\n\n# Key Objective\n\nTo assess the efficacy of pembrolizumab plus low-dose ipilimumab in advanced melanoma in patients refractory to an antiprogrammed cell death protein-1 (PD-1) and programmed death ligand-1 (PD-L1) antibody.\n\n# Knowledge Generated\n\nAmong 70 enrolled patients, 20 confirmed responses were observed (irRECIST response rate 29%) with a median duration of response of 16.6 months. Grade 3-4 adverse events occurred in 27% of patients, and responses occurred primarily among PD-L1\u2013negative, non-T-cell\u2013inflamed, and intermediate tumor phenotypes.\n\n# Relevance\n\nTo our knowledge, this is the first prospective study in melanoma of pembrolizumab plus low-dose ipilimumab after anti-PD-1/L1 immunotherapy failure, demonstrating significant antitumor activity and tolerability.\n\nantibody combination exist. Post hoc assessment of 97 patients who crossed over to ipilimumab directly after pembrolizumab in the randomized phase III KEYNOTE-006 trial demonstrated a 13% objective response rate (ORR)[.5](#page-7-4) Similarly, a retrospective review of treatment outcomes in 355 patients with progression on an anti-PD-1/L1 antibody demonstrated that those who subsequently received ipilimumab achieved an RR of 13% versus 32% in those who received ipilimumab of dose 3 mg/kg once every 3 weeks for four doses plus an anti-PD-1/L1 antibody. The OS also appeared to favor the combination group at 20.4 months versus 8.8 months, respectively.[6](#page-7-5) These findings support the hypothesis that combined PD-1 and CTLA-4 inhibition can be effective after progression on a prior anti-PD-1/L1. The use of this combination in the second line might also theoretically spare the higher toxicity rate for patients who only required single-agent anti-PD-1 therapy for disease control.\n\nDespite demonstrating the highest ORR, PFS, and OS, the combination of nivolumab plus ipilimumab at 3 mg/kg treatment is not uniformly used in advanced melanoma because of serious immune-related adverse events.[4](#page-7-3) A strategy for mitigating toxicity with this combination immunotherapy is administration of low-dose ipilimumab, 1 mg/kg, in combination with an anti-PD-1 antibody. The randomized Checkmate-511 study compared nivolumab with ipilimumab at 1 mg/kg or 3 mg/kg, demonstrating that high-grade adverse events (grades 3-5) occurred in 34% versus 48% of patients, respectively, whereas exploratory efficacy outcomes were similar.[7](#page-7-6) No prospective studies have yet described the utility of anti-PD-1 plus anti-CTLA-4 antibody therapy following progression on anti-PD-1/L1 monotherapy.\n\nMultiple biomarkers of anti-PD-1 treatment response, such as PD-L1 immunohistochemistry and gene expression profiling centered on interferon-associated transcripts, have been identified to stratify immunotherapy treatment outcomes. T-cell\u2013inflamed gene expression, which more broadly describes the tumor microenvironment than PD-L1 staining alone, perhaps has the strongest predictive association with response in melanoma.[8](#page-7-7) Immunotherapy biomarkers have been predominately explored in the treatment-na\u00a8\u0131ve setting, and it remains unclear what relationship these biomarkers have with response after failure on an anti-PD-1/L1 antibody.\n\nHerein, we report outcomes from a phase II clinical trial for the combination of pembrolizumab plus low-dose ipilimumab following progression on an anti-PD-1/L1 antibody in advanced melanoma. We also report baseline tumor biomarkers of clinical response to this combination immunotherapy regimen.\n\n# METHODS\n\n# Study Design and Participants\n\nIn this open-label, single-arm phase II trial, we recruited patients from seven medical centers across the United States. Eligible adult patients had unresectable or metastatic melanoma with known BRAF mutation status, uveal melanoma excluded, measurable disease according to immune-related RECIST (irRECIST) version 1.1,[9](#page-7-8) and adequate organ function and performance status. Patients with previous grade 3-4 toxicity from anti-PD-1/L1 antibody therapy leading to treatment discontinuation were excluded. All patients must have experienced disease progression during treatment with an anti-PD-1/L1 antibody immediately before accrual to this study or disease progression within 6 months of adjuvant anti-PD-1 antibody without intercurrent therapy. For patients without clear clinical progression on the prior anti-PD-1/L1 antibody, a confirmatory scan was recommended but not required. Patients with active CNS metastases were excluded (previously treated, stable CNS disease allowed); no prior anti-CTLA-4 antibody use in the metastatic setting was permitted. Full inclusion and exclusion criteria are listed in the study Protocol (online only [pp 12-15]). The study Protocol was reviewed and approved by the appropriate institutional review boards at each participating site. We conducted the study in accordance with the Protocol with subsequent amendments and with the Declaration of Helsinki. All patients provided written informed consent.\n\n# Procedures\n\nPatients received pembrolizumab (200 mg) intravenously along with low-dose ipilimumab (1 mg/kg) intravenously once every 3 weeks for four doses, followed by pembrolizumab intravenously 200 mg once every 3 weeks for up to 2 years. Treatment continued until confirmed radiographic disease progression, intolerable toxicity, patient withdrawal of consent, investigator decision, or completion of therapy. Per irRECIST, patients with initial evidence of radiographic progression were allowed to continue through to a second confirmatory scan to account for tumor flare; however, patients with evidence of clinical deterioration or clear objective disease progression, as assessed by the treating physician, were not required to have repeat imaging for confirmation of progressive disease. Study treatments continued for up to 2 years, although patients who attained a complete response confirmed on at least two scans after a minimum of 24 weeks of study treatment could discontinue treatment early. Full discontinuation criteria are included in the study Protocol (pp 25-26). No dose reductions of pembrolizumab or ipilimumab were permitted.\n\nImmunohistochemistry for tumor PD-L1 expression and gene expression profiling were performed on archival formalin-fixed paraffin-embedded (FFPE). Full methods for PD-L1 scoring, as well as procedures for RNA extraction and gene expression profiling by RNAseq, are included in the [Appendix](#page-10-0) (online only).\n\nFormal clinical assessments of response were completed per irRECIST version 1.1 before initiation of study therapy and every 12 weeks thereafter, with intervals of at least every 3 weeks required for confirmation of disease progression. At all treatment and follow-up visits, we assessed physical examination status, vital signs, and laboratory values. Adverse events were documented according to the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0.\n\n# Outcome Analysis\n\nThe primary objective of this study was to determine the ORR of pembrolizumab with low-dose ipilimumab following initial progression on an anti-PD-1/L1 antibody in advanced melanoma. Secondary objectives included summarizing PFS (defined as time on study treatment until immunerelated progressive disease, clear clinical progression, or death) and safety. Exploratory objectives included associations of baseline tumor gene expression patterns with clinical outcomes. Although not prespecified end points in the study Protocol, OS (defined as the time from enrollment to death from any cause) and duration of response (DOR; defined as the time from first evidence of response until disease progression or death) were also assessed.\n\n# Statistical Analysis\n\nThe initial design of this study sought to test a null hypothesis of a 10% RR (based on known historical controls for ipilimumab) versus a 30% alternative.[5](#page-7-4) Simon's optimal two-stage design was initially employed to enroll up to a total of 35 patients. In the first stage, 12 patients were enrolled with two responses required to initiate the second stage, where a total of 35 patients would be enrolled (one-sided alpha .10, 90% power). Given the investigator-initiated and open-label nature of the study, no formal accrual hold was planned for interim analysis. It was observed that two patients responded within the first five patients accrued and there were seven responders in the first 12 patients of the Simon design. The primary end point for the total study was met when eight responses were observed in the first 17 patients, after which the trial was expanded to enroll a total of 70 patients in an exploratory manner to better describe the ORR in this population.[10](#page-7-9) We assessed ORR and, using the Kaplan-Meier method, estimated PFS and OS in all enrolled patients as well as DOR in patients achieving a partial or complete response. We provided descriptive statistics for baseline patient characteristics and for adverse events. Frequency of adverse events for each grade level was recorded among all patients receiving at least one dose of study therapy.\n\nAvailable tumor specimens were analyzed for PD-L1 expression and gene expression profiling; these biomarkers were then compared with clinical response outcomes. We used a previously described T-cell inflammation score,[11](#page-7-10) which correlates with other validated interferon-g gene signatures [\\(Appendix\\)](#page-10-0).[12](#page-7-11) This trial is registered with ClinicalTrials.gov identifier: [NCT02743819.](https://www.clinicaltrials.gov/ct2/show/NCT02743819) The trial is closed to enrollment, but patients remain on treatment and in observation for safety and ongoing response assessments.\n\n# RESULTS\n\nFrom December 9, 2016 to November 4, 2019, 70 patients were enrolled and treated with at least one dose of pembrolizumab plus low-dose ipilimumab. Before enrollment, the median time on prior anti-PD-1/L1 antibody was 4.8 months (Appendix [Fig A1,](#page-10-1) online only). Thirteen study patients (19%) progressed previously in the adjuvant setting. Two patients received adjuvant ipilimumab and completed this treatment 15 and 22 months before receiving an anti-PD-1/L1 antibody. Progression to prior anti-PD-1/L1 therapy was determined by confirmatory scans in 55 (79%) patients and by assessment of clinical progression by the treating physician in 15 (21%) patients. Most patients were male and had cutaneous melanoma; 20 patients (29%) had BRAFV600 mutations. Additionally, 34 patients (49%) had M1c or M1d disease, and 22 patients (31%) had elevated serum lactate dehydrogenase (LDH) concentrations ([Table 1\\)](#page-3-0).\n\n<span id=\"page-3-0\"></span>TABLE 1. Baseline Characteristics\n\n|                                                     | Study Patients<br>Receiving |\n|-----------------------------------------------------|-----------------------------|\n| Characteristic                                      | \u2021 1 Dose (N 5 70)           |\n| Age, years                                          |                             |\n| Median                                              | 64                          |\n| Range                                               | 27-87                       |\n| Sex, No. (%)                                        |                             |\n| Male                                                | 47 (67)                     |\n| Female                                              | 23 (33)                     |\n| BRAF status, No. (%)                                |                             |\n| Mutant (V600)                                       | 20 (29)                     |\n| Wild type                                           | 50 (71)                     |\n| AJCC stage, No. (%)                                 |                             |\n| IIIc (unresectable)                                 | 12 (17)                     |\n| IV                                                  | 58 (83)                     |\n| M1a                                                 | 15 (21)                     |\n| M1b                                                 | 9 (13)                      |\n| M1c                                                 | 27 (39)                     |\n| M1d                                                 | 7 (10)                      |\n| Melanoma subtypes, No. (%)                          |                             |\n| Cutaneous (non-acral)                               | 62 (89)                     |\n| Acral                                               | 7 (10)                      |\n| Mucosal                                             | 1 (1)                       |\n| Adjuvant anti-PD-1 Ab progression                   | 13 (19)                     |\n| Baseline LDH, No. (%)                               |                             |\n| # ULN                                               | 48 (69)                     |\n| . ULN                                               | 17 (24)                     |\n| \\$ 23 ULN                                           | 5 (7)                       |\n| History of brain metastases (treated), No. (%)      |                             |\n| Yes                                                 | 7 (10)                      |\n| No                                                  | 53 (90)                     |\n| Liver metastases, No. (%)                           |                             |\n| Yes                                                 | 17 (24)                     |\n| No                                                  | 53 (76)                     |\n| Prior lines of systemic therapy (mean 5 1), No. (%) |                             |\n| Anti-PD-1 Ab alone                                  | 60 (86)                     |\n| Anti-PD-1/L1 Ab combination (non\u2013anti-CTLA-4 Ab)    | 8 (11)                      |\n| Anti-PD-L1 Ab combination (non\u2013CTLA-4 Ab)           | 2 (3)                       |\n| Prior adjuvant ipilimumab (pre\u2013anti-PD-1/L1 Ab)     | 2 (3)                       |\n| Adjuvant interferon (pre\u2013anti-PD-1/L1 Ab)           | 3 (4)                       |\n| Prior BRAF-directed therapy (pre\u2013anti-PD-1/L1 Ab)   | 5 (7)                       |\n\nAbbreviations: Ab, antibody; AJCC, American Joint Committee on Cancer; CTLA-4, cytotoxic T-cell lymphocyte-4; LDH, lactate dehydrogenase; M, distant metastasis; PD-1, programmed cell death protein-1; PD-L1, programmed death ligand-1; ULN, upper limit of normal.\n\nBy the data cutoff date of April 28, 2020, the median followup was 12.0 months (interquartile range [IQR], 6.0- 22.6 months); among patients still alive, the median follow-up time was 13.3 months (IQR, 6.2-23.1 months). At the time of the analysis, five patients (7%) were continuing to receive pembrolizumab monotherapy and one patient had completed 2 years of study therapy. All other patients have discontinued because of clinical or radiographic disease progression in 47 patients (67%), adverse events in nine patients (13%), elective discontinuation of therapy after complete response in four patients (6%), death unrelated to study therapy in two patients (3%), or withdrawal of consent in two patients (3%). Fifty-three patients (76%) received four or more doses of pembrolizumab plus lowdose ipilimumab. Of those who did not complete four cycles of study therapy, the median number of cycles was 2 (IQR, 1.75-2.25) and reasons for discontinuation among these patients were progressive disease (n 5 11), adverse events (n 5 4), and death (n 5 2). For patients continuing pembrolizumab monotherapy, the median number of cycles was 9 (IQR, 5.0-15.8).\n\nTwenty of 70 enrolled patients (29%) achieved a confirmed response (95% CI, 18.4 to 40.6), including five complete (7.2%) and 15 partial responses (21.4%) [\\(Fig 1\\)](#page-4-0). Three additional patients had unconfirmed responses, all with subsequent disease progression. Eight patients were nonevaluable for radiographic assessment of the primary end point but are included in the overall analysis for ORR (as nonresponders) and secondary end points. Of the eight nonevaluable patients, five had clear clinical progression before first response assessment, two patients died of complications related to disease progression before restaging, and one patient withdrew consent after experiencing grade three immune-related hepatitis after one dose of study therapy. The median PFS was 5 months (95% CI, 2.8 to 8.3). In responding patients, the median DOR was 16.6 months (95% CI, 7.9 to not reached). The median OS was 24.7 months (95% CI, 15.2 to not reached) (Appendix [Fig A2](#page-11-0), online only). At the time of data lock, 14 of 20 responses (70%) were ongoing.\n\nResponses were observed across clinical and biomarker subgroups ([Table 2](#page-5-0)), including patients who progressed on an anti-PD-1/L1 antibody in the adjuvant setting (two of 13 [15%]), patients with liver metastases and previously treated CNS metastases (six of 25 [17%]), and patients with an elevated LDH at study entry (six of 22 [27%]). No association between time on prior anti-PD-1/L1 antibody therapy and subsequent response to study therapy was observed. The median time between prior anti-PD-1/L1 treatments and initiating pembrolizumab plus low-dose ipilimumab was 1.5 months in responders vs 1.4 months in nonresponders. More responses were observed in PD-L1\u2013negative archival tumors (15 of 39 [38%]) as compared with PD-L1\u2013positive archival tumors (four of 27 [15%]). T-cell\u2013inflamed gene expression scores were calculated across all patients with archival tissue adequate for RNA extraction (n 5 58). Two T-cell\u2013inflamed tumors were observed among the 20 responders, with the remainder being either non-T-cell\u2013inflamed or intermediate ([Table 3\\)](#page-5-1).\n\nTreatment-related adverse events occurred in 62 of 70 patients (87%), with the most frequent events being pruritis, rash, diarrhea, fatigue, nausea, and transaminase elevations [\\(Table 4\\)](#page-6-0). Grade 3-4 treatment-related adverse events occurred in 19 of 70 patients (27%), with the most common being colitis or diarrhea, rash, and transaminase elevations. Only one patient experienced a grade four treatment-related adverse event, which was a concurrent lipase elevation in a patient with grade three pancreatitis.\n\n![](_page_4_Figure_3.jpeg)\n\n<span id=\"page-4-0\"></span>FIG 1. Antitumor activity. (A) Best percentage change from baseline in the sum of the longest diameters of target lesions in all patients with at least one on-treatment radiographic assessment. Kaplan-Meier estimates of (B) PFS and (C) duration of response. <sup>a</sup> Unconfirmed response. PD-L1, programmed death ligand-1; PFS, progression-free survival.\n\n<span id=\"page-5-0\"></span>TABLE 2. RRs in Overall Study Population and by Clinical and Biomarker Subgroups\n\n| Response subgroups                                            | Overall irRECIST RR 20/70 (29%),<br>No. (%) |\n|---------------------------------------------------------------|---------------------------------------------|\n| After adjuvant anti-PD-1 Ab progression                       | 2/13 (15)                                   |\n| Liver or CNS disease                                          | 6/24 (17)                                   |\n| Acral or mucosal melanoma                                     | 1/8 (14)                                    |\n| Elevated LDH                                                  | 6/22 (27)                                   |\n| LDH in normal range                                           | 14/48 (29)                                  |\n| BRAF status                                                   |                                             |\n| Mutant                                                        | 5/20 (25)                                   |\n| Wild type                                                     | 15/50 (30)                                  |\n| Time on prior anti-PD-1/L1 treatment                          |                                             |\n| . 6 months                                                    | 4/25 (16)                                   |\n| , 6 months                                                    | 16/45 (36)                                  |\n| . 12 months                                                   | 0/8 (0)                                     |\n| Assessment of progression to prior anti-PD-1/<br>L1 treatment |                                             |\n| Confirmed progressive disease (irPD)                          | 14/55 (25)                                  |\n| Clinical progressive disease                                  | 6/15 (40)                                   |\n| PD-L1 statusa                                                 |                                             |\n| PD-L1\u2013positive                                                | 4/27 (15)                                   |\n| PD-L1\u2013negative                                                | 15/39 (38)                                  |\n\nAbbreviations: Ab, antibody; irPD, immune-related progressive disease; LDH, lactate dehydrogenase; PD-1, programmed cell death protein-1; PD-L1, programmed death ligand-1; RR, response rate.\n\na One responder with PD-L1 stain inadequate for scoring.\n\n> Four other patients also experienced concurrent grade three treatment-related adverse events. There were no deaths related to study treatment. The median time to onset of grade 3-4 adverse events was 55 days.\n\n# DISCUSSION\n\nWe performed this prospective study of patients with advanced melanoma refractory to an anti-PD-1/L1 antibody and demonstrate that the combination of pembrolizumab plus low-dose ipilimumab has substantial antitumor activity\n\n<span id=\"page-5-1\"></span>TABLE 3. Responses by T-Cell\u2013Inflamed Gene Expression Signature Best Overall Response\n\n| T Cell Inflammation Score | CR | PR | SD | PD | Total, No. (%) |\n|---------------------------|----|----|----|----|----------------|\n| T-cell\u2013inflamed           | 1  | 1  | 0  | 3  | 5 (9)          |\n| Intermediate              | 1  | 9  | 8  | 18 | 34 (59)        |\n| Non-T-cell\u2013inflamed       | 2  | 6  | 3  | 8  | 19 (33)        |\n\nNOTE. Response categories by T-cell\u2013inflamed GEPs in all patients with available tumor specimens passing RNA quality control (n 5 58).\n\nAbbreviations: CR, complete response; GEP, gene expression profile; PD, progressive disease; PR, partial response; SD, stable disease.\n\nand a manageable toxicity profile. Responses were observed in 29% of all study patients. Responses are ongoing in 70% of responding patients, with a median response duration of 16.6 months. Responses were also observed across all clinical subgroups, including patients with elevated LDH and brain and liver metastases and in patients who progressed on an anti-PD-1/L1 antibody in the adjuvant setting. Most responses were observed among patients who progressed on a prior anti-PD-1/L1 antibody within 6 months, although responses were also observed among those with longer prior treatment. Additionally, these responses occurred predominantly among patients with intermediate to non-T-cell\u2013inflamed and PD-L1\u2013negative tumors. The study regimen showed a relatively low rate of toxicity, with grade 3-4 adverse events occurring in 27% of all study patients.\n\nProlonged response, even after cessation of therapy, is a hallmark feature of immune checkpoint inhibitors.[3](#page-7-2)[,13](#page-7-12) The durable responses observed with pembrolizumab plus lowdose ipilimumab suggest that this benefit may carry forward when using an anti-PD-1 plus anti-CTLA-4 antibody combination after anti-PD-1 antibody failure. These findings may be particularly informative for future drug development after failure of an anti-PD-1/L1 antibody by setting an important benchmark for therapies in this space.\n\nAlthough high rates of toxicity have previously limited safe delivery of anti-PD-1 plus anti-CTLA-4 combinations, the 27% grade 3-4 adverse event rate observed with pembrolizumab plus low-dose ipilimumab reflects a comparatively manageable side effect profile. Currently, there is no prospective comparison of toxicity for anti-PD-1 and anti-CTLA-4 antibody combinations in the anti-PD-1/L1 antibody\u2013refractory setting, although high-grade toxicity rates in the anti-PD-1/L1 antibody\u2013na\u00a8\u0131ve setting surpass 50%[.4](#page-7-3) In this study, we used a 1 mg/kg dose of ipilimumab to mitigate such high rates of toxicity, while seeking to maintain antitumor activity, as this strategy has shown promise in the anti-PD-1/L1\u2013na\u00a8\u0131ve setting.[7](#page-7-6),[14](#page-7-13) The 1 mg/kg ipilimumab dose may, to an extent, explain the relatively favorable rates of toxicity observed with pembrolizumab plus low-dose ipilimumab. We would, however, make only cautious comparisons between toxicity rates between the anti-PD-1/L1 antibody\u2013refractory and antibody\u2013na\u00a8\u0131ve settings. As anti-PD-1/L1 antibody refractory patients who experienced high-grade toxicity were ineligible for our study, toxicity rates observed with ipilimumab combination in the anti-PD-1/L1 antibody\u2013refractory setting may be subject to this selection bias.\n\nResponses to pembrolizumab plus low-dose ipilimumab were observed predominantly among PD-L1\u2013negative and intermediate to non-T-cell\u2013inflamed tumors. This is contrary to what has been observed in the anti-PD-1/L1 antibody\u2013na\u00a8\u0131ve setting, where biomarkers of T-cell inflammation and PD-L1 expression enrich for response[.8](#page-7-7)[,15,](#page-7-14)[16](#page-8-0) Previously, MHC class II expression has been shown to predict\n\n<span id=\"page-6-0\"></span>TABLE 4. TRAEs\n\n| Variable                                                                                      | Grade 1-2  | Grade 3-4a |\n|-----------------------------------------------------------------------------------------------|------------|------------|\n| Any TRAE, No. (%)                                                                             | 62/70 (87) | 19/70 (27) |\n| TRAEs in . 10 of patients                                                                     |            |            |\n| Pruritis                                                                                      | 28 (40)    |            |\n| Rash (maculopapular, acneiform, and<br>papulopustular)                                        | 25 (36)    | 4 (6)      |\n| Colitis or diarrhea                                                                           | 28 (40)    | 6 (9)      |\n| Fatigue                                                                                       | 23 (33)    | 0          |\n| Nausea                                                                                        | 17 (24)    | 1 (1)      |\n| ALT/AST increased                                                                             | 14 (20)    | 4 (6)      |\n| Anorexia                                                                                      | 14 (20)    | 0          |\n| Arthralgia                                                                                    | 7 (10)     | 0          |\n| TRAEs leading to treatment discontinuation, No. (%)                                           |            |            |\n| Rash maculopapular                                                                            | 0          | 1 (1)      |\n| Skin and subcutaneous tissue disorders\u2014others<br>(vasculitis)                                 | 0          | 1 (1)      |\n| AST and/or ALT elevation                                                                      | 0          | 2 (3)      |\n| Colitis or diarrhea                                                                           | 0          | 1 (1)      |\n| No. of patients with \\$ grade 3 toxicity at least possibly<br>related to study drug, No. (%)b |            |            |\n| Colitis or diarrhea                                                                           | NA         | 6 (9)      |\n| Rash (acneiform or maculopapular)                                                             | NA         | 4 (6)      |\n| AST and/or ALT elevation                                                                      | NA         | 4 (6)      |\n| Lipase elevationa                                                                             | NA         | 3 (4)      |\n| Acute kidney injury                                                                           | NA         | 2 (3)      |\n| Hyperglycemia                                                                                 | NA         | 2 (3)      |\n| Pancreatitis                                                                                  | NA         | 1 (1)      |\n| Skin and subcutaneous tissue disorders\u2014others,<br>specify (vasculitis)                        | NA         | 1 (1)      |\n| Anemia                                                                                        | NA         | 1 (1)      |\n| Nausea                                                                                        | NA         | 1 (1)      |\n| Lymphocyte count decreased                                                                    | NA         | 1 (1)      |\n| Lymphocyte count increased                                                                    | NA         | 1 (1)      |\n| Lung infection                                                                                | NA         | 1 (1)      |\n| Alkaline phosphatase elevation                                                                | NA         | 1 (1)      |\n\nAbbreviations: NA, not available; TRAE, treatment-related adverse event. a A single grade 4 lipase elevation TRAE occurred concurrently in a patient with grade 3 pancreatitis.\n\nb A given patient might be counted in more than one toxicity grade category.\n\n> response to anti-PD-1 but not anti-CTLA-4 antibody therapy, suggesting that distinct mechanisms of antigen presentation may drive the differential benefit between the two immune checkpoint inhibitors.[17-](#page-8-1)[19](#page-8-2) These findings would also suggest that patients with highest pre-existing IFNg\u2013associated immune activation are most likely to benefi<sup>t</sup> from upfront anti-PD-1/L1 antibody therapy and hence may\n\nbe less represented in the anti-PD-1/L1 antibody\u2013refractory setting. This could explain in part why patients who benefited from pembrolizumab plus low-dose ipilimumab were found to have non-T-cell\u2013inflamed tumor phenotypes. It remains unclear, however, how the addition of ipilimumab drives antitumor responses after a failure of an anti-PD-1/L1 antibody. One possibility is that ipilimumab may enhance the development of de novo antitumor responses in the peripheral immune compartment and/or relieve independent mechanisms of resistance associated with PD-1/L1 expression in the tumor microenvironment. These hypotheses are supported by neoadjuvant ipilimumab studies in which an influx of CD8<sup>1</sup> T cells into the tumor microenvironment was observed after treatment[.20](#page-8-3) The exact immunologic mechanisms by which ipilimumab may facilitate these antitumor responses require further investigation.\n\nWe recognize that our study has certain limitations. Given the constraints of an uncontrolled study, we would await the randomized results of anti-PD-1 plus anti-CTLA-4 antibody combination after anti-PD-1 antibody failure to definitively make a claim of superiority for the combination regimen[.21](#page-8-4) Additionally, at the time this study began, there was not a formal consensus to define progression on an anti-PD-1/L1 antibody as it exists currently.[22](#page-8-5) In reviewing our study, 79% of patients had two scans to confirm progression on a prior anti-PD-1/L1 antibody, and for patients without confirmatory scans, treating physicians used their clinical judgment to ascertain a lack of benefit from the prior anti-PD-1/L1 antibody. Although RECIST 1.1 remains a predominant treatment response method, we chose irRECIST to more completely describe the clinical outcomes as the primary end point analysis for an immunotherapy trial. Regarding our observations surrounding lack of a T-cell\u2013inflamed tumor phenotype with response, these findings are predicated on baseline, archival FFPE tumor samples. Future studies incorporating pre- and on-treatment biopsies after anti-PD-1/L1 antibody failure will be helpful to fully characterize mechanisms of tumor microenvironment modulation by ipilimumab. We also recognize that in clinical practice, some patients may receive intercurrent BRAF-/ MEK-directed therapy after progression on an anti-PD-1/L1 antibody. Outcomes for this specific subgroup await further study.\n\nThe combination of pembrolizumab plus low-dose ipilimumab demonstrated significant antitumor activity and tolerability in a multicenter clinical trial. This study demonstrated long-term responses, suggesting that durable survival\u2014a hallmark of immunotherapy activity\u2014may be possible even after failure of an anti-PD-1/L1 antibody. These findings warrant further investigation and support the ongoing effort to directly compare combination of anti-PD-1 and anti-CTLA-4 antibodies with ipilimumab alone in the anti-PD-1/L1 antibody\u2013refractory setting.\n\n# AFFILIATIONS\n\n1 University of Chicago Comprehensive Cancer Center, Chicago, IL 2 H. Lee Moffitt Cancer Center and Research Institute, Tampa, FL 3 NorthShore University Health System, Evanston, IL\n\n4 VCU Massey Cancer Center, Richmond, VA\n\n5 Illinois Cancer Care, Peoria, IL\n\n6 Fort Wayne Medical Oncology and Hematology, Ft Wayne, IN\n\n7 Advocate-Aurora Health, Park Ridge, IL\n\n8 Decatur Memorial Hospital, Decatur, IL\n\n9 University of Miami Sylvester Comprehensive Cancer Center, Miami Beach, FL\n\n10UPMC Hillman Cancer Center, Pittsburgh, PA\n\n# CORRESPONDING AUTHOR\n\nJason J. Luke, MD, University of Pittsburgh Medical Center and Hillman Cancer Center, 5150 Centre Ave, Rm 564, Pittsburgh, PA 15232; e-mail: [lukejj@upmc.edu.](mailto:lukejj@upmc.edu)\n\n# DISCLAIMER\n\nThe content is solely the responsibility of the authors and does not necessarily represent the official views of the National Cancer Institute or the National Institutes of Health.\n\n# EQUAL CONTRIBUTION\n\nT.F.G., N.I.K., and J.J.L. are co-senior authors.\n\n#### PRIOR PRESENTATION\n\nPresented in part at the American Society of Clinical Oncology Annual Meeting, Chicago, IL, June 4, 2018; and the American Society of Clinical Oncology Annual Meeting, Chicago, IL, May 29, 2020.\n\n#### SUPPORT\n\nSupported by the Merck Investigator Studies Program. Merck provided pembrolizumab and grant funding for the trial and reviewed the final\n\ndrafts of the Protocol and of this manuscript before submission; they played no direct role in study design, data collection, data analysis, or writing of the manuscript. All authors had full access to all the data in the study and had final responsibility for the decision to submit for publication.\n\nD.J.O. was supported by Award Number K12CA139160 from the National Cancer Institute. J.J.L. was supported by DOD W81XWH-17-1- 0265, UM1CA186690-06, the Sy Holzer Endowed Immunotherapy Research Fund Award, and 2020 Hillman Senior Faculty Fellow for Innovative Cancer Research.\n\n# AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST\n\nDisclosures provided by the authors are available with this article at DOI [https://doi.org/10.1200/JCO.21.00079.](https://ascopubs.org/doi/full/10.1200/JCO.21.00079)\n\n# AUTHOR CONTRIBUTIONS\n\nConception and design: Andrew S. Poklepovic, Theodore Karrison, Thomas F. Gajewski, Jason J. Luke\n\nAdministrative support: Vernon K. Sondak, Jason J. Luke\n\nProvision of study materials or patients: Madhuri Bajaj, Mario Velasco, Vernon K. Sondak, Thomas F. Gajewski, Nikhil I. Khushalani, Jason J. Luke\n\nCollection and assembly of data: Daniel J. Olson, Zeynep Eroglu, Andrew S. Poklepovic, Madhuri Bajaj, Sunil Babu, Sigrun Hallmeyer, Mario Velasco, Jose Lutzky, Brian Labadie, Yuanyuan Zha, Vernon K. Sondak, Thomas F. Gajewski, Nikhil I. Khushalani, Jason J. Luke\n\nData analysis and interpretation: Daniel J. Olson, Zeynep Eroglu, Bruce Brockstein, Andrew S. Poklepovic, Sunil Babu, Sigrun Hallmeyer, Emily Higgs, Riyue Bao, Timothy C. Carll, Thomas Krausz, Theodore Karrison, Vernon K. Sondak, Thomas F. Gajewski, Nikhil I. Khushalani, Jason J. Luke\n\nManuscript writing: All authors Final approval of manuscript: All authors Accountable for all aspects of the work: All authors\n\n#### REFERENCES\n\n- <span id=\"page-7-0\"></span>1. Luke JJ, Flaherty KT, Ribas A, et al: Targeted agents and immunotherapies: Optimizing outcomes in melanoma. Nat Rev Clin Oncol 14:463-482, 2017\n- <span id=\"page-7-1\"></span>2. Robert C, Grob JJ, Stroyakovskiy D, et al: Five-year outcomes with dabrafenib plus trametinib in metastatic melanoma. N Engl J Med 381:626-636, 2019\n- <span id=\"page-7-2\"></span>3. Larkin J, Chiarion-Sileni V, Gonzalez R, et al: Five-year survival with combined nivolumab and ipilimumab in advanced melanoma. N Engl J Med 381: 1535-1546, 2019\n- <span id=\"page-7-3\"></span>4. Hodi FS, Chiarion-Sileni V, Gonzalez R, et al: Nivolumab plus ipilimumab or nivolumab alone versus ipilimumab alone in advanced melanoma (CheckMate 067): 4-year outcomes of a multicentre, randomised, phase 3 trial. Lancet Oncol 19:1480-1492, 2018\n- <span id=\"page-7-4\"></span>5. Long GV, Robert C, Blank CU, et al: Outcomes in patients (pts) treated with ipilimumab (ipi) after pembrolizumab (pembro) in KEYNOTE-006. Pigment Cell Melanoma Res 30:118, 2017\n- <span id=\"page-7-5\"></span>6. Pires Da Silva I, Ahmed T, Lo S, et al: Ipilimumab (IPI) alone or in combination with anti-PD-1 (IPI1PD1) in patients (pts) with metastatic melanoma (MM) resistant to PD1 monotherapy. J Clin Oncol 38, 2020 (suppl; abstr 10005)\n- <span id=\"page-7-6\"></span>7. Lebbe C, Meyer N, Mortier L, et al: Evaluation of two dosing regimens for nivolumab in combination with ipilimumab in patients with advanced melanoma: \u00b4 Results from the phase IIIb/IV CheckMate 511 trial. J Clin Oncol 37:867-875, 2019\n- <span id=\"page-7-7\"></span>8. Cristescu R, Mogg R, Ayers M, et al: Pan-tumor genomic biomarkers for PD-1 checkpoint blockade\u2013based immunotherapy. Science 362:eaar3593, 2018\n- <span id=\"page-7-8\"></span>9. Nishino M, Jagannathan JP, Ramaiya NH, et al: Revised RECIST guideline version 1.1: What oncologists want to know and what radiologists need to know. AJR Am J Roentgenol 195:281-289, 2010\n- <span id=\"page-7-9\"></span>10. Olson D, Luke JJ, Hallmeyer S, et al: Phase II trial of pembrolizumab (pembro) plus 1 mg/kg ipilimumab (ipi) immediately following progression on anti-PD-1 Ab in melanoma (mel). J Clin Oncol 36:9514, 2018 (suppl; abstr 9514)\n- <span id=\"page-7-10\"></span>11. Spranger S, Luke JJ, Bao R, et al: Density of immunogenic antigens does not explain the presence or absence of the T-cell-inflamed tumor microenvironment in melanoma. Proc Natl Acad Sci USA 113:E7759-E7768, 2016\n- <span id=\"page-7-11\"></span>12. Bao R, Stapor D, Luke JJ: Molecular correlates and therapeutic targets in T cell-inflamed versus non-T cell-inflamed tumors across cancer types. Genome Med 12:90-19, 2020\n- <span id=\"page-7-12\"></span>13. Ribas A, Hamid O, Daud A, et al: Association of pembrolizumab with tumor response and survival among patients with advanced melanoma. JAMA 315: 1600-1609, 2016\n- <span id=\"page-7-13\"></span>14. Long GV, Atkinson V, Cebon JS, et al: Standard-dose pembrolizumab in combination with reduced-dose ipilimumab for patients with advanced melanoma (KEYNOTE-029): An open-label, phase 1b trial. Lancet Oncol 18:1202-1210, 2017\n- <span id=\"page-7-14\"></span>15. Ayers M, Lunceford J, Nebozhyn M, et al: IFN-g-related mRNA profile predicts clinical response to PD-1 blockade. J Clin Invest 127:2930-2940, 2017\n\n- <span id=\"page-8-0\"></span>16. Taube JM, Klein A, Brahmer JR, et al: Association of PD-1, PD-1 ligands, and other features of the tumor immune microenvironment with response to anti-PD-1 therapy. Clin Cancer Res 20:5064-5074, 2014\n- <span id=\"page-8-1\"></span>17. Rodig SJ, Gusenleitner D, Jackson DG, et al: MHC proteins confer differential sensitivity to CTLA-4 and PD-1 blockade in untreated metastatic melanoma. Sci Transl Med 10:eaar3342, 2018\n- 18. Johnson DB, Bordeaux J, Kim JY, et al: Quantitative spatial profiling of PD-1/PD-L1 interaction and HLA-DR/IDO-1 predicts improved outcomes of anti-PD-1 therapies in metastatic melanoma. Clin Cancer Res 24:5250-5260, 2018\n- <span id=\"page-8-2\"></span>19. Johnson DB, Estrada MV, Salgado R, et al: Melanoma-specific MHC-II expression represents a tumour-autonomous phenotype and predicts response to anti-PD-1/PD-L1 therapy. Nat Commun 7:10582, 2016\n- <span id=\"page-8-3\"></span>20. Tarhini AA, Edington H, Butterfield LH, et al: Immune monitoring of the circulation and the tumor microenvironment in patients with regionally advanced melanoma receiving neoadjuvant ipilimumab. PLoS One 9:e87705, 2014\n- <span id=\"page-8-4\"></span>21. Vanderwalde AM, Latkovic-Taber M, Hu-Lieskovan S, et al: Combining ipilimumab (ipi) and nivolumab (nivo) in advanced melanoma following progression on a PD-1 inhibitor (SWOG S1616). J Clin Oncol 36, 2018 (suppl; abstr TPS9597)\n- <span id=\"page-8-5\"></span>22. Kluger HM, Tawbi HA, Ascierto ML, et al: Defining tumor resistance to PD-1 pathway blockade: Recommendations from the first meeting of the SITC immunotherapy resistance taskforce. J ImmunoTherapy Cancer 8:e000398, 2020\n- <span id=\"page-8-6\"></span>23. Gaule P, Smithy JW, Toki M, et al: A quantitative comparison of antibodies to programmed cell death 1 ligand 1. JAMA Oncol 3:256-259, 2017\n- <span id=\"page-8-7\"></span>24. Andrews S: fastqc SAHWBBAUP, 2012: FastQC: A Quality Control Application for High Throughput Sequence Data. [www.bioinformatics.babraham.ac.uk/](http://www.bioinformatics.babraham.ac.uk/projects/fastqc) [projects/fastqc](http://www.bioinformatics.babraham.ac.uk/projects/fastqc)\n- <span id=\"page-8-8\"></span>25. Bray NL, Pimentel H, Melsted P, et al: Near-optimal probabilistic RNA-seq quantification. Nat Biotechnol 34:525-527, 2016\n- <span id=\"page-8-9\"></span>26. Soneson C, Love MI, Robinson MD: Differential analyses for RNA-seq: Transcript-level estimates improve gene-level inferences. F1000 Res 4:1521, 2015\n\nnnn\n\n#### AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST\n\n#### Pembrolizumab Plus Ipilimumab Following Anti-PD-1/L1 Failure in Melanoma\n\nThe following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated unless otherwise noted. Relationships are self-held unless noted. I 5 Immediate Family Member, Inst 5 My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO's conflict of interest policy, please refer to [www.asco.org/rwc](http://www.asco.org/rwc) or [ascopubs.org/jco/authors/author-center](http://ascopubs.org/jco/authors/author-center).\n\nOpen Payments is a public database containing information reported by companies about payments made to US-licensed physicians [\\(Open Payments](https://openpaymentsdata.cms.gov/)).\n\n#### Zeynep Eroglu\n\nConsulting or Advisory Role: Regeneron, Sun Pharma, Genentech/Roche, Novartis, OncoSec, Natera, Elsevier Research Funding: Novartis, Pfizer\n\n#### Bruce Brockstein\n\nConsulting or Advisory Role: Exelixis/Ipsen\n\nResearch Funding: AstraZeneca Patents, Royalties, Other Intellectual Property: UpToDate. Author and Editorial duties\n\nAndrew S. Poklepovic Consulting or Advisory Role: Novartis Speakers' Bureau: Bristol Myers Squibb\n\n#### Sunil Babu\n\nEmployment: Fort Wayne Medical Oncology & Hematology\n\nStock and Other Ownership Interests: Fort Wayne Medical Oncology & Hematology, Lutheran Hospital\n\nHonoraria: Bristol Myers Squibb, Alexion Pharmaceuticals, Lilly, Bayer, AstraZeneca\n\nConsulting or Advisory Role: Bristol Myers Squibb, Alexion Pharmaceuticals, AstraZeneca, argenx, Boehringer Ingelheim, Bayer, Kite, a Gilead company, Janssen Oncology, Amgen\n\nSpeakers' Bureau: Alexion Pharmaceuticals\n\nResearch Funding: Bristol Myers Squibb, Novartis, Genentech/Roche, AstraZeneca/MedImmune, Janssen Oncology, Amgen, TG Therapeutics, Abbvie, Lilly, Alexion Pharmaceuticals, Merck, Novartis, Syndax, Nektar, Sanofi, argenx\n\nTravel, Accommodations, Expenses: Bristol Myers Squibb, Alexion Pharmaceuticals, Lilly, Janssen Oncology, Genentech/Roche\n\n#### Sigrun Hallmeyer\n\nLeadership: Association of Community Cancer Centers (ACCC) Honoraria: Cardinal Health\n\nConsulting or Advisory Role: Bristol Myers Squibb, Cardinal Health, Array Pharamceutical\n\nSpeakers' Bureau: Bristol Myers Squibb\n\nTravel, Accommodations, Expenses: Cardinal Health, Bristol Myers Squibb Uncompensated Relationships: Society for Immunotherapy of Cancer\n\n#### Mario Velasco\n\nEmployment: Cancer Care Specialists of IL\n\n#### Jose Lutzky\n\nConsulting or Advisory Role: Castle Biosciences, Iovance Biotherapeutics, Replimune, Regeneron\n\nResearch Funding: Bristol Myers Squibb, Novartis, Iovance Biotherapeutics, Immunocore, Regeneron, Replimune, Vyriad\n\n#### Emily Higgs\n\nEmployment: Lilly Stock and Other Ownership Interests: Lilly\n\n#### Research Funding: Lilly\n\nPatents, Royalties, Other Intellectual Property: Jeffrey D. Helterbrand, Richard E. Higgs, Phillip W. Iversen, Automatic Contextual Segmentation for Imaging Bones for Osteoporosis Therapies (Granted February 1, 2000, US Patent 6,021,213). Raymond E. Kaiser, Richard E. Higgs, Randall K. Julian Jr, System and Methods for Quantitatively Comparing Complex Mixtures Using Single Ion Chromatograms Derived From Spectroscopic Analysis of Such Admixtures (Granted March 23, 1999, US Patent 5,885,841)\n\nTravel, Accommodations, Expenses: Lilly\n\n#### Vernon K. Sondak\n\nConsulting or Advisory Role: Merck/Schering Plough, Novartis, Bristol Myers Squibb, Regeneron, Replimune, Eisai\n\nTravel, Accommodations, Expenses: Polynoma, Merck, Bristol Myers Squibb, Replimune\n\n#### Thomas F. Gajewski\n\nStock and Other Ownership Interests: Jounce Therapeutics, Evelo Therapeutics, Five Prime Therapeutics, Pyxis\n\nConsulting or Advisory Role: Merck, Jounce Therapeutics, Adaptimmune, FOGPharma, Allogene Therapeutics, Pyxis, Trillium Therapeutics, Janssen Oncology, Gilead Sciences\n\nResearch Funding: Bristol Myers Squibb, Merck, Roche/Genentech, Incyte, Seattle Genetics, Ono Pharmaceutical, Aduro Biotech, Pyxis, Bayer Patents, Royalties, Other Intellectual Property: Licensing to Evelo, Licensing to Aduro, Licensing to BMS, Licensing to Pyxis\n\n#### Nikhil I. Khushalani\n\nStock and Other Ownership Interests: Bellicum Pharmaceuticals, Mazor Robotics, Amarin Corporation, Asensus Surgical\n\nHonoraria: Sanofi Consulting or Advisory Role: Bristol Myers Squibb, AstraZeneca, Regeneron, Array BioPharma, Immunocore, Merck, Incyte, Jounce Therapeutics, Iovance Biotherapeutics, NCCN/Pfizer\n\nResearch Funding: Bristol Myers Squibb, Merck, Novartis, GlaxoSmithKline, HUYA Bioscience International, Amgen, Regeneron, Celgene, Replimune\n\n#### Jason J. Luke\n\nStock and Other Ownership Interests: Actym Therapeutics, Mavu Pharmaceutical, Pyxis, Alphamab, Tempest Therapeutics, Kanaph Therapeutics, Onc.AI, Arch Oncology\n\nConsulting or Advisory Role: Array BioPharma, Bristol Myers Squibb, Merck, EMD Serono, Novartis, 7 Hills Pharma, Janssen, Reflexion Medical, Tempest Therapeutics, TTC Oncology, Alphamab, Compugen, Spring Bank, Abbvie, Astellas Pharma, Bayer, Incyte, Mersana, Partner Therapeutics, Synlogic, Eisai, Werewolf Therapeutics, Ribon Therapeutics, Checkmate Pharmaceuticals, CStone Pharmaceuticals, Nektar, Regeneron, Rubius Therapeutics, Tesaro, Xilio Therapeutics, Xencor\n\nResearch Funding: Merck, Bristol Myers Squibb, Incyte, Corvus Pharmaceuticals, Abbvie, Checkmate Pharmaceuticals, Macrogenics, Xencor, Array BioPharma, Agios, Astellas Pharma, EMD Serono, Immatics, Kadmon, Moderna Therapeutics, Nektar, Spring Bank, Trishula Therapeutics\n\nPatents, Royalties, Other Intellectual Property: Serial #15/612,657 (Cancer Immunotherapy), Serial #PCT/US18/36052 (Microbiome Biomarkers for Anti-PD-1/PD-L1 Responsiveness: Diagnostic, Prognostic and Therapeutic Uses Thereof)\n\nTravel, Accommodations, Expenses: Bristol Myers Squibb, Array BioPharma, EMD Serono, Janssen, Merck, Novartis, Reflexion Medical, Mersana, Pyxis, Xilio Therapeutics\n\nNo other potential conflicts of interest were reported.\n\n# <span id=\"page-10-0\"></span>APPENDIX\n\n#### Tumor Biomarker Procedures\n\nPD-L1 scoring. The Cell Signaling Technology EIL3N programmed death ligand-1 (PD-L1) monoclonal antibody was used for PD-L1 scoring. This antibody has been previously validated for PD-L1 scoring and showed high concordance with commercially available PD-L1 antibodies, including DAKO 22C35.[23](#page-8-6) Tumor cells were scored by University of Chicago pathologists using the DAKO 22C3 method as taught in the interactive primer course on the DAKO 22C3 website; this method is employed as standard practice for PD-L1 scoring at the University of Chicago. A cutoff of \\$ 1% was used to define PD-L1 positivity as consistent with the melanoma KEYNOTE trials.\n\nRNA sequencing and gene expression profiling. Tumor RNA was isolated from available formalin-fixed paraffin-embedded (FFPE) tumor samples using the QIAGEN AllPrep DNA/RNA FFPE kit (Qiagen, Hilden, Germany) at the Human Immunologic Monitoring Facility at the University of Chicago according to the manufacturer's instruction. The quality and quantity of RNA were measured on an Agilent 2100 Bio-analyzer using Agilent reagents and protocols (Agilent Technologies, Santa Clara, CA). RNAseq libraries were generated using Illumina TruSEQ Total RNA stranded library\u2013making kits using Illumina protocols (Illumina, San Diego, CA). The quality and quantity of the library were determined using an Agilent 2100 Bio-analyzer using Agilent reagents and protocols. Sequencing data were collected using an Illumina NovaSEQ sequencer and demultiplexed using Illumina bcl2fastq software. The quality of raw reads was assessed by FastQC[.24](#page-8-7) Reads were aligned to human reference transcriptome with Gencode gene annotation (GRCh38) by Kallisto.[25](#page-8-8) Transcript abundance was quantified at the transcript level using the strand-specific protocol, summarized into gene level using tximport[,26](#page-8-9) normalized by the trimmed mean of M values (TMM) method, and log2-transformed for further analysis. T-cell\u2013inflamed gene expression scores were determined using a 160-gene signature of T-cell inflammation[,11](#page-7-10) and the expression for each gene was normalized to its mean expression level by subtracting the average value and dividing by the standard deviation, such that the average value of the normalized data was 0 and the standard deviation was 1. T-cell\u2013inflamed gene expression scores were calculated by taking the median of the normalized values for each gene in the signature. Of the 58 tumor specimens with RNA adequate for analysis, 50 were obtained before initial anti-PD-1/L1 antibody treatment and eight were obtained after anti-PD-1/L1 antibody treatment, but before initiating study treatment with pembrolizumab plus low-dose ipilimumab.\n\n![](_page_10_Figure_6.jpeg)\n\n<span id=\"page-10-1\"></span>FIG A1. Time on prior anti-PD-1/L1 antibody (blue) versus progression-free time on pembrolizumab plus low-dose ipilimumab (red). Red bars indicate progression-free time after initiating study treatment, blue bars indicate time on prior anti-PD-1/L1 antibody, green arrows indicate patients currently on treatment, blue arrows represent those who either completed treatment or stopped early, and orange arrows represent patients who came off for an adverse event and remain progression-free. PD-1, programmed cell death protein-1; PD-L1, programmed death ligand-1.\n\n![](_page_11_Figure_1.jpeg)\n\n<span id=\"page-11-0\"></span>FIG A2. Overall survival in the total population.  # Increased text length for comprehensive extraction\n\nReturn JSON only:",
+    "validation_data": {
+      "can_process": true,
+      "nct_number": "NCT02743819",
+      "treatment_arms_count": 0,
+      "errors": [],
+      "warnings": []
+    },
+    "extraction_ready": true,
+    "source": "marker_enhanced",
+    "markdown_length": 56834,
+    "extraction_timestamp": "2025-07-23T12:37:46.306874"
+  },
+  "quality_assessment": {
+    "markdown_quality": 100.0,
+    "clinical_keywords_found": 14,
+    "table_structures": 346,
+    "section_headers": 139,
+    "nct_numbers": 2,
+    "extraction_fields_filled": 6,
+    "processing_success": true
+  },
+  "success": true,
+  "processing_time": 1753254466.309397,
+  "use_llm": false
+}

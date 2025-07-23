@@ -1,2 +1,3 @@
 from .openai_client import OpenAIClient
-from .pdf_processor import PDFProcessor
+
+# Remove unnecessary imports to avoid triggering fitz import

@@ -1,0 +1,1135 @@
+{
+  "pdf_path": "resources/12.pdf",
+  "pdf_name": "12",
+  "marker_processing": {
+    "pdf_path": "resources/12.pdf",
+    "pdf_name": "12",
+    "markdown_path": "/var/folders/k8/d1yv1yjs12d97mqvcvxgjnhm0000gn/T/tmpq7_dopz2/12/12.md",
+    "json_path": "/var/folders/k8/d1yv1yjs12d97mqvcvxgjnhm0000gn/T/tmpq7_dopz2/12/12_meta.json",
+    "success": true,
+    "markdown_content": "#### www.thelancet.com/oncology **Vol 19 May 2018 603**\n\n# **Encorafenib plus binimetinib versus vemurafenib or encorafenib in patients with** *BRAF***-mutant melanoma (COLUMBUS): a multicentre, open-label, randomised phase 3 trial**\n\n*Reinhard Dummer\\*, Paolo A Ascierto\\*, Helen J Gogas, Ana Arance, Mario Mandala, Gabriella Liszkay, Claus Garbe, Dirk Schadendorf, Ivana Krajsova, Ralf Gutzmer, Vanna Chiarion-Sileni, Caroline Dutriaux, Jan Willem B de Groot, Naoya Yamazaki, Carmen Loquai, Laure A Moutouh-de Parseval, Michael D Pickard, Victor Sandor, Caroline Robert\u2020, Keith T Flaherty\u2020*\n\n# **Summary**\n\n**Background Combined BRAF-MEK inhibitor therapy is the standard of care for** *BRAF***V600-mutant advanced melanoma. We investigated encorafenib, a BRAF inhibitor with unique target-binding properties, alone or in combination with the MEK inhibitor binimetinib, versus vemurafenib in patients with advanced** *BRAF***V600-mutant melanoma.**\n\n**Methods COLUMBUS was conducted as a two-part, randomised, open-label phase 3 study at 162 hospitals in 28 countries. Eligible patients were aged 18 years or older and had histologically confirmed locally advanced (American Joint Committee on Cancer [AJCC] stage IIIB, IIIC, or IV), unresectable or metastatic cutaneous melanoma, or unknown primary melanoma; a** *BRAF***V600E or** *BRAF***V600K mutation; an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1; and were treatment naive or had progressed on or after previous firstline immunotherapy. In part 1 of the study, patients were randomly assigned (1:1:1) via interactive response technology to receive either oral encorafenib 450 mg once daily plus oral binimetinib 45 mg twice daily (encorafenib plus binimetinib group), oral encorafenib 300 mg once daily (encorafenib group), or oral vemurafenib 960 mg twice daily (vemurafenib group). The primary endpoint was progression-free survival by blinded independent central review for encorafenib plus binimetinib versus vemurafenib. Efficacy analyses were by intention-to-treat. Safety was analysed in patients who received at least one dose of study drug and one postbaseline safety assessment. The results of part 2 will be published separately. This study is registered with ClinicalTrials.gov, number NCT01909453, and EudraCT, number 2013-001176-38.**\n\n**Findings Between Dec 30, 2013, and April 10, 2015, 577 of 1345 screened patients were randomly assigned to either the encorafenib plus binimetinib group (n=192), the encorafenib group (n=194), or the vemurafenib group (n=191). With a median follow-up of 16\u00b76 months (95% CI 14\u00b78\u201316\u00b79), median progression-free survival was 14\u00b79 months (95% CI 11\u00b70\u201318\u00b75) in the encorafenib plus binimetinib group and 7\u00b73 months (5\u00b76\u20138\u00b72) in the vemurafenib group (hazard ratio [HR] 0\u00b754, 95% CI 0\u00b741\u20130\u00b771; two-sided p<0\u00b70001). The most common grade 3\u20134 adverse events seen in more than 5% of patients in the encorafenib plus binimetinib group were increased \u03b3-glutamyltransferase (18 [9%] of 192 patients), increased creatine phosphokinase (13 [7%]), and hypertension (11 [6%]); in the encorafenib group they were palmoplantar erythrodysaesthesia syndrome (26 [14%] of 192 patients), myalgia (19 [10%]), and arthralgia (18 [9%]); and in the vemurafenib group it was arthralgia (11 [6%] of 186 patients). There were no treatmentrelated deaths except for one death in the combination group, which was considered possibly related to treatment by the investigator.** \n\n**Interpretation Encorafenib plus binimetinib and encorafenib monotherapy showed favourable efficacy compared with vemurafenib. Overall, encorafenib plus binimetinib appears to have an improved tolerability profile compared with encorafenib or vemurafenib. Encorafenib plus binimetinib could represent a new treatment option for patients with** *BRAF***-mutant melanoma.**\n\n**Funding Array BioPharma, Novartis.**\n\n**Copyright \u00a9 2018 Elsevier Ltd. All rights reserved.**\n\n# **Introduction**\n\nGenetic alterations resulting in an activated MAPK pathway occur in almost all melanoma cases. The most frequent is the *BRAF*V600 mutation, which occurs in 35\u201350% of patients with a melanoma.1 Activating *BRAF* mutations drive constitutive MAPK pathway activation, with subsequent proliferation and enhanced cellular survival, making BRAF kinase a promising therapeutic\n\n#### *Lancet Oncol* **2018; 19: 603\u201315**\n\nPublished **Online** March 21, 2018 http://dx.doi.org/10.1016/ S1470-2045(18)30142-6 See **Comment** page 580\n\n\\*Contributed equally as first authors\n\n\u2020Contributed equally as final authors\n\n**Department of Dermatology, University Hospital Z\u00fcrich Skin Cancer Center, Z\u00fcrich, Switzerland**  (Prof R Drummer MD)**; Melanoma Unit, Cancer Immunotherapy and Innovative Therapies,Istituto Nazionale Tumori IRCCS Fondazione Pascale, Naples, Italy** (P A Ascierto MD)**; Department of Internal Medicine, National and Kapodistrian University of Athens, Laikon Hospital, Athens, Greece** (H J Gogas MD)**; Department of Medical Oncology, Hospital Clinic of Barcelona, Barcelona, Spain**  (A Arance MD)**; Department of Oncology and Haematology, Papa Giovanni XXIII Cancer Center Hospital, Bergamo, Italy** (M Mandala MD)**; Department of Dermatology, National Institute of Oncology, Budapest, Hungary** (Prof G Liszkay MD)**; Department of Dermatology, University Hospital T\u00fcebingen, T\u00fcebingen, Germany**  (Prof C Garbe MD)**; Department of Dermatology, University Hospital Essen, Essen, Germany**  (Prof D Schadendorf MD)**; German Cancer Consortium, Heidelberg, Germany**  (Prof D Schadendorf)**; Department of Dermato-oncology, University Hospital Prague, Charles University First Medical Faculty, Prague, Czech Republic** \n\n![](_page_0_Picture_20.jpeg)\n\n(I Krajsova MD)**; Department of Dermatology and Allergy, Skin Cancer Center Hannover, Hannover Medical School, Hannover, Germany**  (Prof R Gutzmer MD)**; Melanoma Cancer Unit, Oncology Institute of Veneto IRCCS, Padua, Italy**  (V Chiarion-Sileni MD)**; Department of Oncologic Dermatology, Centre Hospitalier Universitaire de Bordeaux, H\u00f4pital Saint-Andr\u00e9, Bordeaux, France**  (C Dutriaux MD)**; Department of Medical Oncology, Isala, Zwolle, Netherlands**  (J W B de Groot MD)**; Department of Dermatologic Oncology, National Cancer Center Hospital, Tokyo, Japan** (N Yamazaki MD)**; Department of Dermatology, University Medical Center Mainz, Mainz, Germany** (C Loquai MD)**; Translational Clinical Oncology, Novartis Pharma AG, Basel, Switzerland**  (L A Moutouh-de Parseval MD)**; Array BioPharma, Boulder, CO, USA** (M D Pickard PhD, V Sandor MD)**; Service of Dermatology,Department of Medicine, Paris-Sud University, Gustave Roussy, Villejuif, France** (Prof C Robert MD)**; and** \n\n**Cancer Center,Massachusetts General Hospital, Boston, MA, USA** (K T Flaherty MD) Correspondence to: Prof Reinhard Dummer, Department of Dermatology, Skin Cancer Center, University\n\nHospital Z\u00dcrich, 8091 Z\u00dcrich, Switzerland **reinhard.dummer@usz.ch**\n\n## **Research in context**\n\n#### **Evidence before this study**\n\nWe searched for articles and abstracts during the development of this Article that were published in PubMed and Embase between Jan 1, 2014, and Dec 20, 2017. Search terms were comprehensive (\"melanoma\"+\"treatment\"+\"phase\" [all fields]; \"encorafenib\", \"BRAF inhibition\"+\"melanoma\" [all fields]). Selected abstracts were not limited to those in the English language and focused on phase 3 clinical trial data. Our search results indicated that a combination of available BRAF and MEK-pathway inhibitors provided additional benefit with reasonable tolerability in advanced melanoma compared with BRAF-inhibitor monotherapy. Preclinical and phase 1 and 2 clinical data suggested that the BRAF inhibitor encorafenib in combination with the MEK inhibitor binimetinib could further improve therapy for patients with *BRAF*-mutant melanoma.\n\n#### **Added value of this study**\n\nIn this randomised trial in patients with *BRAF*-mutant melanoma, treatment with the combination of the BRAF inhibitor encorafenib 450 mg and the MEK inhibitor binimetinib 45 mg improved progression-free survival and overall response compared with encorafenib 300 mg or vemurafenib, with better\n\ntolerability. Furthermore, in what to our knowledge is the first controlled head-to-head comparison of BRAF-inhibitor monotherapy, encorafenib showed a progression-free survival advantage compared with vemurafenib. Additionally, the combination of encorafenib with binimetinib ameliorated toxic effects associated with encorafenib monotherapy, enabling the use of a higher dose of encorafenib. Consistent with preclinical findings, our results show that encorafenib monotherapy provides improved clinical efficacy compared with vemurafenib monotherapy, and that high-intensity, extended BRAF inhibition, in combination with MEK inhibition, could result in improved tumour control.\n\n#### **Implications of all the available evidence**\n\nEncorafenib in combination with binimetinib is a well tolerated and efficacious treatment option for *BRAF*-mutant metastatic melanoma. Overall survival data and long-term safety data will provide additional insights into the efficacy and tolerability of this combination. Additionally, our findings indicate that the combination of encorafenib with binimetinib has a different toxicity profile from other combinations of BRAF-MEK inhibitors, with low frequencies of pyrexia and photosensitivity.\n\ntarget.1 In-vitro investigations have shown that growth of *BRAF*-mutated melanoma cells can be inhibited by BRAF or MEK inhibitors.2\n\nA crystallography-guided drug design approach produced several candidate ATP-competitive BRAFkinase inhibitors that were investigated in clinical trials. Vemurafenib was the first to show efficacy in *BRAF*mutant melanoma,3,4 followed by dabrafenib.5 MAPK pathway reactivation is implicated in BRAF-inhibitor monotherapy resistance.6 Additionally, toxic effects associated with BRAF inhibition, notably secondary squamous-cell skin cancer and other skin toxicities, are caused by BRAF inhibitors paradoxically activating the wild-type BRAF kinase, promoting dimerisation that triggers RAS-independent transactivation, and activation of the MAPK pathway in normal tissues.7 Subsequent clinical trials8\u201311 in patients with *BRAF*V600-mutant melanoma have shown that dual MAPK-pathway targeting with a BRAF inhibitor and a MEK inhibitor improves efficacy and ameliorates paradoxical MAPK activation-related toxic effects associated with BRAFinhibitor monotherapy. Two BRAF-MEK inhibitor combinations (dabrafenib-trametinib and vemurafenibcobimetinib) are regarded as treatment options for metastatic or unresectable *BRAF*V600-mutant melanoma in current guidelines.12,13 These BRAF-MEK inhibitor combinations are highly effective. However, both are associated with disease progression at approximately 12 months, and each combination causes different toxic effects in patients, highlighting the need for more effective and better tolerated therapies.8\u201310,14\u201317\n\nEncorafenib is an ATP-competitive BRAF inhibitor that suppresses the MAPK pathway in tumour cells that express several mutated forms of BRAF kinase (eg, V600E, V600D, and V600K mutations), with a more than 10-times longer dissociation half-life (>30 h) than either dabrafenib or vemurafenib, which enables sustained target inhibition.18 Preclinical studies suggest that this property could enhance antitumour activity while reducing paradoxical activation of MAPK pathways in normal tissues.18,19 Binimetinib is an orally available, non-ATPcompetitive, allosteric inhibitor of MEK1 and MEK2.20\n\nPromising clinical activity and tolerability of the combination of encorafenib and binimetinib has been seen in patients with *BRAF*V600-mutated melanoma in a phase 1b/2 and a phase 2 study. 21,22 Furthermore, the maximum tolerated dose of encorafenib when combined with binimetinib was higher than the maximum tolerated dose of encorafenib monotherapy, thus allowing the use of a higher encorafenib dose when combined with binimetinib in subsequent trials.22 Here, we describe the results of part one of the COLUMBUS trial, a phase 3 study of encorafenib plus binimetinib versus vemurafenib or encorafenib monotherapy in patients with advanced *BRAF*V600-mutant unresectable melanoma.\n\n# **Methods**\n\n## **Study design and participants**\n\nCOLUMBUS is a two-part, multicentre, randomised, open-label phase 3 study of the efficacy and safety of encorafenib plus binimetinib combination therapy versus vemurafenib or encorafenib monotherapy in patients with locally advanced unresectable or metastatic *BRAF*V600-mutant melanoma. The study was originally designed to compare the efficacy of encorafenib 450 mg once daily plus binimetinib 45 mg twice daily with vemurafenib given at its clinically indicated dose, and with encorafenib given at 300 mg once daily (its maximum well tolerated dose as a monotherapy). However, because of a request from the US Food and Drug Administration (FDA), the study protocol was amended on Nov 4, 2014, and a new study phase (part two) was added to better understand and isolate the contribution of binimetinib to the combination by comparing encorafenib 300 mg plus binimetinib 45 mg against encorafenib 300 mg alone.\n\nIn part one of the study, patients were recruited at 162 hospitals in 28 countries, including 20 sites in North America, 124 sites in Europe, and 18 sites in other selected countries (appendix p 2\u20135). After completion of enrolment in part one, patients were recruited into part two of the study following the same eligibility criteria, and the combination of encorafenib at its monotherapy maximum tolerated dose plus binimetinib was compared with encorafenib monotherapy at the same dose. Part 2 was done to better characterise the contribution of binimetinib to the combination therapy, and the results will be published separately.\n\nTo be eligible, patients needed to be aged 18 years or older and meet the following criteria: have a histologically confirmed diagnosis of locally advanced (American Joint Committee on Cancer [AJCC] stage IIIB, IIIC, or IV), unresectable or metastatic cutaneous melanoma, or unknown primary melanoma (as per amendment 3; Nov 4, 2014); have the presence of a *BRAF*V600E or *BRAF*V600K mutation, or both, in their tumour tissue; have an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1; have adequate bone marrow, organ function (including cardiac function), and laboratory parameters (ie, absolute neutrophil count, haemoglobin concentration, platelet count, aspartate aminotransferase or alanine aminotransferase concentrations, and total bilirubin, creatinine, or calculated creatinine clearance); have evidence of at least one measurable lesion as detected by radiological or photographic methods according to guidelines based on Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1;23 and be treatment naive or have progressed on or after previous first-line immunotherapy (acceptable test limits for laboratory parameters are in the appendix, p 6). Key exclusion criteria included untreated CNS lesions; uveal or mucosal melanoma; known positive serology for human immunodeficiency virus, or an active hepatitis B or hepatitis C infection, or both; history of leptomeningeal metastases; a history of, current evidence of, or risk of retinal vein occlusion; Gilbert's syndrome; previous treatment with a BRAF or MEK inhibitor; previous systemic chemotherapy (as per protocol amendment 2 on Dec 22, 2013, and clarified in amendment 3 on Nov 4, 2014), extensive radiotherapy, or use of an investigational agent other than previous immunotherapy for locally advanced, unresectable, or metastatic melanoma (immunotherapy must have ended at least 6 weeks before randomisation); impaired cardiovascular function; uncontrolled arterial hypertension; and neuromuscular disorders associated with high concentrations of creatine kinase. The full list of exclusion criteria is in the study protocol (appendix p 93).\n\nIndependent ethics committees or review boards at each study site approved the study protocol and amendments 1\u20134. Conduct of the study conformed with Good Clinical Practice guidelines and the ethical requirements outlined in the Declaration of Helsinki. Written informed consent was obtained from all patients before screening procedures were initiated.\n\nSee **Online** for appendix\n\n## **Randomisation and masking**\n\nPatients were randomly allocated into one of the three treatment groups in the trial (1:1:1) to receive either encorafenib plus binimetinib (encorafenib plus binimetinib group), encorafenib (encorafenib group), or vemurafenib (vemurafenib group) by use of validated interactive response technology (Parexel International, Billerica, MA, USA). Randomisation was stratified by AJCC stage (IIIB, IIIC, IVM1a, IVM1b, or IVM1c), ECOG performance status (0 or 1), and *BRAF*-mutation status (*BRAF*V600E *vs BRAF*V600K). After protocol amendment 2 (Dec 20, 2013), previous first-line immunotherapy (yes *vs* no) replaced *BRAF*-mutation status as a stratification factor. Investigators and patients were not masked to treatment assignment.\n\n## **Procedures**\n\nCentral genetic mutation analysis to ascertain the presence of *BRAF* mutations was done for all patients before enrolment with the bioM\u00e9rieux THxID BRAF diagnostic test (bioM\u00e9rieux, Marcy l'Etoile, France), which identifies both *BRAF*V600E and *BRAF*V600K gene mutations. Instances of previous immunotherapy were recorded for all patients. Patients received either encorafenib 450 mg orally once daily plus binimetinib 45 mg orally twice daily, encorafenib 300 mg orally once daily, or vemurafenib 960 mg orally twice daily according to randomised treatment assignment, and continued treatment until progression of disease per central review, death, unacceptable toxic effects, or withdrawal of consent. The type and frequency of clinical laboratory assessments are described in the appendix (p 10). Dose modifications, including treatment interruptions and dose reductions, were permitted for each of the drugs on the basis of tolerability and adverse events. Details regarding drug manufacture and permitted dose modifications are in the appendix (p 6).\n\nThe relative dose intensity was defined as 100 \u00d7 (the total cumulative dose a patient actually received while a on the study) divided by (the total cumulative dose a patient was scheduled to receive [ie, had they not had any dose adjustments or interruptions] while on the study).\n\nBaseline imaging was done within 21 days of randomisation and included chest, abdomen, and pelvis MRI or CT, and brain MRI or CT to assess CNS disease. In the case of suspected bone metastases, a whole-body bone scan was done. Localised CT, MRI, or radiography was done for all skeletal lesions identified via the bone scan if not visible on the chest, abdomen, and pelvis CT or MRI. If clinically indicated, a CT or MRI scan was done of other areas of disease, as appropriate. Colour photographs were taken of all skin lesions, and lesion sizes were estimated with a metric ruler. Tumours were evaluated every 8 weeks during the first 24 months, and every 12 weeks thereafter, by use of the same imaging method as at baseline. Additional tumour assessments were done if progression was suspected by the treating physician. Tumour response was assessed centrally by blinded independent committee review and by local review according to guidelines based on RECIST version 1.1.\n\nFor safety assessments, we collected data on all adverse events; physical examinations such as specific ophthalmic and dermatological examinations, cardiac assessments (electrocardiogram and multiple-gated acquisition scan or echocardiogram); and clinical laboratory assessments. Because of the ocular-related toxicity profile of MEK inhibitors, all patients in the encorafenib plus binimetinib group had routine ophthalmic testing at each regularly scheduled visit during the treatment period**.** For patients in the encorafenib and vemurafenib groups, ophthalmic testing at each regularly scheduled visit was only required if retinal abnormalities were present at baseline. Details on the ophthalmological examinations are included in the appendix (p 6). The severity of adverse events was assessed according to the Common Terminology Criteria for Adverse Events version 4.03.24 We monitored adverse events during the study and for at least 30 days after the last dose of study drug.\n\nThe data cutoff date for analyses presented here was May 19, 2016. No interim analysis was done before the primary progression-free survival analysis presented in this Article. A data monitoring committee reviewed safety data approximately every 6 months.\n\n## **Outcomes**\n\nThe primary endpoint was the comparison of progressionfree survival in the encorafenib plus binimetinib versus vemurafenib groups as assessed by blinded independent central review. Progression-free survival was defined as the time from the date of randomisation to the date of the first documented disease progression or death from any cause, whichever occurred first. If a patient did not have a progression event at the time of the analysis cutoff or at the start of any new antineoplastic therapy, their data were censored at the date of last adequate tumour assessment. The key secondary endpoint was comparison of progression-free survival in the encorafenib plus binimetinib group versus the encorafenib group. Other secondary endpoints included comparison of the progression-free survival of patients in the encorafenib group versus the vemurafenib group; best overall response (complete response, partial response, stable disease, progressive disease, or unknown, derived per RECIST version 1.1), overall response (proportion of patients with a best overall response of confirmed complete response or partial response), disease control (the proportion of patients with a best overall response of confirmed complete response, partial response, or stable disease [including patients with non-measurable disease]), duration of response (time from the date of first documented response [confirmed complete response or partial response] to the first documented progression or death due to melanoma), time to response (time between date of randomisation until first documented response of complete response or partial response), and safety of encorafenib plus binimetinib and encorafenib. Data from tumour assessments read by blinded independent central review were used for the primary and secondary endpoints and analysis of best overall response, duration of response, and disease control; data from local review were used in supportive analyses. Analyses of other secondary outcomes to be reported in a separate manuscript include overall survival, quality of life, resource utilisation, comparison of ECOG performance status, and pharmacokinetic analysis.\n\n## **Statistical analysis**\n\nSample size calculations were based on assumptions for progression-free survival medians derived from results of a phase 1b/2 study (NCT01543698)22 for encorafenib plus binimetinib, a phase 1 study for encorafenib,18 and updated results from the BRIM-325 and BRIM-226/ COMBI-v,9 and coBRIM14,27 trials for vemurafenib.\n\nAnalyses of the primary and key (type-I error controlled) secondary endpoints for part one of the study were event driven and done when patient enrolment in part one was complete and the prespecified number of progressionfree survival events for both the final primary and part one key secondary comparison were available. We used a hierarchical testing procedure to control type-I errors for the primary and key secondary endpoints. The key secondary endpoint of part one (progression-free survival of encorafenib plus binimetinib *vs* encorafenib) was to be tested if the primary efficacy endpoint (progression-free survival of encorafenib plus binimetinib *vs* vemurafenib) was significant. The driver of sample size was the key secondary endpoint of progression-free survival with encorafenib plus binimetinib versus encorafenib (as per amendment 3; appendix p 47); for this comparison, 191 progression-free survival events were required to detect a hazard ratio (HR) of 0\u00b7667 with 80% power by use of a log-rank test at a one-sided 2\u00b75% level of significance. For the primary comparisons of encorafenib plus binimetinib versus vemurafenib, 145 progressionfree survival events were required to detect an HR of 0\u00b758 with 90% power by use of a log-rank test at a one-sided 2\u00b75% level of significance. Assuming that 15% of patients would be lost to follow-up, we estimated that 576 patients (192 in each group) would need to be recruited.\n\nWe analysed efficacy endpoints in the intention-to-treat population, which comprised all patients who had been randomised. Patients were analysed by treatment group and strata, as assigned during randomisation. Safety was analysed in all patients who received at least one dose of study drug and had at least one postbaseline safety assessment; patients were analysed according to the treatment they actually received. All data were used to the greatest extent possible without imputations for missing data (appendix p 7).\n\nMedian duration of follow-up for progression-free survival was estimated first, by summarising the observed follow-up for each patient (ie, the duration from date of randomisation to date of progression-free survival event or censoring), and second, through reverse Kaplan-Meier analyses. The reverse Kaplan-Meier median values are reported and reflect the potential follow-up in the absence of progressive disease or death. Progression-free survival was analysed according to the treatment group and two of the stratification factors (AJCC stage and ECOG performance status). Owing to the low expected prevalence of patients with previous immunotherapy (about 15%), for the stratified analyses it was prespecified that the two previous immunotherapy strata (yes *vs* no)\n\n![](_page_4_Figure_5.jpeg)\n\n#### *Figure 1:* **Trial profile**\n\nCNS=central nervous system. \\*Some patients were ineligible for more than one reason. \u2020Primary reason. \u2021Ongoing at the time of data cutoff (May 19, 2016).\n\n|                                                                                                       | Encorafenib<br>450 mg plus<br>binimetinib<br>45 mg group<br>(n=192) | Encorafenib<br>300 mg<br>group<br>(n=194) | Vemurafenib<br>960 mg<br>group<br>(n=191) |  |\n|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------|-------------------------------------------|--|\n| Age (years)                                                                                           | 57\u00b70 (20\u201389)                                                        | 54\u00b70 (23\u201388)                              | 56\u00b70 (21\u201382)                              |  |\n| Sex                                                                                                   |                                                                     |                                           |                                           |  |\n| Male                                                                                                  | 115 (60%)                                                           | 108 (56%)                                 | 111 (58%)                                 |  |\n| Female                                                                                                | 77 (40%)                                                            | 86 (44%)                                  | 80 (42%)                                  |  |\n| ECOG performance status                                                                               |                                                                     |                                           |                                           |  |\n| 0                                                                                                     | 136 (71%)                                                           | 140 (72%)                                 | 140 (73%)                                 |  |\n| 1                                                                                                     | 56 (29%)                                                            | 54 (28%)                                  | 51 (27%)                                  |  |\n| LDH concentration                                                                                     |                                                                     |                                           |                                           |  |\n| \u2265Upper limit of normal                                                                                | 55 (29%)                                                            | 47 (24%)                                  | 52 (27%)                                  |  |\n| <upper limit=\"\" normal<=\"\" of=\"\" td=\"\"><td>137 (71%)</td><td>147 (76%)</td><td>139 (73%)</td></upper> | 137 (71%)                                                           | 147 (76%)                                 | 139 (73%)                                 |  |\n| BRAF mutation status                                                                                  |                                                                     |                                           |                                           |  |\n| BRAFV600E                                                                                             | 170 (89%)                                                           | 173 (89%)*                                | 168 (88%)                                 |  |\n| BRAFV600K                                                                                             | 22 (11%)                                                            | 19 (10%)*                                 | 23 (12%)                                  |  |\n| Tumour stage at study entry                                                                           |                                                                     |                                           |                                           |  |\n| IIIB/IIIC                                                                                             | 9 (5%)                                                              | 6 (3%)                                    | 11 (6%)                                   |  |\n| IVM1a                                                                                                 | 26 (14%)                                                            | 29 (15%)                                  | 24 (13%)                                  |  |\n| IVM1b                                                                                                 | 34 (18%)                                                            | 39 (20%)                                  | 31 (16%)                                  |  |\n| IVM1c                                                                                                 | 123 (64%)                                                           | 120 (62%)                                 | 125 (65%)                                 |  |\n| Number of organs involved                                                                             |                                                                     |                                           |                                           |  |\n| 1                                                                                                     | 47 (24%)                                                            | 56 (29%)                                  | 45 (24%)                                  |  |\n| 2                                                                                                     | 58 (30%)                                                            | 52 (27%)                                  | 59 (31%)                                  |  |\n| \u22653                                                                                                    | 87 (45%)                                                            | 86 (44%)                                  | 87 (46%)                                  |  |\n| Previous immunotherapy                                                                                | 57 (30%)                                                            | 58 (30%)                                  | 57 (30%)                                  |  |\n| Ipilimumab                                                                                            | 7 (4%)                                                              | 10 (5%)                                   | 7 (4%)                                    |  |\n| Previous anti\u2013PD-1 or<br>anti-PD-L1                                                                   | 1 (1%)                                                              | 2 (1%)                                    | 0                                         |  |\n| Interferons or<br>interleukins                                                                        | 51 (27%)                                                            | 51 (26%)                                  | 52 (27%)                                  |  |\n\nData are median (range) or n (%), and include all randomised patients.\n\nECOG=Eastern Cooperative Oncology Group. LDH=lactate dehydrogenase.\n\nPD-1=programmed cell death 1. PD-L1=programmed cell death 1 ligand.\n\n\\*Two observations were indeterminate.\n\n*Table 1:* **Baseline demographics and clinical characteristics**\n\nwere to be combined to avoid small or empty strata. Comparison of the distribution of progression-free survival used a stratified log-rank test (for the purposes of this summary, two-sided p values are reported). We presented the distribution of progression-free survival using the Kaplan-Meier method. We used stratified Cox regression models to estimate the HRs for progression-free survival, along with 95% CIs based on the Wald test. Sensitivity analyses were also prespecified. Prespecified sensitivity analyses examined different censoring rules, unstratified analyses, analyses of progression-free survival based on local tumour assessments, and analyses of the per-protocol population (appendix p 7). Subgroup analyses of baseline variables and potential prognostic factors, including previous immunotherapy, were also prespecified. We confirmed the proportional hazards assumption of the Cox models graphically with plots of log(\u2212log[estimated survivor function]) versus log(time). We used the same methods for the key secondary comparison. We presented the overall response and disease control by treatment group with exact 95% CIs. Duration of response and time to response were estimated using Kaplan-Meier methodology. As part of the secondary outcome of encorafenib plus binimetinib and encorafenib safety, we summarised the time to first event using Kaplan-Meier methodology for several prespecified safety parameters. Median time to onset and 95% CIs were summarised, and we described other median values with 95% CIs or IQRs. We included nominal p values for secondary endpoints for descriptive purposes.\n\nSAS (version 9.2 or higher) was used for all analyses. This study is registered with ClinicalTrials.gov, number NCT01909453, and with EudraCT, number 2013-001176-38.\n\n# **Role of the funding source**\n\nThe study was sponsored and designed with input from the steering committee (RD, PAA, CR, and KTF) by Novartis until September, 2015, when sponsorship was transferred to Array BioPharma. Data were collected by Novartis and Array BioPharma during their respective sponsorships. Data were analysed by Array BioPharma's statistical team and interpreted by the study authors in collaboration with Array BioPharma. RD, PAA, CR, and KTF wrote the first draft of the report. Editorial support was funded by the study sponsor. RD, PAA, CR, and KTF had full access to all the data in the study, and had final responsibility for the decision to submit for publication.\n\n# **Results**\n\nBetween Dec 30, 2013, and April 10, 2015, 1345 patients were assessed, of whom 577 were enrolled and randomly assigned to a treatment group (192 to the encorafenib plus binimetinib group, 194 to the encorafenib group, and 191 to the vemurafenib group; figure 1). As of the data cutoff on May 19, 2016, treatment was ongoing in 68 (35%) of 192 patients in the encorafenib plus binimetinib group, 46 (24%) of 194 patients in the encorafenib group, and 27 (14%) of 191 patients in the vemurafenib group. Demographic and clinical characteristics, including key prognostic factors at baseline, were similar across treatment groups (table 1). Patients had extensive disease, with 368 (64%) of 577 patients overall having stage IVM1c disease and 260 (45%) having three or more organs involved. 172 (30%) patients overall had previously had immunotherapy and 26 (5%) patients had previously had checkpoint inhibitor therapy.\n\nThe date for the data cutoff was event driven on the basis of achieving the required number of progression events for both the primary (encorafenib plus binimetinib *vs* vemurafenib) and key secondary (encorafenib plus binimetinib *vs* encorafenib) comparisons. At the time of data cutoff, 98 events for the encorafenib plus binimetinib group, 96 events for the encorafenib group, and 106 events for the vemurafenib group contributed to the analysis of progression-free survival. Median follow-up was 16\u00b77 months (95% CI 16\u00b73\u201318\u00b74) for the encorafenib plus binimetinib group, 16\u00b76 months (14\u00b78\u201318\u00b71) for the encorafenib group, and 14\u00b74 months (10\u00b71\u201316\u00b76) for the vemurafenib group; median follow-up for all patients was 16\u00b76 months (14\u00b78\u201316\u00b79). The duration of progression-free survival, by summary of the observed follow-up for each patient and by reverse Kaplan-Meier analysis, is in the appendix (p 11).\n\nMedian progression-free survival assessed by blinded independent central review was longer for patients in the encorafenib plus binimetinib group (14\u00b79 months, 95% CI 11\u00b70\u201318\u00b75) than for those in the encorafenib (9\u00b76 months, 7\u00b75\u201314\u00b78) or vemurafenib (7\u00b73 months, 5\u00b76\u20138\u00b72) groups. Results of the per-protocol analyses were consistent (appendix p 12). Median progression-free survival by local review was similar: 14\u00b78 months (95% CI 10\u00b74\u201318\u00b74) for the encorafenib plus binimetinib group, 9\u00b72 months (7\u00b74\u201312\u00b79) for the encorafenib group, and 7\u00b73 months (5\u00b77\u20138\u00b75) for the vemurafenib group (appendix p 23).\n\nThe primary comparison of progression-free survival by blinded independent central review of the encorafenib plus binimetinib versus vemurafenib groups showed a significant reduction in the risk of progression or death (HR 0\u00b754, 95% CI 0\u00b741\u20130\u00b771; two-sided p<0\u00b70001; figure 2A). Progression-free survival by local review was similarly improved with encorafenib plus binimetinib versus vemurafenib (0\u00b749, 0\u00b737\u20130\u00b764; two-sided nominal p<0\u00b70001; appendix p 23). All subgroup analyses for the comparison of encorafenib plus binimetinib with vemurafenib showed point estimates in favour of the encorafenib plus binimetinib group, except for the presence of brain metastases at baseline, but this analysis included only nine patients in the encorafenib plus binimetinib group and three patients in the vemurafenib group (figure 3).\n\nThe key secondary comparison of progression-free survival by blinded independent central review showed a median of 14\u00b79 (95% CI 11\u00b70\u201318\u00b75) months in the encorafenib plus binimetinib group and 9\u00b76 (7\u00b75\u201314\u00b78) months in the encorafenib group (HR 0\u00b775, 95% CI 0\u00b756\u2013 1\u00b700; two-sided p=0\u00b7051; figure 2B). Progression-free survival by local assessment showed a larger treatment effect for the encorafenib plus binimetinib group than for the encorafenib group (0\u00b768, 95% CI 0\u00b752\u20130\u00b790; two-sided nominal p=0\u00b70064; appendix p 23). In other secondary endpoints, comparison of progression-free survival by blinded independent central review favoured the encorafenib group over the vemurafenib group (0\u00b768, 95% CI 0\u00b752\u20130\u00b790; two-sided nominal p=0\u00b70070); similar results were obtained by local assessment (appendix p 24).\n\nA confirmed overall response by blinded independent central review occurred in 121 (63%) of 192 patients in the\n\n![](_page_6_Figure_6.jpeg)\n\n*Figure 2:* **Kaplan-Meier curves of progression-free survival for encorafenib 450 mg plus binimetinib 45 mg versus vemurafenib 960 mg (A) and encorafenib 450 mg plus binimetinib 45 mg versus encorafenib 300 mg (B)**\n\nResponse was assessed by blinded independent central review. HR=hazard ratio.\n\nencorafenib plus binimetinib group compared with 98 (51%) of 194 patients in the encorafenib group and 77 (40%) of 191 patients in the vemurafenib group (table 2). The confirmed overall response by local review had a similar pattern but was higher in each group than in the central review (table 2). The median time to response by blinded independent central review in responding patients corresponded to the time of the first assessment and was 1\u00b78 months (95% CI 1\u00b78\u20131\u00b79) for the encorafenib plus binimetinib group, 1\u00b79 months (1\u00b79\u20131\u00b79) for the encorafenib group, and 1\u00b79 months (1\u00b78\u20131\u00b79) for the vemurafenib group. Median duration of confirmed objective response by blinded independent central review was 16\u00b76 months (12\u00b72\u201320\u00b74) for the encorafenib plus binimetinib group, 14\u00b79 months (11\u00b71\u2013not estimable) for the encorafenib group, and 12\u00b73 months (6\u00b79\u201316\u00b79) for the vemurafenib group.\n\nIn the encorafenib plus binimetinib group, the median duration of treatment for each component of the\n\n|                                                                       | Number of events/<br>number of patients |                                                                               | HR (95% CI)       |  |  |\n|-----------------------------------------------------------------------|-----------------------------------------|-------------------------------------------------------------------------------|-------------------|--|--|\n| Sex                                                                   |                                         |                                                                               |                   |  |  |\n| Male                                                                  | 124/226                                 |                                                                               | 0\u00b762 (0\u00b744\u20130\u00b789)  |  |  |\n| Female                                                                | 80/157                                  |                                                                               | 0\u00b750 (0\u00b732\u20130\u00b779)  |  |  |\n| Age (years)                                                           |                                         |                                                                               |                   |  |  |\n| <65                                                                   | 149/272                                 |                                                                               | 0\u00b755 (0\u00b740\u20130\u00b777)  |  |  |\n| \u226565                                                                   | 55/111                                  |                                                                               | 0\u00b766 (0\u00b739\u20131\u00b712)  |  |  |\n| Race                                                                  |                                         |                                                                               |                   |  |  |\n| Caucasian                                                             | 184/347                                 |                                                                               | 0\u00b759 (0\u00b744\u20130\u00b779)  |  |  |\n| Non-Caucasian                                                         | 20/36                                   |                                                                               | 0\u00b752 (0\u00b719\u20131\u00b743)  |  |  |\n| Region                                                                |                                         |                                                                               |                   |  |  |\n| North America                                                         | 18/34                                   |                                                                               | 0\u00b742 (0\u00b716\u20131\u00b710)  |  |  |\n| Europe                                                                | 163/309                                 |                                                                               | 0\u00b758 (0\u00b742\u20130\u00b779)  |  |  |\n| Australia                                                             | 4/11                                    |                                                                               | 0\u00b763 (0\u00b706\u20136\u00b797)  |  |  |\n| Other                                                                 | 19/29                                   |                                                                               | 0\u00b764 (0\u00b726\u20131\u00b760)  |  |  |\n| LDH concentration                                                     |                                         |                                                                               |                   |  |  |\n| <uln< td=\"\"><td>126/276</td><td></td><td>0\u00b747 (0\u00b733\u20130\u00b767)</td></uln<> | 126/276                                 |                                                                               | 0\u00b747 (0\u00b733\u20130\u00b767)  |  |  |\n| \u2265ULN                                                                  | 78/107                                  |                                                                               | 0\u00b773 (0\u00b747\u20131\u00b714)  |  |  |\n| ECOG performance status                                               |                                         |                                                                               |                   |  |  |\n| 0                                                                     | 136/279                                 |                                                                               | 0\u00b754 (0\u00b738\u20130\u00b776)  |  |  |\n| 1                                                                     | 68/104                                  |                                                                               | 0\u00b762 (0\u00b738\u20131\u00b701)  |  |  |\n| BRAF mutation status                                                  |                                         |                                                                               |                   |  |  |\n| V600E                                                                 | 181/338                                 |                                                                               | 0\u00b764 (0\u00b748\u20130\u00b785)  |  |  |\n| V600K                                                                 | 23/45                                   |                                                                               | 0\u00b727 (0\u00b711\u20130\u00b768)  |  |  |\n| Disease stage                                                         |                                         |                                                                               |                   |  |  |\n| IIIB, IIIC, IVM1a, IVM1b                                              | 79/168                                  |                                                                               | 0\u00b767 (0\u00b743\u20131\u00b704)  |  |  |\n| IVM1c                                                                 | 125/215                                 |                                                                               | 0\u00b748 (0\u00b734\u20130\u00b769)  |  |  |\n| Number of organs involved at baseline                                 |                                         |                                                                               |                   |  |  |\n| 1                                                                     | 37/92                                   |                                                                               | 0\u00b769 (0\u00b736\u20131\u00b732)  |  |  |\n| 2                                                                     | 58/117                                  |                                                                               | 0\u00b753 (0\u00b731\u20130\u00b789)  |  |  |\n| 3                                                                     | 48/87                                   |                                                                               | 0\u00b744 (0\u00b725\u20130\u00b778)  |  |  |\n| >3                                                                    | 61/87                                   |                                                                               | 0\u00b764 (0\u00b739\u20131\u00b706)  |  |  |\n| Baseline brain metastases                                             |                                         |                                                                               |                   |  |  |\n| Yes                                                                   | 6/12                                    |                                                                               | 1\u00b734 (0\u00b715\u201311\u00b778) |  |  |\n| No                                                                    | 198/371                                 |                                                                               | 0\u00b757 (0\u00b743\u20130\u00b775)  |  |  |\n| Previous first-line immunotherapy                                     |                                         |                                                                               |                   |  |  |\n| Yes                                                                   | 9/15                                    |                                                                               | 0\u00b740 (0\u00b710\u20131\u00b764)  |  |  |\n| No                                                                    | 195/368                                 |                                                                               | 0\u00b759 (0\u00b744\u20130\u00b778)  |  |  |\n| Previous adjuvant therapy                                             |                                         |                                                                               |                   |  |  |\n| Yes                                                                   | 52/97                                   |                                                                               | 0\u00b778 (0\u00b745\u20131\u00b735)  |  |  |\n| No                                                                    | 152/286                                 |                                                                               | 0\u00b751 (0\u00b737\u20130\u00b771)  |  |  |\n| All patients                                                          | 204/383                                 |                                                                               | 0\u00b754 (0\u00b741\u20130\u00b771)  |  |  |\n|                                                                       |                                         | 0\u00b7062 0\u00b7125 0\u00b7250 0\u00b7500 1\u00b700<br>2\u00b700                                          | 4\u00b700              |  |  |\n|                                                                       |                                         | Favours encorafenib plus<br>Favours<br>binimetinib group<br>vemurafenib group |                   |  |  |\n\n*Figure 3:* **Progression-free survival by prespecified subgroups according to baseline characteristics** \n\nProgression-free survival assessed by blinded independent central review. Comparisons are between the encorafenib 450 mg plus binimetinib 45 mg group and the vemurafenib 960 mg group. Other subgroup analyses (excluded from this figure because of the small number [fewer than ten patients] included within one of the two subgroup categories) are in the appendix (p 9). ECOG=Eastern Cooperative Oncology Group. HR=hazard ratio. LDH=lactate dehydrogenase. ULN=upper limit of normal.\n\n> combination was 51\u00b72 weeks (IQR 27\u00b71\u201379\u00b77) for encorafenib and 50\u00b76 weeks (26\u00b71\u201379\u00b77) for binimetinib. Median duration of treatment was 31\u00b74 weeks (16\u00b76\u201369\u00b71) in the encorafenib group and 27\u00b71 weeks (15\u00b71\u201348\u00b73) in the vemurafenib group. The median dose intensities in the encorafenib plus binimetinib group were\n\n100% (IQR 93\u2013100) of planned doses for encorafenib and 99\u00b76% (80\u2013100) of planned doses for binimetinib. Median dose intensity was 86% (55\u2013100) of the planned dose for encorafenib and 94% (74\u2013100) for vemurafenib. The distribution of dose intensity for each treatment group is shown in the appendix (p 25). Most of the 192 patients in the encorafenib plus binimetinib group were able to achieve a dose intensity of 80\u2013100% (152 [79%] for encorafenib and 144 [75%] for binimetinib), and few patients receiving the combination were given less than 50% dose intensity (five [3%] for encorafenib and 11 [6%] for binimetinib). By contrast, 98 (51%) of 192 patients in the encorafenib group and 116 (62%) of 186 patients in the vemurafenib group achieved a dose intensity of 80\u2013100%, and 42 (22%) in the encorafenib group and 13 (7%) in the vemurafenib group achieved a dose intensity of less than 50% (appendix p 25).\n\n192 patients were assessable for safety in both the encorafenib plus binimetinib and encorafenib groups, and 186 patients in the vemurafenib group. Grade 1 or 2 adverse events occurring in at least 10% of patients and grade 3 or 4 adverse events occurring in at least 2% of patients in any treatment group are summarised in table 3 (the appendix [p 13] lists all grade 3\u20134 adverse events in the treatment groups; as per the study protocol, deaths were not graded and therefore were not included in table 3). Common adverse events reported more frequently in the encorafenib plus binimetinib group than in the encorafenib or vemurafenib groups (with a difference in proportion of patients of 10% or higher) were gastrointestinal toxic effects (diarrhoea, constipation, vomiting, and abdominal pain), predominantly asymptomatic increases in creatine phosphokinase, and blurred vision. Common adverse events reported at a lower frequency (with a difference in proportion of patients of 10% or higher) in the encorafenib plus binimetinib group than in the encorafenib or vemurafenib groups were toxic effects to the skin (eg, pruritus, hyperkeratosis, rash, keratosis pilaris, palmoplantar keratoderma, palmoplantar erythrodysaesthesia syndrome, dry skin, skin papilloma, macropapular rash, and sunburn), alopecia, photosensitivity reaction, arthralgia, myalgia, pain in the extremities, decreased appetite, musculoskeletal pain, and decreased weight.\n\nGrade 3\u20134 adverse events were reported in fewer patients in the encorafenib plus binimetinib group (111 [58%] of 192) than in either the encorafenib (127 [66%] of 192) or vemurafenib (118 [63%] of 186) groups. The most common grade 3\u20134 adverse events seen in more than 5% of patients were increased \u03b3-glutamyltransferase (18 [9%] of 192 patients), increased creatine phosphokinase (13 [7%]), and hypertension (11 [6%]) in the encorafenib plus binimetinib group; palmoplantar erythrodysaesthesia syndrome (26 [14%] of 192 patients), myalgia (19 [10%]), and arthralgia (18 [9%]) in the encorafenib group; and arthralgia (11 [6%] of 186 patients) in the vemurafenib group. The median time to first grade 3 or 4 toxic effect in all patients who could be evaluated for safety was longer\n\n|                       | Encorafenib 450 mg plus<br>binimetinib 45 mg group (n=192) |                  | Encorafenib 300 mg group (n=194) |                  | Vemurafenib 960 mg group (n=191) |                  |  |\n|-----------------------|------------------------------------------------------------|------------------|----------------------------------|------------------|----------------------------------|------------------|--|\n|                       | Central review                                             | Local review     | Central review                   | Local review     | Central review                   | Local review     |  |\n| Best overall response |                                                            |                  |                                  |                  |                                  |                  |  |\n| Complete response     | 15 (8%)                                                    | 31 (16%)         | 10 (5%)                          | 17 (9%)          | 11 (6%)                          | 14 (7%)          |  |\n| Partial response      | 106 (55%)                                                  | 113 (59%)        | 88 (45%)                         | 95 (49%)         | 66 (35%)                         | 80 (42%)         |  |\n| Stable disease*       | 56 (29%)                                                   | 35 (18%)         | 65 (34%)                         | 56 (29%)         | 79 (41%)                         | 66 (35%)         |  |\n| Progressive disease\u2020  | 15 (8%)                                                    | 13 (7%)          | 31 (16%)                         | 26 (13%)         | 35 (18%)                         | 31 (16%)         |  |\n| Overall response\u2021     | 121 (63%; 56\u201370)                                           | 144 (75%; 68\u201381) | 98 (51%; 43\u201358)                  | 112 (58%; 50\u201365) | 77 (40%; 33\u201348)                  | 94 (49%; 42\u201357)  |  |\n| Disease control\u00a7      | 177 (92%; 87\u201396)                                           | 179 (93%; 89\u201396) | 163 (84%; 78\u201389)                 | 168 (87%; 81\u201391) | 156 (82%; 75\u201387)                 | 160 (84%; 78\u201389) |  |\n\nData are n (%) or n (%; 95% CI) in the efficacy population. \\*Includes patients with non-measurable disease and a status of non-complete response or non-progressive disease. \u2020Includes patients with best response of unknown or no assessment. \u2021Overall response was defined as complete response plus partial response. \u00a7Disease control defined as the proportion of patients with a best overall response of complete response, partial response, stable disease, or non-complete response or non-progressive disease.\n\n*Table 2:* **Best overall confirmed response by treatment group**\n\nwithin the encorafenib plus binimetinib group than within the encorafenib or vemurafenib groups (appendix p 26). Similarly, fewer adverse events leading to treatment discontinuation occurred in patients in the encorafenib plus binimetinib group than in patients in the encorafenib or vemurafenib groups (appendix p 20). Time to discontinuation of treatment due to an adverse event was longer with encorafenib plus binimetinib than with encorafenib or vemurafenib (appendix p 26). Adverse events leading to discontinuation that were suspected to be related to study treatment occurred in 12 (6%) patients given encorafenib plus binimetinib, 19 (10%) given encorafenib, and 26 (14%) given vemurafenib (data not shown). The most frequent of these suspected treatmentrelated adverse events in each group were increased alanine aminotransferase and aspartate aminotransferase (co-occurring in the same four [2%] patients) in the encorafenib plus binimetinib group, palmoplantar erythrodysaesthesia syndrome (five [3%] patients) in the encorafenib group, and increased \u03b3-glutamyltransferase, arthralgia, and photosensitivity reaction (each in three [2%] patients) in the vemurafenib group. Adverse events requiring dose reduction or interruption occurred in 92 (48%) patients in the encorafenib plus binimetinib group, 135 (70%) patients in the encorafenib group, and 114 (61%) patients in the vemurafenib group (appendix p 20).\n\nSerious adverse events occurred in 66 (34%) of 192 patients in the encorafenib plus binimetinib group, 65 (34%) of 192 patients in the encorafenib group, and 69 (37%) of 186 patients in the vemurafenib group. The most common serious adverse events by treatment group were pyrexia (in six [3%] patients) in the encorafenib plus binimetinib group, vomiting and nausea (each in six [3%] patients) in the encorafenib group, and deterioration of general physical health (in six [3%] patients) in the vemurafenib group.\n\nToxic effects associated with BRAF and MEK inhibitors were further explored by grouping individually reported adverse events for similar clinical entities or pathophysiological processes. These events included pyrexia, rash, photosensitivity, secondary non-melanoma skin cancers (including squamous-cell cancer and basalcell carcinoma), serous retinopathy (including retinal pigment epithelial detachment), left ventricular dysfunction, and abnormalities in liver function tests (appendix p 21). A toxic effect associated with the BRAF kinase inhibitor dabrafenib9,17\u2014pyrexia (including increased body temperature, hyperpyrexia, and hyperthermia)\u2014occurred in 35 (18%) of 192 patients in the encorafenib plus binimetinib group, 30 (16%) of 192 patients in the encorafenib group, and 55 (30%) of 186 patients in the vemurafenib group. Toxic effects to the skin, including rash, acneiform dermatitis, and palmoplantar erythrodysaesthesia syndrome, occurred less frequently in the encorafenib plus binimetinib group than in the encorafenib or vemurafenib groups. Photosensitivity, a toxic effect associated with the BRAF-kinase inhibitor vemurafenib,10,14 was seen in 56 (30%) patients in the vemurafenib group, nine (5%) patients in the encorafenib plus binimetinib group, and eight (4%) patients in the encorafenib group. Secondary non-melanoma skin cancers occurred infrequently. The most common were squamouscell cancers, in five (3%) patients in the encorafenib plus binimetinib group, 15 (8%) in the encorafenib group, and 32 (17%) in the vemurafenib group (appendix p 21). Specific MEK inhibitor toxic effects, including serous retinopathy and left ventricular dysfunction, were seen more frequently in the encorafenib plus binimetinib group than either the encorafenib or vemurafenib groups. Serous retinopathy occurred in 38 (20%) patients in the encorafenib plus binimetinib group, four (2%) patients in the encorafenib group, and three (2%) patients in the vemurafenib group. Most of the events in the encorafenib plus binimetinib group were grade 1 (23 [12%] of 192 patients) or grade 2 (ten [5%]), and resulted in dose interruption or adjustment in 11 (6%) patients but did not result in treatment discontinuations. Left ventricular dysfunction occurred in 15 (8%) patients in the encorafenib plus binimetinib group, four (2%) patients in the\n\n|                                              | Encorafenib 450 mg plus binimetinib 45 mg<br>group (n=192) |         |         | Encorafenib 300 mg group (n=192) |          |         | Vemurafenib 960 mg group (n=186) |         |         |\n|----------------------------------------------|------------------------------------------------------------|---------|---------|----------------------------------|----------|---------|----------------------------------|---------|---------|\n|                                              | Grade 1\u20132                                                  | Grade 3 | Grade 4 | Grade 1\u20132                        | Grade 3  | Grade 4 | Grade 1\u20132                        | Grade 3 | Grade 4 |\n| Nausea                                       | 76 (40%)                                                   | 3 (2%)  | 0       | 66 (34%)                         | 8 (4%)   | 0       | 60 (32%)                         | 3 (2%)  | 0       |\n| Diarrhoea                                    | 65 (34%)                                                   | 4 (2%)  | 1 (1%)  | 23 (12%)                         | 3 (2%)   | 0       | 59 (32%)                         | 4 (2%)  | 0       |\n| Vomiting                                     | 54 (28%)                                                   | 3 (2%)  | 0       | 43 (22%)                         | 9 (5%)   | 0       | 26 (14%)                         | 2 (1%)  | 0       |\n| Fatigue                                      | 51 (27%)                                                   | 4 (2%)  | 0       | 47 (24%)                         | 1 (1%)   | 0       | 53 (28%)                         | 4 (2%)  | 0       |\n| Arthralgia                                   | 48 (25%)                                                   | 1 (1%)  | 0       | 66 (34%)                         | 18 (9%)  | 0       | 72 (39%)                         | 11 (6%) | 0       |\n| Blood creatine phosphokinase increased       | 31 (16%)                                                   | 11 (6%) | 2 (1%)  | 2 (1%)                           | 0        | 0       | 4 (2%)                           | 0       | 0       |\n| Constipation                                 | 42 (22%)                                                   | 0       | 0       | 27 (14%)                         | 0        | 0       | 11 (6%)                          | 0       | 1 (1%)  |\n| Headache                                     | 39 (20%)                                                   | 3 (2%)  | 0       | 46 (24%)                         | 6 (3%)   | 0       | 34 (18%)                         | 1 (1%)  | 0       |\n| Asthenia                                     | 32 (17%)                                                   | 2 (1%)  | 1 (1%)  | 32 (17%)                         | 5 (3%)   | 0       | 26 (14%)                         | 8 (4%)  | 0       |\n| Pyrexia                                      | 28 (15%)                                                   | 7 (4%)  | 0       | 27 (14%)                         | 2 (1%)   | 0       | 52 (28%)                         | 0       | 0       |\n| Abdominal pain                               | 27 (14%)                                                   | 5 (3%)  | 0       | 9 (5%)                           | 4 (2%)   | 0       | 11 (6%)                          | 1 (1%)  | 0       |\n| Vision blurred                               | 30 (16%)                                                   | 0       | 0       | 4 (2%)                           | 0        | 0       | 4 (2%)                           | 0       | 0       |\n| Anaemia                                      | 21 (11%)                                                   | 7 (4%)  | 1 (1%)  | 6 (3%)                           | 5 (3%)   | 0       | 10 (5%)                          | 3 (2%)  | 1 (1%)  |\n| \u03b3-glutamyltransferase increased              | 11 (6%)                                                    | 18 (9%) | 0       | 12 (6%)                          | 8 (4%)   | 1 (1%)  | 15 (8%)                          | 5 (3%)  | 1 (1%)  |\n| Dry skin                                     | 27 (14%)                                                   | 0       | 0       | 58 (30%)                         | 0        | 0       | 42 (23%)                         | 0       | 0       |\n| Hyperkeratosis                               | 26 (14%)                                                   | 1 (1%)  | 0       | 65 (34%)                         | 7 (4%)   | 0       | 54 (29%)                         | 0       | 0       |\n| Rash                                         | 25 (13%)                                                   | 1 (1%)  | 1 (1%)  | 37 (19%)                         | 4 (2%)   | 0       | 48 (26%)                         | 6 (3)   | 0       |\n| Alopecia                                     | 26 (14%)                                                   | 0       | 0       | 107 (56%)                        | 0        | 0       | 68 (37%)                         | 0       | 0       |\n| Myalgia                                      | 26 (14%)                                                   | 0       | 0       | 35 (18%)                         | 19 (10%) | 0       | 33 (18%)                         | 1 (1%)  | 0       |\n| Dizziness                                    | 21 (11%)                                                   | 3 (2%)  | 0       | 9 (5%)                           | 0        | 0       | 5 (3%)                           | 0       | 0       |\n| Alanine aminotransferase increased           | 11 (6%)                                                    | 10 (5%) | 0       | 8 (4%)                           | 2 (1%)   | 0       | 11 (6%)                          | 3 (2%)  | 0       |\n| Hypertension                                 | 10 (5%)                                                    | 11 (6%) | 0       | 5 (3%)                           | 6 (3%)   | 0       | 15 (8%)                          | 6 (3%)  | 0       |\n| Pain in extremity                            | 19 (10%)                                                   | 2 (1%)  | 0       | 40 (21%)                         | 2 (1%)   | 0       | 23 (12%)                         | 2 (1%)  | 0       |\n| Pruritus                                     | 20 (10%)                                                   | 0       | 1 (1%)  | 41 (21%)                         | 1 (1%)   | 0       | 20 (11%)                         | 0       | 0       |\n| Back pain                                    | 17 (9%)                                                    | 1 (1%)  | 0       | 24 (13%)                         | 5 (3%)   | 0       | 8 (4%)                           | 2 (1%)  | 1 (1%)  |\n| Insomnia                                     | 18 (9%)                                                    | 0       | 0       | 30 (16%)                         | 5 (3%)   | 0       | 15 (8%)                          | 0       | 0       |\n| Palmoplantar keratoderma                     | 17 (9%)                                                    | 0       | 0       | 46 (24%)                         | 3 (2%)   | 0       | 27 (15%)                         | 2 (1%)  | 0       |\n| Decreased appetite                           | 16 (8%)                                                    | 0       | 0       | 39 (20%)                         | 1 (1%)   | 0       | 34 (18%)                         | 2 (1%)  | 0       |\n| Erythema                                     | 13 (7%)                                                    | 0       | 0       | 23 (12%)                         | 1 (1%)   | 0       | 30 (16%)                         | 1 (1%)  | 0       |\n| Palmoplantar erythrodysaesthesia<br>syndrome | 13 (7%)                                                    | 0       | 0       | 72 (38%)                         | 26 (14%) | 0       | 24 (13%)                         | 2 (1%)  | 0       |\n| Skin papilloma                               | 12 (6%)                                                    | 0       | 0       | 18 (9%)                          | 0        | 0       | 31 (17%)                         | 0       | 0       |\n| Musculoskeletal pain                         | 11 (6%)                                                    | 0       | 0       | 26 (14%)                         | 6 (3%)   | 0       | 9 (5%)                           | 2 (1%)  | 0       |\n| Keratosis pilaris                            | 9 (5%)                                                     | 0       | 0       | 33 (17%)                         | 0        | 0       | 43 (23%)                         | 0       | 0       |\n| Photosensitivity reaction                    | 7 (4%)                                                     | 1 (1%)  | 0       | 7 (4%)                           | 0        | 0       | 43 (23%)                         | 2 (1%)  | 0       |\n| Keratoacanthoma                              | 4 (2%)                                                     | 0       | 0       | 12 (6%)                          | 0        | 0       | 15 (8%)                          | 6 (3%)  | 0       |\n| Rash maculopapular                           | 3 (2%)                                                     | 0       | 0       | 17 (9%)                          | 1 (1%)   | 0       | 19 (10%)                         | 8 (4%)  | 0       |\n\nthis table; please see main text for causes of all deaths.\n\n*Table 3:* **Adverse events irrespective of causality by treatment group**\n\nencorafenib group, and one (1%) patient in the vemurafenib group. In the encorafenib plus binimetinib group, most left ventricular dysfunction was grade 1 (four [2%] of 192 patients) or grade 2 (eight [4%]; appendix p 21) led to dose interruption or adjustment in 12 (6%) patients, was generally reversible, and did not result in treatment discontinuations. Grade 3 adverse events of increased aspartate aminotransferase or alanine aminotransferase concentrations were reported in 13 (7%) patients in the encorafenib plus binimetinib group, three (2%) patients in the encorafenib group, and three (2%) patients in the vemurafenib group (appendix p 21). No grade 3 or 4 bilirubin elevations occurred in any treatment group.\n\nDespite the longer duration of exposure in the encorafenib plus binimetinib group, the number of deaths that occurred during treatment or within 30 days of the last dose was similar among the three treatment groups: 17 (9%) of 192 patients in the encorafenib plus binimetinib group, 14 (7%) of 192 patients in the encorafenib group, and 19 (10%) of 186 patients in the vemurafenib group. On-treatment deaths were due to disease progression in 11 (6%) patients in the encorafenib plus binimetinib group, 12 (6%) patients in the encorafenib group, and 17 (9%) patients in the vemurafenib group. None of the deaths due to adverse events were considered likely to be related to study treatment (appendix p 22), although there was one death in the combination group, which was considered possibly related to treatment by the investigator. This patient stopped treatment on study day 9 and died by suicide on day 24, 15 days after the last dose of study drug.\n\n# **Discussion**\n\nIn this phase 3, randomised trial in patients with *BRAF*-mutant melanoma, encorafenib plus binimetinib showed a favourable efficacy and safety profile compared with vemurafenib monotherapy. Progression-free survival in patients treated with encorafenib plus binimetinib was significantly longer than in those treated with vemurafenib, and progression-free survival results were consistent with those seen in previous trials using vemurafenib in this setting.9,10 The encorafenib plus binimetinib group had a median progression-free survival of 14\u00b79 (95% CI 11\u00b70\u201318\u00b75) months while the encorafenib group had a median progression-free survival of 9\u00b76 (7\u00b75\u201314\u00b78) months; (HR 0\u00b775, 95% CI 0\u00b756\u20131\u00b700; twosided p=0\u00b7051; figure 2B). More patients in the encorafenib plus binimetinib group attained an overall response compared with those in the encorafenib group (121 [63%; 95% CI 56\u201370] *vs* 98 [51%; 43\u201358]) Additionally, the tolerability profile of encorafenib plus binimetinib appeared to be more favourable than vemurafenib or encorafenib monotherapy, as reflected in the higher dose intensity achieved and the longer median exposure to treatment in the encorafenib plus binimetinib group than the monotherapy groups. The adverse event profile was also favourable, with fewer grade 3 or 4 toxic effects, fewer toxic effects requiring dose interruption or modification, a later time to onset of grade 3 or 4 adverse events, and fewer treatment discontinuations due to adverse events in the encorafenib plus binimetinib group than in the monotherapy groups.\n\nThe mechanistic underpinnings of efficacy and safety for the various BRAF-MEK inhibitor combinations are probably based on the specific characteristics of the individual drugs. Encorafenib inhibits BRAFV600E kinase activity in a biochemical assay at similar concentrations as dabrafenib and vemurafenib. However, the dissociation half-life is longer than 30 h and much longer than those of dabrafenib (2 h) and vemurafenib (0\u00b75 h), resulting in improved pharmacodynamics with longer-lasting pERK inhibition.18 Furthermore, in *BRAF*V600-mutant cell lines, encorafenib was more potent at inhibiting proliferation than dabrafenib or vemurafenib.18\n\nPrevious studies suggest that the maximum monotherapy dose of encorafenib is 300 mg/day.18\n\nIn combination with the MEK inhibitor binimetinib, however, the toxicity and overall tolerability of encorafenib when given as a monotherapy are substantially ameliorated. This amelioration allows the use of the higher dose of encorafenib (450 mg) in the combination treatment, thus potentially providing greater pathway inhibition that lasts longer than the monotherapy.18 Consistent with these earlier results, this study confirmed the ability to safely increase the dose intensiy of encorafenib in the combination.\n\nIn the phase 3 COMBI-d and COMBI-v trials,8,9,28 median progression-free survival for dabrafenib-trametinib was 11\u00b70 months (95% CI 8\u00b70\u201313\u00b79) and 11\u00b74 months (9\u00b79\u201314\u00b79), respectively. Median progression-free survival for vemurafenib-cobimetinib in the phase 3 coBRIM study was 12\u00b73 months (9\u00b75\u201313\u00b74). 10 In this study, encorafenib plus binimetinib was associated with a median progression-free survival of 14\u00b79 months (11\u00b70\u201318\u00b75), the longest median progression-free survival seen to date with any BRAF-MEK inhibitor combination. Additionally, the improved efficacy of encorafenib compared with vemurafenib within this trial supports the hypothesis that extended pathway inhibition can lead to improved clinical outcomes. A direct comparison of encorafenib plus binimetinib with other BRAF-MEK inhibitor combinations would be needed to confirm improved clinical outcomes with encorafenib plus binimetinib.\n\nAlthough the available BRAF-MEK inhibitor combinations have largely overlapping toxicity profiles, each is associated with a specific toxic effect: pyrexia with dabrafenib-trametinib, and photosensitivity with vemurafenib-cobimetinib.29,30 Both of these toxic effects are infrequent with encorafenib plus binimetinib. Pyrexia is the most frequent adverse event with the dabrafenibtrametinib combination (in more than 50% of patients consistently in several studies9,11,17) and a leading cause of discontinuation, dose interruption, and dose reduction.9,17 Some patients have multiple episodes of pyrexia, with episodes lasting a median duration of 3 days and, in some cases, requiring prophylactic treatment with glucocorticoids.17 Photosensitivity reactions are common (seen in 47% of patients) with vemurafenib-cobimetinib.10,14,31 Photosensitivity is noted as requiring patient education and prospective and ongoing management by patients and clinical staff to mitigate effects.10 In this study, encorafenib plus binimetinib was associated with all-grade adverse events of interest including pyrexia in 35 (18%) patients and photosensitivity in nine (5%) patients. The features of pyrexia were qualitatively different from those observed with dabrafenib-trametinib, being generally of a lower grade, not recurrent, and most often associated with concurrent illness or progressive disease.\n\nThe proportion of patients who had MEK inhibitorrelated toxic effects, including serous retinopathy and left ventricular dysfunction, were largely in line with those observed in other BRAF-MEK inhibitor combination trials in which these effects were actively monitored. In this trial, the absolute frequency of serous retinopathy in the encorafenib plus binimetinib group was most likely affected by the frequency of monitoring; a high proportion of the events were asymptomatic and detected only through specialised eye examination. The protocolmandated intensity of monitoring for toxic effects to the eye known to be associated with MEK inhibitors in this trial was higher in the encorafenib plus binimetinib group than in the other two groups, which did not include an MEK inhibitor. Since this toxic effect is known to be related to MEK inhibitors, the difference in monitoring schedule probably did not substantially influence the observed difference in the frequency of serous retinopathy across the trial.\n\nThis study has several limitations. Few patients had received previous immunotherapy; the ongoing SECOMBIT (NCT02631447), EORTC 1612 (NCT03235245), and IMMU-TARGET (NCT02902042) studies are formally testing the optimal approach for sequencing immunotherapy with ipilimumab-nivolumab or pembrolizumab with encorafenib-binimetinib. These and other studies are anticipated to establish the optimal combinations and sequences of current treatment options that will further improve outcomes for patients with *BRAF*-mutant melanoma.\n\nAlthough cross-trial comparisons might be confounded by differences in patient populations, vemurafenib has been a common control across trials for all available BRAF-MEK inhibitor combinations, and its performance in those trials and in this study was similar. Median progressionfree survival was 7\u00b73 months (95% CI 5\u00b78\u20137\u00b78) in the COMBI-v study and 7\u00b72 months (5\u00b76\u20137\u00b75) in the coBRIM study,9,10,28 compared with 7\u00b73 months (5\u00b76\u20138\u00b72) by blinded independent central review and 7\u00b73 months (5\u00b77\u20138\u00b75) by local review in this study. These results suggest that despite differences in individual baseline prognostic factors (eg, the proportion of patients with increased lactate dehydrogenase concentrations), the populations in these trials are similar with respect to their expected response to treatment. The benefit of encorafenib plus binimetinib will be further defined with longer follow-ups for progression-free survival. Finally, overall survival data, when it becomes available, will provide additional insights into the efficacy of encorafenib plus binimetinib.\n\nIn conclusion, results of the COLUMBUS study show that encorafenib plus binimetinib improved progressionfree survival compared with vemurafenib and appears to have an improved tolerability profile compared with encorafenib or vemurafenib. Encorafenib plus binimetinib represents a new treatment option for patients with *BRAF*mutant melanoma, and further studies investigating the optimal sequence of available treatment modalities are underway.\n\n#### **Contributors**\n\nRD was on the steering committee, and contributed to protocol development, development of algorithms for adverse event management, trial management, analysis of the data, and writing. PAA was on the steering committee and contributed to study design, patient recruitment, data collection, data analysis, data interpretation, and writing. HJG contributed to the literature search, patient recruitment, data collection, and data interpretation. AA contributed to patient recruitment and data interpretation. MM contributed to patient recruitment, data collection, and data interpretation. GL contributed to patient recruitment and data collection. CG contributed to patient recruitment, data collection, data analysis, data interpretation, and writing. DS contributed to patient recruitment, data collection, data analysis, and writing. IK contributed to patient recruitment, data collection, and data interpretation. RG contributed to patient recruitment, data collection, data interpretation, and writing. VC-S contributed to patient recruitment, data collection, and data interpretation. CD was a study investigator and contributed to patient recruitment. JWBdG contributed to patient recruitment, data collection, and data interpretation. NY contributed to patient recruitment and data collection. CL contributed to patient recruitment, data collection, data analysis, and data interpretation. LAM-dP contributed to the study design, data collection, data analysis, and data interpretation. MDP contributed to data analysis and data interpretation. VS contributed to data interpretation and writing. CR was on the steering committee and contributed to study design, data collection, data analysis, data interpretation, and writing. KTF was on the steering committee, and contributed to the study design, data collection, data analysis, data interpretation, and writing. All authors contributed to the final review of the manuscript.\n\n#### **Declaration of interests**\n\nRD has had intermittent, project-focused consulting or advisory relationships, or both, with Novartis, Merck Sharp & Dohme, Bristol-Myers Squibb, Roche, Amgen, Takeda, and Pierre Fabre outside the submitted work. RD works at the University of Z\u00fcrich, which receives research funding for translational research projects from Novartis, Merck Sharp & Dohme, Bristol-Myers Squibb, and Roche outside the submitted work. PAA has received consulting fees from Bristol-Myers Squibb, Roche Genentech, Merck Sharp & Dohme, Novartis, Amgen, Array BioPharma, Merck Serono, Pierre Fabre, Incyte, NewLink Genetics, Genmab, and Medimmune. He has received research funding from Bristol-Myers Squibb, Roche Genentech, and Array BioPharma outside the submitted work. HJG has received consulting fees from Roche, Bristol-Myers Squibb, Merck Sharp & Dohme, Novartis, and Amgen, and research funding from Bristol-Myers Squibb, Roche Genentech, Merck Sharp & Dohme, and Novartis outside the submitted work. AA has received honoraria from, had a consulting or advisory role with, or been a member of the speakers bureau for Novartis, Roche, Merck Sharp & Dohme, and Bristol-Myers Squibb outside the submitted work, and has received travel expenses from Roche and Bristol-Myers Squibb. GL has received consulting fees from Roche, Merck Sharp & Dohme, Bristol-Myers Squibb, and Novartis outside the submitted work. CG has received personal fees and research funding from Novartis during the conduct of the study. He has received personal fees for presentations and consulting or advisory roles from Amgen, Bristol-Myers Squibb, Merck Sharp & Dohme, Philogen, Roche, and LEO Pharma and research funding from Bristol-Myers Squibb and Roche outside the submitted work. DS has received personal fees and patients' fees from Array BioPharma during the conduct of the study. He has received honoraria and travel expenses from, has a consulting or advisory role, been a member of the speakers bureau, and received personal fees from Amgen, Boehringer Ingelheim, LEO Pharma, Roche, Merck Sharp & Dohme, Novartis, Incyte, Regeneron, 4SC, AstraZeneca, Bristol-Myers Squibb, Pierre Fabre, Merck-EMD, Pfizer, and Philogen. He has received patients' fees from Roche, Merck Sharp & Dohme, Novartis, Regeneron, Bristol-Myers Squibb, Merck-EMD**,** and Philogen outside the submitted work. IK is an advisory board member and has received travel expenses from Bristol-Myers Squibb, Novartis, Roche, and Merck Sharp & Dohme outside the submitted work. RG has received honoraria for lectures and consulting fees from Roche, Bristol-Myers Squibb, Merck Sharp & Dohme, GlaxoSmithKline, Novartis, Almirall, LEO Pharma, Amgen, Merck Serono, Pierre Fabre, Incyte, Boehringer Ingelheim, and Pfizer. He has received research funding from Novartis, Pfizer, and Johnson & Johnson and travel expenses from Roche and Bristol-Myers Squibb outside the submitted work. VC-S has received consulting fees from Novartis, Bristol-Myers Squibb, Merck Sharp & Dohme, Merck Serono, and Roche outside the submitted work. JWBdG reports personal fees from Roche, Bristol-Myers Squibb, GlaxoSmithKline, and Merck Sharp & Dohme during the conduct of this study, and personal fees from Amgen, Bayer, Celgene, and Merck outside the submitted work. NY reports personal fees, non-financial support, and research funding from Ono Pharmaceutical during the conduct of the study, and personal fees and research funding from Bristol-Myers Squibb and Novartis outside the submitted work. CL reports personal fees from Roche, Novartis, Bristol-Myers Squibb, Merck Sharp & Dohme, Pierre Fabre, LEO Pharma, GlaxoSmithKline, and Amgen outside the submitted work. MDP and VS were employees and shareholders of Array BioPharma during the conduct of the study. CR participated in advisory boards for GlaxoSmithKline, Roche, Novartis, Bristol-Myers Squibb, Merck, and Amgen outside the submitted work. KTF received consulting fees from Array BioPharma during the conduct of the study and consulting fees from Roche and consulting fees and research funding from Novartis outside the submitted work. MM, CD and LAM-dP declare no competing interests.\n\n#### **Acknowledgments**\n\nWe thank the patients, their families, and the sites that participated in this study. We thank the data monitoring committee: Vernon Sondak, Ping-Yu Liu, Grant McArthur, and Tara McCannel. For editorial support, funded by Array BioPharma, we thank Mariana Ovnic.\n\n#### **References**\n\n- 1 Krauthammer M, Kong Y, Bacchiocchi A, et al. Exome sequencing identifies recurrent mutations in NF1 and RASopathy genes in sun-exposed melanomas. *Nat Genet* 2015; **47:** 996\u20131002.\n- 2 Solit DB, Garraway LA, Pratilas CA, et al. BRAF mutation predicts sensitivity to MEK inhibition. *Nature* 2006; **439:** 358\u201362.\n- 3 Chapman PB, Hauschild A, Robert C, et al. Improved survival with vemurafenib in melanoma with BRAF V600E mutation. *N Engl J Med* 2011; **364:** 2507\u201316.\n- 4 Tsai J, Lee JT, Wang W, et al. Discovery of a selective inhibitor of oncogenic B-Raf kinase with potent antimelanoma activity. *Proc Natl Acad Sci USA* 2008; **105:** 3041\u201346.\n- 5 Hauschild A, Grob JJ, Demidov LV, et al. Dabrafenib in BRAF-mutated metastatic melanoma: a multicentre, open-label, phase 3 randomised controlled trial. *Lancet* 2012; **380:** 358\u201365.\n- 6 Sullivan RJ, Flaherty KT. New strategies in melanoma: entering the era of combinatorial therapy. *Clin Cancer Res* 2015; **21:** 2424\u201335.\n- 7 Poulikakos PI, Zhang C, Bollag G, Shokat KM, Rosen N. RAF inhibitors transactivate RAF dimers and ERK signalling in cells with wild-type BRAF. *Nature* 2010; **464:** 427\u201330.\n- 8 Long GV, Stroyakovskiy D, Gogas H, et al. Dabrafenib and trametinib versus dabrafenib and placebo for Val600 BRAF-mutant melanoma: a multicentre, double-blind, phase 3 randomised controlled trial. *Lancet* 2015; **386:** 444\u201351.\n- 9 Robert C, Karaszewska B, Schachter J, et al. Improved overall survival in melanoma with combined dabrafenib and trametinib. *N Engl J Med* 2015; **372:** 30\u201339.\n- 10 Ascierto PA, McArthur GA, Dreno B, et al. Cobimetinib combined with vemurafenib in advanced *BRAF(V600)-*mutant melanoma (coBRIM): updated efficacy results from a randomised, double-blind, phase 3 trial. *Lancet Oncol* 2016; **17:** 1248\u201360.\n- 11 Flaherty KT, Robert C, Hersey P, et al. Improved survival with MEK inhibition in BRAF-mutated melanoma. *N Engl J Med* 2012; **367:** 107\u201314.\n- 12 Dummer R, Hauschild A, Lindenblatt N, Pentheroudakis G, Keilholz U. Cutaneous melanoma: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. *Ann Oncol* 2015; **26** (suppl 5)**:** v126\u201332.\n- 13 National Comprehensive Cancer Network. Clinical practice guidelines in oncology, melanoma version 2.2018. Fort Washington, PA: National Comprehensive Cancer Network, 2018.\n- 14 Larkin J, Ascierto PA, Dreno B, et al. Combined vemurafenib and cobimetinib in BRAF-mutated melanoma. *N Engl J Med* 2014; **371:** 1867\u201376.\n\n- 15 Long GV, Stroyakovsky DL, Gogas H, et al. COMBI-d: a randomized, double-blinded, phase III study comparing the combination of dabrafenib and trametinib to dabrafenib and trametinib placebo as first-line therapy in patients (pts) with unresectable or metastatic BRAFV600E/K mutation-positive cutaneous melanoma. *J Clin Oncol* 2014; **32** (suppl 15): 9011.\n- 16 Robert C, Karaszewska B, Schachter J, et al. Three-year estimate of overall survival in COMBI-v, a randomized phase 3 study evaluating first-line dabrafenib (D) + trametinib (T) in patients (pts) with unresectable or metastatic BRAF V600E/K-mutant cutaneous melanoma. *Ann Oncol* 2016; **27:** 1\u201336.\n- 17 Long GV, Stroyakovskiy D, Gogas H, et al. Combined BRAF and MEK inhibition versus BRAF inhibition alone in melanoma. *N Engl J Med* 2014; **371:** 1877\u201388.\n- 18 Delord JP, Robert C, Nyakas M, et al. Phase I dose-escalation and expansion study of the BRAF inhibitor encorafenib (LGX818) in metastatic BRAF-mutant melanoma. *Clin Cancer Res* 2017; **23:** 5339\u201348.\n- 19 Adelmann CH, Ching G, Du L, et al. Comparative profiles of BRAF inhibitors: the paradox index as a predictor of clinical toxicity. *Oncotarget* 2016; **7:** 30453\u201360.\n- 20 Ascierto PA, Schadendorf D, Berking C, et al. MEK162 for patients with advanced melanoma harbouring NRAS or Val600 BRAF mutations: a non-randomised, open-label phase 2 study. *Lancet Oncol* 2013; **14:** 249\u201356.\n- 21 Dummer R, Sandhu S, Hassel JC, et al. LOGIC2: phase 2, multi-center, open-label study of sequential encorafenib/ binimetinib combination followed by a rational combination with targeted agents after progression, to overcome resistance in adult patients with locally-advanced or metastatic BRAF V600 melanoma. *Eur J Cancer* 2015; **51:** S667\u201368.\n- 22 Sullivan RJ, Weber JS, Patel SP, et al. A phase Ib/II study of BRAF inhibitor (BRAFi) encorafenib (ENCO) plus MEK inhibitor (MEKi) binimetinib (BINI) in cutaneous melanoma patients naive to BRAFi treatment. *J Clin Oncol* 2015; **33:** 9007.\n- 23 Eisenhauer EA, Therasse P, Bogaerts J, et al. New response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1). *Eur J Cancer* 2009; **45:** 228\u201347.\n- 24 Cancer Therapy Evaluation Program. Common Terminology Criteria for Adverse Events (CTCAE) v4.0. National Cancer Institute, 2010. https://ctep.cancer.gov/protocoldevelopment/electronic\\_ applications/ctc.htm (accessed March 15, 2018).\n- 25 McArthur GA, Chapman PB, Robert C, et al. Safety and efficacy of vemurafenib in BRAF(V600E) and BRAF(V600K) mutation-positive melanoma (BRIM-3): extended follow-up of a phase 3, randomised, open-label study. *Lancet Oncol* 2014; **15:** 323\u201332.\n- 26 Sosman JA, Kim KB, Schuchter L, et al. Survival in BRAF V600-mutant advanced melanoma treated with vemurafenib. *N Engl J Med* 2012; **366:** 707\u201314.\n- 27 Larkin J, Del Vecchio M, Ascierto PA, et al. Vemurafenib in patients with BRAF(V600) mutated metastatic melanoma: an open-label, multicentre, safety study. *Lancet Oncol* 2014; **15:** 436\u201344.\n- 28 Novartis Pharmaceuticals Corporation. TAFINLAR (dabrafenib). Full prescribing information. East Hanover, NJ: Novartis Pharmaceuticals Corporation, 2017. https://www.pharma.us. novartis.com/sites/www.pharma.us.novartis.com/files/tafinlar.pdf (accessed March 12, 2018).\n- 29 Long GV, Flaherty KT, Stroyakovskiy D, et al. Dabrafenib plus trametinib versus dabrafenib monotherapy in patients with metastatic BRAF V600E/K-mutant melanoma: long-term survival and safety analysis of a phase 3 study. *Ann Oncol* 2017; **28:** 1631\u201339.\n- 30 Dummer R, Rinderknecht J, Goldinger SM. Ultraviolet A and photosensitivity during vemurafenib therapy. *N Engl J Med* 2012; **366:** 480\u201381.\n- 31 Genentech USA. Cotellic (cobimetinib). Full Prescribing Information. South San Francisco, CA: Genentech USA, 2016. https://www.gene.com/download/pdf/cotellic\\_prescribing.pdf (accessed Jan 25, 2018).",
+    "json_data": {
+      "table_of_contents": [
+        {
+          "title": "www.thelancet.com/oncology Vol 19 May 2018 603",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              35.613037109375,
+              773.4375
+            ],
+            [
+              564.0946044921875,
+              773.4375
+            ],
+            [
+              564.0946044921875,
+              781.3298358917236
+            ],
+            [
+              35.613037109375,
+              781.3298358917236
+            ]
+          ]
+        },
+        {
+          "title": "Encorafenib plus binimetinib versus vemurafenib or \nencorafenib in patients with BRAF-mutant melanoma \n(COLUMBUS): a multicentre, open-label, randomised \nphase 3 trial",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              36.2314453125,
+              121.58203125
+            ],
+            [
+              428.6756896972656,
+              121.58203125
+            ],
+            [
+              428.6756896972656,
+              205.64813232421875
+            ],
+            [
+              36.2314453125,
+              205.64813232421875
+            ]
+          ]
+        },
+        {
+          "title": "Summary",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              36.6497802734375,
+              259.27960205078125
+            ],
+            [
+              80.24755859375,
+              259.27960205078125
+            ],
+            [
+              80.24755859375,
+              270.27960205078125
+            ],
+            [
+              36.6497802734375,
+              270.27960205078125
+            ]
+          ]
+        },
+        {
+          "title": "Introduction",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              36.85169982910156,
+              710.2795867919922
+            ],
+            [
+              94.21630859375,
+              710.2795867919922
+            ],
+            [
+              94.21630859375,
+              721.875
+            ],
+            [
+              36.85169982910156,
+              721.875
+            ]
+          ]
+        },
+        {
+          "title": "Lancet Oncol 2018; 19: 603\u201315",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              484.7243957519531,
+              273.2421875
+            ],
+            [
+              562.8596801757812,
+              273.2421875
+            ],
+            [
+              562.8596801757812,
+              280.525146484375
+            ],
+            [
+              484.7243957519531,
+              280.525146484375
+            ]
+          ]
+        },
+        {
+          "title": "Research in context",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              126.7373046875,
+              135.7421875
+            ],
+            [
+              193.6708984375,
+              135.7421875
+            ],
+            [
+              193.6708984375,
+              145.41265869140625
+            ],
+            [
+              126.7373046875,
+              145.41265869140625
+            ]
+          ]
+        },
+        {
+          "title": "Evidence before this study",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              122.517578125,
+              153.02734375
+            ],
+            [
+              216.7873077392578,
+              153.02734375
+            ],
+            [
+              216.7873077392578,
+              162.0811767578125
+            ],
+            [
+              122.517578125,
+              162.0811767578125
+            ]
+          ]
+        },
+        {
+          "title": "Added value of this study",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              124.5546875,
+              323.828125
+            ],
+            [
+              214.1875,
+              323.828125
+            ],
+            [
+              214.1875,
+              332.7356872558594
+            ],
+            [
+              124.5546875,
+              332.7356872558594
+            ]
+          ]
+        },
+        {
+          "title": "Implications of all the available evidence",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              343.98046875,
+              291.2217102050781
+            ],
+            [
+              483.66796875,
+              291.2217102050781
+            ],
+            [
+              483.66796875,
+              299.7217102050781
+            ],
+            [
+              343.98046875,
+              299.7217102050781
+            ]
+          ]
+        },
+        {
+          "title": "Methods",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              344.4080810546875,
+              699.2795867919922
+            ],
+            [
+              386.177734375,
+              699.2795867919922
+            ],
+            [
+              386.177734375,
+              710.2795867919922
+            ],
+            [
+              344.4080810546875,
+              710.2795867919922
+            ]
+          ]
+        },
+        {
+          "title": "Study design and participants",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              344.4080810546875,
+              711.483757019043
+            ],
+            [
+              459.8046875,
+              711.483757019043
+            ],
+            [
+              459.8046875,
+              720.983757019043
+            ],
+            [
+              344.4080810546875,
+              720.983757019043
+            ]
+          ]
+        },
+        {
+          "title": "Randomisation and masking",
+          "heading_level": null,
+          "page_id": 2,
+          "polygon": [
+            [
+              262.205322265625,
+              348.4837951660156
+            ],
+            [
+              372.791015625,
+              348.4837951660156
+            ],
+            [
+              372.791015625,
+              358.0078125
+            ],
+            [
+              262.205322265625,
+              358.0078125
+            ]
+          ]
+        },
+        {
+          "title": "Procedures",
+          "heading_level": null,
+          "page_id": 2,
+          "polygon": [
+            [
+              262.205322265625,
+              524.4837951660156
+            ],
+            [
+              304.40234375,
+              524.4837951660156
+            ],
+            [
+              304.40234375,
+              533.9837951660156
+            ],
+            [
+              262.205322265625,
+              533.9837951660156
+            ]
+          ]
+        },
+        {
+          "title": "Outcomes",
+          "heading_level": null,
+          "page_id": 3,
+          "polygon": [
+            [
+              117.5703125,
+              656.4837646484375
+            ],
+            [
+              158.16529846191406,
+              656.4837646484375
+            ],
+            [
+              158.16529846191406,
+              666.015625
+            ],
+            [
+              117.5703125,
+              666.015625
+            ]
+          ]
+        },
+        {
+          "title": "Statistical analysis",
+          "heading_level": null,
+          "page_id": 3,
+          "polygon": [
+            [
+              344.408203125,
+              491.4837951660156
+            ],
+            [
+              414.98828125,
+              491.4837951660156
+            ],
+            [
+              414.98828125,
+              500.9837951660156
+            ],
+            [
+              344.408203125,
+              500.9837951660156
+            ]
+          ]
+        },
+        {
+          "title": "Figure 1: Trial profile",
+          "heading_level": null,
+          "page_id": 4,
+          "polygon": [
+            [
+              36.6861572265625,
+              737.109375
+            ],
+            [
+              92.5154037475586,
+              737.109375
+            ],
+            [
+              92.5154037475586,
+              744.921875
+            ],
+            [
+              36.6861572265625,
+              744.921875
+            ]
+          ]
+        },
+        {
+          "title": "Role of the funding source",
+          "heading_level": null,
+          "page_id": 5,
+          "polygon": [
+            [
+              344.4080810546875,
+              326.171875
+            ],
+            [
+              446.41796875,
+              326.171875
+            ],
+            [
+              446.41796875,
+              335.9837951660156
+            ],
+            [
+              344.4080810546875,
+              335.9837951660156
+            ]
+          ]
+        },
+        {
+          "title": "Results",
+          "heading_level": null,
+          "page_id": 5,
+          "polygon": [
+            [
+              343.107421875,
+              479.2796325683594
+            ],
+            [
+              376.283203125,
+              479.2796325683594
+            ],
+            [
+              376.283203125,
+              490.2796325683594
+            ],
+            [
+              343.107421875,
+              490.2796325683594
+            ]
+          ]
+        },
+        {
+          "title": "Discussion",
+          "heading_level": null,
+          "page_id": 10,
+          "polygon": [
+            [
+              36.6497802734375,
+              270.27960205078125
+            ],
+            [
+              83.59423828125,
+              270.27960205078125
+            ],
+            [
+              83.59423828125,
+              281.27960205078125
+            ],
+            [
+              36.6497802734375,
+              281.27960205078125
+            ]
+          ]
+        },
+        {
+          "title": "Contributors",
+          "heading_level": null,
+          "page_id": 11,
+          "polygon": [
+            [
+              117.861328125,
+              715.234375
+            ],
+            [
+              155.40499877929688,
+              715.234375
+            ],
+            [
+              155.40499877929688,
+              722.4927139282227
+            ],
+            [
+              117.861328125,
+              722.4927139282227
+            ]
+          ]
+        },
+        {
+          "title": "Declaration of interests",
+          "heading_level": null,
+          "page_id": 11,
+          "polygon": [
+            [
+              344.271484375,
+              362.109375
+            ],
+            [
+              410.218994140625,
+              362.109375
+            ],
+            [
+              410.218994140625,
+              369.53125
+            ],
+            [
+              344.271484375,
+              369.53125
+            ]
+          ]
+        },
+        {
+          "title": "Acknowledgments",
+          "heading_level": null,
+          "page_id": 12,
+          "polygon": [
+            [
+              36.4678955078125,
+              316.796875
+            ],
+            [
+              92.03369140625,
+              316.796875
+            ],
+            [
+              92.03369140625,
+              325.5377502441406
+            ],
+            [
+              36.4678955078125,
+              325.5377502441406
+            ]
+          ]
+        },
+        {
+          "title": "References",
+          "heading_level": null,
+          "page_id": 12,
+          "polygon": [
+            [
+              35.794921875,
+              365.625
+            ],
+            [
+              67.44287109375,
+              365.625
+            ],
+            [
+              67.44287109375,
+              373.5367431640625
+            ],
+            [
+              35.794921875,
+              373.5367431640625
+            ]
+          ]
+        }
+      ],
+      "page_stats": [
+        {
+          "page_id": 0,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              252
+            ],
+            [
+              "Line",
+              106
+            ],
+            [
+              "Text",
+              13
+            ],
+            [
+              "SectionHeader",
+              5
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "PageFooter",
+              1
+            ],
+            [
+              "Picture",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 1,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              356
+            ],
+            [
+              "Line",
+              158
+            ],
+            [
+              "Text",
+              12
+            ],
+            [
+              "SectionHeader",
+              6
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 2,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              269
+            ],
+            [
+              "Line",
+              115
+            ],
+            [
+              "Text",
+              8
+            ],
+            [
+              "SectionHeader",
+              2
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 3,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              243
+            ],
+            [
+              "Line",
+              115
+            ],
+            [
+              "Text",
+              8
+            ],
+            [
+              "SectionHeader",
+              2
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 4,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              197
+            ],
+            [
+              "Line",
+              95
+            ],
+            [
+              "Text",
+              5
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Figure",
+              1
+            ],
+            [
+              "SectionHeader",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 5,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              299
+            ],
+            [
+              "Line",
+              122
+            ],
+            [
+              "TableCell",
+              108
+            ],
+            [
+              "Text",
+              11
+            ],
+            [
+              "SectionHeader",
+              2
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Table",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 6,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              359
+            ],
+            [
+              "Line",
+              159
+            ],
+            [
+              "Text",
+              8
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Figure",
+              1
+            ],
+            [
+              "Caption",
+              1
+            ],
+            [
+              "FigureGroup",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 7,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              384
+            ],
+            [
+              "Line",
+              177
+            ],
+            [
+              "TableCell",
+              176
+            ],
+            [
+              "Text",
+              5
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Table",
+              1
+            ],
+            [
+              "Caption",
+              1
+            ],
+            [
+              "TableGroup",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 8,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              229
+            ],
+            [
+              "Line",
+              97
+            ],
+            [
+              "TableCell",
+              60
+            ],
+            [
+              "Text",
+              6
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Table",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 9,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              415
+            ],
+            [
+              "TableCell",
+              374
+            ],
+            [
+              "Line",
+              67
+            ],
+            [
+              "Text",
+              5
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Table",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 10,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              245
+            ],
+            [
+              "Line",
+              116
+            ],
+            [
+              "Text",
+              8
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "SectionHeader",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 11,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              267
+            ],
+            [
+              "Line",
+              129
+            ],
+            [
+              "Text",
+              7
+            ],
+            [
+              "SectionHeader",
+              2
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 12,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              442
+            ],
+            [
+              "Line",
+              140
+            ],
+            [
+              "ListItem",
+              31
+            ],
+            [
+              "Text",
+              2
+            ],
+            [
+              "SectionHeader",
+              2
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "ListGroup",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        }
+      ],
+      "debug_data_path": "debug_data/12"
+    },
+    "tables": [],
+    "metadata": {
+      "total_pages": 0,
+      "document_type": "unknown",
+      "processing_time": 0,
+      "ocr_used": false
+    },
+    "processing_stats": {
+      "return_code": 0,
+      "stdout_length": 87,
+      "stderr_length": 795
+    },
+    "processing_mode": "marker_enhanced",
+    "use_llm": false,
+    "markdown_quality_score": 100.0
+  },
+  "clinical_extraction": {
+    "prompt": "\nTASK: Extract comprehensive clinical trial data from this publication.\n\nCRITICAL REQUIREMENTS:\n1. NCT number: NCT01909453 (already validated)\n2. Expected treatment arms: 5\n3. Output raw JSON only (no markdown, no explanations)\n4. Extract ONLY explicit information - never infer or guess\n5. Use empty string \"\" for missing values\n\nTREATMENT ARMS:\n- Each unique treatment = separate arm\n- Different doses of same drug = separate arms  \n- Combination therapies use \"+\" (e.g., \"Drug A + Drug B\")\n\nDATA FORMATS:\n- Numbers: Extract digits only (e.g., \"25%\" \u2192 \"25\")\n- Survival: Months only (e.g., \"12.5 months\" \u2192 \"12.5\") \n- Binary: \"YES\" or \"NO\" only\n- Missing: Use \"\"\n\nCOMPREHENSIVE JSON STRUCTURE:\n{\n  \"NCT Number\": \"NCT01909453\",\n  \"Publication name\": \"Journal YYYY; Volume:Pages\",\n  \"Publication Year\": \"YYYY\",\n  \"PDF number\": \"filename\",\n  \"Trial name\": \"Trial name or 'No Name'\",\n  \"Sponsors\": \"Industry-Sponsored or non Industry-Sponsored\",\n  \"Clinical Trial Phase\": \"Stage X\",\n  \"Cancer Type\": \"Select from controlled list\",\n  \"Primary endpoint\": \"text\",\n  \"Secondary endpoint\": \"text\",\n  \"Median Age\": \"number\",\n  \"Mechanism of action\": \"text\",\n  \"Target Protein\": \"text\",\n  \"Type of therapy\": \"text\",\n  \"Dosage\": \"text\",\n  \"Type of dosing\": \"text\",\n  \"Number of doses per year\": \"number\",\n  \"Biomarker Inclusion\": \"YES/NO\",\n  \"Biomarkers Inclusion Criteria\": \"text\",\n  \"Biomarkers Exclusion Criteria\": \"text\",\n  \"Major country where clinical trial is conducted\": \"text\",\n  \"Study start date\": \"YYYY-MM-DD\",\n  \"Study completion date\": \"YYYY-MM-DD\",\n  \"First results\": \"YYYY-MM-DD\",\n  \"Trial run in Europe\": \"YES/NO\",\n  \"Trial run in US\": \"YES/NO\",\n  \"Trial run in China\": \"YES/NO\",\n  \"treatment_arms\": [\n    {\n      \"Generic name\": \"Drug name or Drug A + Drug B\",\n      \"Brand name\": \"text\",\n      \"Line of Treatment\": \"Neoadjuvant/First Line/2nd Line/3rd Line+\",\n      \"Number of patients\": \"number\",\n      \"Company EU\": \"text\",\n      \"Company US\": \"text\",\n      \"Company China\": \"text\",\n      \"Biosimilar\": \"YES/NO\",\n      \"Chemotherapy Naive\": \"YES/NO\",\n      \"Chemotherapy Failed\": \"YES/NO\",\n      \"Immune Checkpoint Inhibitor (ICI) Naive\": \"YES/NO\",\n      \"Immune Checkpoint Inhibitor (ICI) failed\": \"YES/NO\",\n      \"Ipilimumab-failure or Ipilimumab-refractory\": \"YES/NO\",\n      \"Anti PD-1/L1-failure or Anti PD-1/L1-refractory\": \"YES/NO\",\n      \"Mutation status\": \"text\",\n      \"BRAF-mutation\": \"YES/NO\",\n      \"NRAS-Mutation\": \"YES/NO\",\n      \"Objective response rate (ORR)\": \"percentage\",\n      \"Complete Response (CR)\": \"percentage\",\n      \"Pathological Complete Response (pCR)\": \"percentage\",\n      \"Complete Metabolic Response (CMR)\": \"percentage\",\n      \"Disease Control Rate or DCR\": \"percentage\",\n      \"Clinical Benefit Rate (CBR)\": \"percentage\",\n      \"Duration of Response (DOR) rate\": \"percentage\",\n      \"Progression free survival (PFS) rate at 6 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 9 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 12 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 18 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 24 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 48 months\": \"percentage\",\n      \"Overall survival (OS) rate at 6 months\": \"percentage\",\n      \"Overall survival (OS) rate at 9 months\": \"percentage\",\n      \"Overall survival (OS) rate at 12 months\": \"percentage\",\n      \"Overall survival (OS) rate at 18 months\": \"percentage\",\n      \"Overall survival (OS) rate at 24 months\": \"percentage\",\n      \"Overall survival (OS) rate at 48 months\": \"percentage\",\n      \"Median Progression free survival (PFS)\": \"months\",\n      \"Length of measuring PFS\": \"months\",\n      \"p-value of PFS\": \"Non-Significant/Significant/Highly Significant\",\n      \"Hazard ratio (HR) PFS\": \"decimal\",\n      \"Median Overall survival (OS)\": \"months\",\n      \"Length of measuring OS\": \"months\",\n      \"p-value of OS\": \"Non-Significant/Significant/Highly Significant\",\n      \"Hazard ratio (HR) OS\": \"decimal\",\n      \"Event-Free Survival (EFS)\": \"months\",\n      \"p-value of EFS\": \"Non-Significant/Significant/Highly Significant\",\n      \"Hazard ratio (HR) EFS\": \"decimal\",\n      \"Recurrence-Free Survival (RFS)\": \"months\",\n      \"p-value of RFS\": \"Non-Significant/Significant/Highly Significant\",\n      \"Length of measuring RFS\": \"months\",\n      \"Hazard ratio (HR) RFS\": \"decimal\",\n      \"Metastasis-Free Survival (MFS)\": \"months\",\n      \"Length of measuring MFS\": \"months\",\n      \"Hazard ratio (HR) MFS\": \"decimal\",\n      \"Time to response (TTR)\": \"months\",\n      \"Time to Progression (TTP)\": \"months\",\n      \"Time to Next Treatment (TTNT)\": \"months\",\n      \"Time to Treatment Failure (TTF)\": \"months\",\n      \"Median Duration of response or DOR\": \"months\",\n      \"Adverse events (AE)\": \"percentage\",\n      \"Treatment emergent adverse events (TEAE)\": \"percentage\",\n      \"Treatment-related adverse events (TRAE)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 higher adverse events (AE)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 higher treatment emergent adverse events (TEAE)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 higher treatment-related adverse events (TRAE)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 higher treatment-emergent adverse events (TEAE)\": \"percentage\",\n      \"Grade 4 treatment emergent adverse events\": \"percentage\",\n      \"Grade 5 treatment emergent adverse events\": \"percentage\",\n      \"Serious Adverse Events (SAE)\": \"percentage\",\n      \"Serious treatment emergent adverse events\": \"percentage\",\n      \"Serious treatment related adverse events\": \"percentage\",\n      \"Treatment-emergent adverse events (TEAE) led to treatment discontinuation\": \"percentage\",\n      \"Adverse events (AEs) leading to discontinuation\": \"percentage\",\n      \"Treatment-emergent adverse events (TEAE) led to death\": \"percentage\",\n      \"Adverse Events leading to death\": \"percentage\",\n      \"Immune related adverse events (irAEs)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Immune related adverse events (irAEs)\": \"percentage\",\n      \"Cytokine Release Syndrome or CRS\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Cytokine Release Syndrome or CRS\": \"percentage\",\n      \"White blood cell (WBC) decreased\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Thrombocytopenia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Neutropenia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Leukopenia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Anemia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Neutrophil count decreased\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 White blood cell (WBC) decreased\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Nausea\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Diarrhea\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Colitis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Constipation\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Dyspnea\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Cough\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Pneumonia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Pneumonitis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Hyperglycemia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Thyroiditis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Hypophysitis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Hepatitis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Alanine aminotransferase\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Pyrexia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Bleeding\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Pruritus\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Rash\": \"percentage\"\n    }\n  ]\n}\n\nEXTRACTION INSTRUCTIONS:\n1. Extract ALL fields listed above that are explicitly mentioned in the publication\n2. For percentages: extract number only (e.g., \"25%\" \u2192 \"25\")\n3. For months: extract number only (e.g., \"12.5 months\" \u2192 \"12.5\")\n4. For binary fields: use \"YES\" or \"NO\" only\n5. For missing data: use empty string \"\"\n6. For survival data with \"not reached\": use \"NR\"\n\nPUBLICATION TEXT:\n#### www.thelancet.com/oncology **Vol 19 May 2018 603**\n\n# **Encorafenib plus binimetinib versus vemurafenib or encorafenib in patients with** *BRAF***-mutant melanoma (COLUMBUS): a multicentre, open-label, randomised phase 3 trial**\n\n*Reinhard Dummer\\*, Paolo A Ascierto\\*, Helen J Gogas, Ana Arance, Mario Mandala, Gabriella Liszkay, Claus Garbe, Dirk Schadendorf, Ivana Krajsova, Ralf Gutzmer, Vanna Chiarion-Sileni, Caroline Dutriaux, Jan Willem B de Groot, Naoya Yamazaki, Carmen Loquai, Laure A Moutouh-de Parseval, Michael D Pickard, Victor Sandor, Caroline Robert\u2020, Keith T Flaherty\u2020*\n\n# **Summary**\n\n**Background Combined BRAF-MEK inhibitor therapy is the standard of care for** *BRAF***V600-mutant advanced melanoma. We investigated encorafenib, a BRAF inhibitor with unique target-binding properties, alone or in combination with the MEK inhibitor binimetinib, versus vemurafenib in patients with advanced** *BRAF***V600-mutant melanoma.**\n\n**Methods COLUMBUS was conducted as a two-part, randomised, open-label phase 3 study at 162 hospitals in 28 countries. Eligible patients were aged 18 years or older and had histologically confirmed locally advanced (American Joint Committee on Cancer [AJCC] stage IIIB, IIIC, or IV), unresectable or metastatic cutaneous melanoma, or unknown primary melanoma; a** *BRAF***V600E or** *BRAF***V600K mutation; an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1; and were treatment naive or had progressed on or after previous firstline immunotherapy. In part 1 of the study, patients were randomly assigned (1:1:1) via interactive response technology to receive either oral encorafenib 450 mg once daily plus oral binimetinib 45 mg twice daily (encorafenib plus binimetinib group), oral encorafenib 300 mg once daily (encorafenib group), or oral vemurafenib 960 mg twice daily (vemurafenib group). The primary endpoint was progression-free survival by blinded independent central review for encorafenib plus binimetinib versus vemurafenib. Efficacy analyses were by intention-to-treat. Safety was analysed in patients who received at least one dose of study drug and one postbaseline safety assessment. The results of part 2 will be published separately. This study is registered with ClinicalTrials.gov, number NCT01909453, and EudraCT, number 2013-001176-38.**\n\n**Findings Between Dec 30, 2013, and April 10, 2015, 577 of 1345 screened patients were randomly assigned to either the encorafenib plus binimetinib group (n=192), the encorafenib group (n=194), or the vemurafenib group (n=191). With a median follow-up of 16\u00b76 months (95% CI 14\u00b78\u201316\u00b79), median progression-free survival was 14\u00b79 months (95% CI 11\u00b70\u201318\u00b75) in the encorafenib plus binimetinib group and 7\u00b73 months (5\u00b76\u20138\u00b72) in the vemurafenib group (hazard ratio [HR] 0\u00b754, 95% CI 0\u00b741\u20130\u00b771; two-sided p<0\u00b70001). The most common grade 3\u20134 adverse events seen in more than 5% of patients in the encorafenib plus binimetinib group were increased \u03b3-glutamyltransferase (18 [9%] of 192 patients), increased creatine phosphokinase (13 [7%]), and hypertension (11 [6%]); in the encorafenib group they were palmoplantar erythrodysaesthesia syndrome (26 [14%] of 192 patients), myalgia (19 [10%]), and arthralgia (18 [9%]); and in the vemurafenib group it was arthralgia (11 [6%] of 186 patients). There were no treatmentrelated deaths except for one death in the combination group, which was considered possibly related to treatment by the investigator.** \n\n**Interpretation Encorafenib plus binimetinib and encorafenib monotherapy showed favourable efficacy compared with vemurafenib. Overall, encorafenib plus binimetinib appears to have an improved tolerability profile compared with encorafenib or vemurafenib. Encorafenib plus binimetinib could represent a new treatment option for patients with** *BRAF***-mutant melanoma.**\n\n**Funding Array BioPharma, Novartis.**\n\n**Copyright \u00a9 2018 Elsevier Ltd. All rights reserved.**\n\n# **Introduction**\n\nGenetic alterations resulting in an activated MAPK pathway occur in almost all melanoma cases. The most frequent is the *BRAF*V600 mutation, which occurs in 35\u201350% of patients with a melanoma.1 Activating *BRAF* mutations drive constitutive MAPK pathway activation, with subsequent proliferation and enhanced cellular survival, making BRAF kinase a promising therapeutic\n\n#### *Lancet Oncol* **2018; 19: 603\u201315**\n\nPublished **Online** March 21, 2018 http://dx.doi.org/10.1016/ S1470-2045(18)30142-6 See **Comment** page 580\n\n\\*Contributed equally as first authors\n\n\u2020Contributed equally as final authors\n\n**Department of Dermatology, University Hospital Z\u00fcrich Skin Cancer Center, Z\u00fcrich, Switzerland**  (Prof R Drummer MD)**; Melanoma Unit, Cancer Immunotherapy and Innovative Therapies,Istituto Nazionale Tumori IRCCS Fondazione Pascale, Naples, Italy** (P A Ascierto MD)**; Department of Internal Medicine, National and Kapodistrian University of Athens, Laikon Hospital, Athens, Greece** (H J Gogas MD)**; Department of Medical Oncology, Hospital Clinic of Barcelona, Barcelona, Spain**  (A Arance MD)**; Department of Oncology and Haematology, Papa Giovanni XXIII Cancer Center Hospital, Bergamo, Italy** (M Mandala MD)**; Department of Dermatology, National Institute of Oncology, Budapest, Hungary** (Prof G Liszkay MD)**; Department of Dermatology, University Hospital T\u00fcebingen, T\u00fcebingen, Germany**  (Prof C Garbe MD)**; Department of Dermatology, University Hospital Essen, Essen, Germany**  (Prof D Schadendorf MD)**; German Cancer Consortium, Heidelberg, Germany**  (Prof D Schadendorf)**; Department of Dermato-oncology, University Hospital Prague, Charles University First Medical Faculty, Prague, Czech Republic** \n\n![](_page_0_Picture_20.jpeg)\n\n(I Krajsova MD)**; Department of Dermatology and Allergy, Skin Cancer Center Hannover, Hannover Medical School, Hannover, Germany**  (Prof R Gutzmer MD)**; Melanoma Cancer Unit, Oncology Institute of Veneto IRCCS, Padua, Italy**  (V Chiarion-Sileni MD)**; Department of Oncologic Dermatology, Centre Hospitalier Universitaire de Bordeaux, H\u00f4pital Saint-Andr\u00e9, Bordeaux, France**  (C Dutriaux MD)**; Department of Medical Oncology, Isala, Zwolle, Netherlands**  (J W B de Groot MD)**; Department of Dermatologic Oncology, National Cancer Center Hospital, Tokyo, Japan** (N Yamazaki MD)**; Department of Dermatology, University Medical Center Mainz, Mainz, Germany** (C Loquai MD)**; Translational Clinical Oncology, Novartis Pharma AG, Basel, Switzerland**  (L A Moutouh-de Parseval MD)**; Array BioPharma, Boulder, CO, USA** (M D Pickard PhD, V Sandor MD)**; Service of Dermatology,Department of Medicine, Paris-Sud University, Gustave Roussy, Villejuif, France** (Prof C Robert MD)**; and** \n\n**Cancer Center,Massachusetts General Hospital, Boston, MA, USA** (K T Flaherty MD) Correspondence to: Prof Reinhard Dummer, Department of Dermatology, Skin Cancer Center, University\n\nHospital Z\u00dcrich, 8091 Z\u00dcrich, Switzerland **reinhard.dummer@usz.ch**\n\n## **Research in context**\n\n#### **Evidence before this study**\n\nWe searched for articles and abstracts during the development of this Article that were published in PubMed and Embase between Jan 1, 2014, and Dec 20, 2017. Search terms were comprehensive (\"melanoma\"+\"treatment\"+\"phase\" [all fields]; \"encorafenib\", \"BRAF inhibition\"+\"melanoma\" [all fields]). Selected abstracts were not limited to those in the English language and focused on phase 3 clinical trial data. Our search results indicated that a combination of available BRAF and MEK-pathway inhibitors provided additional benefit with reasonable tolerability in advanced melanoma compared with BRAF-inhibitor monotherapy. Preclinical and phase 1 and 2 clinical data suggested that the BRAF inhibitor encorafenib in combination with the MEK inhibitor binimetinib could further improve therapy for patients with *BRAF*-mutant melanoma.\n\n#### **Added value of this study**\n\nIn this randomised trial in patients with *BRAF*-mutant melanoma, treatment with the combination of the BRAF inhibitor encorafenib 450 mg and the MEK inhibitor binimetinib 45 mg improved progression-free survival and overall response compared with encorafenib 300 mg or vemurafenib, with better\n\ntolerability. Furthermore, in what to our knowledge is the first controlled head-to-head comparison of BRAF-inhibitor monotherapy, encorafenib showed a progression-free survival advantage compared with vemurafenib. Additionally, the combination of encorafenib with binimetinib ameliorated toxic effects associated with encorafenib monotherapy, enabling the use of a higher dose of encorafenib. Consistent with preclinical findings, our results show that encorafenib monotherapy provides improved clinical efficacy compared with vemurafenib monotherapy, and that high-intensity, extended BRAF inhibition, in combination with MEK inhibition, could result in improved tumour control.\n\n#### **Implications of all the available evidence**\n\nEncorafenib in combination with binimetinib is a well tolerated and efficacious treatment option for *BRAF*-mutant metastatic melanoma. Overall survival data and long-term safety data will provide additional insights into the efficacy and tolerability of this combination. Additionally, our findings indicate that the combination of encorafenib with binimetinib has a different toxicity profile from other combinations of BRAF-MEK inhibitors, with low frequencies of pyrexia and photosensitivity.\n\ntarget.1 In-vitro investigations have shown that growth of *BRAF*-mutated melanoma cells can be inhibited by BRAF or MEK inhibitors.2\n\nA crystallography-guided drug design approach produced several candidate ATP-competitive BRAFkinase inhibitors that were investigated in clinical trials. Vemurafenib was the first to show efficacy in *BRAF*mutant melanoma,3,4 followed by dabrafenib.5 MAPK pathway reactivation is implicated in BRAF-inhibitor monotherapy resistance.6 Additionally, toxic effects associated with BRAF inhibition, notably secondary squamous-cell skin cancer and other skin toxicities, are caused by BRAF inhibitors paradoxically activating the wild-type BRAF kinase, promoting dimerisation that triggers RAS-independent transactivation, and activation of the MAPK pathway in normal tissues.7 Subsequent clinical trials8\u201311 in patients with *BRAF*V600-mutant melanoma have shown that dual MAPK-pathway targeting with a BRAF inhibitor and a MEK inhibitor improves efficacy and ameliorates paradoxical MAPK activation-related toxic effects associated with BRAFinhibitor monotherapy. Two BRAF-MEK inhibitor combinations (dabrafenib-trametinib and vemurafenibcobimetinib) are regarded as treatment options for metastatic or unresectable *BRAF*V600-mutant melanoma in current guidelines.12,13 These BRAF-MEK inhibitor combinations are highly effective. However, both are associated with disease progression at approximately 12 months, and each combination causes different toxic effects in patients, highlighting the need for more effective and better tolerated therapies.8\u201310,14\u201317\n\nEncorafenib is an ATP-competitive BRAF inhibitor that suppresses the MAPK pathway in tumour cells that express several mutated forms of BRAF kinase (eg, V600E, V600D, and V600K mutations), with a more than 10-times longer dissociation half-life (>30 h) than either dabrafenib or vemurafenib, which enables sustained target inhibition.18 Preclinical studies suggest that this property could enhance antitumour activity while reducing paradoxical activation of MAPK pathways in normal tissues.18,19 Binimetinib is an orally available, non-ATPcompetitive, allosteric inhibitor of MEK1 and MEK2.20\n\nPromising clinical activity and tolerability of the combination of encorafenib and binimetinib has been seen in patients with *BRAF*V600-mutated melanoma in a phase 1b/2 and a phase 2 study. 21,22 Furthermore, the maximum tolerated dose of encorafenib when combined with binimetinib was higher than the maximum tolerated dose of encorafenib monotherapy, thus allowing the use of a higher encorafenib dose when combined with binimetinib in subsequent trials.22 Here, we describe the results of part one of the COLUMBUS trial, a phase 3 study of encorafenib plus binimetinib versus vemurafenib or encorafenib monotherapy in patients with advanced *BRAF*V600-mutant unresectable melanoma.\n\n# **Methods**\n\n## **Study design and participants**\n\nCOLUMBUS is a two-part, multicentre, randomised, open-label phase 3 study of the efficacy and safety of encorafenib plus binimetinib combination therapy versus vemurafenib or encorafenib monotherapy in patients with locally advanced unresectable or metastatic *BRAF*V600-mutant melanoma. The study was originally designed to compare the efficacy of encorafenib 450 mg once daily plus binimetinib 45 mg twice daily with vemurafenib given at its clinically indicated dose, and with encorafenib given at 300 mg once daily (its maximum well tolerated dose as a monotherapy). However, because of a request from the US Food and Drug Administration (FDA), the study protocol was amended on Nov 4, 2014, and a new study phase (part two) was added to better understand and isolate the contribution of binimetinib to the combination by comparing encorafenib 300 mg plus binimetinib 45 mg against encorafenib 300 mg alone.\n\nIn part one of the study, patients were recruited at 162 hospitals in 28 countries, including 20 sites in North America, 124 sites in Europe, and 18 sites in other selected countries (appendix p 2\u20135). After completion of enrolment in part one, patients were recruited into part two of the study following the same eligibility criteria, and the combination of encorafenib at its monotherapy maximum tolerated dose plus binimetinib was compared with encorafenib monotherapy at the same dose. Part 2 was done to better characterise the contribution of binimetinib to the combination therapy, and the results will be published separately.\n\nTo be eligible, patients needed to be aged 18 years or older and meet the following criteria: have a histologically confirmed diagnosis of locally advanced (American Joint Committee on Cancer [AJCC] stage IIIB, IIIC, or IV), unresectable or metastatic cutaneous melanoma, or unknown primary melanoma (as per amendment 3; Nov 4, 2014); have the presence of a *BRAF*V600E or *BRAF*V600K mutation, or both, in their tumour tissue; have an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1; have adequate bone marrow, organ function (including cardiac function), and laboratory parameters (ie, absolute neutrophil count, haemoglobin concentration, platelet count, aspartate aminotransferase or alanine aminotransferase concentrations, and total bilirubin, creatinine, or calculated creatinine clearance); have evidence of at least one measurable lesion as detected by radiological or photographic methods according to guidelines based on Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1;23 and be treatment naive or have progressed on or after previous first-line immunotherapy (acceptable test limits for laboratory parameters are in the appendix, p 6). Key exclusion criteria included untreated CNS lesions; uveal or mucosal melanoma; known positive serology for human immunodeficiency virus, or an active hepatitis B or hepatitis C infection, or both; history of leptomeningeal metastases; a history of, current evidence of, or risk of retinal vein occlusion; Gilbert's syndrome; previous treatment with a BRAF or MEK inhibitor; previous systemic chemotherapy (as per protocol amendment 2 on Dec 22, 2013, and clarified in amendment 3 on Nov 4, 2014), extensive radiotherapy, or use of an investigational agent other than previous immunotherapy for locally advanced, unresectable, or metastatic melanoma (immunotherapy must have ended at least 6 weeks before randomisation); impaired cardiovascular function; uncontrolled arterial hypertension; and neuromuscular disorders associated with high concentrations of creatine kinase. The full list of exclusion criteria is in the study protocol (appendix p 93).\n\nIndependent ethics committees or review boards at each study site approved the study protocol and amendments 1\u20134. Conduct of the study conformed with Good Clinical Practice guidelines and the ethical requirements outlined in the Declaration of Helsinki. Written informed consent was obtained from all patients before screening procedures were initiated.\n\nSee **Online** for appendix\n\n## **Randomisation and masking**\n\nPatients were randomly allocated into one of the three treatment groups in the trial (1:1:1) to receive either encorafenib plus binimetinib (encorafenib plus binimetinib group), encorafenib (encorafenib group), or vemurafenib (vemurafenib group) by use of validated interactive response technology (Parexel International, Billerica, MA, USA). Randomisation was stratified by AJCC stage (IIIB, IIIC, IVM1a, IVM1b, or IVM1c), ECOG performance status (0 or 1), and *BRAF*-mutation status (*BRAF*V600E *vs BRAF*V600K). After protocol amendment 2 (Dec 20, 2013), previous first-line immunotherapy (yes *vs* no) replaced *BRAF*-mutation status as a stratification factor. Investigators and patients were not masked to treatment assignment.\n\n## **Procedures**\n\nCentral genetic mutation analysis to ascertain the presence of *BRAF* mutations was done for all patients before enrolment with the bioM\u00e9rieux THxID BRAF diagnostic test (bioM\u00e9rieux, Marcy l'Etoile, France), which identifies both *BRAF*V600E and *BRAF*V600K gene mutations. Instances of previous immunotherapy were recorded for all patients. Patients received either encorafenib 450 mg orally once daily plus binimetinib 45 mg orally twice daily, encorafenib 300 mg orally once daily, or vemurafenib 960 mg orally twice daily according to randomised treatment assignment, and continued treatment until progression of disease per central review, death, unacceptable toxic effects, or withdrawal of consent. The type and frequency of clinical laboratory assessments are described in the appendix (p 10). Dose modifications, including treatment interruptions and dose reductions, were permitted for each of the drugs on the basis of tolerability and adverse events. Details regarding drug manufacture and permitted dose modifications are in the appendix (p 6).\n\nThe relative dose intensity was defined as 100 \u00d7 (the total cumulative dose a patient actually received while a on the study) divided by (the total cumulative dose a patient was scheduled to receive [ie, had they not had any dose adjustments or interruptions] while on the study).\n\nBaseline imaging was done within 21 days of randomisation and included chest, abdomen, and pelvis MRI or CT, and brain MRI or CT to assess CNS disease. In the case of suspected bone metastases, a whole-body bone scan was done. Localised CT, MRI, or radiography was done for all skeletal lesions identified via the bone scan if not visible on the chest, abdomen, and pelvis CT or MRI. If clinically indicated, a CT or MRI scan was done of other areas of disease, as appropriate. Colour photographs were taken of all skin lesions, and lesion sizes were estimated with a metric ruler. Tumours were evaluated every 8 weeks during the first 24 months, and every 12 weeks thereafter, by use of the same imaging method as at baseline. Additional tumour assessments were done if progression was suspected by the treating physician. Tumour response was assessed centrally by blinded independent committee review and by local review according to guidelines based on RECIST version 1.1.\n\nFor safety assessments, we collected data on all adverse events; physical examinations such as specific ophthalmic and dermatological examinations, cardiac assessments (electrocardiogram and multiple-gated acquisition scan or echocardiogram); and clinical laboratory assessments. Because of the ocular-related toxicity profile of MEK inhibitors, all patients in the encorafenib plus binimetinib group had routine ophthalmic testing at each regularly scheduled visit during the treatment period**.** For patients in the encorafenib and vemurafenib groups, ophthalmic testing at each regularly scheduled visit was only required if retinal abnormalities were present at baseline. Details on the ophthalmological examinations are included in the appendix (p 6). The severity of adverse events was assessed according to the Common Terminology Criteria for Adverse Events version 4.03.24 We monitored adverse events during the study and for at least 30 days after the last dose of study drug.\n\nThe data cutoff date for analyses presented here was May 19, 2016. No interim analysis was done before the primary progression-free survival analysis presented in this Article. A data monitoring committee reviewed safety data approximately every 6 months.\n\n## **Outcomes**\n\nThe primary endpoint was the comparison of progressionfree survival in the encorafenib plus binimetinib versus vemurafenib groups as assessed by blinded independent central review. Progression-free survival was defined as the time from the date of randomisation to the date of the first documented disease progression or death from any cause, whichever occurred first. If a patient did not have a progression event at the time of the analysis cutoff or at the start of any new antineoplastic therapy, their data were censored at the date of last adequate tumour assessment. The key secondary endpoint was comparison of progression-free survival in the encorafenib plus binimetinib group versus the encorafenib group. Other secondary endpoints included comparison of the progression-free survival of patients in the encorafenib group versus the vemurafenib group; best overall response (complete response, partial response, stable disease, progressive disease, or unknown, derived per RECIST version 1.1), overall response (proportion of patients with a best overall response of confirmed complete response or partial response), disease control (the proportion of patients with a best overall response of confirmed complete response, partial response, or stable disease [including patients with non-measurable disease]), duration of response (time from the date of first documented response [confirmed complete response or partial response] to the first documented progression or death due to melanoma), time to response (time between date of randomisation until first documented response of complete response or partial response), and safety of encorafenib plus binimetinib and encorafenib. Data from tumour assessments read by blinded independent central review were used for the primary and secondary endpoints and analysis of best overall response, duration of response, and disease control; data from local review were used in supportive analyses. Analyses of other secondary outcomes to be reported in a separate manuscript include overall survival, quality of life, resource utilisation, comparison of ECOG performance status, and pharmacokinetic analysis.\n\n## **Statistical analysis**\n\nSample size calculations were based on assumptions for progression-free survival medians derived from results of a phase 1b/2 study (NCT01543698)22 for encorafenib plus binimetinib, a phase 1 study for encorafenib,18 and updated results from the BRIM-325 and BRIM-226/ COMBI-v,9 and coBRIM14,27 trials for vemurafenib.\n\nAnalyses of the primary and key (type-I error controlled) secondary endpoints for part one of the study were event driven and done when patient enrolment in part one was complete and the prespecified number of progressionfree survival events for both the final primary and part one key secondary comparison were available. We used a hierarchical testing procedure to control type-I errors for the primary and key secondary endpoints. The key secondary endpoint of part one (progression-free survival of encorafenib plus binimetinib *vs* encorafenib) was to be tested if the primary efficacy endpoint (progression-free survival of encorafenib plus binimetinib *vs* vemurafenib) was significant. The driver of sample size was the key secondary endpoint of progression-free survival with encorafenib plus binimetinib versus encorafenib (as per amendment 3; appendix p 47); for this comparison, 191 progression-free survival events were required to detect a hazard ratio (HR) of 0\u00b7667 with 80% power by use of a log-rank test at a one-sided 2\u00b75% level of significance. For the primary comparisons of encorafenib plus binimetinib versus vemurafenib, 145 progressionfree survival events were required to detect an HR of 0\u00b758 with 90% power by use of a log-rank test at a one-sided 2\u00b75% level of significance. Assuming that 15% of patients would be lost to follow-up, we estimated that 576 patients (192 in each group) would need to be recruited.\n\nWe analysed efficacy endpoints in the intention-to-treat population, which comprised all patients who had been randomised. Patients were analysed by treatment group and strata, as assigned during randomisation. Safety was analysed in all patients who received at least one dose of study drug and had at least one postbaseline safety assessment; patients were analysed according to the treatment they actually received. All data were used to the greatest extent possible without imputations for missing data (appendix p 7).\n\nMedian duration of follow-up for progression-free survival was estimated first, by summarising the observed follow-up for each patient (ie, the duration from date of randomisation to date of progression-free survival event or censoring), and second, through reverse Kaplan-Meier analyses. The reverse Kaplan-Meier median values are reported and reflect the potential follow-up in the absence of progressive disease or death. Progression-free survival was analysed according to the treatment group and two of the stratification factors (AJCC stage and ECOG performance status). Owing to the low expected prevalence of patients with previous immunotherapy (about 15%), for the stratified analyses it was prespecified that the two previous immunotherapy strata (yes *vs* no)\n\n![](_page_4_Figure_5.jpeg)\n\n#### *Figure 1:* **Trial profile**\n\nCNS=central nervous system. \\*Some patients were ineligible for more than one reason. \u2020Primary reason. \u2021Ongoing at the time of data cutoff (May 19, 2016).\n\n|                                                                                                       | Encorafenib<br>450 mg plus<br>binimetinib<br>45 mg group<br>(n=192) | Encorafenib<br>300 mg<br>group<br>(n=194) | Vemurafenib<br>960 mg<br>group<br>(n=191) |  |\n|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------|-------------------------------------------|--|\n| Age (years)                                                                                           | 57\u00b70 (20\u201389)                                                        | 54\u00b70 (23\u201388)                              | 56\u00b70 (21\u201382)                              |  |\n| Sex                                                                                                   |                                                                     |                                           |                                           |  |\n| Male                                                                                                  | 115 (60%)                                                           | 108 (56%)                                 | 111 (58%)                                 |  |\n| Female                                                                                                | 77 (40%)                                                            | 86 (44%)                                  | 80 (42%)                                  |  |\n| ECOG performance status                                                                               |                                                                     |                                           |                                           |  |\n| 0                                                                                                     | 136 (71%)                                                           | 140 (72%)                                 | 140 (73%)                                 |  |\n| 1                                                                                                     | 56 (29%)                                                            | 54 (28%)                                  | 51 (27%)                                  |  |\n| LDH concentration                                                                                     |                                                                     |                                           |                                           |  |\n| \u2265Upper limit of normal                                                                                | 55 (29%)                                                            | 47 (24%)                                  | 52 (27%)                                  |  |\n| <upper limit=\"\" normal<=\"\" of=\"\" td=\"\"><td>137 (71%)</td><td>147 (76%)</td><td>139 (73%)</td></upper> | 137 (71%)                                                           | 147 (76%)                                 | 139 (73%)                                 |  |\n| BRAF mutation status                                                                                  |                                                                     |                                           |                                           |  |\n| BRAFV600E                                                                                             | 170 (89%)                                                           | 173 (89%)*                                | 168 (88%)                                 |  |\n| BRAFV600K                                                                                             | 22 (11%)                                                            | 19 (10%)*                                 | 23 (12%)                                  |  |\n| Tumour stage at study entry                                                                           |                                                                     |                                           |                                           |  |\n| IIIB/IIIC                                                                                             | 9 (5%)                                                              | 6 (3%)                                    | 11 (6%)                                   |  |\n| IVM1a                                                                                                 | 26 (14%)                                                            | 29 (15%)                                  | 24 (13%)                                  |  |\n| IVM1b                                                                                                 | 34 (18%)                                                            | 39 (20%)                                  | 31 (16%)                                  |  |\n| IVM1c                                                                                                 | 123 (64%)                                                           | 120 (62%)                                 | 125 (65%)                                 |  |\n| Number of organs involved                                                                             |                                                                     |                                           |                                           |  |\n| 1                                                                                                     | 47 (24%)                                                            | 56 (29%)                                  | 45 (24%)                                  |  |\n| 2                                                                                                     | 58 (30%)                                                            | 52 (27%)                                  | 59 (31%)                                  |  |\n| \u22653                                                                                                    | 87 (45%)                                                            | 86 (44%)                                  | 87 (46%)                                  |  |\n| Previous immunotherapy                                                                                | 57 (30%)                                                            | 58 (30%)                                  | 57 (30%)                                  |  |\n| Ipilimumab                                                                                            | 7 (4%)                                                              | 10 (5%)                                   | 7 (4%)                                    |  |\n| Previous anti\u2013PD-1 or<br>anti-PD-L1                                                                   | 1 (1%)                                                              | 2 (1%)                                    | 0                                         |  |\n| Interferons or<br>interleukins                                                                        | 51 (27%)                                                            | 51 (26%)                                  | 52 (27%)                                  |  |\n\nData are median (range) or n (%), and include all randomised patients.\n\nECOG=Eastern Cooperative Oncology Group. LDH=lactate dehydrogenase.\n\nPD-1=programmed cell death 1. PD-L1=programmed cell death 1 ligand.\n\n\\*Two observations were indeterminate.\n\n*Table 1:* **Baseline demographics and clinical characteristics**\n\nwere to be combined to avoid small or empty strata. Comparison of the distribution of progression-free survival used a stratified log-rank test (for the purposes of this summary, two-sided p values are reported). We presented the distribution of progression-free survival using the Kaplan-Meier method. We used stratified Cox regression models to estimate the HRs for progression-free survival, along with 95% CIs based on the Wald test. Sensitivity analyses were also prespecified. Prespecified sensitivity analyses examined different censoring rules, unstratified analyses, analyses of progression-free survival based on local tumour assessments, and analyses of the per-protocol population (appendix p 7). Subgroup analyses of baseline variables and potential prognostic factors, including previous immunotherapy, were also prespecified. We confirmed the proportional hazards assumption of the Cox models graphically with plots of log(\u2212log[estimated survivor function]) versus log(time). We used the same methods for the key secondary comparison. We presented the overall response and disease control by treatment group with exact 95% CIs. Duration of response and time to response were estimated using Kaplan-Meier methodology. As part of the secondary outcome of encorafenib plus binimetinib and encorafenib safety, we summarised the time to first event using Kaplan-Meier methodology for several prespecified safety parameters. Median time to onset and 95% CIs were summarised, and we described other median values with 95% CIs or IQRs. We included nominal p values for secondary endpoints for descriptive purposes.\n\nSAS (version 9.2 or higher) was used for all analyses. This study is registered with ClinicalTrials.gov, number NCT01909453, and with EudraCT, number 2013-001176-38.\n\n# **Role of the funding source**\n\nThe study was sponsored and designed with input from the steering committee (RD, PAA, CR, and KTF) by Novartis until September, 2015, when sponsorship was transferred to Array BioPharma. Data were collected by Novartis and Array BioPharma during their respective sponsorships. Data were analysed by Array BioPharma's statistical team and interpreted by the study authors in collaboration with Array BioPharma. RD, PAA, CR, and KTF wrote the first draft of the report. Editorial support was funded by the study sponsor. RD, PAA, CR, and KTF had full access to all the data in the study, and had final responsibility for the decision to submit for publication.\n\n# **Results**\n\nBetween Dec 30, 2013, and April 10, 2015, 1345 patients were assessed, of whom 577 were enrolled and randomly assigned to a treatment group (192 to the encorafenib plus binimetinib group, 194 to the encorafenib group, and 191 to the vemurafenib group; figure 1). As of the data cutoff on May 19, 2016, treatment was ongoing in 68 (35%) of 192 patients in the encorafenib plus binimetinib group, 46 (24%) of 194 patients in the encorafenib group, and 27 (14%) of 191 patients in the vemurafenib group. Demographic and clinical characteristics, including key prognostic factors at baseline, were similar across treatment groups (table 1). Patients had extensive disease, with 368 (64%) of 577 patients overall having stage IVM1c disease and 260 (45%) having three or more organs involved. 172 (30%) patients overall had previously had immunotherapy and 26 (5%) patients had previously had checkpoint inhibitor therapy.\n\nThe date for the data cutoff was event driven on the basis of achieving the required number of progression events for both the primary (encorafenib plus binimetinib *vs* vemurafenib) and key secondary (encorafenib plus binimetinib *vs* encorafenib) comparisons. At the time of data cutoff, 98 events for the encorafenib plus binimetinib group, 96 events for the encorafenib group, and 106 events for the vemurafenib group contributed to the analysis of progression-free survival. Median follow-up was 16\u00b77 months (95% CI 16\u00b73\u201318\u00b74) for the encorafenib plus binimetinib group, 16\u00b76 months (14\u00b78\u201318\u00b71) for the encorafenib group, and 14\u00b74 months (10\u00b71\u201316\u00b76) for the vemurafenib group; median follow-up for all patients was 16\u00b76 months (14\u00b78\u201316\u00b79). The duration of progression-free survival, by summary of the observed follow-up for each patient and by reverse Kaplan-Meier analysis, is in the appendix (p 11).\n\nMedian progression-free survival assessed by blinded independent central review was longer for patients in the encorafenib plus binimetinib group (14\u00b79 months, 95% CI 11\u00b70\u201318\u00b75) than for those in the encorafenib (9\u00b76 months, 7\u00b75\u201314\u00b78) or vemurafenib (7\u00b73 months, 5\u00b76\u20138\u00b72) groups. Results of the per-protocol analyses were consistent (appendix p 12). Median progression-free survival by local review was similar: 14\u00b78 months (95% CI 10\u00b74\u201318\u00b74) for the encorafenib plus binimetinib group, 9\u00b72 months (7\u00b74\u201312\u00b79) for the encorafenib group, and 7\u00b73 months (5\u00b77\u20138\u00b75) for the vemurafenib group (appendix p 23).\n\nThe primary comparison of progression-free survival by blinded independent central review of the encorafenib plus binimetinib versus vemurafenib groups showed a significant reduction in the risk of progression or death (HR 0\u00b754, 95% CI 0\u00b741\u20130\u00b771; two-sided p<0\u00b70001; figure 2A). Progression-free survival by local review was similarly improved with encorafenib plus binimetinib versus vemurafenib (0\u00b749, 0\u00b737\u20130\u00b764; two-sided nominal p<0\u00b70001; appendix p 23). All subgroup analyses for the comparison of encorafenib plus binimetinib with vemurafenib showed point estimates in favour of the encorafenib plus binimetinib group, except for the presence of brain metastases at baseline, but this analysis included only nine patients in the encorafenib plus binimetinib group and three patients in the vemurafenib group (figure 3).\n\nThe key secondary comparison of progression-free survival by blinded independent central review showed a median of 14\u00b79 (95% CI 11\u00b70\u201318\u00b75) months in the encorafenib plus binimetinib group and 9\u00b76 (7\u00b75\u201314\u00b78) months in the encorafenib group (HR 0\u00b775, 95% CI 0\u00b756\u2013 1\u00b700; two-sided p=0\u00b7051; figure 2B). Progression-free survival by local assessment showed a larger treatment effect for the encorafenib plus binimetinib group than for the encorafenib group (0\u00b768, 95% CI 0\u00b752\u20130\u00b790; two-sided nominal p=0\u00b70064; appendix p 23). In other secondary endpoints, comparison of progression-free survival by blinded independent central review favoured the encorafenib group over the vemurafenib group (0\u00b768, 95% CI 0\u00b752\u20130\u00b790; two-sided nominal p=0\u00b70070); similar results were obtained by local assessment (appendix p 24).\n\nA confirmed overall response by blinded independent central review occurred in 121 (63%) of 192 patients in the\n\n![](_page_6_Figure_6.jpeg)\n\n*Figure 2:* **Kaplan-Meier curves of progression-free survival for encorafenib 450 mg plus binimetinib 45 mg versus vemurafenib 960 mg (A) and encorafenib 450 mg plus binimetinib 45 mg versus encorafenib 300 mg (B)**\n\nResponse was assessed by blinded independent central review. HR=hazard ratio.\n\nencorafenib plus binimetinib group compared with 98 (51%) of 194 patients in the encorafenib group and 77 (40%) of 191 patients in the vemurafenib group (table 2). The confirmed overall response by local review had a similar pattern but was higher in each group than in the central review (table 2). The median time to response by blinded independent central review in responding patients corresponded to the time of the first assessment and was 1\u00b78 months (95% CI 1\u00b78\u20131\u00b79) for the encorafenib plus binimetinib group, 1\u00b79 months (1\u00b79\u20131\u00b79) for the encorafenib group, and 1\u00b79 months (1\u00b78\u20131\u00b79) for the vemurafenib group. Median duration of confirmed objective response by blinded independent central review was 16\u00b76 months (12\u00b72\u201320\u00b74) for the encorafenib plus binimetinib group, 14\u00b79 months (11\u00b71\u2013not estimable) for the encorafenib group, and 12\u00b73 months (6\u00b79\u201316\u00b79) for the vemurafenib group.\n\nIn the encorafenib plus binimetinib group, the median duration of treatment for each component of the\n\n|                                                                       | Number of events/<br>number of patients |                                                                               | HR (95% CI)       |  |  |\n|-----------------------------------------------------------------------|-----------------------------------------|-------------------------------------------------------------------------------|-------------------|--|--|\n| Sex                                                                   |                                         |                                                                               |                   |  |  |\n| Male                                                                  | 124/226                                 |                                                                               | 0\u00b762 (0\u00b744\u20130\u00b789)  |  |  |\n| Female                                                                | 80/157                                  |                                                                               | 0\u00b750 (0\u00b732\u20130\u00b779)  |  |  |\n| Age (years)                                                           |                                         |                                                                               |                   |  |  |\n| <65                                                                   | 149/272                                 |                                                                               | 0\u00b755 (0\u00b740\u20130\u00b777)  |  |  |\n| \u226565                                                                   | 55/111                                  |                                                                               | 0\u00b766 (0\u00b739\u20131\u00b712)  |  |  |\n| Race                                                                  |                                         |                                                                               |                   |  |  |\n| Caucasian                                                             | 184/347                                 |                                                                               | 0\u00b759 (0\u00b744\u20130\u00b779)  |  |  |\n| Non-Caucasian                                                         | 20/36                                   |                                                                               | 0\u00b752 (0\u00b719\u20131\u00b743)  |  |  |\n| Region                                                                |                                         |                                                                               |                   |  |  |\n| North America                                                         | 18/34                                   |                                                                               | 0\u00b742 (0\u00b716\u20131\u00b710)  |  |  |\n| Europe                                                                | 163/309                                 |                                                                               | 0\u00b758 (0\u00b742\u20130\u00b779)  |  |  |\n| Australia                                                             | 4/11                                    |                                                                               | 0\u00b763 (0\u00b706\u20136\u00b797)  |  |  |\n| Other                                                                 | 19/29                                   |                                                                               | 0\u00b764 (0\u00b726\u20131\u00b760)  |  |  |\n| LDH concentration                                                     |                                         |                                                                               |                   |  |  |\n| <uln< td=\"\"><td>126/276</td><td></td><td>0\u00b747 (0\u00b733\u20130\u00b767)</td></uln<> | 126/276                                 |                                                                               | 0\u00b747 (0\u00b733\u20130\u00b767)  |  |  |\n| \u2265ULN                                                                  | 78/107                                  |                                                                               | 0\u00b773 (0\u00b747\u20131\u00b714)  |  |  |\n| ECOG performance status                                               |                                         |                                                                               |                   |  |  |\n| 0                                                                     | 136/279                                 |                                                                               | 0\u00b754 (0\u00b738\u20130\u00b776)  |  |  |\n| 1                                                                     | 68/104                                  |                                                                               | 0\u00b762 (0\u00b738\u20131\u00b701)  |  |  |\n| BRAF mutation status                                                  |                                         |                                                                               |                   |  |  |\n| V600E                                                                 | 181/338                                 |                                                                               | 0\u00b764 (0\u00b748\u20130\u00b785)  |  |  |\n| V600K                                                                 | 23/45                                   |                                                                               | 0\u00b727 (0\u00b711\u20130\u00b768)  |  |  |\n| Disease stage                                                         |                                         |                                                                               |                   |  |  |\n| IIIB, IIIC, IVM1a, IVM1b                                              | 79/168                                  |                                                                               | 0\u00b767 (0\u00b743\u20131\u00b704)  |  |  |\n| IVM1c                                                                 | 125/215                                 |                                                                               | 0\u00b748 (0\u00b734\u20130\u00b769)  |  |  |\n| Number of organs involved at baseline                                 |                                         |                                                                               |                   |  |  |\n| 1                                                                     | 37/92                                   |                                                                               | 0\u00b769 (0\u00b736\u20131\u00b732)  |  |  |\n| 2                                                                     | 58/117                                  |                                                                               | 0\u00b753 (0\u00b731\u20130\u00b789)  |  |  |\n| 3                                                                     | 48/87                                   |                                                                               | 0\u00b744 (0\u00b725\u20130\u00b778)  |  |  |\n| >3                                                                    | 61/87                                   |                                                                               | 0\u00b764 (0\u00b739\u20131\u00b706)  |  |  |\n| Baseline brain metastases                                             |                                         |                                                                               |                   |  |  |\n| Yes                                                                   | 6/12                                    |                                                                               | 1\u00b734 (0\u00b715\u201311\u00b778) |  |  |\n| No                                                                    | 198/371                                 |                                                                               | 0\u00b757 (0\u00b743\u20130\u00b775)  |  |  |\n| Previous first-line immunotherapy                                     |                                         |                                                                               |                   |  |  |\n| Yes                                                                   | 9/15                                    |                                                                               | 0\u00b740 (0\u00b710\u20131\u00b764)  |  |  |\n| No                                                                    | 195/368                                 |                                                                               | 0\u00b759 (0\u00b744\u20130\u00b778)  |  |  |\n| Previous adjuvant therapy                                             |                                         |                                                                               |                   |  |  |\n| Yes                                                                   | 52/97                                   |                                                                               | 0\u00b778 (0\u00b745\u20131\u00b735)  |  |  |\n| No                                                                    | 152/286                                 |                                                                               | 0\u00b751 (0\u00b737\u20130\u00b771)  |  |  |\n| All patients                                                          | 204/383                                 |                                                                               | 0\u00b754 (0\u00b741\u20130\u00b771)  |  |  |\n|                                                                       |                                         | 0\u00b7062 0\u00b7125 0\u00b7250 0\u00b7500 1\u00b700<br>2\u00b700                                          | 4\u00b700              |  |  |\n|                                                                       |                                         | Favours encorafenib plus<br>Favours<br>binimetinib group<br>vemurafenib group |                   |  |  |\n\n*Figure 3:* **Progression-free survival by prespecified subgroups according to baseline characteristics** \n\nProgression-free survival assessed by blinded independent central review. Comparisons are between the encorafenib 450 mg plus binimetinib 45 mg group and the vemurafenib 960 mg group. Other subgroup analyses (excluded from this figure because of the small number [fewer than ten patients] included within one of the two subgroup categories) are in the appendix (p 9). ECOG=Eastern Cooperative Oncology Group. HR=hazard ratio. LDH=lactate dehydrogenase. ULN=upper limit of normal.\n\n> combination was 51\u00b72 weeks (IQR 27\u00b71\u201379\u00b77) for encorafenib and 50\u00b76 weeks (26\u00b71\u201379\u00b77) for binimetinib. Median duration of treatment was 31\u00b74 weeks (16\u00b76\u201369\u00b71) in the encorafenib group and 27\u00b71 weeks (15\u00b71\u201348\u00b73) in the vemurafenib group. The median dose intensities in the encorafenib plus binimetinib group were\n\n100% (IQR 93\u2013100) of planned doses for encorafenib and 99\u00b76% (80\u2013100) of planned doses for binimetinib. Median dose intensity was 86% (55\u2013100) of the planned dose for encorafenib and 94% (74\u2013100) for vemurafenib. The distribution of dose intensity for each treatment group is shown in the appendix (p 25). Most of the 192 patients in the encorafenib plus binimetinib group were able to achieve a dose intensity of 80\u2013100% (152 [79%] for encorafenib and 144 [75%] for binimetinib), and few patients receiving the combination were given less than 50% dose intensity (five [3%] for encorafenib and 11 [6%] for binimetinib). By contrast, 98 (51%) of 192 patients in the encorafenib group and 116 (62%) of 186 patients in the vemurafenib group achieved a dose intensity of 80\u2013100%, and 42 (22%) in the encorafenib group and 13 (7%) in the vemurafenib group achieved a dose intensity of less than 50% (appendix p 25).\n\n192 patients were assessable for safety in both the encorafenib plus binimetinib and encorafenib groups, and 186 patients in the vemurafenib group. Grade 1 or 2 adverse events occurring in at least 10% of patients and grade 3 or 4 adverse events occurring in at least 2% of patients in any treatment group are summarised in table 3 (the appendix [p 13] lists all grade 3\u20134 adverse events in the treatment groups; as per the study protocol, deaths were not graded and therefore were not included in table 3). Common adverse events reported more frequently in the encorafenib plus binimetinib group than in the encorafenib or vemurafenib groups (with a difference in proportion of patients of 10% or higher) were gastrointestinal toxic effects (diarrhoea, constipation, vomiting, and abdominal pain), predominantly asymptomatic increases in creatine phosphokinase, and blurred vision. Common adverse events reported at a lower frequency (with a difference in proportion of patients of 10% or higher) in the encorafenib plus binimetinib group than in the encorafenib or vemurafenib groups were toxic effects to the skin (eg, pruritus, hyperkeratosis, rash, keratosis pilaris, palmoplantar keratoderma, palmoplantar erythrodysaesthesia syndrome, dry skin, skin papilloma, macropapular rash, and sunburn), alopecia, photosensitivity reaction, arthralgia, myalgia, pain in the extremities, decreased appetite, musculoskeletal pain, and decreased weight.\n\nGrade 3\u20134 adverse events were reported in fewer patients in the encorafenib plus binimetinib group (111 [58%] of 192) than in either the encorafenib (127 [66%] of 192) or vemurafenib (118 [63%] of 186) groups. The most common grade 3\u20134 adverse events seen in more than 5% of patients were increased \u03b3-glutamyltransferase (18 [9%] of 192 patients), increased creatine phosphokinase (13 [7%]), and hypertension (11 [6%]) in the encorafenib plus binimetinib group; palmoplantar erythrodysaesthesia syndrome (26 [14%] of 192 patients), myalgia (19 [10%]), and arthralgia (18 [9%]) in the encorafenib group; and arthralgia (11 [6%] of 186 patients) in the vemurafenib group. The median time to first grade 3 or 4 toxic effect in all patients who could be evaluated for safety was longer\n\n|                       | Encorafenib 450 mg plus<br>binimetinib 45 mg group (n=192) |                  | Encorafenib 300 mg group (n=194) |                  | Vemurafenib 960 mg group (n=191) |                  |  |\n|-----------------------|------------------------------------------------------------|------------------|----------------------------------|------------------|----------------------------------|------------------|--|\n|                       | Central review                                             | Local review     | Central review                   | Local review     | Central review                   | Local review     |  |\n| Best overall response |                                                            |                  |                                  |                  |                                  |                  |  |\n| Complete response     | 15 (8%)                                                    | 31 (16%)         | 10 (5%)                          | 17 (9%)          | 11 (6%)                          | 14 (7%)          |  |\n| Partial response      | 106 (55%)                                                  | 113 (59%)        | 88 (45%)                         | 95 (49%)         | 66 (35%)                         | 80 (42%)         |  |\n| Stable disease*       | 56 (29%)                                                   | 35 (18%)         | 65 (34%)                         | 56 (29%)         | 79 (41%)                         | 66 (35%)         |  |\n| Progressive disease\u2020  | 15 (8%)                                                    | 13 (7%)          | 31 (16%)                         | 26 (13%)         | 35 (18%)                         | 31 (16%)         |  |\n| Overall response\u2021     | 121 (63%; 56\u201370)                                           | 144 (75%; 68\u201381) | 98 (51%; 43\u201358)                  | 112 (58%; 50\u201365) | 77 (40%; 33\u201348)                  | 94 (49%; 42\u201357)  |  |\n| Disease control\u00a7      | 177 (92%; 87\u201396)                                           | 179 (93%; 89\u201396) | 163 (84%; 78\u201389)                 | 168 (87%; 81\u201391) | 156 (82%; 75\u201387)                 | 160 (84%; 78\u201389) |  |\n\nData are n (%) or n (%; 95% CI) in the efficacy population. \\*Includes patients with non-measurable disease and a status of non-complete response or non-progressive disease. \u2020Includes patients with best response of unknown or no assessment. \u2021Overall response was defined as complete response plus partial response. \u00a7Disease control defined as the proportion of patients with a best overall response of complete response, partial response, stable disease, or non-complete response or non-progressive disease.\n\n*Table 2:* **Best overall confirmed response by treatment group**\n\nwithin the encorafenib plus binimetinib group than within the encorafenib or vemurafenib groups (appendix p 26). Similarly, fewer adverse events leading to treatment discontinuation occurred in patients in the encorafenib plus binimetinib group than in patients in the encorafenib or vemurafenib groups (appendix p 20). Time to discontinuation of treatment due to an adverse event was longer with encorafenib plus binimetinib than with encorafenib or vemurafenib (appendix p 26). Adverse events leading to discontinuation that were suspected to be related to study treatment occurred in 12 (6%) patients given encorafenib plus binimetinib, 19 (10%) given encorafenib, and 26 (14%) given vemurafenib (data not shown). The most frequent of these suspected treatmentrelated adverse events in each group were increased alanine aminotransferase and aspartate aminotransferase (co-occurring in the same four [2%] patients) in the encorafenib plus binimetinib group, palmoplantar erythrodysaesthesia syndrome (five [3%] patients) in the encorafenib group, and increased \u03b3-glutamyltransferase, arthralgia, and photosensitivity reacti  # Increased text length for comprehensive extraction\n\nReturn JSON only:",
+    "validation_data": {
+      "can_process": true,
+      "nct_number": "NCT01909453",
+      "treatment_arms_count": 5,
+      "errors": [],
+      "warnings": []
+    },
+    "extraction_ready": true,
+    "source": "marker_enhanced",
+    "markdown_length": 95466,
+    "extraction_timestamp": "2025-07-23T12:36:20.565138"
+  },
+  "quality_assessment": {
+    "markdown_quality": 100.0,
+    "clinical_keywords_found": 13,
+    "table_structures": 1002,
+    "section_headers": 59,
+    "nct_numbers": 6,
+    "extraction_fields_filled": 6,
+    "processing_success": true
+  },
+  "success": true,
+  "processing_time": 1753254380.572012,
+  "use_llm": false
+}

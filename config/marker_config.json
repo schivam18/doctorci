@@ -1,0 +1,43 @@
+{
+  "marker_integration": {
+    "enabled": true,
+    "marker_path": null,
+    "use_llm": true,
+    "force_ocr": false,
+    "debug": false,
+    "max_workers": 4,
+    "timeout_seconds": 300,
+    "output_formats": [
+      "markdown",
+      "json"
+    ],
+    "quality_threshold": 70
+  },
+  "llm_enhancement": {
+    "enabled": true,
+    "api_key_env": "GOOGLE_API_KEY",
+    "model": "gemini-2.0-flash",
+    "max_tokens": 8000,
+    "temperature": 0.1,
+    "timeout": 60,
+    "max_retries": 3
+  },
+  "performance": {
+    "batch_size": 10,
+    "parallel_processing": true,
+    "memory_limit_gb": 8,
+    "gpu_acceleration": true
+  },
+  "output": {
+    "preserve_markdown": true,
+    "preserve_json": true,
+    "cleanup_temp_files": true,
+    "compression": false
+  },
+  "clinical_trial_specific": {
+    "table_extraction_priority": true,
+    "adverse_events_focus": true,
+    "efficacy_data_enhancement": true,
+    "safety_data_enhancement": true
+  }
+}

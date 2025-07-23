@@ -1,0 +1,118 @@
+# Clinical Trial Data Extraction System - Cursor Rules
+
+## 🎯 PROJECT OVERVIEW
+You are working on a clinical trial data extraction system that processes PDFs of medical research papers to extract structured data using OpenAI GPT models. This is a production system for pharmaceutical/medical research analysis.
+
+## 🚨 CRITICAL CONSTRAINTS - NEVER VIOLATE
+
+### Data Integrity Rules
+- Output CSVs contain ONLY keywords fields - no metadata, file paths, or original text
+- All extracted values must follow strict format rules (YES/NO, numbers only, etc.)
+
+### File Organization Rules  
+- Core logic in src/ directory with clear separation of concerns
+- All outputs go to output/ directory with standardized naming
+- Keywords structure defined in data/keywords_structure_full_pub.json
+- QC fields limited to 11 critical fields defined in QC_KEYWORDS
+
+### Processing Rules
+- Use multi-stage extraction approach (critical → yes/no → efficacy → safety)
+- Always log performance and token usage for cost tracking
+- Handle PDF processing failures gracefully with comprehensive logging
+- Support both abstract and full_pub modes via PROCESS_MODE environment variable
+
+## 📁 ARCHITECTURE PATTERNS
+
+### Module Responsibilities
+- `openai_client.py`: GPT API calls, token counting, cost tracking, multi-stage extraction
+- `prompts.py`: All LLM prompts and field-type-specific prompt generation  
+- `pdf_processor.py`: PDF text extraction and section parsing
+- `excel_generator.py`: Output file generation with QC color coding
+- `qc_*.py`: Quality control extraction and validation
+- `main.py`: Orchestration and batch processing
+
+### Data Flow
+PDF → Text Extraction → Multi-Stage LLM Processing → QC Validation → Excel/CSV Output
+
+## 💻 CODING STANDARDS
+
+### Python Style
+- Use type hints for all function parameters and returns
+- Comprehensive error handling with structured logging
+- Follow existing logging patterns using logger_config.py
+- Use descriptive variable names reflecting medical domain (e.g., `nct_number`, `orr_value`)
+
+### Error Handling
+- Log all failures with context for debugging
+- Continue processing other PDFs if one fails
+- Always provide fallback values ("Not mentioned" for missing fields)
+- Track and report success/failure statistics
+
+### Performance
+- Monitor token usage and API costs
+- Use batch processing with configurable batch sizes
+- Implement retry logic for API failures
+- Cache processed results to avoid reprocessing
+
+## 🏥 DOMAIN-SPECIFIC RULES
+
+### Clinical Trial Terminology
+- NCT Number: Format as "NCT########" (8 digits)
+- Drug combinations: Use "Drug A + Drug B" format  
+- Cancer staging: Only Stage I, I/II, II, II/III, III, III/IV, IV
+- Response rates: Extract numbers only (remove % signs)
+- P-values and hazard ratios: Preserve decimal precision
+
+### Field Format Requirements
+- YES/NO fields: Only "YES" or "NO" - no other values
+- Percentage fields: Extract number only (45% → "45")
+- Numeric fields: Numbers only, no units or text
+- Missing data: Use "Not mentioned" consistently
+
+## 🔧 DEVELOPMENT PATTERNS
+
+### When Adding New Features
+- Update keywords_structure_full_pub.json for new fields
+- Add field-type-specific prompts in prompts.py
+- Update multi-stage extraction in openai_client.py
+- Add corresponding QC fields if critical
+- Update tests and documentation
+
+### When Debugging Extraction Issues
+- Check logs/clinical_trial_extraction_*.log for detailed traces
+- Examine output/compared_data.csv for QC validation results
+- Use test_multi_stage.py for isolated testing
+- Verify prompt formatting and JSON parsing
+
+### File Naming Conventions
+- Use descriptive names reflecting function (e.g., `extract_text_from_full_pdf`)
+- Follow snake_case for Python files and functions
+- Use clear prefixes: `qc_` for quality control, `full_pub_` for full publication processing
+
+## 🚫 NEVER DO
+
+- Don't include metadata fields in main output CSVs  
+- Don't process NCCN guideline PDFs as clinical trial data
+- Don't exceed GPT token limits - use multi-stage approach
+- Don't hardcode file paths - use relative paths and os.path.join()
+- Don't ignore logging - every major operation should be logged
+
+## 📊 TESTING APPROACH
+
+- Test extraction on single PDFs using test_multi_stage.py before batch processing
+- Verify output format matches expected CSV structure
+- Check QC validation results for accuracy assessment
+- Monitor token usage and costs during development
+
+## 🔄 WORKFLOW COMMANDS
+
+```bash
+# Clear previous data
+python clear_data.py
+
+# Test single PDF
+python test_multi_stage.py resources/15.pdf
+
+# Run full extraction
+$env:PROCESS_MODE="full_pub"; python main.py
+``` 

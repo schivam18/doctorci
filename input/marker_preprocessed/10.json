@@ -1,0 +1,1046 @@
+{
+  "pdf_path": "resources/10.pdf",
+  "pdf_name": "10",
+  "marker_processing": {
+    "pdf_path": "resources/10.pdf",
+    "pdf_name": "10",
+    "markdown_path": "/var/folders/k8/d1yv1yjs12d97mqvcvxgjnhm0000gn/T/tmpk0_dts1v/10/10.md",
+    "json_path": "/var/folders/k8/d1yv1yjs12d97mqvcvxgjnhm0000gn/T/tmpk0_dts1v/10/10_meta.json",
+    "success": true,
+    "markdown_content": "# original article\n\n# Nivolumab in Previously Untreated Melanoma without *BRAF* Mutation\n\nCaroline Robert, M.D., Ph.D., Georgina V. Long, M.D., Ph.D., Benjamin Brady, M.D., Caroline Dutriaux, M.D., Michele Maio, M.D., Laurent Mortier, M.D., Jessica C. Hassel, M.D., Piotr Rutkowski, M.D., Ph.D., Catriona McNeil, M.D., Ph.D., Ewa Kalinka-Warzocha, M.D., Ph.D., Kerry J. Savage, M.D., Micaela M. Hernberg, M.D., Ph.D., Celeste Lebb\u00e9, M.D., Ph.D., Julie Charles, M.D., Ph.D., Catalin Mihalcioiu, M.D., Vanna Chiarion-Sileni, M.D., Cornelia Mauch, M.D., Ph.D., Francesco Cognetti, M.D., Ana Arance, M.D., Ph.D., Henrik Schmidt, M.D., D.M.Sc., Dirk Schadendorf, M.D., Helen Gogas, M.D., Lotta Lundgren-Eriksson, M.D., Christine Horak, Ph.D., Brian Sharkey, Ph.D., Ian M. Waxman, M.D., Victoria Atkinson, M.D., and Paolo A. Ascierto, M.D.\n\n## ABSTRACT\n\n#### **BACKGROUND**\n\nNivolumab was associated with higher rates of objective response than chemotherapy in a phase 3 study involving patients with ipilimumab-refractory metastatic melanoma. The use of nivolumab in previously untreated patients with advanced melanoma has not been tested in a phase 3 controlled study.\n\n#### **METHODS**\n\nWe randomly assigned 418 previously untreated patients who had metastatic melanoma without a *BRAF* mutation to receive nivolumab (at a dose of 3 mg per kilogram of body weight every 2 weeks and dacarbazine-matched placebo every 3 weeks) or dacarbazine (at a dose of 1000 mg per square meter of body-surface area every 3 weeks and nivolumab-matched placebo every 2 weeks). The primary end point was overall survival.\n\n#### **RESULTS**\n\nAt 1 year, the overall rate of survival was 72.9% (95% confidence interval [CI], 65.5 to 78.9) in the nivolumab group, as compared with 42.1% (95% CI, 33.0 to 50.9) in the dacarbazine group (hazard ratio for death, 0.42; 99.79% CI, 0.25 to 0.73; P<0.001). The median progression-free survival was 5.1 months in the nivolumab group versus 2.2 months in the dacarbazine group (hazard ratio for death or progression of disease, 0.43; 95% CI, 0.34 to 0.56; P<0.001). The objective response rate was 40.0% (95% CI, 33.3 to 47.0) in the nivolumab group versus 13.9% (95% CI, 9.5 to 19.4) in the dacarbazine group (odds ratio, 4.06; P<0.001). The survival benefit with nivolumab versus dacarbazine was observed across prespecified subgroups, including subgroups defined by status regarding the programmed death ligand 1 (PD-L1). Common adverse events associated with nivolumab included fatigue, pruritus, and nausea. Drugrelated adverse events of grade 3 or 4 occurred in 11.7% of the patients treated with nivolumab and 17.6% of those treated with dacarbazine.\n\n#### **CONCLUSIONS**\n\nNivolumab was associated with significant improvements in overall survival and progression-free survival, as compared with dacarbazine, among previously untreated patients who had metastatic melanoma without a *BRAF* mutation. (Funded by Bristol-Myers Squibb; CheckMate 066 ClinicalTrials.gov number, NCT01721772.)\n\nThe authors' affiliations are listed in the Appendix. Address reprint requests to Dr. Robert at Dermatology Service, INSERM Unit\u00e9 981, Gustave Roussy, Villejuif\u2013Paris Sud, France, or at caroline.robert@ gustaveroussy.fr.\n\nDrs. Atkinson and Ascierto contributed equally to this article.\n\nThis article was published on November 16, 2014, at NEJM.org.\n\n**N Engl J Med 2015;372:320-30. DOI: 10.1056/NEJMoa1412082** *Copyright \u00a9 2014 Massachusetts Medical Society.*\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\nThe global incidence of melanoma continues to rise, and the mortality associated with unresectable or metastatic melanoma remains high.1 Globally, 132,000 new cases of melanoma are diagnosed and an estimated 48,000 persons die from advanced melanoma each year.2,3 Ipilimumab has been shown to improve the rate of survival at 2 years, as compared with a vaccine control, among previously treated patients with metastatic melanoma as well as among previously untreated patients who also received dacarbazine.4,5 BRAF and MEK inhibitors are approved agents that, as monotherapy, have been associated with a survival advantage as compared with chemotherapy, with a median overall survival of 13 to 20 months.6-8 Although the objective response rate is high with these agents (45 to 53%), the median duration of response is less than 1 year.6-10\n\nRecently, a combination of anti-BRAF and anti-MEK agents has been associated with a higher response rate and longer duration of response, as compared with anti-BRAF monotherapies.11,12 However, the use of these targeted agents, as monotherapy or in combination, is limited to the approximately 40% of patients who have melanoma with a *BRAF* V600 mutation. Dacarbazine is associated with a median overall survival of 5.6 to 7.8 months and remained until recently a commonly used therapy in patients with previously untreated melanoma without a *BRAF* mutation.5,13 Despite new treatment options, there remains a substantial unmet need for treatments that extend survival and provide a better quality of life.\n\nNivolumab is a fully human IgG4 programmed death 1 (PD-1) immune-checkpoint\u2013 inhibitor antibody that selectively blocks the interaction of the PD-1 receptor with its two known programmed death ligands, PD-L1 and PD-L2, disrupting the negative signal that regulates T-cell activation and proliferation.14 In a phase 1 study, nivolumab was associated with promising antitumor activity and a favorable safety profile in patients with solid tumors, including advanced melanoma.15,16 In an open-label, randomized, phase 3 study involving patients with ipilimumab-refractory melanoma, nivolumab was associated with a higher rate of objective response than chemotherapy (32% vs. 11%).17 Recently, another anti\u2013PD-1 antibody, pembrolizumab, has shown robust clinical activity and has been approved in the United States on the basis of an objective response rate of 24% among patients with advanced melanoma that progressed after ipilimumab, as well as treatment with a BRAF inhibitor if the patient had a *BRAF* V600 mutation.18 Here, we report the results of a phase 3, randomized, double-blind study conducted to determine whether nivolumab, as compared with dacarbazine, improves overall survival among previously untreated patients who have advanced melanoma without a *BRAF* mutation.\n\n## METHODS\n\n### **PATIENTS**\n\nEligible patients had confirmed, unresectable, previously untreated stage III or IV melanoma without a *BRAF* mutation. Other eligibility criteria included an age of 18 years or more, an Eastern Cooperative Oncology Group (ECOG) performance-status score of 0 or 1 (on a scale of 0 to 5, with 0 indicating no symptoms and 1 indicating mild symptoms), and the availability of tumor tissue from a metastatic or unresectable site for PD-L1 biomarker analysis. Key exclusion criteria were active brain metastases, uveal melanoma, and a history of serious autoimmune disease. Patients who had received adjuvant therapy previously were not excluded.\n\n#### **STUDY DESIGN AND TREATMENT**\n\nPatients were randomly assigned in a 1:1 ratio to receive by means of intravenous infusion either 3 mg of nivolumab per kilogram of body weight every 2 weeks, plus a dacarbazine-matched placebo every 3 weeks, or 1000 mg of dacarbazine per square meter of body-surface area every 3 weeks, plus a nivolumab-matched placebo every 2 weeks. Randomization was stratified according to tumor PD-L1 status (positive vs. negative or indeterminate) and metastasis stage (M0, M1a, or M1b vs. M1c, defined according to the tumor\u2013node\u2013metastasis system of the American Joint Committee on Cancer and the International Union against Cancer). Treatment continued until there was disease progression, as assessed by the investigator, or an unacceptable level of toxic effects. Treatment after disease progression was permitted for patients who had a clinical benefit and did not have substantial adverse effects with the study drug, as determined by the investigator (Fig. S1 in the Supplementary\n\nn engl j med 372;4 nejm.org january 22, 2015 321\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\nAppendix, available with the full text of this article at NEJM.org).\n\nThe primary end point was overall survival. Secondary end points included investigator-assessed progression-free survival, objective response rate, and PD-L1 expression in the tumor as a predictive biomarker of overall survival.\n\n## **ASSESSMENT**\n\nTumor response was assessed according to the Response Evaluation Criteria in Solid Tumors (RECIST), version 1.1,19 at 9 weeks after randomization, every 6 weeks thereafter for the first year, and then every 12 weeks until disease progression or treatment discontinuation. Assessments for survival were performed every 3 months. Safety evaluations were performed for patients who received at least one dose of the study treatment, and the severity of adverse events was graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events, version 4.0.<sup>20</sup>\n\n#### **STUDY OVERSIGHT**\n\nThe study protocol, available at NEJM.org with the most recent version of the statistical analysis plan, was approved by the institutional review board at each participating center. The study was conducted in accordance with the Declaration of Helsinki and the International Conference on Harmonisation Guidelines for Good Clinical Practice. All the patients provided written informed consent to participate in the study. Data were collected by the sponsor, Bristol-Myers Squibb, and analyzed in collaboration with the academic authors. All the authors vouch for the accuracy and completeness of the data and analyses reported and for the fidelity of the study to the protocol. The first draft of the manuscript was written by the first and last authors, with all the authors contributing to subsequent drafts. Medical-writing support, funded by the sponsor, was provided by StemScientific.\n\nA data and safety monitoring committee was established to provide oversight of safety and efficacy considerations. On June 10, 2014, the monitoring committee reviewed an expedited report after noting a potential difference in overall survival during an earlier safety review. Data from the abbreviated report, which was based on an unplanned interim database lock, showed a significant difference in overall survival in favor of nivolumab. As a result, the monitoring committee recommended that the study be unblinded and amended to allow patients enrolled in the dacarbazine group to receive nivolumab. Reported here are the results from the double-blind portion of the study before the amendment (clinical data cutoff on June 24, 2014).\n\n### **PD-L1 ASSESSMENT**\n\nBefore randomization, the expression of PD-L1 on the surface of the tumor cells was assessed in a central laboratory with the use of an automated immunohistochemical assay (collaboratively developed by Bristol-Myers Squibb and Dako), as described previously.21 PD-L1 positivity was defined as at least 5% of tumor cells showing cell-surface PD-L1 staining of any intensity in a section containing at least 100 tumor cells that could be evaluated. Indeterminate status was attributed to samples for which tumor cell\u2013surface expression could not be discerned because of melanin content or strong cytoplasmic staining. PD-L1 status was prospectively determined, and the results were used to stratify randomization, which was performed by means of a fully automated interactive voiceresponse system. Statistical analyses were prespecified to assess the predictive value of PD-L1 expression.\n\n#### **STATISTICAL ANALYSIS**\n\nA sample of approximately 410 patients, randomly assigned in a 1:1 ratio to the two treatment groups, was planned. Overall survival and progression-free survival were compared between the two treatment groups with the use of a twosided log-rank test stratified according to PD-L1 status (positive vs. negative or indeterminate) and metastasis stage (M0, M1a, or M1b vs. M1c). The hazard ratios for the nivolumab group, as compared with the dacarbazine group, and corresponding confidence intervals were estimated with the use of a stratified Cox proportionalhazards model. Survival curves for each treatment group were estimated with the use of the Kaplan\u2013Meier product-limit method. Rates at fixed time points were derived from the Kaplan\u2013Meier estimate, along with their corresponding log-log\u2013transformed 95% confidence interval.\n\nThe objective response rate was compared between the two treatment groups with the use of a two-sided Cochran\u2013Mantel\u2013Haenszel test. The efficacy analyses were performed in the\n\nDownloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\npopulation of patients who underwent randomization (the intention-to-treat population). The safety analyses were performed in the population of patients who received at least one dose of a study drug. At the time of data analysis, 146 patients had died. The boundary for statistical significance, which was based on the Lan\u2013 DeMets alpha-spending function with O'Brien and Fleming\u2013type boundaries, required the logrank P value to be less than 0.0021, corresponding to a 99.79% confidence interval.\n\n## RESULTS\n\n### **PATIENTS AND TREATMENT**\n\nFrom January 2013 through February 2014, a total of 518 patients were enrolled at 80 centers in Europe, Israel, Australia, Canada, and South America. A total of 418 patients underwent randomization: 210 patients were assigned to the nivolumab group and 208 to the dacarbazine group (Fig. S1 in the Supplementary Appendix). One patient randomly assigned to the nivolumab group and 3 randomly assigned to the dacarbazine group were inadvertently enrolled in the study, despite having an ECOG performance-status score of 2; 1 additional patient in the nivolumab group did not report an ECOG performancestatus score. Baseline characteristics were balanced between the two groups. A total of 61.0% of patients had stage M1c disease, 36.6% had an elevated lactate dehydrogenase level, and 35.4% had a positive PD-L1 status (Table 1).\n\nAt the time of the database lock, 95 of 206 patients (46.1%) treated with nivolumab and 13 of 205 (6.3%) treated with dacarbazine were continuing the study treatment. The most frequent reason for discontinuation was disease progression, in 96 of 206 patients (46.6%) in the nivolumab group and 175 of 205 (85.4%) in the dacarbazine group (Table S1 in the Supplementary Appendix). After the discontinuation of study treatment, 63 of 210 patients (30.0%) in the nivolumab group and 114 of 208 (54.8%) in the dacarbazine group received systemic therapy, most commonly ipilimumab (in 45 of 63 patients and 79 of 114, respectively) (Table S2 in the Supplementary Appendix). All the patients who underwent randomization were followed for up to 16.7 months at the time of database lock on August 5, 2014, which was 5.2 months after the first visit of the last patient who had undergone randomization.\n\n#### **EFFICACY**\n\nThe median overall survival was not reached in the nivolumab group and was 10.8 months (95% confidence interval [CI], 9.3 to 12.1) in the dacarbazine group. The overall survival rate at 1 year was 72.9% (95% CI, 65.5 to 78.9) in the nivolumab group and 42.1% (95% CI, 33.0 to 50.9) in the dacarbazine group. A significant benefit with respect to overall survival was observed in the nivolumab group, as compared with the dacarbazine group (hazard ratio for death, 0.42; 99.79% CI, 0.25 to 0.73; P<0.001) (Fig. 1A).\n\nThe median progression-free survival was 5.1 months (95% CI, 3.5 to 10.8) in the nivolumab group and 2.2 months (95% CI, 2.1 to 2.4) in the dacarbazine group (Fig. 1B). A significant benefit with respect to progression-free survival was observed in the nivolumab group, as compared with the dacarbazine group (hazard ratio for death or progression of disease, 0.43; 95% CI, 0.34 to 0.56; P<0.001).\n\nThe objective response rate in the nivolumab group was 40.0% (95% CI, 33.3 to 47.0), which was significantly higher than the rate in the dacarbazine group, which was 13.9% (95% CI, 9.5 to 19.4) (odds ratio, 4.06; P<0.001). The percentage of patients with a complete response was higher with nivolumab than with dacarbazine (7.6% vs. 1.0%) (Fig. 2 and Table 2). Among patients who had a response, the median duration of response was not reached in the nivolumab group and was 6.0 months in the dacarbazine group (95% CI, 3.0 to not reached) (Fig. 2C).\n\nIn the nivolumab group, a reduction of 30% or more in the tumor burden in the target lesion, representing an unconventional response pattern sometimes seen with immunotherapies, was achieved or maintained in 17 of 54 patients who were treated beyond progression (8.1% of patients randomly assigned to nivolumab) (Fig. S4A in the Supplementary Appendix). In the dacarbazine group, this unconventional response was achieved or maintained in 8 of the 49 patients who were treated beyond progression (3.8% of patients randomly assigned to dacarbazine) (Fig. S4B in the Supplementary Appendix).\n\n### **SUBGROUP ANALYSES**\n\nRegardless of PD-L1 status, nivolumab-treated patients had improved overall survival, as compared with dacarbazine-treated patients (unadjusted hazard ratio for death among patients with positive PD-L1 status, 0.30 [95% CI, 0.15 to\n\nn engl j med 372;4 nejm.org january 22, 2015 323\n\n| Table 1. Baseline Characteristics of the Patients.* |                      |                        |                  |  |  |\n|-----------------------------------------------------|----------------------|------------------------|------------------|--|--|\n| Characteristic                                      | Nivolumab<br>(N=210) | Dacarbazine<br>(N=208) | Total<br>(N=418) |  |  |\n| Age \u2014 yr                                            |                      |                        |                  |  |  |\n| Median                                              | 64                   | 66                     | 65               |  |  |\n| Range                                               | 18\u201386                | 26\u201387                  | 18\u201387            |  |  |\n| Sex \u2014 no. (%)                                       |                      |                        |                  |  |  |\n| Male                                                | 121 (57.6)           | 125 (60.1)             | 246 (58.9)       |  |  |\n| Female                                              | 89 (42.4)            | 83 (39.9)              | 172 (41.1)       |  |  |\n| Geographic region \u2014 no. (%)                         |                      |                        |                  |  |  |\n| Europe or Canada                                    | 145 (69.0)           | 145 (69.7)             | 290 (69.4)       |  |  |\n| Israel, Australia, or South America                 | 65 (31.0)            | 63 (30.3)              | 128 (30.6)       |  |  |\n| ECOG performance-status score \u2014<br>no. (%)\u2020         |                      |                        |                  |  |  |\n| 0                                                   | 148 (70.5)           | 121 (58.2)             | 269 (64.4)       |  |  |\n| 1                                                   | 60 (28.6)            | 84 (40.4)              | 144 (34.4)       |  |  |\n| 2                                                   | 1 (0.5)              | 3 (1.4)                | 4 (1.0)          |  |  |\n| Metastasis stage \u2014 no. (%)\u2021                         |                      |                        |                  |  |  |\n| M1c                                                 | 128 (61.0)           | 127 (61.1)             | 255 (61.0)       |  |  |\n| M0, M1a, or M1b                                     | 82 (39.0)            | 81 (38.9)              | 163 (39.0)       |  |  |\n| Lactate dehydrogenase \u2014 no. (%)                     |                      |                        |                  |  |  |\n| \u2264ULN                                                | 120 (57.1)           | 125 (60.1)             | 245 (58.6)       |  |  |\n| >ULN                                                | 79 (37.6)            | 74 (35.6)              | 153 (36.6)       |  |  |\n| \u22642\u00d7 ULN                                             | 178 (84.8)           | 177 (85.1)             | 355 (84.9)       |  |  |\n| >2\u00d7 ULN                                             | 21 (10.0)            | 22 (10.6)              | 43 (10.3)        |  |  |\n| Not reported                                        | 11 (5.2)             | 9 (4.3)                | 20 (4.8)         |  |  |\n| History of brain metastases \u2014 no. (%)               |                      |                        |                  |  |  |\n| Yes                                                 | 7 (3.3)              | 8 (3.8)                | 15 (3.6)         |  |  |\n| No                                                  | 203 (96.7)           | 200 (96.2)             | 403 (96.4)       |  |  |\n| PD-L1 status \u2014 no. (%)\u00a7                             |                      |                        |                  |  |  |\n| Positive                                            | 74 (35.2)            | 74 (35.6)              | 148 (35.4)       |  |  |\n| Negative or indeterminate                           | 136 (64.8)           | 134 (64.4)             | 270 (64.6)       |  |  |\n| BRAF status \u2014 no. (%)                               |                      |                        |                  |  |  |\n| Mutation                                            | 0                    | 0                      | 0                |  |  |\n| No mutation                                         | 202 (96.2)           | 204 (98.1)             | 406 (97.1)       |  |  |\n| Not reported                                        | 8 (3.8)              | 4 (1.9)                | 12 (2.9)         |  |  |\n| Prior systemic therapy \u2014 no. (%)                    |                      |                        |                  |  |  |\n| Adjuvant therapy                                    | 32 (15.2)            | 36 (17.3)              | 68 (16.3)        |  |  |\n| Neoadjuvant therapy                                 | 1 (0.5)              | 1 (0.5)                | 2 (0.5)          |  |  |\n\n\\* There were no significant between-group differences in the baseline characteristics. ULN denotes upper limit of the normal range.\n\n\u2020 An Eastern Cooperative Oncology Group (ECOG) performance-status score of 0 indicates no symptoms, 1 mild symptoms, and 2 moderate symptoms, with the patient being ambulatory and capable of all self-care but unable to carry out any work activities. One patient randomly assigned to the nivolumab group and three randomly assigned to the dacarbazine group were inadvertently enrolled in the study, despite having an ECOG performance-status score of 2. One additional patient in the nivolumab group underwent randomization in error without having an ECOG performance-status report.\n\n\u2021 The metastasis stage was defined according to the tumor\u2013node\u2013metastasis system of the American Joint Committee on Cancer and the International Union against Cancer.\n\n\u00a7 A positive status for programmed death ligand 1 (PD-L1) was defined as at least 5% of the tumor cells having cell-surface PD-L1 staining of any intensity in a section containing at least 100 tumor cells that could be evaluated. Indeterminate status was attributed to samples for which tumor cell-surface expression could not be discerned because of melanin content or strong cytoplasmic staining.\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\n0.60]; unadjusted hazard ratio for death among those with PD-L1 negative or indeterminate PD-L1 status, 0.48 [95% CI, 0.32 to 0.71]) (Fig. S2 in the Supplementary Appendix). In the nivolumab group, the median overall survival was not reached in either PD-L1 subgroup. In the dacarbazine group, the median overall survival was slightly longer in the subgroup with positive PD-L1 status than in the subgroup with negative or indeterminate PD-L1 status (12.4 vs. 10.2 months) (Fig. S3 in the Supplementary Appendix).\n\nIn the two PD-L1 subgroups, nivolumabtreated patients had improved rates of objective response, as compared with dacarbazine-treated patients. In the subgroup with positive PD-L1 status, the objective response rate was 52.7% (95% CI, 40.8 to 64.3) in the nivolumab group versus 10.8% (95% CI, 4.8 to 20.2) in the dacarbazine group. In the subgroup with negative or indeterminate PD-L1 status, the objective response rate was 33.1% (95% CI, 25.2 to 41.7) in the nivolumab group versus 15.7% (95% CI, 10.0 to 23.0) in the dacarbazine group. The survival benefit with nivolumab versus dacarbazine was also observed across prespecified subgroups based on age, sex, metastasis stage, ECOG performance-status score, status with respect to a history of brain metastases, baseline lactate dehydrogenase level, and geographic region (Fig. S2 in the Supplementary Appendix).\n\n#### **ADVERSE EVENTS**\n\nThe incidence of treatment-related adverse events of any grade was similar in the nivolumab group and the dacarbazine group (74.3% and 75.6%, respectively). However, treatment-related adverse events of grade 3 or 4 were reported less frequently in the nivolumab group than in the dacarbazine group (11.7% vs. 17.6%) (Table 3, and Table S3 in the Supplementary Appendix). The most common adverse events related to nivolumab treatment were fatigue (in 19.9% of patients), pruritus (in 17.0%), and nausea (in 16.5%). In the dacarbazine group, common treatment-related adverse events were consistent with those in previous reports and included gastrointestinal and hematologic toxic events. The frequency of treatment-related serious adverse events of grade 3 or 4 was similar in the two groups (5.8% in the nivolumab group and 5.9% in the dacarbazine group). The percentage of patients who discontinued the study treatment ow-\n\n![](_page_5_Figure_5.jpeg)\n\nPanel A shows the Kaplan\u2013Meier curves for overall survival. The median follow-up for overall survival was 8.9 months in the nivolumab group and 6.8 months in the dacarbazine group. Panel B shows the Kaplan\u2013Meier curves for progression-free survival.\n\ning to adverse events was 6.8% in the nivolumab group and 11.7% in the dacarbazine group. No deaths were attributed to study-drug toxicity in either group.\n\nSelected adverse events \u2014 defined as those with a potential immunologic cause \u2014 were analyzed according to organ category. Grade 3\n\nn engl j med 372;4 nejm.org january 22, 2015 325\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\n#### *The* new england journal *o f* medicine\n\n![](_page_6_Figure_1.jpeg)\n\n#### **Figure 2. Characteristics of Response.**\n\nThe waterfall plots show the maximum change from baseline in the sum of the reference diameters of the target lesion in patients receiving nivolumab (Panel A) and those receiving dacarbazine (Panel B). Data are shown for all the patients who had a response that could be evaluated in the target lesion at baseline and who underwent at least one tumor assessment during treatment. The percentage increase was truncated at 100% (red squares). Red dots indicate patients who had a response to treatment according to the Response Evaluation Criteria in Solid Tumors, version 1.1. The dashed lines in Panels A and B indicate a 30% reduction in the tumor burden in the target lesion. Kaplan\u2013 Meier curves for the duration of response (Panel C) show that the median duration of response in the 84 patients in the nivolumab group who had a response was not reached; 12 of these patients did not have a durable response. Of the 29 patients in the dacarbazine group who had a response, 14 did not have a durable response. The dashed line in Panel C indicates the median duration of response.\n\nor 4 selected adverse events that were considered to be related to nivolumab treatment were infrequent and included diarrhea and an elevated alanine aminotransferase level (each in 1.0% of patients) (Table S4 in the Supplementary Appendix). The majority of selected adverse events of grade 3 or 4 resolved quickly with a delay in the study treatment, glucocorticoid administration, or both, as recommended in the safety management guidelines for nivolumab (Table S5 in the Supplementary Appendix).\n\n## DISCUSSION\n\nThis phase 3, double-blind, randomized, controlled study showed an overall survival benefit with nivolumab, an anti\u2013PD-1 antibody. The risk of death decreased by 58% with nivolumab, as compared with dacarbazine, among previously untreated patients with advanced melanoma. The survival benefit was consistent across all the prespecified subgroups, including patients with poor prognostic factors.\n\nThe 1-year survival rate associated with nivolumab in this study (73%) is consistent with the results in a phase 1 study15,16,22 and was significantly higher than the rate associated with dacarbazine. Dacarbazine was chosen as the comparator because, until recently, it was a standard first-line treatment in many countries for patients who had melanoma without a *BRAF*\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\n| Table 2. Response to Treatment.*           |                       |                        |  |  |  |\n|--------------------------------------------|-----------------------|------------------------|--|--|--|\n| Response                                   | Nivolumab<br>(N=210)  | Dacarbazine<br>(N=208) |  |  |  |\n| Best overall response \u2014 no. (%)\u2020           |                       |                        |  |  |  |\n| Complete response                          | 16 (7.6)              | 2 (1.0)                |  |  |  |\n| Partial response                           | 68 (32.4)             | 27 (13.0)              |  |  |  |\n| Stable disease                             | 35 (16.7)             | 46 (22.1)              |  |  |  |\n| Progressive disease                        | 69 (32.9)             | 101 (48.6)             |  |  |  |\n| Could not be determined                    | 22 (10.5)             | 32 (15.4)              |  |  |  |\n| Objective response\u2021                        |                       |                        |  |  |  |\n| No. of patients (% [95% CI])               | 84 (40.0 [33.3\u201347.0]) | 29 (13.9 [9.5\u201319.4])   |  |  |  |\n| Difference \u2014 percentage points<br>(95% CI) | 26.1 (18.0\u201334.1)      |                        |  |  |  |\n| Estimated odds ratio (95% CI)              | 4.06 (2.52\u20136.54)      |                        |  |  |  |\n| P value                                    | <0.001                |                        |  |  |  |\n| Time to objective response \u2014 mo            |                       |                        |  |  |  |\n| Median                                     | 2.1                   | 2.1                    |  |  |  |\n| Range                                      | 1.2\u20137.6               | 1.8\u20133.6                |  |  |  |\n| Mean                                       | 2.6\u00b11.3               | 2.5\u00b10.7                |  |  |  |\n| Duration of response \u2014 mo\u00a7                 |                       |                        |  |  |  |\n| Median (95% CI)                            | Not reached           | 6.0 (3.0\u2013not reached)  |  |  |  |\n| Range                                      | 0.0\u201312.5              | 1.1\u201310.0               |  |  |  |\n\n\\* Plus\u2013minus values are means \u00b1SD.\n\n\u2020 The best overall response was assessed by the investigator with the use of the Response Evaluation Criteria in Solid Tumors, version 1.1.<sup>19</sup>\n\n\u2021 Data include patients with a complete response and those with a partial response. The calculation of the confidence interval was based on the Clopper\u2013Pearson method. The estimate of the difference (the rate in the nivolumab group minus the rate in the dacarbazine group) was based on the Cochran\u2013Mantel\u2013Haenszel method of weighting, with adjustment for PD-L1 status and metastasis stage as entered into the interactive voice-response system. The odds ratio and twosided P value for an objective response with nivolumab as compared with dacarbazine were calculated with the use of a Cochran\u2013Mantel\u2013Haenszel test stratified according to PD-L1 status and metastasis stage.\n\n\u00a7 The median was calculated with the use of the Kaplan\u2013Meier method. Data were censored for the range values because the observations are ongoing. The cutoff date for clinical data was August 5, 2014, with a range of follow-up from 5.2 to 16.7 months.\n\nmutation. In this group of patients, only ipilimumab in combination with dacarbazine has been associated with a survival benefit, as compared with dacarbazine alone, in a phase 3, controlled trial.5 When the present study was planned in 2012, ipilimumab had not been approved for use as a first-line treatment for advanced melanoma in most regions outside the United States. However, during the course of this study, it was approved for first-line therapy in most regions. Nevertheless, dacarbazine is still used as a firstline therapy for metastatic melanoma in many countries.\n\nAn additional phase 3 study (CheckMate 067; ClinicalTrials.gov number, NCT01844505), evaluating both nivolumab monotherapy and combination therapy with nivolumab plus ipilimumab, as compared with ipilimumab alone, in previously untreated patients with melanoma is currently under way. The activity of ipilimumab is probably reflected in the performance of the dacarbazine group in the present study. The median survival in the dacarbazine group (10.8 months) in this study is higher than that previously reported,5 possibly because 38% of the dacarbazine-treated patients received ipilimumab after stopping the study treatment.\n\nThe objective response rate (40%) and duration of response associated with nivolumab that were observed in this study are in line with\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\n| Table 3. Adverse Events.*                                |                                |              |                        |              |  |  |  |\n|----------------------------------------------------------|--------------------------------|--------------|------------------------|--------------|--|--|--|\n| Event                                                    | Nivolumab<br>(N=206)           |              | Dacarbazine<br>(N=205) |              |  |  |  |\n|                                                          | Any Grade                      | Grade 3 or 4 | Any Grade              | Grade 3 or 4 |  |  |  |\n|                                                          | no. of patients with event (%) |              |                        |              |  |  |  |\n| Any adverse event                                        | 192 (93.2)                     | 70 (34.0)    | 194 (94.6)             | 78 (38.0)    |  |  |  |\n| Treatment-related adverse event\u2020                         | 153 (74.3)                     | 24 (11.7)    | 155 (75.6)             | 36 (17.6)    |  |  |  |\n| Fatigue                                                  | 41 (19.9)                      | 0            | 30 (14.6)              | 2 (1.0)      |  |  |  |\n| Pruritus                                                 | 35 (17.0)                      | 1 (0.5)      | 11 (5.4)               | 0            |  |  |  |\n| Nausea                                                   | 34 (16.5)                      | 0            | 85 (41.5)              | 0            |  |  |  |\n| Diarrhea                                                 | 33 (16.0)                      | 2 (1.0)      | 32 (15.6)              | 1 (0.5)      |  |  |  |\n| Rash                                                     | 31 (15.0)                      | 1 (0.5)      | 6 (2.9)                | 0            |  |  |  |\n| Vitiligo                                                 | 22 (10.7)                      | 0            | 1 (0.5)                | 0            |  |  |  |\n| Constipation                                             | 22 (10.7)                      | 0            | 25 (12.2)              | 0            |  |  |  |\n| Asthenia                                                 | 21 (10.2)                      | 0            | 25 (12.2)              | 1 (0.5)      |  |  |  |\n| Vomiting                                                 | 13 (6.3)                       | 1 (0.5)      | 43 (21.0)              | 1 (0.5)      |  |  |  |\n| Neutropenia                                              | 0                              | 0            | 23 (11.2)              | 9 (4.4)      |  |  |  |\n| Thrombocytopenia                                         | 0                              | 0            | 21 (10.2)              | 10 (4.9)     |  |  |  |\n| Adverse event leading to discontinuation<br>of treatment | 14 (6.8)                       | 12 (5.8)     | 24 (11.7)              | 19 (9.3)     |  |  |  |\n| Serious adverse event                                    |                                |              |                        |              |  |  |  |\n| Any event                                                | 64 (31.1)                      | 43 (20.9)    | 78 (38.0)              | 54 (26.3)    |  |  |  |\n| Treatment-related event                                  | 19 (9.2)                       | 12 (5.8)     | 18 (8.8)               | 12 (5.9)     |  |  |  |\n\n\\* The severity of adverse events was graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events, version 4.0.<sup>20</sup>\n\n\u2020 The treatment-related adverse events listed here were reported in at least 10% of the patients in either study group.\n\nthose in previous reports.15-17,22 It has generally been accepted that immunotherapy is associated with long-term responses in a subset of patients, whereas targeted therapies, such as BRAF inhibitors, are associated with high response rates and a rapid effect, but the responses are often short-lived.4-7,9,10,23 The present study shows that nivolumab is associated with a high response rate, a rapid median time to response (2.1 months, which is similar to the time to response for dacarbazine), and a durable response (the median duration of response was not reached, but the duration of follow-up was short). These results are in agreement with the long-term follow-up data from a phase 1 study of nivolumab, which showed a median duration of response of almost 2 years and an objective response rate of 32% among patients with advanced melanoma.<sup>22</sup>\n\nThe response rate with a BRAF or MEK inhibitor was recently surpassed by new combination regimens in patients with a *BRAF* V600 mutation11,12; however, for patients who have melanoma without a *BRAF* mutation, treatment options beyond ipilimumab are limited. Although the target population of our study was restricted to patients with melanoma who did not have a *BRAF* mutation, previous studies have shown that nivolumab had similar clinical activity regardless of the patient's *BRAF* mutation status.17,24\n\nPrevious studies, which have used various methodologic approaches, have shown a correlation between PD-L1 expression and objective response in patients with metastatic melanoma treated with anti\u2013PD-1 or anti\u2013PD-L1 antibodies.21,22,24-28 In our study, given the magnitude of the clinical benefit observed in patients receiving nivolumab versus those receiving dacarbazine, PD-L1 status alone, as assessed with the use of the methods presented here, does not\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\nseem to be useful in the selection of patients for nivolumab treatment. Also, because there was little difference in median overall survival between the two subgroups of dacarbazine-treated patients defined according to PD-L1 status (positive vs. negative or indeterminate), the prognostic role of PD-L1 status remains to be determined.\n\nThe safety profile of nivolumab in this study was similar to that observed previously.15-17,22 The frequency of selected adverse events with a potential immunologic cause was similar to the frequency observed in a previous phase 3 trial,17 and the events resolved in the majority of our patients.\n\nIn conclusion, nivolumab was associated with a significant improvement in overall survival and progression-free survival, as compared with dacarbazine. Nivolumab was associated with a low risk of high-grade toxic effects.\n\nSupported by Bristol-Myers Squibb.\n\nDisclosure forms provided by the authors are available with the full text of this article at NEJM.org.\n\nWe thank the patients who volunteered to participate in this study and the staff members at the study sites who cared for them; the members of the data and safety monitoring committee; representatives of the sponsors who were involved in data collection and analyses (particularly Arvin Yang, M.D., Ph.D., Susan Parker, Ph.D., and Diana Birle, M.D.); and Wayne Peng, Ph.D., and Karin McGlynn, B.A., of StemScientific for editorial and writing assistance with an earlier version of the manuscript.\n\n#### **APPENDIX**\n\nThe authors' affiliations are as follows: Gustave Roussy and INSERM Unit\u00e9 981, Villejuif\u2013Paris Sud (C.R.), H\u00f4pital Saint Andr\u00e9 Centre Hospitalier Universitaire, Bordeaux (C.D.), H\u00f4pital Claude Huriez, Lille (L.M.), Assistance Publique\u2013H\u00f4pitaux de Paris Dermatology and Centre d'Investigation Clinique H\u00f4pital Saint Louis Paris 7 University, INSERM Unit\u00e9 976, Paris (C.L.), and Grenoble University Hospital, INSERM Unit\u00e9 823, Joseph Fourier University, Grenoble (J.C.) \u2014 all in France; Melanoma Institute Australia, University of Sydney, and Mater Hospital, Sydney (G.V.L.), Cabrini Health, Melbourne, VIC (B.B.), Chris O'Brien Lifehouse, Melanoma Institute Australia and Royal Prince Alfred Hospital, Camperdown, NSW (C. McNeil), Princess Alexandra Hospital, Woolloongabba, and Gallipoli Medical Research Foundation, Greenslopes Private Hospital, Greenslopes, QLD (V.A.) \u2014 all in Australia; University Hospital of Siena, Siena (M.M.), Oncology Institute of Veneto Istituto di Ricovero e Cura a Carattere Scientifico, Padua (V.C.-S.), Division Oncology, Regina Elena Institute, Rome (F.C.), and Istituto Nazionale Tumori Fondazione Pascale, Naples (P.A.A.) \u2014 all in Italy; University Hospital Heidelberg and National Center for Tumor Diseases, Heidelberg (J.C.H.), Department of Dermatology, University Hospital Cologne and Centrum f\u00fcr Integrierte Onkologie K\u00f6ln, Bonn (C. Mauch), and Department of Dermatology, University of Essen, Essen (D.S.) \u2014 all in Germany; Maria Sklodowska-Curie Memorial Cancer Center and Institute of Oncology, Warsaw (P.R.), and Wojew\u00f3dzki Szpital Specjalistyczny im. M. Kopernika, Lodz (E.K.-W.) \u2014 both in Poland; British Columbia Cancer Agency, Vancouver (K.J.S.), and Royal Victoria Hospital, Montreal (C. Mihalcioiu) \u2014 both in Canada; Department of Oncology, Helsinki University Central Hospital, Helsinki (M.M.H.); Hospital Cl\u00ednic Barcelona, Barcelona (A.A.); Department of Oncology, Aarhus University Hospital, Aarhus, Denmark (H.S.); University of Athens Medical School, Laiko General Hospital, Athens (H.G.); Department of Clinical Sciences, Division of Oncology, Lund University, Lund, Sweden (L.L-E.); Bristol-Myers Squibb, Lawrenceville, NJ (C.H., I.M.W.); and Bristol-Myers Squibb, Wallingford, CT (B.S.).\n\n#### **REFERENCES**\n\n**1.** American Cancer Society. Melanoma skin cancer (http://www.cancer.org/acs/ groups/cid/documents/\n\nwebcontent/003120-pdf.pdf).\n\n**2.** World Health Organization. Ultraviolet radiation and the INTERSUN Programme; skin cancers (http://www.who .int/uv/faq/skincancer/en/index1.html).\n\n**3.** American Cancer Society. Cancer facts and figures 2014 (http://www .cancer.org/acs/groups/content/@research/ documents/webcontent/acspc-042151.pdf). **4.** Hodi FS, O'Day SJ, McDermott DF, et al. Improved survival with ipilimumab in patients with metastatic melanoma. N Engl J Med 2010;363:711-23. [Erratum, N Engl J Med 2010;363:1290.]\n\n**5.** Robert C, Thomas L, Bondarenko I, et al. Ipilimumab plus dacarbazine for previously untreated metastatic melanoma. N Engl J Med 2011;364:2517-26.\n\n**6.** Chapman PB, Hauschild A, Robert C, et al. Improved survival with vemurafenib in melanoma with BRAF V600E mutation. N Engl J Med 2011;364:2507-16.\n\n**7.** McArthur GA, Chapman PB, Robert\n\nC, et al. Safety and efficacy of vemurafenib in BRAFV600E and BRAFV600K mutation-positive melanoma (BRIM-3): extended follow-up of a phase 3, randomised, open-label study. Lancet Oncol 2014;15:323-32.\n\n**8.** Flaherty KT, Robert C, Hersey P, et al. Improved survival with MEK inhibition in BRAF-mutated melanoma. N Engl J Med 2012;367:107-14.\n\n**9.** Hauschild A, Grob JJ, Demidov LV, et al. Dabrafenib in BRAF-mutated metastatic melanoma: a multicentre, openlabel, phase 3 randomised controlled trial. Lancet 2012;380:358-65.\n\n**10.** Sosman JA, Kim KB, Schuchter L, et al. Survival in BRAF V600-mutant advanced melanoma treated with vemurafenib. N Engl J Med 2012;366:707-14.\n\n**11.** Larkin J, Ascierto PA, Dreno B, et al. Combined vemurafenib and combimetinib in *BRAF*-mutated melanoma. N Engl J Med 2014;371:1867-76.\n\n**12.** Long GV, Stroyakovskiy D, Gogas H, et al. Combined BRAF and MEK inhibition versus BRAF inhibition along in melanoma. N Engl J Med 2014;371:1877- 88.\n\n**13.** Espinosa E, Grob JJ, Dummer R, et al. Treatment algorithms in stage IV melanoma. Am J Ther 2014 January 9 (Epub ahead of print).\n\n**14.** Wang C, Thudium KB, Han M, et al. In vitro characterization of the anti-PD-1 antibody nivolumab, BMS-936558, and in vivo toxicology in non-human primates. Cancer Immunol Res 2014;2:846-56.\n\n**15.** Topalian SL, Hodi FS, Brahmer JR, et al. Safety, activity, and immune correlates of anti\u2013PD-1 antibody in cancer. N Engl J Med 2012;366:2443-54.\n\n**16.** Topalian SL, Sznol M, McDermott DF, et al. Survival, durable tumor remission, and long-term safety in patients with advanced melanoma receiving nivolumab. J Clin Oncol 2014;32:1020-30.\n\n**17.** Weber JS, Minor D, D'Angelo SP, et al. A phase 3 randomized, open-label study of nivolumab (anti-PD-1; BMS-936558; ONO-4538) versus investigator's choice chemotherapy (ICC) in patients with advanced melanoma with prior anti-CTLA-4\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\ntherapy. Presented at the European Society for Medical Oncology 2014 Congress, Madrid, September 26\u201330, 2014. abstract. **18.** Keytruda (pembrolizumab) prescribing information. Whitehouse Station, NJ: Merck (http://www.merck.com/product/usa/ pi\\_circulars/k/keytruda/keytruda\\_pi.pdf). **19.** Eisenhauer EA, Therasse P, Bogaerts J, et al. New response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1). Eur J Cancer 2009;45:228-47. **20.** NCI Common Terminology Criteria for Adverse Events (CTCAE) v.4 data files. Bethesda, MD: National Cancer Institute (http://evs.nci.nih.gov/ftp1/CTCAE/About .html).\n\n**21.** Wolchok JD, Kluger H, Callahan MK, et al. Nivolumab plus ipilimumab in advanced melanoma. N Engl J Med 2013; 369:122-33.\n\n**22.** McDermott DF, Kluger H, Sznol M, et\n\nal. Long-term survival of ipilimumabnaive patients (pts) with advanced melanoma (MEL) treated with nivolumab (anti-PD-1; BMS-936558, ONO-4538) in a phase 1 trial. Presented at the European Society for Medical Oncology 2014 Congress, Madrid, September 26\u201330, 2014 (poster).\n\n**23.** Ribas A. Combination therapies building on the efficacy of CTLA4 and BRAF inhibitors for metastatic melanoma. Am Soc Clin Oncol Educ Book 2012:675-8.\n\n**24.** Weber JS, Kudchadkar RR, Yu B, et al. Safety, efficacy, and biomarkers of nivolumab with vaccine in ipilimumabrefractory or -naive melanoma. J Clin Oncol 2013;31:4311-8.\n\n**25.** Ribas A, Hodi SF, Kefford R, et al. Efficacy and safety of the anti-PD-1 monoclonal antibody MK-3475 in 411 patients (pts) with melanoma (MEL). J Clin Oncol 2014;32:Suppl:5s. abstract.\n\n**26.** Hamid O, Sosman JA, Lawrence DP, et al. Clinical activity, safety, and biomarkers of MPDL3280A, an engineered PD-L1 antibody in patients with locally advanced or metastatic melanoma (mM). J Clin Oncol 2013;31:Suppl:9010. abstract.\n\n**27.** Grosso J, Horak CE, Inzunza D, et al. Association of tumor PD-L1 expression and immune biomarkers with clinical activity in patients (pts) with advanced solid tumors treated with nivolumab (anti-PD-1; BMS-936558; ONO-4538). J Clin Oncol 2013;31:Suppl:3016. abstract.\n\n**28.** Weber JS, Kudchadkar RR, Gibney GT, et al. Phase I/II trial of PD-1 antibody nivolumab with peptide vaccine in patients naive to or that failed ipilimumab. J Clin Oncol 2013;31:Suppl:9011. abstract. *Copyright \u00a9 2014 Massachusetts Medical Society.*\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only. No other uses without permission. Copyright \u00a9 2015 Massachusetts Medical Society. All rights reserved.",
+    "json_data": {
+      "table_of_contents": [
+        {
+          "title": "original article",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              284.607421875,
+              62.72869873046875
+            ],
+            [
+              388.1513671875,
+              62.72869873046875
+            ],
+            [
+              388.1513671875,
+              74.728515625
+            ],
+            [
+              284.607421875,
+              74.728515625
+            ]
+          ]
+        },
+        {
+          "title": "Nivolumab in Previously Untreated \nMelanoma without BRAF Mutation",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              206.25732421875,
+              96.42218017578125
+            ],
+            [
+              472.3744201660156,
+              96.42218017578125
+            ],
+            [
+              472.3744201660156,
+              134.420166015625
+            ],
+            [
+              206.25732421875,
+              134.420166015625
+            ]
+          ]
+        },
+        {
+          "title": "ABSTRACT",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              309.24755859375,
+              280.6639404296875
+            ],
+            [
+              364.61865234375,
+              280.6639404296875
+            ],
+            [
+              364.61865234375,
+              291.1637268066406
+            ],
+            [
+              309.24755859375,
+              291.1637268066406
+            ]
+          ]
+        },
+        {
+          "title": "BACKGROUND",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              169.0,
+              305.3860168457031
+            ],
+            [
+              224.114501953125,
+              305.3860168457031
+            ],
+            [
+              224.114501953125,
+              314.38592529296875
+            ],
+            [
+              169.0,
+              314.38592529296875
+            ]
+          ]
+        },
+        {
+          "title": "METHODS",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              166.94384765625,
+              369.8860168457031
+            ],
+            [
+              206.903076171875,
+              369.8860168457031
+            ],
+            [
+              206.903076171875,
+              378.88592529296875
+            ],
+            [
+              166.94384765625,
+              378.88592529296875
+            ]
+          ]
+        },
+        {
+          "title": "RESULTS",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              168.60498046875,
+              446.3860168457031
+            ],
+            [
+              203.48876953125,
+              446.3860168457031
+            ],
+            [
+              203.48876953125,
+              455.38592529296875
+            ],
+            [
+              168.60498046875,
+              455.38592529296875
+            ]
+          ]
+        },
+        {
+          "title": "CONCLUSIONS",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              169.0,
+              618.8860321044922
+            ],
+            [
+              226.329345703125,
+              618.8860321044922
+            ],
+            [
+              226.329345703125,
+              627.8859252929688
+            ],
+            [
+              169.0,
+              627.8859252929688
+            ]
+          ]
+        },
+        {
+          "title": "METHODS",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              342.3290710449219,
+              199.96136474609375
+            ],
+            [
+              397.28759765625,
+              199.96136474609375
+            ],
+            [
+              397.28759765625,
+              210.461181640625
+            ],
+            [
+              342.3290710449219,
+              210.461181640625
+            ]
+          ]
+        },
+        {
+          "title": "PATIENTS",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              267.580810546875,
+              222.1834716796875
+            ],
+            [
+              304.26416015625,
+              222.1834716796875
+            ],
+            [
+              304.26416015625,
+              231.2666015625
+            ],
+            [
+              267.580810546875,
+              231.2666015625
+            ]
+          ]
+        },
+        {
+          "title": "STUDY DESIGN AND TREATMENT",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              268.5498046875,
+              414.17578125
+            ],
+            [
+              390.3662109375,
+              414.17578125
+            ],
+            [
+              390.3662109375,
+              423.1834411621094
+            ],
+            [
+              268.5498046875,
+              423.1834411621094
+            ]
+          ]
+        },
+        {
+          "title": "ASSESSMENT",
+          "heading_level": null,
+          "page_id": 2,
+          "polygon": [
+            [
+              99.252685546875,
+              150.1834716796875
+            ],
+            [
+              148.9482421875,
+              150.1834716796875
+            ],
+            [
+              148.9482421875,
+              159.56103515625
+            ],
+            [
+              99.252685546875,
+              159.56103515625
+            ]
+          ]
+        },
+        {
+          "title": "STUDY OVERSIGHT",
+          "heading_level": null,
+          "page_id": 2,
+          "polygon": [
+            [
+              99.3218994140625,
+              330.18353271484375
+            ],
+            [
+              171.0966796875,
+              330.18353271484375
+            ],
+            [
+              171.0966796875,
+              339.240234375
+            ],
+            [
+              99.3218994140625,
+              339.240234375
+            ]
+          ]
+        },
+        {
+          "title": "PD-L1 ASSESSMENT",
+          "heading_level": null,
+          "page_id": 2,
+          "polygon": [
+            [
+              305.6484375,
+              138.1834716796875
+            ],
+            [
+              380.2519836425781,
+              138.1834716796875
+            ],
+            [
+              380.2519836425781,
+              147.287109375
+            ],
+            [
+              305.6484375,
+              147.287109375
+            ]
+          ]
+        },
+        {
+          "title": "STATISTICAL ANALYSIS",
+          "heading_level": null,
+          "page_id": 2,
+          "polygon": [
+            [
+              306.2021484375,
+              402.18353271484375
+            ],
+            [
+              390.919921875,
+              402.18353271484375
+            ],
+            [
+              390.919921875,
+              411.1834411621094
+            ],
+            [
+              306.2021484375,
+              411.1834411621094
+            ]
+          ]
+        },
+        {
+          "title": "RESULTS",
+          "heading_level": null,
+          "page_id": 3,
+          "polygon": [
+            [
+              138.34100341796875,
+              199.96136474609375
+            ],
+            [
+              183.65919494628906,
+              199.96136474609375
+            ],
+            [
+              183.65919494628906,
+              210.5947265625
+            ],
+            [
+              138.34100341796875,
+              210.5947265625
+            ]
+          ]
+        },
+        {
+          "title": "PATIENTS AND TREATMENT",
+          "heading_level": null,
+          "page_id": 3,
+          "polygon": [
+            [
+              61.4619140625,
+              234.1834716796875
+            ],
+            [
+              162.268798828125,
+              234.1834716796875
+            ],
+            [
+              162.268798828125,
+              243.263671875
+            ],
+            [
+              61.4619140625,
+              243.263671875
+            ]
+          ]
+        },
+        {
+          "title": "EFFICACY",
+          "heading_level": null,
+          "page_id": 3,
+          "polygon": [
+            [
+              269.0,
+              52.50250244140625
+            ],
+            [
+              304.541015625,
+              52.50250244140625
+            ],
+            [
+              304.541015625,
+              61.50244140625
+            ],
+            [
+              269.0,
+              61.50244140625
+            ]
+          ]
+        },
+        {
+          "title": "SUBGROUP ANALYSES",
+          "heading_level": null,
+          "page_id": 3,
+          "polygon": [
+            [
+              266.750244140625,
+              618.0025177001953
+            ],
+            [
+              351.32958984375,
+              618.0025177001953
+            ],
+            [
+              351.32958984375,
+              627.169921875
+            ],
+            [
+              266.750244140625,
+              627.169921875
+            ]
+          ]
+        },
+        {
+          "title": "ADVERSE EVENTS",
+          "heading_level": null,
+          "page_id": 5,
+          "polygon": [
+            [
+              61.6695556640625,
+              426.18353271484375
+            ],
+            [
+              126.1768798828125,
+              426.18353271484375
+            ],
+            [
+              126.1768798828125,
+              435.1834411621094
+            ],
+            [
+              61.6695556640625,
+              435.1834411621094
+            ]
+          ]
+        },
+        {
+          "title": "The new england journal o f medicine",
+          "heading_level": null,
+          "page_id": 6,
+          "polygon": [
+            [
+              202.93505859375,
+              24.52197265625
+            ],
+            [
+              400.3895263671875,
+              24.52197265625
+            ],
+            [
+              400.3895263671875,
+              33.5218505859375
+            ],
+            [
+              202.93505859375,
+              33.5218505859375
+            ]
+          ]
+        },
+        {
+          "title": "Figure 2. Characteristics of Response.",
+          "heading_level": null,
+          "page_id": 6,
+          "polygon": [
+            [
+              313.375,
+              60.44677734375
+            ],
+            [
+              441.3076171875,
+              60.44677734375
+            ],
+            [
+              441.3076171875,
+              69.0916748046875
+            ],
+            [
+              313.375,
+              69.0916748046875
+            ]
+          ]
+        },
+        {
+          "title": "DISCUSSION",
+          "heading_level": null,
+          "page_id": 6,
+          "polygon": [
+            [
+              373.85198974609375,
+              451.9614562988281
+            ],
+            [
+              438.1454162597656,
+              451.9614562988281
+            ],
+            [
+              438.1454162597656,
+              462.533203125
+            ],
+            [
+              373.85198974609375,
+              462.533203125
+            ]
+          ]
+        },
+        {
+          "title": "APPENDIX",
+          "heading_level": null,
+          "page_id": 9,
+          "polygon": [
+            [
+              248.9423828125,
+              240.8363037109375
+            ],
+            [
+              281.423583984375,
+              240.8363037109375
+            ],
+            [
+              281.423583984375,
+              248.431640625
+            ],
+            [
+              248.9423828125,
+              248.431640625
+            ]
+          ]
+        },
+        {
+          "title": "REFERENCES",
+          "heading_level": null,
+          "page_id": 9,
+          "polygon": [
+            [
+              62.0,
+              431.41888427734375
+            ],
+            [
+              103.28619384765625,
+              431.41888427734375
+            ],
+            [
+              103.28619384765625,
+              439.27734375
+            ],
+            [
+              62.0,
+              439.27734375
+            ]
+          ]
+        }
+      ],
+      "page_stats": [
+        {
+          "page_id": 0,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              136
+            ],
+            [
+              "Line",
+              62
+            ],
+            [
+              "Text",
+              12
+            ],
+            [
+              "SectionHeader",
+              7
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 1,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              227
+            ],
+            [
+              "Line",
+              106
+            ],
+            [
+              "Text",
+              9
+            ],
+            [
+              "SectionHeader",
+              3
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "PageFooter",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 2,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              205
+            ],
+            [
+              "Line",
+              107
+            ],
+            [
+              "Text",
+              11
+            ],
+            [
+              "SectionHeader",
+              4
+            ],
+            [
+              "PageFooter",
+              3
+            ],
+            [
+              "PageHeader",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 3,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              195
+            ],
+            [
+              "Line",
+              107
+            ],
+            [
+              "Text",
+              8
+            ],
+            [
+              "SectionHeader",
+              4
+            ],
+            [
+              "PageFooter",
+              3
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Caption",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 4,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              291
+            ],
+            [
+              "TableCell",
+              145
+            ],
+            [
+              "Line",
+              63
+            ],
+            [
+              "Text",
+              6
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Table",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 5,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              350
+            ],
+            [
+              "Line",
+              164
+            ],
+            [
+              "Text",
+              9
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "SectionHeader",
+              1
+            ],
+            [
+              "Figure",
+              1
+            ],
+            [
+              "PageFooter",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 6,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              273
+            ],
+            [
+              "Line",
+              124
+            ],
+            [
+              "Text",
+              7
+            ],
+            [
+              "SectionHeader",
+              3
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "Figure",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 7,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              204
+            ],
+            [
+              "Line",
+              73
+            ],
+            [
+              "TableCell",
+              55
+            ],
+            [
+              "Text",
+              10
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Table",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 8,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              307
+            ],
+            [
+              "TableCell",
+              96
+            ],
+            [
+              "Line",
+              75
+            ],
+            [
+              "Text",
+              9
+            ],
+            [
+              "PageHeader",
+              2
+            ],
+            [
+              "Table",
+              1
+            ],
+            [
+              "PageFooter",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 9,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              292
+            ],
+            [
+              "Line",
+              133
+            ],
+            [
+              "Text",
+              28
+            ],
+            [
+              "SectionHeader",
+              2
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 10,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              152
+            ],
+            [
+              "Line",
+              68
+            ],
+            [
+              "Text",
+              12
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        }
+      ],
+      "debug_data_path": "debug_data/10"
+    },
+    "tables": [],
+    "metadata": {
+      "total_pages": 0,
+      "document_type": "unknown",
+      "processing_time": 0,
+      "ocr_used": false
+    },
+    "processing_stats": {
+      "return_code": 0,
+      "stdout_length": 87,
+      "stderr_length": 795
+    },
+    "processing_mode": "marker_enhanced",
+    "use_llm": false,
+    "markdown_quality_score": 100.0
+  },
+  "clinical_extraction": {
+    "prompt": "\nTASK: Extract comprehensive clinical trial data from this publication.\n\nCRITICAL REQUIREMENTS:\n1. NCT number: NCT01721772 (already validated)\n2. Expected treatment arms: 0\n3. Output raw JSON only (no markdown, no explanations)\n4. Extract ONLY explicit information - never infer or guess\n5. Use empty string \"\" for missing values\n\nTREATMENT ARMS:\n- Each unique treatment = separate arm\n- Different doses of same drug = separate arms  \n- Combination therapies use \"+\" (e.g., \"Drug A + Drug B\")\n\nDATA FORMATS:\n- Numbers: Extract digits only (e.g., \"25%\" \u2192 \"25\")\n- Survival: Months only (e.g., \"12.5 months\" \u2192 \"12.5\") \n- Binary: \"YES\" or \"NO\" only\n- Missing: Use \"\"\n\nCOMPREHENSIVE JSON STRUCTURE:\n{\n  \"NCT Number\": \"NCT01721772\",\n  \"Publication name\": \"Journal YYYY; Volume:Pages\",\n  \"Publication Year\": \"YYYY\",\n  \"PDF number\": \"filename\",\n  \"Trial name\": \"Trial name or 'No Name'\",\n  \"Sponsors\": \"Industry-Sponsored or non Industry-Sponsored\",\n  \"Clinical Trial Phase\": \"Stage X\",\n  \"Cancer Type\": \"Select from controlled list\",\n  \"Primary endpoint\": \"text\",\n  \"Secondary endpoint\": \"text\",\n  \"Median Age\": \"number\",\n  \"Mechanism of action\": \"text\",\n  \"Target Protein\": \"text\",\n  \"Type of therapy\": \"text\",\n  \"Dosage\": \"text\",\n  \"Type of dosing\": \"text\",\n  \"Number of doses per year\": \"number\",\n  \"Biomarker Inclusion\": \"YES/NO\",\n  \"Biomarkers Inclusion Criteria\": \"text\",\n  \"Biomarkers Exclusion Criteria\": \"text\",\n  \"Major country where clinical trial is conducted\": \"text\",\n  \"Study start date\": \"YYYY-MM-DD\",\n  \"Study completion date\": \"YYYY-MM-DD\",\n  \"First results\": \"YYYY-MM-DD\",\n  \"Trial run in Europe\": \"YES/NO\",\n  \"Trial run in US\": \"YES/NO\",\n  \"Trial run in China\": \"YES/NO\",\n  \"treatment_arms\": [\n    {\n      \"Generic name\": \"Drug name or Drug A + Drug B\",\n      \"Brand name\": \"text\",\n      \"Line of Treatment\": \"Neoadjuvant/First Line/2nd Line/3rd Line+\",\n      \"Number of patients\": \"number\",\n      \"Company EU\": \"text\",\n      \"Company US\": \"text\",\n      \"Company China\": \"text\",\n      \"Biosimilar\": \"YES/NO\",\n      \"Chemotherapy Naive\": \"YES/NO\",\n      \"Chemotherapy Failed\": \"YES/NO\",\n      \"Immune Checkpoint Inhibitor (ICI) Naive\": \"YES/NO\",\n      \"Immune Checkpoint Inhibitor (ICI) failed\": \"YES/NO\",\n      \"Ipilimumab-failure or Ipilimumab-refractory\": \"YES/NO\",\n      \"Anti PD-1/L1-failure or Anti PD-1/L1-refractory\": \"YES/NO\",\n      \"Mutation status\": \"text\",\n      \"BRAF-mutation\": \"YES/NO\",\n      \"NRAS-Mutation\": \"YES/NO\",\n      \"Objective response rate (ORR)\": \"percentage\",\n      \"Complete Response (CR)\": \"percentage\",\n      \"Pathological Complete Response (pCR)\": \"percentage\",\n      \"Complete Metabolic Response (CMR)\": \"percentage\",\n      \"Disease Control Rate or DCR\": \"percentage\",\n      \"Clinical Benefit Rate (CBR)\": \"percentage\",\n      \"Duration of Response (DOR) rate\": \"percentage\",\n      \"Progression free survival (PFS) rate at 6 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 9 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 12 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 18 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 24 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 48 months\": \"percentage\",\n      \"Overall survival (OS) rate at 6 months\": \"percentage\",\n      \"Overall survival (OS) rate at 9 months\": \"percentage\",\n      \"Overall survival (OS) rate at 12 months\": \"percentage\",\n      \"Overall survival (OS) rate at 18 months\": \"percentage\",\n      \"Overall survival (OS) rate at 24 months\": \"percentage\",\n      \"Overall survival (OS) rate at 48 months\": \"percentage\",\n      \"Median Progression free survival (PFS)\": \"months\",\n      \"Length of measuring PFS\": \"months\",\n      \"p-value of PFS\": \"Non-Significant/Significant/Highly Significant\",\n      \"Hazard ratio (HR) PFS\": \"decimal\",\n      \"Median Overall survival (OS)\": \"months\",\n      \"Length of measuring OS\": \"months\",\n      \"p-value of OS\": \"Non-Significant/Significant/Highly Significant\",\n      \"Hazard ratio (HR) OS\": \"decimal\",\n      \"Event-Free Survival (EFS)\": \"months\",\n      \"p-value of EFS\": \"Non-Significant/Significant/Highly Significant\",\n      \"Hazard ratio (HR) EFS\": \"decimal\",\n      \"Recurrence-Free Survival (RFS)\": \"months\",\n      \"p-value of RFS\": \"Non-Significant/Significant/Highly Significant\",\n      \"Length of measuring RFS\": \"months\",\n      \"Hazard ratio (HR) RFS\": \"decimal\",\n      \"Metastasis-Free Survival (MFS)\": \"months\",\n      \"Length of measuring MFS\": \"months\",\n      \"Hazard ratio (HR) MFS\": \"decimal\",\n      \"Time to response (TTR)\": \"months\",\n      \"Time to Progression (TTP)\": \"months\",\n      \"Time to Next Treatment (TTNT)\": \"months\",\n      \"Time to Treatment Failure (TTF)\": \"months\",\n      \"Median Duration of response or DOR\": \"months\",\n      \"Adverse events (AE)\": \"percentage\",\n      \"Treatment emergent adverse events (TEAE)\": \"percentage\",\n      \"Treatment-related adverse events (TRAE)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 higher adverse events (AE)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 higher treatment emergent adverse events (TEAE)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 higher treatment-related adverse events (TRAE)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 higher treatment-emergent adverse events (TEAE)\": \"percentage\",\n      \"Grade 4 treatment emergent adverse events\": \"percentage\",\n      \"Grade 5 treatment emergent adverse events\": \"percentage\",\n      \"Serious Adverse Events (SAE)\": \"percentage\",\n      \"Serious treatment emergent adverse events\": \"percentage\",\n      \"Serious treatment related adverse events\": \"percentage\",\n      \"Treatment-emergent adverse events (TEAE) led to treatment discontinuation\": \"percentage\",\n      \"Adverse events (AEs) leading to discontinuation\": \"percentage\",\n      \"Treatment-emergent adverse events (TEAE) led to death\": \"percentage\",\n      \"Adverse Events leading to death\": \"percentage\",\n      \"Immune related adverse events (irAEs)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Immune related adverse events (irAEs)\": \"percentage\",\n      \"Cytokine Release Syndrome or CRS\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Cytokine Release Syndrome or CRS\": \"percentage\",\n      \"White blood cell (WBC) decreased\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Thrombocytopenia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Neutropenia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Leukopenia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Anemia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Neutrophil count decreased\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 White blood cell (WBC) decreased\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Nausea\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Diarrhea\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Colitis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Constipation\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Dyspnea\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Cough\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Pneumonia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Pneumonitis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Hyperglycemia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Thyroiditis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Hypophysitis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Hepatitis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Alanine aminotransferase\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Pyrexia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Bleeding\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Pruritus\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Rash\": \"percentage\"\n    }\n  ]\n}\n\nEXTRACTION INSTRUCTIONS:\n1. Extract ALL fields listed above that are explicitly mentioned in the publication\n2. For percentages: extract number only (e.g., \"25%\" \u2192 \"25\")\n3. For months: extract number only (e.g., \"12.5 months\" \u2192 \"12.5\")\n4. For binary fields: use \"YES\" or \"NO\" only\n5. For missing data: use empty string \"\"\n6. For survival data with \"not reached\": use \"NR\"\n\nPUBLICATION TEXT:\n# original article\n\n# Nivolumab in Previously Untreated Melanoma without *BRAF* Mutation\n\nCaroline Robert, M.D., Ph.D., Georgina V. Long, M.D., Ph.D., Benjamin Brady, M.D., Caroline Dutriaux, M.D., Michele Maio, M.D., Laurent Mortier, M.D., Jessica C. Hassel, M.D., Piotr Rutkowski, M.D., Ph.D., Catriona McNeil, M.D., Ph.D., Ewa Kalinka-Warzocha, M.D., Ph.D., Kerry J. Savage, M.D., Micaela M. Hernberg, M.D., Ph.D., Celeste Lebb\u00e9, M.D., Ph.D., Julie Charles, M.D., Ph.D., Catalin Mihalcioiu, M.D., Vanna Chiarion-Sileni, M.D., Cornelia Mauch, M.D., Ph.D., Francesco Cognetti, M.D., Ana Arance, M.D., Ph.D., Henrik Schmidt, M.D., D.M.Sc., Dirk Schadendorf, M.D., Helen Gogas, M.D., Lotta Lundgren-Eriksson, M.D., Christine Horak, Ph.D., Brian Sharkey, Ph.D., Ian M. Waxman, M.D., Victoria Atkinson, M.D., and Paolo A. Ascierto, M.D.\n\n## ABSTRACT\n\n#### **BACKGROUND**\n\nNivolumab was associated with higher rates of objective response than chemotherapy in a phase 3 study involving patients with ipilimumab-refractory metastatic melanoma. The use of nivolumab in previously untreated patients with advanced melanoma has not been tested in a phase 3 controlled study.\n\n#### **METHODS**\n\nWe randomly assigned 418 previously untreated patients who had metastatic melanoma without a *BRAF* mutation to receive nivolumab (at a dose of 3 mg per kilogram of body weight every 2 weeks and dacarbazine-matched placebo every 3 weeks) or dacarbazine (at a dose of 1000 mg per square meter of body-surface area every 3 weeks and nivolumab-matched placebo every 2 weeks). The primary end point was overall survival.\n\n#### **RESULTS**\n\nAt 1 year, the overall rate of survival was 72.9% (95% confidence interval [CI], 65.5 to 78.9) in the nivolumab group, as compared with 42.1% (95% CI, 33.0 to 50.9) in the dacarbazine group (hazard ratio for death, 0.42; 99.79% CI, 0.25 to 0.73; P<0.001). The median progression-free survival was 5.1 months in the nivolumab group versus 2.2 months in the dacarbazine group (hazard ratio for death or progression of disease, 0.43; 95% CI, 0.34 to 0.56; P<0.001). The objective response rate was 40.0% (95% CI, 33.3 to 47.0) in the nivolumab group versus 13.9% (95% CI, 9.5 to 19.4) in the dacarbazine group (odds ratio, 4.06; P<0.001). The survival benefit with nivolumab versus dacarbazine was observed across prespecified subgroups, including subgroups defined by status regarding the programmed death ligand 1 (PD-L1). Common adverse events associated with nivolumab included fatigue, pruritus, and nausea. Drugrelated adverse events of grade 3 or 4 occurred in 11.7% of the patients treated with nivolumab and 17.6% of those treated with dacarbazine.\n\n#### **CONCLUSIONS**\n\nNivolumab was associated with significant improvements in overall survival and progression-free survival, as compared with dacarbazine, among previously untreated patients who had metastatic melanoma without a *BRAF* mutation. (Funded by Bristol-Myers Squibb; CheckMate 066 ClinicalTrials.gov number, NCT01721772.)\n\nThe authors' affiliations are listed in the Appendix. Address reprint requests to Dr. Robert at Dermatology Service, INSERM Unit\u00e9 981, Gustave Roussy, Villejuif\u2013Paris Sud, France, or at caroline.robert@ gustaveroussy.fr.\n\nDrs. Atkinson and Ascierto contributed equally to this article.\n\nThis article was published on November 16, 2014, at NEJM.org.\n\n**N Engl J Med 2015;372:320-30. DOI: 10.1056/NEJMoa1412082** *Copyright \u00a9 2014 Massachusetts Medical Society.*\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\nThe global incidence of melanoma continues to rise, and the mortality associated with unresectable or metastatic melanoma remains high.1 Globally, 132,000 new cases of melanoma are diagnosed and an estimated 48,000 persons die from advanced melanoma each year.2,3 Ipilimumab has been shown to improve the rate of survival at 2 years, as compared with a vaccine control, among previously treated patients with metastatic melanoma as well as among previously untreated patients who also received dacarbazine.4,5 BRAF and MEK inhibitors are approved agents that, as monotherapy, have been associated with a survival advantage as compared with chemotherapy, with a median overall survival of 13 to 20 months.6-8 Although the objective response rate is high with these agents (45 to 53%), the median duration of response is less than 1 year.6-10\n\nRecently, a combination of anti-BRAF and anti-MEK agents has been associated with a higher response rate and longer duration of response, as compared with anti-BRAF monotherapies.11,12 However, the use of these targeted agents, as monotherapy or in combination, is limited to the approximately 40% of patients who have melanoma with a *BRAF* V600 mutation. Dacarbazine is associated with a median overall survival of 5.6 to 7.8 months and remained until recently a commonly used therapy in patients with previously untreated melanoma without a *BRAF* mutation.5,13 Despite new treatment options, there remains a substantial unmet need for treatments that extend survival and provide a better quality of life.\n\nNivolumab is a fully human IgG4 programmed death 1 (PD-1) immune-checkpoint\u2013 inhibitor antibody that selectively blocks the interaction of the PD-1 receptor with its two known programmed death ligands, PD-L1 and PD-L2, disrupting the negative signal that regulates T-cell activation and proliferation.14 In a phase 1 study, nivolumab was associated with promising antitumor activity and a favorable safety profile in patients with solid tumors, including advanced melanoma.15,16 In an open-label, randomized, phase 3 study involving patients with ipilimumab-refractory melanoma, nivolumab was associated with a higher rate of objective response than chemotherapy (32% vs. 11%).17 Recently, another anti\u2013PD-1 antibody, pembrolizumab, has shown robust clinical activity and has been approved in the United States on the basis of an objective response rate of 24% among patients with advanced melanoma that progressed after ipilimumab, as well as treatment with a BRAF inhibitor if the patient had a *BRAF* V600 mutation.18 Here, we report the results of a phase 3, randomized, double-blind study conducted to determine whether nivolumab, as compared with dacarbazine, improves overall survival among previously untreated patients who have advanced melanoma without a *BRAF* mutation.\n\n## METHODS\n\n### **PATIENTS**\n\nEligible patients had confirmed, unresectable, previously untreated stage III or IV melanoma without a *BRAF* mutation. Other eligibility criteria included an age of 18 years or more, an Eastern Cooperative Oncology Group (ECOG) performance-status score of 0 or 1 (on a scale of 0 to 5, with 0 indicating no symptoms and 1 indicating mild symptoms), and the availability of tumor tissue from a metastatic or unresectable site for PD-L1 biomarker analysis. Key exclusion criteria were active brain metastases, uveal melanoma, and a history of serious autoimmune disease. Patients who had received adjuvant therapy previously were not excluded.\n\n#### **STUDY DESIGN AND TREATMENT**\n\nPatients were randomly assigned in a 1:1 ratio to receive by means of intravenous infusion either 3 mg of nivolumab per kilogram of body weight every 2 weeks, plus a dacarbazine-matched placebo every 3 weeks, or 1000 mg of dacarbazine per square meter of body-surface area every 3 weeks, plus a nivolumab-matched placebo every 2 weeks. Randomization was stratified according to tumor PD-L1 status (positive vs. negative or indeterminate) and metastasis stage (M0, M1a, or M1b vs. M1c, defined according to the tumor\u2013node\u2013metastasis system of the American Joint Committee on Cancer and the International Union against Cancer). Treatment continued until there was disease progression, as assessed by the investigator, or an unacceptable level of toxic effects. Treatment after disease progression was permitted for patients who had a clinical benefit and did not have substantial adverse effects with the study drug, as determined by the investigator (Fig. S1 in the Supplementary\n\nn engl j med 372;4 nejm.org january 22, 2015 321\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\nAppendix, available with the full text of this article at NEJM.org).\n\nThe primary end point was overall survival. Secondary end points included investigator-assessed progression-free survival, objective response rate, and PD-L1 expression in the tumor as a predictive biomarker of overall survival.\n\n## **ASSESSMENT**\n\nTumor response was assessed according to the Response Evaluation Criteria in Solid Tumors (RECIST), version 1.1,19 at 9 weeks after randomization, every 6 weeks thereafter for the first year, and then every 12 weeks until disease progression or treatment discontinuation. Assessments for survival were performed every 3 months. Safety evaluations were performed for patients who received at least one dose of the study treatment, and the severity of adverse events was graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events, version 4.0.<sup>20</sup>\n\n#### **STUDY OVERSIGHT**\n\nThe study protocol, available at NEJM.org with the most recent version of the statistical analysis plan, was approved by the institutional review board at each participating center. The study was conducted in accordance with the Declaration of Helsinki and the International Conference on Harmonisation Guidelines for Good Clinical Practice. All the patients provided written informed consent to participate in the study. Data were collected by the sponsor, Bristol-Myers Squibb, and analyzed in collaboration with the academic authors. All the authors vouch for the accuracy and completeness of the data and analyses reported and for the fidelity of the study to the protocol. The first draft of the manuscript was written by the first and last authors, with all the authors contributing to subsequent drafts. Medical-writing support, funded by the sponsor, was provided by StemScientific.\n\nA data and safety monitoring committee was established to provide oversight of safety and efficacy considerations. On June 10, 2014, the monitoring committee reviewed an expedited report after noting a potential difference in overall survival during an earlier safety review. Data from the abbreviated report, which was based on an unplanned interim database lock, showed a significant difference in overall survival in favor of nivolumab. As a result, the monitoring committee recommended that the study be unblinded and amended to allow patients enrolled in the dacarbazine group to receive nivolumab. Reported here are the results from the double-blind portion of the study before the amendment (clinical data cutoff on June 24, 2014).\n\n### **PD-L1 ASSESSMENT**\n\nBefore randomization, the expression of PD-L1 on the surface of the tumor cells was assessed in a central laboratory with the use of an automated immunohistochemical assay (collaboratively developed by Bristol-Myers Squibb and Dako), as described previously.21 PD-L1 positivity was defined as at least 5% of tumor cells showing cell-surface PD-L1 staining of any intensity in a section containing at least 100 tumor cells that could be evaluated. Indeterminate status was attributed to samples for which tumor cell\u2013surface expression could not be discerned because of melanin content or strong cytoplasmic staining. PD-L1 status was prospectively determined, and the results were used to stratify randomization, which was performed by means of a fully automated interactive voiceresponse system. Statistical analyses were prespecified to assess the predictive value of PD-L1 expression.\n\n#### **STATISTICAL ANALYSIS**\n\nA sample of approximately 410 patients, randomly assigned in a 1:1 ratio to the two treatment groups, was planned. Overall survival and progression-free survival were compared between the two treatment groups with the use of a twosided log-rank test stratified according to PD-L1 status (positive vs. negative or indeterminate) and metastasis stage (M0, M1a, or M1b vs. M1c). The hazard ratios for the nivolumab group, as compared with the dacarbazine group, and corresponding confidence intervals were estimated with the use of a stratified Cox proportionalhazards model. Survival curves for each treatment group were estimated with the use of the Kaplan\u2013Meier product-limit method. Rates at fixed time points were derived from the Kaplan\u2013Meier estimate, along with their corresponding log-log\u2013transformed 95% confidence interval.\n\nThe objective response rate was compared between the two treatment groups with the use of a two-sided Cochran\u2013Mantel\u2013Haenszel test. The efficacy analyses were performed in the\n\nDownloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\npopulation of patients who underwent randomization (the intention-to-treat population). The safety analyses were performed in the population of patients who received at least one dose of a study drug. At the time of data analysis, 146 patients had died. The boundary for statistical significance, which was based on the Lan\u2013 DeMets alpha-spending function with O'Brien and Fleming\u2013type boundaries, required the logrank P value to be less than 0.0021, corresponding to a 99.79% confidence interval.\n\n## RESULTS\n\n### **PATIENTS AND TREATMENT**\n\nFrom January 2013 through February 2014, a total of 518 patients were enrolled at 80 centers in Europe, Israel, Australia, Canada, and South America. A total of 418 patients underwent randomization: 210 patients were assigned to the nivolumab group and 208 to the dacarbazine group (Fig. S1 in the Supplementary Appendix). One patient randomly assigned to the nivolumab group and 3 randomly assigned to the dacarbazine group were inadvertently enrolled in the study, despite having an ECOG performance-status score of 2; 1 additional patient in the nivolumab group did not report an ECOG performancestatus score. Baseline characteristics were balanced between the two groups. A total of 61.0% of patients had stage M1c disease, 36.6% had an elevated lactate dehydrogenase level, and 35.4% had a positive PD-L1 status (Table 1).\n\nAt the time of the database lock, 95 of 206 patients (46.1%) treated with nivolumab and 13 of 205 (6.3%) treated with dacarbazine were continuing the study treatment. The most frequent reason for discontinuation was disease progression, in 96 of 206 patients (46.6%) in the nivolumab group and 175 of 205 (85.4%) in the dacarbazine group (Table S1 in the Supplementary Appendix). After the discontinuation of study treatment, 63 of 210 patients (30.0%) in the nivolumab group and 114 of 208 (54.8%) in the dacarbazine group received systemic therapy, most commonly ipilimumab (in 45 of 63 patients and 79 of 114, respectively) (Table S2 in the Supplementary Appendix). All the patients who underwent randomization were followed for up to 16.7 months at the time of database lock on August 5, 2014, which was 5.2 months after the first visit of the last patient who had undergone randomization.\n\n#### **EFFICACY**\n\nThe median overall survival was not reached in the nivolumab group and was 10.8 months (95% confidence interval [CI], 9.3 to 12.1) in the dacarbazine group. The overall survival rate at 1 year was 72.9% (95% CI, 65.5 to 78.9) in the nivolumab group and 42.1% (95% CI, 33.0 to 50.9) in the dacarbazine group. A significant benefit with respect to overall survival was observed in the nivolumab group, as compared with the dacarbazine group (hazard ratio for death, 0.42; 99.79% CI, 0.25 to 0.73; P<0.001) (Fig. 1A).\n\nThe median progression-free survival was 5.1 months (95% CI, 3.5 to 10.8) in the nivolumab group and 2.2 months (95% CI, 2.1 to 2.4) in the dacarbazine group (Fig. 1B). A significant benefit with respect to progression-free survival was observed in the nivolumab group, as compared with the dacarbazine group (hazard ratio for death or progression of disease, 0.43; 95% CI, 0.34 to 0.56; P<0.001).\n\nThe objective response rate in the nivolumab group was 40.0% (95% CI, 33.3 to 47.0), which was significantly higher than the rate in the dacarbazine group, which was 13.9% (95% CI, 9.5 to 19.4) (odds ratio, 4.06; P<0.001). The percentage of patients with a complete response was higher with nivolumab than with dacarbazine (7.6% vs. 1.0%) (Fig. 2 and Table 2). Among patients who had a response, the median duration of response was not reached in the nivolumab group and was 6.0 months in the dacarbazine group (95% CI, 3.0 to not reached) (Fig. 2C).\n\nIn the nivolumab group, a reduction of 30% or more in the tumor burden in the target lesion, representing an unconventional response pattern sometimes seen with immunotherapies, was achieved or maintained in 17 of 54 patients who were treated beyond progression (8.1% of patients randomly assigned to nivolumab) (Fig. S4A in the Supplementary Appendix). In the dacarbazine group, this unconventional response was achieved or maintained in 8 of the 49 patients who were treated beyond progression (3.8% of patients randomly assigned to dacarbazine) (Fig. S4B in the Supplementary Appendix).\n\n### **SUBGROUP ANALYSES**\n\nRegardless of PD-L1 status, nivolumab-treated patients had improved overall survival, as compared with dacarbazine-treated patients (unadjusted hazard ratio for death among patients with positive PD-L1 status, 0.30 [95% CI, 0.15 to\n\nn engl j med 372;4 nejm.org january 22, 2015 323\n\n| Table 1. Baseline Characteristics of the Patients.* |                      |                        |                  |  |  |\n|-----------------------------------------------------|----------------------|------------------------|------------------|--|--|\n| Characteristic                                      | Nivolumab<br>(N=210) | Dacarbazine<br>(N=208) | Total<br>(N=418) |  |  |\n| Age \u2014 yr                                            |                      |                        |                  |  |  |\n| Median                                              | 64                   | 66                     | 65               |  |  |\n| Range                                               | 18\u201386                | 26\u201387                  | 18\u201387            |  |  |\n| Sex \u2014 no. (%)                                       |                      |                        |                  |  |  |\n| Male                                                | 121 (57.6)           | 125 (60.1)             | 246 (58.9)       |  |  |\n| Female                                              | 89 (42.4)            | 83 (39.9)              | 172 (41.1)       |  |  |\n| Geographic region \u2014 no. (%)                         |                      |                        |                  |  |  |\n| Europe or Canada                                    | 145 (69.0)           | 145 (69.7)             | 290 (69.4)       |  |  |\n| Israel, Australia, or South America                 | 65 (31.0)            | 63 (30.3)              | 128 (30.6)       |  |  |\n| ECOG performance-status score \u2014<br>no. (%)\u2020         |                      |                        |                  |  |  |\n| 0                                                   | 148 (70.5)           | 121 (58.2)             | 269 (64.4)       |  |  |\n| 1                                                   | 60 (28.6)            | 84 (40.4)              | 144 (34.4)       |  |  |\n| 2                                                   | 1 (0.5)              | 3 (1.4)                | 4 (1.0)          |  |  |\n| Metastasis stage \u2014 no. (%)\u2021                         |                      |                        |                  |  |  |\n| M1c                                                 | 128 (61.0)           | 127 (61.1)             | 255 (61.0)       |  |  |\n| M0, M1a, or M1b                                     | 82 (39.0)            | 81 (38.9)              | 163 (39.0)       |  |  |\n| Lactate dehydrogenase \u2014 no. (%)                     |                      |                        |                  |  |  |\n| \u2264ULN                                                | 120 (57.1)           | 125 (60.1)             | 245 (58.6)       |  |  |\n| >ULN                                                | 79 (37.6)            | 74 (35.6)              | 153 (36.6)       |  |  |\n| \u22642\u00d7 ULN                                             | 178 (84.8)           | 177 (85.1)             | 355 (84.9)       |  |  |\n| >2\u00d7 ULN                                             | 21 (10.0)            | 22 (10.6)              | 43 (10.3)        |  |  |\n| Not reported                                        | 11 (5.2)             | 9 (4.3)                | 20 (4.8)         |  |  |\n| History of brain metastases \u2014 no. (%)               |                      |                        |                  |  |  |\n| Yes                                                 | 7 (3.3)              | 8 (3.8)                | 15 (3.6)         |  |  |\n| No                                                  | 203 (96.7)           | 200 (96.2)             | 403 (96.4)       |  |  |\n| PD-L1 status \u2014 no. (%)\u00a7                             |                      |                        |                  |  |  |\n| Positive                                            | 74 (35.2)            | 74 (35.6)              | 148 (35.4)       |  |  |\n| Negative or indeterminate                           | 136 (64.8)           | 134 (64.4)             | 270 (64.6)       |  |  |\n| BRAF status \u2014 no. (%)                               |                      |                        |                  |  |  |\n| Mutation                                            | 0                    | 0                      | 0                |  |  |\n| No mutation                                         | 202 (96.2)           | 204 (98.1)             | 406 (97.1)       |  |  |\n| Not reported                                        | 8 (3.8)              | 4 (1.9)                | 12 (2.9)         |  |  |\n| Prior systemic therapy \u2014 no. (%)                    |                      |                        |                  |  |  |\n| Adjuvant therapy                                    | 32 (15.2)            | 36 (17.3)              | 68 (16.3)        |  |  |\n| Neoadjuvant therapy                                 | 1 (0.5)              | 1 (0.5)                | 2 (0.5)          |  |  |\n\n\\* There were no significant between-group differences in the baseline characteristics. ULN denotes upper limit of the normal range.\n\n\u2020 An Eastern Cooperative Oncology Group (ECOG) performance-status score of 0 indicates no symptoms, 1 mild symptoms, and 2 moderate symptoms, with the patient being ambulatory and capable of all self-care but unable to carry out any work activities. One patient randomly assigned to the nivolumab group and three randomly assigned to the dacarbazine group were inadvertently enrolled in the study, despite having an ECOG performance-status score of 2. One additional patient in the nivolumab group underwent randomization in error without having an ECOG performance-status report.\n\n\u2021 The metastasis stage was defined according to the tumor\u2013node\u2013metastasis system of the American Joint Committee on Cancer and the International Union against Cancer.\n\n\u00a7 A positive status for programmed death ligand 1 (PD-L1) was defined as at least 5% of the tumor cells having cell-surface PD-L1 staining of any intensity in a section containing at least 100 tumor cells that could be evaluated. Indeterminate status was attributed to samples for which tumor cell-surface expression could not be discerned because of melanin content or strong cytoplasmic staining.\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\n0.60]; unadjusted hazard ratio for death among those with PD-L1 negative or indeterminate PD-L1 status, 0.48 [95% CI, 0.32 to 0.71]) (Fig. S2 in the Supplementary Appendix). In the nivolumab group, the median overall survival was not reached in either PD-L1 subgroup. In the dacarbazine group, the median overall survival was slightly longer in the subgroup with positive PD-L1 status than in the subgroup with negative or indeterminate PD-L1 status (12.4 vs. 10.2 months) (Fig. S3 in the Supplementary Appendix).\n\nIn the two PD-L1 subgroups, nivolumabtreated patients had improved rates of objective response, as compared with dacarbazine-treated patients. In the subgroup with positive PD-L1 status, the objective response rate was 52.7% (95% CI, 40.8 to 64.3) in the nivolumab group versus 10.8% (95% CI, 4.8 to 20.2) in the dacarbazine group. In the subgroup with negative or indeterminate PD-L1 status, the objective response rate was 33.1% (95% CI, 25.2 to 41.7) in the nivolumab group versus 15.7% (95% CI, 10.0 to 23.0) in the dacarbazine group. The survival benefit with nivolumab versus dacarbazine was also observed across prespecified subgroups based on age, sex, metastasis stage, ECOG performance-status score, status with respect to a history of brain metastases, baseline lactate dehydrogenase level, and geographic region (Fig. S2 in the Supplementary Appendix).\n\n#### **ADVERSE EVENTS**\n\nThe incidence of treatment-related adverse events of any grade was similar in the nivolumab group and the dacarbazine group (74.3% and 75.6%, respectively). However, treatment-related adverse events of grade 3 or 4 were reported less frequently in the nivolumab group than in the dacarbazine group (11.7% vs. 17.6%) (Table 3, and Table S3 in the Supplementary Appendix). The most common adverse events related to nivolumab treatment were fatigue (in 19.9% of patients), pruritus (in 17.0%), and nausea (in 16.5%). In the dacarbazine group, common treatment-related adverse events were consistent with those in previous reports and included gastrointestinal and hematologic toxic events. The frequency of treatment-related serious adverse events of grade 3 or 4 was similar in the two groups (5.8% in the nivolumab group and 5.9% in the dacarbazine group). The percentage of patients who discontinued the study treatment ow-\n\n![](_page_5_Figure_5.jpeg)\n\nPanel A shows the Kaplan\u2013Meier curves for overall survival. The median follow-up for overall survival was 8.9 months in the nivolumab group and 6.8 months in the dacarbazine group. Panel B shows the Kaplan\u2013Meier curves for progression-free survival.\n\ning to adverse events was 6.8% in the nivolumab group and 11.7% in the dacarbazine group. No deaths were attributed to study-drug toxicity in either group.\n\nSelected adverse events \u2014 defined as those with a potential immunologic cause \u2014 were analyzed according to organ category. Grade 3\n\nn engl j med 372;4 nejm.org january 22, 2015 325\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\n#### *The* new england journal *o f* medicine\n\n![](_page_6_Figure_1.jpeg)\n\n#### **Figure 2. Characteristics of Response.**\n\nThe waterfall plots show the maximum change from baseline in the sum of the reference diameters of the target lesion in patients receiving nivolumab (Panel A) and those receiving dacarbazine (Panel B). Data are shown for all the patients who had a response that could be evaluated in the target lesion at baseline and who underwent at least one tumor assessment during treatment. The percentage increase was truncated at 100% (red squares). Red dots indicate patients who had a response to treatment according to the Response Evaluation Criteria in Solid Tumors, version 1.1. The dashed lines in Panels A and B indicate a 30% reduction in the tumor burden in the target lesion. Kaplan\u2013 Meier curves for the duration of response (Panel C) show that the median duration of response in the 84 patients in the nivolumab group who had a response was not reached; 12 of these patients did not have a durable response. Of the 29 patients in the dacarbazine group who had a response, 14 did not have a durable response. The dashed line in Panel C indicates the median duration of response.\n\nor 4 selected adverse events that were considered to be related to nivolumab treatment were infrequent and included diarrhea and an elevated alanine aminotransferase level (each in 1.0% of patients) (Table S4 in the Supplementary Appendix). The majority of selected adverse events of grade 3 or 4 resolved quickly with a delay in the study treatment, glucocorticoid administration, or both, as recommended in the safety management guidelines for nivolumab (Table S5 in the Supplementary Appendix).\n\n## DISCUSSION\n\nThis phase 3, double-blind, randomized, controlled study showed an overall survival benefit with nivolumab, an anti\u2013PD-1 antibody. The risk of death decreased by 58% with nivolumab, as compared with dacarbazine, among previously untreated patients with advanced melanoma. The survival benefit was consistent across all the prespecified subgroups, including patients with poor prognostic factors.\n\nThe 1-year survival rate associated with nivolumab in this study (73%) is consistent with the results in a phase 1 study15,16,22 and was significantly higher than the rate associated with dacarbazine. Dacarbazine was chosen as the comparator because, until recently, it was a standard first-line treatment in many countries for patients who had melanoma without a *BRAF*\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\n| Table 2. Response to Treatment.*           |                       |                        |  |  |  |\n|--------------------------------------------|-----------------------|------------------------|--|--|--|\n| Response                                   | Nivolumab<br>(N=210)  | Dacarbazine<br>(N=208) |  |  |  |\n| Best overall response \u2014 no. (%)\u2020           |                       |                        |  |  |  |\n| Complete response                          | 16 (7.6)              | 2 (1.0)                |  |  |  |\n| Partial response                           | 68 (32.4)             | 27 (13.0)              |  |  |  |\n| Stable disease                             | 35 (16.7)             | 46 (22.1)              |  |  |  |\n| Progressive disease                        | 69 (32.9)             | 101 (48.6)             |  |  |  |\n| Could not be determined                    | 22 (10.5)             | 32 (15.4)              |  |  |  |\n| Objective response\u2021                        |                       |                        |  |  |  |\n| No. of patients (% [95% CI])               | 84 (40.0 [33.3\u201347.0]) | 29 (13.9 [9.5\u201319.4])   |  |  |  |\n| Difference \u2014 percentage points<br>(95% CI) | 26.1 (18.0\u201334.1)      |                        |  |  |  |\n| Estimated odds ratio (95% CI)              | 4.06 (2.52\u20136.54)      |                        |  |  |  |\n| P value                                    | <0.001                |                        |  |  |  |\n| Time to objective response \u2014 mo            |                       |                        |  |  |  |\n| Median                                     | 2.1                   | 2.1                    |  |  |  |\n| Range                                      | 1.2\u20137.6               | 1.8\u20133.6                |  |  |  |\n| Mean                                       | 2.6\u00b11.3               | 2.5\u00b10.7                |  |  |  |\n| Duration of response \u2014 mo\u00a7                 |                       |                        |  |  |  |\n| Median (95% CI)                            | Not reached           | 6.0 (3.0\u2013not reached)  |  |  |  |\n| Range                                      | 0.0\u201312.5              | 1.1\u201310.0               |  |  |  |\n\n\\* Plus\u2013minus values are means \u00b1SD.\n\n\u2020 The best overall response was assessed by the investigator with the use of the Response Evaluation Criteria in Solid Tumors, version 1.1.<sup>19</sup>\n\n\u2021 Data include patients with a complete response and those with a partial response. The calculation of the confidence interval was based on the Clopper\u2013Pearson method. The estimate of the difference (the rate in the nivolumab group minus the rate in the dacarbazine group) was based on the Cochran\u2013Mantel\u2013Haenszel method of weighting, with adjustment for PD-L1 status and metastasis stage as entered into the interactive voice-response system. The odds ratio and twosided P value for an objective response with nivolumab as compared with dacarbazine were calculated with the use of a Cochran\u2013Mantel\u2013Haenszel test stratified according to PD-L1 status and metastasis stage.\n\n\u00a7 The median was calculated with the use of the Kaplan\u2013Meier method. Data were censored for the range values because the observations are ongoing. The cutoff date for clinical data was August 5, 2014, with a range of follow-up from 5.2 to 16.7 months.\n\nmutation. In this group of patients, only ipilimumab in combination with dacarbazine has been associated with a survival benefit, as compared with dacarbazine alone, in a phase 3, controlled trial.5 When the present study was planned in 2012, ipilimumab had not been approved for use as a first-line treatment for advanced melanoma in most regions outside the United States. However, during the course of this study, it was approved for first-line therapy in most regions. Nevertheless, dacarbazine is still used as a firstline therapy for metastatic melanoma in many countries.\n\nAn additional phase 3 study (CheckMate 067; ClinicalTrials.gov number, NCT01844505), evaluating both nivolumab monotherapy and combination therapy with nivolumab plus ipilimumab, as compared with ipilimumab alone, in previously untreated patients with melanoma is currently under way. The activity of ipilimumab is probably reflected in the performance of the dacarbazine group in the present study. The median survival in the dacarbazine group (10.8 months) in this study is higher than that previously reported,5 possibly because 38% of the dacarbazine-treated patients received ipilimumab after stopping the study treatment.\n\nThe objective response rate (40%) and duration of response associated with nivolumab that were observed in this study are in line with\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\n| Table 3. Adverse Events.*                                |                                |              |                        |              |  |  |  |\n|----------------------------------------------------------|--------------------------------|--------------|------------------------|--------------|--|--|--|\n| Event                                                    | Nivolumab<br>(N=206)           |              | Dacarbazine<br>(N=205) |              |  |  |  |\n|                                                          | Any Grade                      | Grade 3 or 4 | Any Grade              | Grade 3 or 4 |  |  |  |\n|                                                          | no. of patients with event (%) |              |                        |              |  |  |  |\n| Any adverse event                                        | 192 (93.2)                     | 70 (34.0)    | 194 (94.6)             | 78 (38.0)    |  |  |  |\n| Treatment-related adverse event\u2020                         | 153 (74.3)                     | 24 (11.7)    | 155 (75.6)             | 36 (17.6)    |  |  |  |\n| Fatigue                                                  | 41 (19.9)                      | 0            | 30 (14.6)              | 2 (1.0)      |  |  |  |\n| Pruritus                                                 | 35 (17.0)                      | 1 (0.5)      | 11 (5.4)               | 0            |  |  |  |\n| Nausea                                                   | 34 (16.5)                      | 0            | 85 (41.5)              | 0            |  |  |  |\n| Diarrhea                                                 | 33 (16.0)                      | 2 (1.0)      | 32 (15.6)              | 1 (0.5)      |  |  |  |\n| Rash                                                     | 31 (15.0)                      | 1 (0.5)      | 6 (2.9)                | 0            |  |  |  |\n| Vitiligo                                                 | 22 (10.7)                      | 0            | 1 (0.5)                | 0            |  |  |  |\n| Constipation                                             | 22 (10.7)                      | 0            | 25 (12.2)              | 0            |  |  |  |\n| Asthenia                                                 | 21 (10.2)                      | 0            | 25 (12.2)              | 1 (0.5)      |  |  |  |\n| Vomiting                                                 | 13 (6.3)                       | 1 (0.5)      | 43 (21.0)              | 1 (0.5)      |  |  |  |\n| Neutropenia                                              | 0                              | 0            | 23 (11.2)              | 9 (4.4)      |  |  |  |\n| Thrombocytopenia                                         | 0                              | 0            | 21 (10.2)              | 10 (4.9)     |  |  |  |\n| Adverse event leading to discontinuation<br>of treatment | 14 (6.8)                       | 12 (5.8)     | 24 (11.7)              | 19 (9.3)     |  |  |  |\n| Serious adverse event                                    |                                |              |                        |              |  |  |  |\n| Any event                                                | 64 (31.1)                      | 43 (20.9)    | 78 (38.0)              | 54 (26.3)    |  |  |  |\n| Treatment-related event                                  | 19 (9.2)                       | 12 (5.8)     | 18 (8.8)               | 12 (5.9)     |  |  |  |\n\n\\* The severity of adverse events was graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events, version 4.0.<sup>20</sup>\n\n\u2020 The treatment-related adverse events listed here were reported in at least 10% of the patients in either study group.\n\nthose in previous reports.15-17,22 It has generally been accepted that immunotherapy is associated with long-term responses in a subset of patients, whereas targeted therapies, such as BRAF inhibitors, are associated with high response rates and a rapid effect, but the responses are often short-lived.4-7,9,10,23 The present study shows that nivolumab is associated with a high response rate, a rapid median time to response (2.1 months, which is similar to the time to response for dacarbazine), and a durable response (the median duration of response was not reached, but the duration of follow-up was short). These results are in agreement with the long-term follow-up data from a phase 1 study of nivolumab, which showed a median duration of response of almost 2 years and an objective response rate of 32% among patients with advanced melanoma.<sup>22</sup>\n\nThe response rate with a BRAF or MEK inhibitor was recently surpassed by new combination regimens in patients with a *BRAF* V600 mutation11,12; however, for patients who have melanoma without a *BRAF* mutation, treatment options beyond ipilimumab are limited. Although the target population of our study was restricted to patients with melanoma who did not have a *BRAF* mutation, previous studies have shown that nivolumab had similar clinical activity regardless of the patient's *BRAF* mutation status.17,24\n\nPrevious studies, which have used various methodologic approaches, have shown a correlation between PD-L1 expression and objective response in patients with metastatic melanoma treated with anti\u2013PD-1 or anti\u2013PD-L1 antibodies.21,22,24-28 In our study, given the magnitude of the clinical benefit observed in patients receiving nivolumab versus those receiving dacarbazine, PD-L1 status alone, as assessed with the use of the methods presented here, does not\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\nseem to be useful in the selection of patients for nivolumab treatment. Also, because there was little difference in median overall survival between the two subgroups of dacarbazine-treated patients defined according to PD-L1 status (positive vs. negative or indeterminate), the prognostic role of PD-L1 status remains to be determined.\n\nThe safety profile of nivolumab in this study was similar to that observed previously.15-17,22 The frequency of selected adverse events with a potential immunologic cause was similar to the frequency observed in a previous phase 3 trial,17 and the events resolved in the majority of our patients.\n\nIn conclusion, nivolumab was associated with a significant improvement in overall survival and progression-free survival, as compared with dacarbazine. Nivolumab was associated with a low risk of high-grade toxic effects.\n\nSupported by Bristol-Myers Squibb.\n\nDisclosure forms provided by the authors are available with the full text of this article at NEJM.org.\n\nWe thank the patients who volunteered to participate in this study and the staff members at the study sites who cared for them; the members of the data and safety monitoring committee; representatives of the sponsors who were involved in data collection and analyses (particularly Arvin Yang, M.D., Ph.D., Susan Parker, Ph.D., and Diana Birle, M.D.); and Wayne Peng, Ph.D., and Karin McGlynn, B.A., of StemScientific for editorial and writing assistance with an earlier version of the manuscript.\n\n#### **APPENDIX**\n\nThe authors' affiliations are as follows: Gustave Roussy and INSERM Unit\u00e9 981, Villejuif\u2013Paris Sud (C.R.), H\u00f4pital Saint Andr\u00e9 Centre Hospitalier Universitaire, Bordeaux (C.D.), H\u00f4pital Claude Huriez, Lille (L.M.), Assistance Publique\u2013H\u00f4pitaux de Paris Dermatology and Centre d'Investigation Clinique H\u00f4pital Saint Louis Paris 7 University, INSERM Unit\u00e9 976, Paris (C.L.), and Grenoble University Hospital, INSERM Unit\u00e9 823, Joseph Fourier University, Grenoble (J.C.) \u2014 all in France; Melanoma Institute Australia, University of Sydney, and Mater Hospital, Sydney (G.V.L.), Cabrini Health, Melbourne, VIC (B.B.), Chris O'Brien Lifehouse, Melanoma Institute Australia and Royal Prince Alfred Hospital, Camperdown, NSW (C. McNeil), Princess Alexandra Hospital, Woolloongabba, and Gallipoli Medical Research Foundation, Greenslopes Private Hospital, Greenslopes, QLD (V.A.) \u2014 all in Australia; University Hospital of Siena, Siena (M.M.), Oncology Institute of Veneto Istituto di Ricovero e Cura a Carattere Scientifico, Padua (V.C.-S.), Division Oncology, Regina Elena Institute, Rome (F.C.), and Istituto Nazionale Tumori Fondazione Pascale, Naples (P.A.A.) \u2014 all in Italy; University Hospital Heidelberg and National Center for Tumor Diseases, Heidelberg (J.C.H.), Department of Dermatology, University Hospital Cologne and Centrum f\u00fcr Integrierte Onkologie K\u00f6ln, Bonn (C. Mauch), and Department of Dermatology, University of Essen, Essen (D.S.) \u2014 all in Germany; Maria Sklodowska-Curie Memorial Cancer Center and Institute of Oncology, Warsaw (P.R.), and Wojew\u00f3dzki Szpital Specjalistyczny im. M. Kopernika, Lodz (E.K.-W.) \u2014 both in Poland; British Columbia Cancer Agency, Vancouver (K.J.S.), and Royal Victoria Hospital, Montreal (C. Mihalcioiu) \u2014 both in Canada; Department of Oncology, Helsinki University Central Hospital, Helsinki (M.M.H.); Hospital Cl\u00ednic Barcelona, Barcelona (A.A.); Department of Oncology, Aarhus University Hospital, Aarhus, Denmark (H.S.); University of Athens Medical School, Laiko General Hospital, Athens (H.G.); Department of Clinical Sciences, Division of Oncology, Lund University, Lund, Sweden (L.L-E.); Bristol-Myers Squibb, Lawrenceville, NJ (C.H., I.M.W.); and Bristol-Myers Squibb, Wallingford, CT (B.S.).\n\n#### **REFERENCES**\n\n**1.** American Cancer Society. Melanoma skin cancer (http://www.cancer.org/acs/ groups/cid/documents/\n\nwebcontent/003120-pdf.pdf).\n\n**2.** World Health Organization. Ultraviolet radiation and the INTERSUN Programme; skin cancers (http://www.who .int/uv/faq/skincancer/en/index1.html).\n\n**3.** American Cancer Society. Cancer facts and figures 2014 (http://www .cancer.org/acs/groups/content/@research/ documents/webcontent/acspc-042151.pdf). **4.** Hodi FS, O'Day SJ, McDermott DF, et al. Improved survival with ipilimumab in patients with metastatic melanoma. N Engl J Med 2010;363:711-23. [Erratum, N Engl J Med 2010;363:1290.]\n\n**5.** Robert C, Thomas L, Bondarenko I, et al. Ipilimumab plus dacarbazine for previously untreated metastatic melanoma. N Engl J Med 2011;364:2517-26.\n\n**6.** Chapman PB, Hauschild A, Robert C, et al. Improved survival with vemurafenib in melanoma with BRAF V600E mutation. N Engl J Med 2011;364:2507-16.\n\n**7.** McArthur GA, Chapman PB, Robert\n\nC, et al. Safety and efficacy of vemurafenib in BRAFV600E and BRAFV600K mutation-positive melanoma (BRIM-3): extended follow-up of a phase 3, randomised, open-label study. Lancet Oncol 2014;15:323-32.\n\n**8.** Flaherty KT, Robert C, Hersey P, et al. Improved survival with MEK inhibition in BRAF-mutated melanoma. N Engl J Med 2012;367:107-14.\n\n**9.** Hauschild A, Grob JJ, Demidov LV, et al. Dabrafenib in BRAF-mutated metastatic melanoma: a multicentre, openlabel, phase 3 randomised controlled trial. Lancet 2012;380:358-65.\n\n**10.** Sosman JA, Kim KB, Schuchter L, et al. Survival in BRAF V600-mutant advanced melanoma treated with vemurafenib. N Engl J Med 2012;366:707-14.\n\n**11.** Larkin J, Ascierto PA, Dreno B, et al. Combined vemurafenib and combimetinib in *BRAF*-mutated melanoma. N Engl J Med 2014;371:1867-76.\n\n**12.** Long GV, Stroyakovskiy D, Gogas H, et al. Combined BRAF and MEK inhibition versus BRAF inhibition along in melanoma. N Engl J Med 2014;371:1877- 88.\n\n**13.** Espinosa E, Grob JJ, Dummer R, et al. Treatment algorithms in stage IV melanoma. Am J Ther 2014 January 9 (Epub ahead of print).\n\n**14.** Wang C, Thudium KB, Han M, et al. In vitro characterization of the anti-PD-1 antibody nivolumab, BMS-936558, and in vivo toxicology in non-human primates. Cancer Immunol Res 2014;2:846-56.\n\n**15.** Topalian SL, Hodi FS, Brahmer JR, et al. Safety, activity, and immune correlates of anti\u2013PD-1 antibody in cancer. N Engl J Med 2012;366:2443-54.\n\n**16.** Topalian SL, Sznol M, McDermott DF, et al. Survival, durable tumor remission, and long-term safety in patients with advanced melanoma receiving nivolumab. J Clin Oncol 2014;32:1020-30.\n\n**17.** Weber JS, Minor D, D'Angelo SP, et al. A phase 3 randomized, open-label study of nivolumab (anti-PD-1; BMS-936558; ONO-4538) versus investigator's choice chemotherapy (ICC) in patients with advanced melanoma with prior anti-CTLA-4\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\ntherapy. Presented at the European Society for Medical Oncology 2014 Congress, Madrid, September 26\u201330, 2014. abstract. **18.** Keytruda (pembrolizumab) prescribing information. Whitehouse Station, NJ: Merck (http://www.merck.com/product/usa/ pi\\_circulars/k/keytruda/keytruda\\_pi.pdf). **19.** Eisenhauer EA, Therasse P, Bogaerts J, et al. New response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1). Eur J Cancer 2009;45:228-47. **20.** NCI Common Terminology Criteria for Adverse Events (CTCAE) v.4 data files. Bethesda, MD: National Cancer Institute (http://evs.nci.nih.gov/ftp1/CTCAE/About .html).\n\n**21.** Wolchok JD, Kluger H, Callahan MK, et al. Nivolumab plus ipilimumab in advanced melanoma. N Engl J Med 2013; 369:122-33.\n\n**22.** McDermott DF, Kluger H, Sznol M, et\n\nal. Long-term survival of ipilimumabnaive patients (pts) with advanced melanoma (MEL) treated with nivolumab (anti-PD-1; BMS-936558, ONO-4538) in a phase 1 trial. Presented at the European Society for Medical Oncology 2014 Congress, Madrid, September 26\u201330, 2014 (poster).\n\n**23.** Ribas A. Combination therapies building on the efficacy of CTLA4 and BRAF inhibitors for metastatic melanoma. Am Soc Clin Oncol Educ Book 2012:675-8.\n\n**24.** Weber JS, Kudchadkar RR, Yu B, et al. Safety, efficacy, and biomarkers of nivolumab with vaccine in ipilimumabrefractory or -naive melanoma. J Clin Oncol 2013;31:4311-8.\n\n**25.** Ribas A, Hodi SF, Kefford R, et al. Efficacy and safety of the anti-PD-1 monoclonal antibody MK-3475 in 411 patients (pts) with melanoma (MEL). J Clin Oncol 2014;32:Suppl:5s. abstract.\n\n**26.** Hamid O, Sosman JA, Lawrence DP, et al. Clinical activity, safety, and biomarkers of MPDL3280A, an engineered PD-L1 antibody in patients with locally advanced or metastatic melanoma (mM). J Clin Oncol 2013;31:Suppl:9010. abstract.\n\n**27.** Grosso J, Horak CE, Inzunza D, et al. Association of tumor PD-L1 expression and immune biomarkers with clinical activity in patients (pts) with advanced solid tumors treated with nivolumab (anti-PD-1; BMS-936558; ONO-4538). J Clin Oncol 2013;31:Suppl:3016. abstract.\n\n**28.** Weber JS, Kudchadkar RR, Gibney GT, et al. Phase I/II trial of PD-1 antibody nivolumab with peptide vaccine in patients naive to or that failed ipilimumab. J Clin Oncol 2013;31:Suppl:9011. abstract. *Copyright \u00a9 2014 Massachusetts Medical Society.*\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only. No other uses without permission. Copyright \u00a9 2015 Massachusetts Medical Society. All rights reserved.  # Increased text length for comprehensive extraction\n\nReturn JSON only:",
+    "validation_data": {
+      "can_process": true,
+      "nct_number": "NCT01721772",
+      "treatment_arms_count": 0,
+      "errors": [],
+      "warnings": []
+    },
+    "extraction_ready": true,
+    "source": "marker_enhanced",
+    "markdown_length": 50262,
+    "extraction_timestamp": "2025-07-23T12:35:02.292210"
+  },
+  "quality_assessment": {
+    "markdown_quality": 100.0,
+    "clinical_keywords_found": 13,
+    "table_structures": 611,
+    "section_headers": 76,
+    "nct_numbers": 2,
+    "extraction_fields_filled": 6,
+    "processing_success": true
+  },
+  "success": true,
+  "processing_time": 1753254302.2947662,
+  "use_llm": false
+}

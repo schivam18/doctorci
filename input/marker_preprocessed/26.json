@@ -1,0 +1,1046 @@
+{
+  "pdf_path": "resources/26.pdf",
+  "pdf_name": "26",
+  "marker_processing": {
+    "pdf_path": "resources/26.pdf",
+    "pdf_name": "26",
+    "markdown_path": "/var/folders/k8/d1yv1yjs12d97mqvcvxgjnhm0000gn/T/tmpwgdkel3w/26/26.md",
+    "json_path": "/var/folders/k8/d1yv1yjs12d97mqvcvxgjnhm0000gn/T/tmpwgdkel3w/26/26_meta.json",
+    "success": true,
+    "markdown_content": "# original article\n\n# Nivolumab and Ipilimumab versus Ipilimumab in Untreated Melanoma\n\nMichael A. Postow, M.D., Jason Chesney, M.D., Ph.D., Anna C. Pavlick, D.O., Caroline Robert, M.D., Ph.D., Kenneth Grossmann, M.D., Ph.D., David McDermott, M.D., Gerald P. Linette, M.D., Ph.D., Nicolas Meyer, M.D., Jeffrey K. Giguere, M.D., Sanjiv S. Agarwala, M.D., Montaser Shaheen, M.D., Marc S. Ernstoff, M.D., David Minor, M.D., April K. Salama, M.D., Matthew Taylor, M.D., Patrick A. Ott, M.D., Ph.D., Linda M. Rollin, Ph.D., Christine Horak, Ph.D., Paul Gagnier, M.D., Ph.D., Jedd D. Wolchok, M.D., Ph.D., and F. Stephen Hodi, M.D.\n\n## ABSTRACT\n\n#### **Background**\n\nFrom Memorial Sloan Kettering Cancer Center (M.A.P., J.D.W.), Weill Cornell Medical College (M.A.P., J.D.W.), and New York University, Perlmutter Cancer Center (A.C.P.) \u2014 all in New York; J. Graham Brown Cancer Center, University of Louisville, Louisville, KY (J.C.); Institute Gustave Roussy, Villejuif (C.R.), Paris-Sud University, Orsay (C.R.), and Institut Universitaire du Cancer, Toulouse (N.M.) \u2014 all in France; Huntsman Cancer Institute, Salt Lake City (K.G.); Beth Israel Deaconess Medical Center (D. McDermott) and Dana\u2013Farber Cancer Institute (P.A.O., F.S.H.) \u2014 both in Boston; Washington University in St. Louis, St. Louis (G.P.L.); Greenville Health System, Greenville, SC (J.K.G.); St. Luke's Cancer Center, Bethlehem, PA (S.S.A.); University of New Mexico, Albuquerque (M.S.); Taussig Cancer Institute, Cleveland Clinic Foundation, Cleveland (M.S.E.); California Pacific Center for Melanoma Research, San Francisco (D. Minor); Duke University, Durham, NC (A.K.S.); Oregon Health and Science University, Portland (M.T.); Bristol-Myers Squibb, Lawrenceville, NJ (C.H.); and Bristol-Myers Squibb, Wallingford, CT (L.M.R., P.G.). Address reprint requests to Dr. Hodi at the Dana\u2013 Farber Cancer Institute, 450 Brookline Ave., Boston, MA 02215, or at stephen\\_hodi@ dfci.harvard.edu; or to Dr. Wolchok at the Ludwig Center at Memorial Sloan Kettering Cancer Center, 1275 York Ave., New York, NY 10065, or at wolchokj@mskcc.org.\n\nDrs. Wolchok and Hodi contributed equally to this article.\n\nThis article was published on April 20, 2015, at NEJM.org.\n\n**N Engl J Med 2015;372:2006-17. DOI: 10.1056/NEJMoa1414428** *Copyright \u00a9 2015 Massachusetts Medical Society.* In a phase 1 dose-escalation study, combined inhibition of T-cell checkpoint pathways by nivolumab and ipilimumab was associated with a high rate of objective response, including complete responses, among patients with advanced melanoma.\n\n#### **Methods**\n\nIn this double-blind study involving 142 patients with metastatic melanoma who had not previously received treatment, we randomly assigned patients in a 2:1 ratio to receive ipilimumab (3 mg per kilogram of body weight) combined with either nivolumab (1 mg per kilogram) or placebo once every 3 weeks for four doses, followed by nivolumab (3 mg per kilogram) or placebo every 2 weeks until the occurrence of disease progression or unacceptable toxic effects. The primary end point was the rate of investigator-assessed, confirmed objective response among patients with *BRAF* V600 wild-type tumors.\n\n#### **Results**\n\nAmong patients with *BRAF* wild-type tumors, the rate of confirmed objective response was 61% (44 of 72 patients) in the group that received both ipilimumab and nivolumab (combination group) versus 11% (4 of 37 patients) in the group that received ipilimumab and placebo (ipilimumab-monotherapy group) (P<0.001), with complete responses reported in 16 patients (22%) in the combination group and no patients in the ipilimumab-monotherapy group. The median duration of response was not reached in either group. The median progression-free survival was not reached with the combination therapy and was 4.4 months with ipilimumab monotherapy (hazard ratio associated with combination therapy as compared with ipilimumab monotherapy for disease progression or death, 0.40; 95% confidence interval, 0.23 to 0.68; P<0.001). Similar results for response rate and progression-free survival were observed in 33 patients with *BRAF* mutation\u2013positive tumors. Drug-related adverse events of grade 3 or 4 were reported in 54% of the patients who received the combination therapy as compared with 24% of the patients who received ipilimumab monotherapy. Select adverse events with potential immunologic causes were consistent with those in a phase 1 study, and most of these events resolved with immune-modulating medication.\n\n## **Conclusions**\n\nThe objective-response rate and the progression-free survival among patients with advanced melanoma who had not previously received treatment were significantly greater with nivolumab combined with ipilimumab than with ipilimumab monotherapy. Combination therapy had an acceptable safety profile. (Funded by Bristol-Myers Squibb; ClinicalTrials.gov number, NCT01927419.)\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\nRecent approaches to the treatment of metastatic melanoma enhance antitumor immunity by blocking immune checkpoints, such as cytotoxic T-lymphocyte\u2013associated antigen 4 (CTLA-4) and the programmed death 1 (PD-1) receptor. Ipilimumab, an anti\u2013CTLA-4 antibody, is approved by the Food and Drug Administration (FDA) on the basis of improvement in overall survival among patients with advanced melanoma, with objective responses in approximately 11% of the patients.1,2 Nivolumab, an anti\u2013PD-1 monoclonal antibody, has recently been shown to improve overall survival, as compared with dacarbazine (objective response rate, 40% vs. 14%), among previously untreated patients with advanced *BRAF* wild-type melanoma.3 Nivolumab is approved by the FDA on the basis of an improvement in confirmed objective responses, as compared with chemotherapy (32% vs. 11%), among patients with metastatic melanoma who have disease progression after treatment with ipilimumab or a BRAF inhibitor.<sup>4</sup>\n\nTargeted therapies, such as BRAF and MEK inhibitors that are approved for the treatment of patients with advanced melanoma who harbor *BRAF* V600 mutation\u2013positive tumors, result in a high rate of initial tumor responses, with a significant survival advantage over dacarbazine; however, the median duration of response is less than 1 year.5-12 Therefore, there is a need for new treatment options, particularly for the 50 to 60% of patients with *BRAF* wild-type melanoma.\n\nCTLA-4 and PD-1 inhibit antitumor immunity through complementary and nonredundant mechanisms.13 Preclinical models have shown that dual blockade, as compared with blockade of either pathway alone, synergistically improves antitumor responses.14,15 High rates of objective response (including complete responses), a prolonged duration of response, and a favorable overall survival rate of 79% at 2 years were observed in a phase 1 dose-escalation study involving patients with advanced melanoma who received the combination regimen of nivolumab and ipilimumab.16,17 Here, we report the results of a randomized, double-blind trial comparing nivolumab in combination with ipilimumab with standard-of-care ipilimumab monotherapy as a first-line treatment in patients with advanced melanoma.\n\n## Methods\n\n## **Patients**\n\nEligible patients had histologically confirmed, unresectable, previously untreated stage III or IV melanoma with measurable disease. Other inclusion criteria included a known *BRAF* V600 mutation status, an Eastern Cooperative Oncology Group performance-status score of 0 or 1 (on a scale of 0 to 5, with 0 indicating no symptoms and higher scores indicating greater disability), and the availability of tumor tissue from a metastatic or unresectable site for immunohistochemical assessment of PD-1 ligand (PD-L1) expression. Key exclusion criteria were active brain metastases, uveal melanoma, and serious autoimmune disease.\n\n#### **Study Design and Treatment**\n\nPatients were randomly assigned, in a 2:1 ratio and in a double-blinded manner, to receive both nivolumab and ipilimumab (combination group) or ipilimumab alone (ipilimumab-monotherapy group). Randomization was stratified according to *BRAF* mutation status (V600 wild-type vs. mutation-positive). In the combination group, nivolumab was administered intravenously at a dose of 1 mg per kilogram of body weight over a period of 60 minutes, once every 3 weeks for four doses. Thirty minutes after the completion of each nivolumab infusion, patients received 3 mg of ipilimumab per kilogram over a period of 90 minutes. After the fourth dose of both agents, ipilimumab was discontinued, and thereafter (maintenance phase), nivolumab was administered as a single agent at a dose of 3 mg per kilogram over a period of 60 minutes, once every 2 weeks.\n\nIn the ipilimumab-monotherapy group, the same dosing schedule was used, except that nivolumab was replaced with matched placebo during both the combination and maintenance portions of the trial. Treatment was continued as long as clinical benefit (as defined by the investigator) was observed or until unacceptable side effects occurred.\n\nPatients who had investigator-assessed disease progression could be treated beyond progression (with blinding maintained) or have blinded study therapy discontinued (after which time the treatment assignment could be disclosed to the investigator and patient). After unblinding, patients in the ipilimumab-monotherapy group had the op-\n\ntion of receiving nivolumab at a dose of 3 mg per kilogram every 2 weeks until further disease progression, and patients in the combination group were required to discontinue treatment (Fig. S1 in the Supplementary Appendix, available with the full text of this article at NEJM.org).\n\nThe primary end point was the rate of investigator-assessed, confirmed objective response among patients with *BRAF* V600 wild-type tumors. The primary end point was restricted to this group of patients because at the time of study enrollment, approved treatment options were limited for these patients and only ipilimumab had shown an overall survival benefit in a randomized, controlled trial. Secondary end points included investigator-assessed progression-free survival in patients with *BRAF* wild-type tumors, the objective response rate and progression-free survival among patients with *BRAF* V600 mutation\u2013positive tumors, and safety.\n\n#### **Assessments**\n\nTumor response was assessed according to the Response Evaluation Criteria in Solid Tumors, version 1.1,18 at the following time points: 12 weeks after the first treatment, every 6 weeks thereafter for the first year, then every 12 weeks until disease progression or discontinuation of treatment. Safety evaluations were performed in patients who had received at least one dose of study treatment, and the severity of adverse events was graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events, version 4.0.19 Guidelines for the management of adverse events were provided by the sponsor and are available in the Supplementary Appendix.\n\n#### **Study Oversight**\n\nThe study protocol, available along with the most recent version of the statistical analysis plan at NEJM.org, was approved by the institutional review board at each participating center. The study was conducted in accordance with the provisions of the Declaration of Helsinki and International Conference on Harmonisation Guidelines for Good Clinical Practice. All the patients provided written informed consent. An independent radiology review committee was established to provide a sensitivity assessment of objective responses, and a data and safety monitoring committee provided general oversight. Data were collected by the sponsor, Bristol-Myers Squibb, and were analyzed in collaboration with the authors. The authors vouch for the accuracy and completeness of the data and the fidelity of the study to the protocol. The first draft of the manuscript was written by the first and last authors, with all the authors contributing to subsequent drafts. Medical-writing support, funded by the sponsor, was provided by StemScientific. All the authors made the decision to submit the manuscript for publication.\n\n#### **Immunohistochemical Assessment of PD-L1**\n\nThe expression of PD-L1 on the surface of tumor cells was assessed in pretreatment tumor samples at a central laboratory with the use of an automated immunohistochemical assay (Bristol-Myers Squibb and Dako), as described previously.17 A tumor was considered to be PD-L1\u2013positive if at least 5% of tumor cells showed cell-surface PD-L1 staining of any intensity in a section containing at least 100 tumor cells that could be evaluated.\n\n#### **Statistical Analysis**\n\nWe planned to enroll approximately 100 patients with *BRAF* V600 wild-type tumors who would be randomly assigned in a 2:1 ratio to one of the two treatment groups (the intention-to-treat population). Patients with *BRAF* V600 mutation\u2013positive tumors were eligible for the study, with approximately 50 planned to undergo randomization. Analyses in the population with *BRAF* V600 mutation\u2013positive tumors were intended to be descriptive only and were not part of the sample-size consideration. Given a two-sided alpha level of 0.05, we calculated that the sample of 100 patients with *BRAF* wild-type tumors would give the study approximately 87% power to detect a significant difference in the objective response rate between the combination group and the ipilimumab-monotherapy group, assuming an objective response rate of 40% versus 10%. In order to preserve an experiment-wide type I error rate of 5%, a hierarchical testing approach was applied to key secondary end points after analysis of the primary end point of the objective response rate in all patients with *BRAF* wild-type tumors who underwent randomization. Of the key secondary end points, the objective response rate among all randomly assigned patients was tested first, followed by testing of progression-free survival among all patients with *BRAF* wild-type tumors who under-\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\nwent randomization; progression-free survival among all randomly assigned patients was tested last.\n\n## Results\n\n### **Patients**\n\nBaseline characteristics were well balanced between the study groups (Table 1). At trial entry, the majority of patients (87%) had stage IV disease according to the American Joint Committee on Cancer staging system, and 46% of the patients had tumors characterized as M1c disease (metastases to visceral sites other than skin, subcutaneous, distant lymph nodes, or lung, or distant metastases to any site along with elevated serum lactate dehydrogenase level). Elevated lactate dehydrogenase levels were observed in 35 patients (25%), and 23% of the patients had *BRAF* V600 mutation\u2013positive tumors. Of 118 patients whose PD-L1 expression could be evaluated, 35 (30%) had PD-L1\u2013positive tumors.\n\nFrom September 16, 2013, to February 6, 2014, a total of 179 patients were screened in the United States and France, and 142 patients (109 with *BRAF* wild-type tumors and 33 with *BRAF* V600 mutation\u2013positive tumors) were randomly assigned to one of the two treatment groups (Table S1 in the Supplementary Appendix). Clinical database lock for the results reported here occurred on January 30, 2015, with a minimum follow-up period of 11 months after randomization.\n\n#### **Efficacy**\n\nThe rate of investigator-assessed, confirmed objective response among the patients with *BRAF* wild-type tumors was 61% (95% confidence interval [CI], 49 to 72) in the combination group, versus 11% (95% CI, 3 to 25) in the ipilimumabmonotherapy group (odds ratio, 12.96; 95% CI, 3.91 to 54.49; P<0.001) (Table 2). A complete response was observed in 16 patients (22%) in the combination group and no patients in the ipilimumab-monotherapy group. Figure 1A shows the distribution of tumor-burden change from baseline among patients with *BRAF* wild-type tumors. The median change in investigator-assessed tumor volume was a 68.1% decrease in the combination group and a 5.5% increase in the ipilimumab-monotherapy group.\n\nAmong the patients with *BRAF* wild-type tumors who underwent randomization, the median duration of response was not reached in either group, with an ongoing response observed in 36 of the 44 patients with a response (82%) in the combination group and in 3 of the 4 patients with a response (75%) in the ipilimumab-monotherapy group (Fig. 1B). The time to a response did not differ significantly between the groups, with the majority of all responses observed at the time the first scan was obtained (Fig. 1B).\n\nAmong patients with *BRAF* mutation\u2013positive tumors, the objective response rate was 52% (12 of 23 patients) in the combination group, with the percentage of complete responses (22% [5 patients]) similar to that in patients with *BRAF* wildtype tumors (Table 2). In the population with *BRAF* wild-type tumors, the median progressionfree survival was not reached with the combination therapy and was 4.4 months (95% CI, 2.8 to 5.7) with ipilimumab monotherapy (hazard ratio associated with combination therapy as compared with ipilimumab monotherapy for disease progression or death, 0.40; 95% CI, 0.23 to 0.68; P<0.001) (Fig. 1C). Among patients with *BRAF* mutation\u2013positive tumors, the median progression-free survival was 8.5 months (95% CI, 2.8 to not estimable) in the combination group and 2.7 months (95% CI, 1.0 to 5.4) in the ipilimumabmonotherapy group (hazard ratio associated with combination therapy as compared with ipilimumab monotherapy for disease progression or death, 0.38; 95% CI, 0.15 to 1.00) (Fig. S2 in the Supplementary Appendix). Among all randomly assigned patients who discontinued study treatment owing to toxic effects, the objective response rate was 68% (95% CI, 52 to 81) in the combination group (30 of 44 patients), as compared with 10% (95% CI, 0 to 45) in the ipilimumab-monotherapy group (1 of 10 patients).\n\nIn patients with *BRAF* wild-type tumors, the response benefit with the nivolumab-and-ipilimumab combination, as compared with ipilimumab alone, was observed across all prespecified patient subgroups, including patients with stage M1c disease and those with elevated lactate dehydrogenase levels (Fig. S3 in the Supplementary Appendix). In the combination group, the objective response rate was independent of tumor PD-L1 status: 58% (95% CI, 37 to 78) among patients with PD-L1\u2013positive tumors and 55% (95% CI, 41 to 69) among patients with PD-L1\u2013negative tumors (Table S2 in the Supplementary Appendix). In the ipilimumab-monotherapy group, a numerically higher objective re-\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\n| Table 1. Baseline Characteristics of the Patients.* |                                        |                                     |                                        |                      |                  |  |\n|-----------------------------------------------------|----------------------------------------|-------------------------------------|----------------------------------------|----------------------|------------------|--|\n| Characteristic                                      |                                        | Patients with BRAF Wild-Type Tumors | All Randomly Assigned Patients         |                      |                  |  |\n|                                                     | Nivolumab plus<br>Ipilimumab<br>(N=72) | Ipilimumab<br>(N=37)                | Nivolumab plus<br>Ipilimumab<br>(N=95) | Ipilimumab<br>(N=47) | Total<br>(N=142) |  |\n| Age \u2014 yr                                            |                                        |                                     |                                        |                      |                  |  |\n| Median                                              | 66                                     | 69                                  | 64                                     | 67                   | 65               |  |\n| Range                                               | 27\u201387                                  | 46\u201380                               | 27\u201387                                  | 31\u201380                | 27\u201387            |  |\n| Sex \u2014 no. (%)                                       |                                        |                                     |                                        |                      |                  |  |\n| Male                                                | 48 (67)                                | 23 (62)                             | 63 (66)                                | 32 (68)              | 95 (67)          |  |\n| Female                                              | 24 (33)                                | 14 (38)                             | 32 (34)                                | 15 (32)              | 47 (33)          |  |\n| Disease stage at study entry \u2014<br>no. (%)\u2020          |                                        |                                     |                                        |                      |                  |  |\n| III                                                 | 8 (11)                                 | 8 (22)                              | 10 (11)                                | 9 (19)               | 19 (13)          |  |\n| IV                                                  | 64 (89)                                | 29 (78)                             | 85 (89)                                | 38 (81)              | 123 (87)         |  |\n| ECOG performance-status<br>score \u2014 no. (%)\u2021         |                                        |                                     |                                        |                      |                  |  |\n| 0                                                   | 62 (86)                                | 30 (81)                             | 79 (83)                                | 37 (79)              | 116 (82)         |  |\n| 1                                                   | 9 (12)                                 | 7 (19)                              | 14 (15)                                | 10 (21)              | 24 (17)          |  |\n| \u22652                                                  | 1 (1)                                  | 0                                   | 2 (2)                                  | 0                    | 2 (1)            |  |\n| Metastasis stage at study<br>entry \u2014 no. (%)\u00a7       |                                        |                                     |                                        |                      |                  |  |\n| M0                                                  | 6 (8)                                  | 5 (14)                              | 8 (8)                                  | 5 (11)               | 13 (9)           |  |\n| M1a                                                 | 9 (12)                                 | 7 (19)                              | 15 (16)                                | 8 (17)               | 23 (16)          |  |\n| M1b                                                 | 22 (31)                                | 8 (22)                              | 27 (28)                                | 12 (26)              | 39 (27)          |  |\n| M1c                                                 | 34 (47)                                | 16 (43)                             | 44 (46)                                | 21 (45)              | 65 (46)          |  |\n| Not reported                                        | 1 (1)                                  | 1 (3)                               | 1 (1)                                  | 1 (2)                | 2 (1)            |  |\n| Lactate dehydrogenase<br>\u2014 no. (%)\u00b6                 |                                        |                                     |                                        |                      |                  |  |\n| \u2264ULN                                                | 57 (79)                                | 30 (81)                             | 70 (74)                                | 36 (77)              | 106 (75)         |  |\n| >ULN                                                | 15 (21)                                | 7 (19)                              | 24 (25)                                | 11 (23)              | 35 (25)          |  |\n| \u22642\u00d7 ULN                                             | 69 (96)                                | 36 (97)                             | 88 (93)                                | 46 (98)              | 134 (94)         |  |\n| >2\u00d7 ULN                                             | 3 (4)                                  | 1 (3)                               | 6 (6)                                  | 1 (2)                | 7 (5)            |  |\n| History of brain metastases \u2014<br>no. (%)\u2016           |                                        |                                     |                                        |                      |                  |  |\n| Yes                                                 | 4 (6)                                  | 0                                   | 4 (4)                                  | 0                    | 4 (3)            |  |\n| No                                                  | 67 (93)                                | 37 (100)                            | 90 (95)                                | 47 (100)             | 137 (96)         |  |\n| BRAF V600 mutation \u2014 no. (%)                        | 0                                      | 0                                   | 23 (24)                                | 10 (21)              | 33 (23)          |  |\n\n\\* P values were not calculated, per the statistical analysis plan. ULN denotes upper limit of the normal range.\n\n\u2020 The disease stage was defined according to the staging system for melanoma of the American Joint Committee on Cancer.\n\n\u2021 An Eastern Cooperative Oncology Group (ECOG) performance-status score of 0 indicates no symptoms, 1 mild symptoms, and 2 moderate symptoms, with the patient being ambulatory and capable of all self-care but unable to carry out any work activities. Two patients randomly assigned to the nivolumab-plus-ipilimumab group were inadvertently enrolled in the study, despite having an ECOG performance-status score of 2.\n\n\u00a7 The metastasis stage was defined according to the tumor\u2013node\u2013metastasis system of the American Joint Committee on Cancer and the Union for International Cancer Control.\n\n\u00b6One patient randomly assigned to the nivolumab-plus-ipilimumab group inadvertently did not have a baseline lactate dehydrogenase level of \u22642\u00d7 ULN.\n\n\u2016 For one additional patient with a *BRAF* wild-type tumor who was randomly assigned to the nivolumab-plus-ipilimumab group, the history of brain metastases was not recorded on the clinical report form.\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\n| Table 2. Response to Treatment.                         |                                        |                      |                                                     |                      |  |  |\n|---------------------------------------------------------|----------------------------------------|----------------------|-----------------------------------------------------|----------------------|--|--|\n| Variable                                                | Patients with BRAF<br>Wild-Type Tumors |                      | Patients with BRAF<br>V600 Mutation\u2013Positive Tumors |                      |  |  |\n|                                                         | Nivolumab plus<br>Ipilimumab<br>(N=72) | Ipilimumab<br>(N=37) | Nivolumab plus<br>Ipilimumab<br>(N=23)              | Ipilimumab<br>(N=10) |  |  |\n| Best overall response \u2014 no. (%)*                        |                                        |                      |                                                     |                      |  |  |\n| Complete response                                       | 16 (22)                                | 0                    | 5 (22)                                              | 0                    |  |  |\n| Partial response                                        | 28 (39)                                | 4 (11)               | 7 (30)                                              | 1 (10)               |  |  |\n| Stable disease                                          | 9 (12)                                 | 13 (35)              | 3 (13)                                              | 1 (10)               |  |  |\n| Progressive disease                                     | 10 (14)                                | 15 (41)              | 5 (22)                                              | 7 (70)               |  |  |\n| Could not be determined                                 | 9 (12)                                 | 5 (14)               | 3 (13)                                              | 1 (10)               |  |  |\n| Patients with objective response<br>\u2014 no. (% [95% CI])\u2020 | 44 (61 [49\u201372])                        | 4 (11 [3\u201325])        | 12 (52 [31\u201373])                                     | 1 (10 [0\u201345])        |  |  |\n\n\\* The best overall response was assessed by the investigator with the use of the Response Evaluation Criteria in Solid Tumors, version 1.1.\n\n\u2020 Data include patients with a complete response and those with a partial response. The calculation of the confidence interval (CI) was based on the Clopper\u2013Pearson method. The estimated odds ratio for nivolumab plus ipilimumab as compared with ipilimumab alone was 12.96 (95% CI, 3.91 to 54.49) among patients with *BRAF* wild-type tumors (P<0.001) and 9.82 (95% CI, 0.99 to 465.39) among patients with *BRAF* V600 mutation\u2013positive tumors (P value was not calculated, per the statistical analysis plan).\n\nsponse rate was observed among patients with PD-L1\u2013positive tumors than among patients with PD-L1\u2013negative tumors (18% [95% CI, 2 to 52] vs. 4% [95% CI, 0 to 19]).\n\n#### **Safety**\n\nIn the combination group, 59% and 57% of the patients received at least four doses of nivolumab and ipilimumab, respectively; in the ipilimumab monotherapy group, 70% of the patients received at least four doses of ipilimumab (Table S3 in the Supplementary Appendix). The rate of treatmentrelated adverse events, as assessed by the investigators, was 91% in the combination group and 93% in the ipilimumab-monotherapy group (Table 3). Drug-related adverse events of grade 3 or 4 were reported more frequently in the combination group than in the ipilimumab-monotherapy group (54% vs. 24%); in patients who received the combination regimen, the onset of most adverse events occurred during the combination phase rather than the maintenance (nivolumab-monotherapy) phase. The most common grade 3 or 4 adverse events associated with the combination therapy were colitis (17%), diarrhea (11%), and an elevated alanine aminotransferase level (11%). Diarrhea was the most frequently reported grade 3 or 4 adverse event associated with ipilimumab monotherapy (11%), followed by colitis (7%).\n\nSelect adverse events of potentially immune-\n\nmediated cause occurred most frequently in the skin, gastrointestinal, endocrine, and hepatic organ categories (Table S4 in the Supplementary Appendix) and were observed more frequently with combination therapy than with ipilimumab monotherapy. Immunosuppressive medications for the management of adverse events, including topical agents for dermatologic adverse events, were used in a higher percentage of patients in the combination group than in the ipilimumab group (89% vs. 59%). The most commonly used systemic immunosuppressive agents across both treatment groups were glucocorticoids (82% of the patients in the combination group and 50% of the patients in the ipilimumab-monotherapy group). Infliximab was administered to 13% and 9% of the patients in the respective groups for adverse-event management. Hormone-replacement therapy was used to manage endocrine adverse events. Of 46 grade 3 or 4 drug-related select adverse events in the combination group that were managed with immunomodulatory medication, the majority (approximately 80%) resolved completely, or symptoms returned to baseline levels (Table 4). There was a similar resolution rate across organ categories in both treatment groups.\n\nThe most common reason for discontinuation of study treatment was drug-related adverse events in the combination group (45%) and disease progression in the ipilimumab-monothera-\n\nn engl j med 372;21 nejm.org may 21, 2015 2011\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\n![](_page_6_Figure_1.jpeg)\n\n## **Figure 1 (facing page). Change in Tumor Burden, Durability of Tumor Regressions, and Progression-free Survival.**\n\nPanel A shows the best change from baseline in the sum of the reference diameters of the target lesion in patients receiving the combination of nivolumab and ipilimumab (left) and those receiving ipilimumab monotherapy (right). The dashed line indicates the 30% reduction in tumor burden that is consistent with a response to treatment according to the Response Evaluation Criteria in Solid Tumors (RECIST), version 1.1. Panel B shows the durability of tumor regressions in patients with advanced melanoma with *BRAF* wildtype tumors who had objective responses to the combination regimen or ipilimumab monotherapy according to conventional RECIST guidelines. Open circles indicate the first evidence of objective response and arrows indicate an ongoing response at the time of the analysis. Panel C shows Kaplan\u2013Meier curves for progression-free survival among patients with *BRAF* wild-type tumors treated with the combination regimen or ipilimumab alone. NR denotes not reached.\n\npy group (37%) (Table S5 in the Supplementary Appendix). After the initial four doses, 40% of the patients in the combination group continued to receive nivolumab as monotherapy (Table S3 in the Supplementary Appendix).\n\nThe number of reported deaths among treated patients was 25 in the combination group (27%) and 17 in the ipilimumab-monotherapy group (37%); most deaths were due to progressive disease. Three deaths were related to the combination therapy according to investigator assessment \u2014 one patient with a history of cardiac disease died from ventricular arrhythmia 29 days after the last dose of study treatment; the second died suddenly 69 days after the last dose while clinically improving from pneumonitis and having an iatrogenic pneumothorax. The third patient died suddenly 86 days after the last dose of study treatment (3 days after the resolution of grade 3 pneumonia and grade 4 hypercalcemia). None of the deaths in the ipilimumabmonotherapy group were deemed to be related to the study drug.\n\n## Discussion\n\nIn this double-blind, randomized study, the combination of nivolumab and ipilimumab resulted in a significantly higher objective response rate, more frequent complete responses, and significantly longer progression-free survival than ipilimumab alone among previously untreated patients with advanced melanoma. The confirmed response rate associated with the combination therapy in this trial (61%) is numerically higher than the 40% response rate that was recently reported with nivolumab monotherapy as first-line therapy in patients with advanced melanoma who have *BRAF* wild-type tumors and also higher than the rate observed in trials of monotherapy with pembrolizumab, another anti\u2013PD-1 agent.<sup>20</sup> However, it is inherently difficult to compare the efficacy of the combination therapy with that of anti\u2013PD-1 monotherapy, because the demographic characteristics of the patients differed among the trials.\n\nOn the basis of the high degree of tumor reduction in the current study, with a high rate of complete responses (22% among the patients with *BRAF* wild-type tumors who were assigned to the combination therapy), a favorable clinical benefit can be anticipated with longer follow-up. Overall, the characteristics of response observed with nivolumab plus ipilimumab in the current study are consistent with results reported previously,16,17 with most responses occurring by the time of the first tumor assessment and, in many patients, responses continuing despite discontinuation of therapy. The response rate associated with the combination regimen in this current phase 2 study was even higher than response rates reported previously, which may be explained by the fact that the patient population in this study was previously untreated. A prior phase 1 trial of the combination regimen at varying doses showed high rates of overall survival at 1 year (85%) and 2 years (79%).16,17\n\nThe primary end point of this study specifically addressed patients with *BRAF* wild-type melanoma because at the time of study enrollment, ipilimumab was the only approved therapy for this group of patients that had shown an overall survival benefit in a randomized phase 3 trial. Although BRAF inhibitors as single agents and BRAF inhibitor\u2013MEK inhibitor combinations can result in high response rates among patients with *BRAF*-mutant melanoma,14,15,21 no\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\n| Table 3. Treatment-Related Adverse Events.*                                |           |                                     |                      |              |  |  |\n|----------------------------------------------------------------------------|-----------|-------------------------------------|----------------------|--------------|--|--|\n| Event                                                                      |           | Nivolumab plus Ipilimumab<br>(N=94) | Ipilimumab<br>(N=46) |              |  |  |\n|                                                                            | Any Grade | Grade 3 or 4                        | Any Grade            | Grade 3 or 4 |  |  |\n|                                                                            |           | number of patients (percent)        |                      |              |  |  |\n| Any treatment-related adverse event                                        | 86 (91)   | 51 (54)                             | 43 (93)              | 11 (24)      |  |  |\n| Most common treatment-related<br>adverse events\u2020                           |           |                                     |                      |              |  |  |\n| Diarrhea\u2021                                                                  | 42 (45)   | 10 (11)                             | 17 (37)              | 5 (11)       |  |  |\n| Rash                                                                       | 39 (41)   | 5 (5)                               | 12 (26)              | 0            |  |  |\n| Fatigue                                                                    | 37 (39)   | 5 (5)                               | 20 (43)              | 0            |  |  |\n| Pruritus                                                                   | 33 (35)   | 1 (1)                               | 13 (28)              | 0            |  |  |\n| Colitis\u2021                                                                   | 22 (23)   | 16 (17)                             | 6 (13)               | 3 (7)        |  |  |\n| Nausea                                                                     | 21 (22)   | 1 (1)                               | 11 (24)              | 1 (2)        |  |  |\n| Elevated alanine aminotransferase                                          | 21 (22)   | 10 (11)                             | 2 (4)                | 0            |  |  |\n| Elevated aspartate aminotransferase                                        | 20 (21)   | 7 (7)                               | 2 (4)                | 0            |  |  |\n| Pyrexia                                                                    | 19 (20)   | 3 (3)                               | 7 (15)               | 0            |  |  |\n| Maculopapular rash                                                         | 15 (16)   | 3 (3)                               | 8 (17)               | 0            |  |  |\n| Hypothyroidism                                                             | 15 (16)   | 0                                   | 7 (15)               | 0            |  |  |\n| Decreased appetite                                                         | 14 (15)   | 0                                   | 4 (9)                | 0            |  |  |\n| Headache                                                                   | 13 (14)   | 2 (2)                               | 5 (11)               | 0            |  |  |\n| Vomiting                                                                   | 13 (14)   | 1 (1)                               | 5 (11)               | 0            |  |  |\n| Increased lipase                                                           | 12 (13)   | 8 (9)                               | 2 (4)                | 1 (2)        |  |  |\n| Hypophysitis                                                               | 11 (12)   | 2 (2)                               | 3 (7)                | 2 (4)        |  |  |\n| Pneumonitis\u00a7                                                               | 10 (11)   | 2 (2)                               | 2 (4)                | 1 (2)        |  |  |\n| Arthralgia                                                                 | 10 (11)   | 0                                   | 4 (9)                | 0            |  |  |\n| Chills                                                                     | 10 (11)   | 0                                   | 3 (7)                | 0            |  |  |\n| Vitiligo                                                                   | 10 (11)   | 0                                   | 4 (9)                | 0            |  |  |\n| Abdominal pain                                                             | 10 (11)   | 0                                   | 4 (9)                | 1 (2)        |  |  |\n| Constipation                                                               | 10 (11)   | 1 (1)                               | 4 (9)                | 0            |  |  |\n| Myalgia                                                                    | 9 (10)    | 0                                   | 6 (13)               | 0            |  |  |\n| Dyspnea                                                                    | 9 (10)    | 3 (3)                               | 5 (11)               | 0            |  |  |\n| Asthenia                                                                   | 8 (9)     | 0                                   | 5 (11)               | 0            |  |  |\n| Pruritic rash                                                              | 3 (3)     | 0                                   | 5 (11)               | 0            |  |  |\n| Treatment-related adverse event leading<br>to discontinuation of treatment | 44 (47)   | 36 (38)                             | 8 (17)               | 6 (13)       |  |  |\n\n\\* The table includes events reported after the first dose of study treatment and within 100 days after the last dose of study treatment.\n\n\u2020 Shown are events that were reported in at least 10% of the patients in either study group.\n\n\u2021 Diarrhea was defined as a disorder characterized by frequent and watery bowel movements; colitis was defined as a disorder characterized by inflammation of the colon. Grade 3 or 4 drug-related adverse events were reported more frequently in the combination group than in the ipilimumab-monotherapy group; in patients who received the combination regimen, most adverse events had first onset during the combination phase rather than the maintenance (nivolumab-monotherapy) phase.\n\n\u00a7 One additional patient in the ipilimumab-monotherapy group had progressive disease on April 28, 2014, and data were unblinded before the patient started nivolumab monotherapy a day later. This patient received 10 cycles of nivolumab monotherapy before the onset of pneumonitis after the last dose on September 25, 2014.\n\nsingle agent or combination of agents has similarly been shown to result in a high response rate among patients with *BRAF* wild-type melanoma. Nevertheless, among patients with *BRAF*mutant melanoma, the overall response rate and progression-free survival associated with the combination regimen were also substantially higher than those with ipilimumab alone. These results are consistent with the results of a previous phase 1 trial and suggest that the presence of the *BRAF* V600 mutation does not influence the efficacy of checkpoint blockade.16,17,22\n\nIn general, the spectrum of select adverse events that we observed was consistent with previous experience with the combination therapy.16 Three deaths related to the combination regimen were reported in this study; these deaths could be linked to preexisting conditions that were related to the cause of death or that required medical procedures that might have contributed to the death. The proportion of patients who had a grade 3 or 4 treatment-related adverse event was higher with the nivolumaband-ipilimumab combination than with ipilimumab monotherapy (54% vs. 24%). Select grade 3 or 4 adverse events generally occurred within the first 15 weeks of treatment with the combination regimen and typically required less than 9 weeks to resolve, depending on the specific adverse event. Aside from patients with endocrinopathies, which typically require continued hormone-replacement therapy, the majority of patients\n\n| Table 4. Select Adverse Events and Their Management with Immunomodulatory Medication (IMM), According to Organ Category. |                                  |                       |                                                       |                              |                              |                       |                                                       |                              |\n|--------------------------------------------------------------------------------------------------------------------------|----------------------------------|-----------------------|-------------------------------------------------------|------------------------------|------------------------------|-----------------------|-------------------------------------------------------|------------------------------|\n| Organ Category                                                                                                           | Nivolumab plus Ipilimumab (N=94) |                       |                                                       |                              | Ipilimumab (N=46)            |                       |                                                       |                              |\n|                                                                                                                          | Reported<br>Adverse<br>Event     | Treatment<br>with IMM | Resolution of<br>Event after<br>Treatment<br>with IMM | Median Time<br>to Resolution | Reported<br>Adverse<br>Event | Treatment<br>with IMM | Resolution of<br>Event after<br>Treatment<br>with IMM | Median Time<br>to Resolution |\n|                                                                                                                          | no. of patients                  |                       | no. of patients/total no. (%)                         | wk (95% CI)                  | no. of patients              |                       | no. of patients/total no. (%)                         | wk (95% CI)                  |\n| Skin                                                                                                                     |                                  |                       |                                                       |                              |                              |                       |                                                       |                              |\n| Any grade                                                                                                                | 67                               | 41/67 (61)            | 24/35 (69)                                            | 18.6 (9.3\u201335.1)              | 26                           | 13/26 (50)            | 11/13 (85)                                            | 8.6 (3.3\u201322.0)               |\n| Grade 3 or 4                                                                                                             | 9                                | 9/9 (100)             | 8/9 (89)                                              | 6.1 (0.9\u201324.1)               | 0                            | 0                     | 0                                                     | NE                           |\n| Gastrointestinal                                                                                                         |                                  |                       |                                                       |                              |                              |                       |                                                       |                              |\n| Any grade                                                                                                                | 48                               | 31/48 (65)            | 26/28 (93)                                            | 4.7 (3.0\u20136.7)                | 17                           | 11/17 (65)            | 7/9 (78)                                              | 5.0 (1.4\u201312.1)               |\n| Grade 3 or 4                                                                                                             | 20                               | 17/20 (85)            | 15/17 (88)                                            | 4.3 (1.4\u201310.7)               | 5                            | 5/5 (100)             | 4/5 (80)                                              | 3.6 (0.7\u20135.0)                |\n| Endocrine\u2020                                                                                                               |                                  |                       |                                                       |                              |                              |                       |                                                       |                              |\n| Any grade                                                                                                                | 32                               | 14/32 (44)            | 2/14 (14)                                             | NE (NE\u2013NE)                   | 8                            | 3/8 (38)              | 1/3 (33)                                              | NE (0.9\u2013NE)                  |\n| Grade 3 or 4                                                                                                             | 5                                | 4/5 (80)              | 1/4 (25)                                              | NE (5.6\u2013NE)                  | 2                            | 2/2 (100)             | 1/2 (50)                                              | NE (0.9\u2013NE)                  |\n| Hepatic                                                                                                                  |                                  |                       |                                                       |                              |                              |                       |                                                       |                              |\n| Any grade                                                                                                                | 26                               | 13/26 (50)            | 11/13 (85)                                            | 14.1 (3.1\u201319.6)              | 2                            | 0/2                   | 0                                                     | NE                           |\n| Grade 3 or 4                                                                                                             | 14                               | 12/14 (86)            | 10/12 (83)                                            | 8.3 (2.1\u201314.1)               | 0                            | 0                     | 0                                                     | NE                           |\n| Pulmonary                                                                                                                |                                  |                       |                                                       |                              |                              |                       |                                                       |                              |\n| Any grade                                                                                                                | 11                               | 8/11 (73)             | 6/8 (75)                                              | 6.1 (0.3\u20139.0)                | 2                            | 2/2 (100)             | 2/2 (100)                                             | 3.2 (2.9\u20133.6)                |\n| Grade 3 or 4                                                                                                             | 3                                | 3/3 (100)             | 2/3 (67)                                              | 9.0 (0.3\u20139.0)                | 1                            | 1/1 (100)             | 1/1 (100)                                             | 3.6 (NE\u2013NE)                  |\n| Renal                                                                                                                    |                                  |                       |                                                       |                              |                              |                       |                                                       |                              |\n| Any grade                                                                                                                | 3                                | 2/3 (67)              | 2/2 (100)                                             | 0.4 (0.3\u20130.6)                | 1                            | 0/1                   | 0                                                     | NE                           |\n| Grade 3 or 4                                                                                                             | 1                                | 1/1 (100)             | 1/1 (100)                                             | 0.6 (NE\u2013NE)                  | 0                            | 0                     | 0                                                     | NE                           |\n\n\\* The table includes events reported after the first dose and within 100 days after the last dose of study treatment. Resolution of an event was restricted to patients who received IMM during their longest clustered event and was defined as complete resolution or improvement to the baseline level for all clustered events in a given category that occurred in the patient. NE denotes not estimable.\n\n\u2020 Endocrine events were managed with hormone-replacement therapy. Patients requiring long-term hormone-replacement therapy were not counted as having resolution of an event.\n\nn engl j med 372;21 nejm.org may 21, 2015 2015\n\neventually had complete resolution of grade 3 or 4 adverse events. It is noteworthy that of the patients who discontinued combination treatment owing to toxic effects, 68% had an objective response and most continue to have a response.\n\nPositive expression of PD-L1, one of the ligands of PD-1, has been associated with increased response rates among patients treated with nivolumab as a single agent.23,24 Among patients treated with the combination regimen in our study, however, there was no significant difference in response rates between patients whose pretreatment tumors were defined as PD-L1\u2013positive and those whose tumors were PD-L1\u2013negative. These data suggest that PD-L1 should not be used to select patients to receive combination treatment. The mechanism for response independent of baseline PD-L1 status remains unclear. It is possible that ipilimumab drives T cells into the tumor and that this T-cell infiltration during treatment leads to a more favorable microenvironment for anti\u2013PD-1 efficacy.25,26 It is also possible that assessment of PD-L1 status with the incorporation of PD-L1\u2013expressing tumor-infiltrating macrophages or T cells (rather than tumor cells, as in our study) may be most relevant, but this possibility requires additional investigation.\n\nIn summary, the combination of ipilimumab plus nivolumab resulted in durable responses and\n\n#### **References**\n\n**2.** Robert C, Thomas L, Bondarenko I, et al. Ipilimumab plus dacarbazine for previously untreated metastatic melanoma. N Engl J Med 2011;364:2517-26.\n\n**3.** Robert C, Long GV, Brady B, et al. Nivolumab in previously untreated melanoma without *BRA*F mutation. N Engl J Med 2015;372:320-30.\n\n**4.** Weber JS, D'Angelo SP, Minor D, et al. Nivolumab versus chemotherapy in patients with advanced melanoma who progressed after anti-CTLA-4 treatment (CheckMate 037): a randomised, controlled, open-label, phase 3 trial. Lancet Oncol 2015 March 17 (Epub ahead of print).\n\n**5.** Larkin J, Ascierto PA, Dr\u00e9no B, et al. Combined vemurafenib and cobimetinib in *BRAF*-mutated melanoma. N Engl J Med 2014;371:1867-76.\n\n**6.** Long GV, Stroyakovskiy D, Gogas H, et al. Combined BRAF and MEK inhibition versus BRAF inhibition alone in melanoma. N Engl J Med 2014;371:1877-88.\n\na substantially higher objective response rate, longer progression-free survival, and higher rates of complete response than ipilimumab monotherapy among patients with *BRAF* wild-type advanced melanoma and those with *BRAF*-mutant advanced melanoma. The incidence of grade 3 or 4 adverse events was higher with combination therapy, but adverse events were generally manageable when established safety guidelines were used. The risk\u2013 benefit profile of combined PD-1 and CTLA-4 blockade, as compared with monotherapy, will be further clarified by data from ongoing phase 3 double-blind, randomized trials, such as the CheckMate 067 study (ClincalTrials.gov number, NCT01844505).\n\n#### Supported by Bristol-Myers Squibb.\n\nDisclosure forms provided by the authors are available with the full text of this article at NEJM.org.\n\nWe thank the patients who participated in this study; clinical faculty and personnel, including Elizabeth Buchbinder, formerly of Beth Israel Deaconess Medical Center and currently of the Dana\u2013Farber Cancer Institute; Ryan Sullivan of Massachusetts General Hospital; Jason Luke, formerly of the Dana\u2013Farber Cancer Institute and currently of the University of Chicago; Marta Colgan, Jenessa Holder, Yelena Shames, Vanessa Reed, and Alyona Weinstein of Memorial Sloan Kettering Cancer Center; Rajni Kannan, Kathleen Madden, Ethel Yepes, Crystal Escano, Caroline Muren, Claire Stein, and Martina Romain of New York University Medical Center; and Miriam Faruqi and Jaclyn Neely of Bristol-Myers Squibb; and Wayne Peng and Karin McGlynn of StemScientific for editorial and writing assistance with an earlier version of the manuscript.\n\n**7.** Robert C, Karaszewska B, Schachter J, et al. Improved overall survival in melanoma with combined dabrafenib and trametinib. N Engl J Med 2015;372:30-9. vanced melanoma harbouring NRAS or Val600 BRAF mutations: a non-randomised, open-label phase 2 study. Lancet Oncol 2013;14:249-56.\n\n> **13.** Okazaki T, Chikuma S, Iwai Y, Fagarasan S, Honjo T. A rheostat for immune responses: the unique properties of PD-1 and their advantages for clinical application. Nat Immunol 2013;14:1212-8.\n\n**14.** Curran MA, Montalvo W, Yagita H, Allison JP. PD-1 and CTLA-4 combination blockade expands infiltrating T cells and reduces regulatory T and myeloid cells within B16 melanoma tumors. Proc Natl Acad Sci U S A 2010;107:4275-80.\n\n**15.** Selby M, Englehardt J, Lu L-S, et al. Antitumor activity of concurrent blockade of immune checkpoint molecules CTLA-4 and PD-1 in preclinical models. J Clin Oncol 2013;31:Suppl:3061. abstract.\n\n**16.** Wolchok JD, Kluger H, Callahan MK, et al. Nivolumab plus ipilimumab in advanced melanoma. N Engl J Med 2013; 369:122-33.\n\n**17.** Sznol M, Kluger HM, Callahan MK, et al. Survival, response duration, and activity by BRAF mutation (MT) status of nivolumab (NIVO, anti-PD-1, BMS-936558, ONO-\n\n**12.** Ascierto PA, Schadendorf D, Berking C, et al. MEK162 for patients with ad-\n\n**8.** Johnson DB, Flaherty KT, Weber JS, et al. Combined BRAF (dabrafenib) and MEK inhibition (trametinib) in patients with BRAFV600-mutant melanoma experiencing progression with single-agent BRAF inhibitor. J Clin Oncol 2014;32:3697-\n\n**9.** Flaherty KT, Infante JR, Daud A, et al. Combined BRAF and MEK inhibition in melanoma with BRAF V600 mutations. N Engl J Med 2012;367:1694-703. **10.** Chapman PB, Hauschild A, Robert C, et al. Improved survival with vemurafenib in melanoma with BRAF V600E mutation. N Engl J Med 2011;364:2507-16. **11.** McArthur GA, Chapman PB, Robert C, et al. Safety and efficacy of vemurafenib in BRAF(V600E) and BRAF(V600K) mutation-positive melanoma (BRIM-3): extended follow-up of a phase 3, randomised, open-label study. Lancet Oncol\n\n704.\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\n2014;15:323-32.\n\n**<sup>1.</sup>** Hodi FS, O'Day SJ, McDermott DF, et al. Improved survival with ipilimumab in patients with metastatic melanoma. N Engl J Med 2010;363:711-23. [Erratum, N Engl J Med 2010;363:1290.]\n\n4538) and ipilimumab (IPI) concurrent therapy in advanced melanoma (MEL). J Clin Oncol 2014;32:Suppl:9003. abstract. **18.** Eisenhauer EA, Therasse P, Bogaerts J, et al. New response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1). Eur J Cancer 2009;45:228-47. **19.** NCI Common Terminology Criteria for Adverse Events (CTCAE) v.4 (http://evs .nci.nih.gov/ftp1/CTCAE/About.html).\n\n**20.** Hamid O, Robert C, Daud A. Safety and tumor responses with lambrolizumab (anti-PD-1) in melanoma. N Engl J Med 2013;369:134-44.\n\n**21.** Shahabi V, Whitney G, Hamid O, et al. Assessment of association between BRAF-V600E mutation status in melanomas and clinical response to ipilimumab. Cancer Immunol Immunother 2012;61: 733-7.\n\n**22.** Kluger H, Sznol M, Callahan M, et al. Survival, response duration, and activity by BRAF mutation (MT) status in a phase 1 trial of nivolumab (anti-PD-1, BMS-936558, ONO-4538) and ipilimumab (IPI) concurrent therapy in advanced melanoma (MEL). Ann Oncol 2014;25:Suppl 4:iv-374\u2013iv-393.\n\n**23.** Topalian SL, Hodi FS, Brahmer JR, et al. Safety, activity, and immune correlates of anti\u2013PD-1 antibody in cancer. N Engl J Med 2012;366:2443-54.\n\n**24.** Taube JM, Klein A, Brahmer JR, et al. Association of PD-1, PD-1 ligands, and other features of the tumor immune microenvironment with response to anti-PD-1 therapy. Clin Cancer Res 2014;20: 5064-74.\n\n**25.** Hamid O, Schmidt H, Nissan A, et al. A prospective phase II trial exploring the association between tumor microenvironment biomarkers and clinical activity of ipilimumab in advanced melanoma. J Transl Med 2011;9:204.\n\n**26.** Tumeh PC, Harview CL, Yearley JH, et al. PD-1 blockade induces responses by inhibiting adaptive immune resistance. Nature 2014;515:568-71.\n\n*Copyright \u00a9 2015 Massachusetts Medical Society.*",
+    "json_data": {
+      "table_of_contents": [
+        {
+          "title": "original article",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              283.361572265625,
+              62.72869873046875
+            ],
+            [
+              387.9880065917969,
+              62.72869873046875
+            ],
+            [
+              387.9880065917969,
+              74.728515625
+            ],
+            [
+              283.361572265625,
+              74.728515625
+            ]
+          ]
+        },
+        {
+          "title": "Nivolumab and Ipilimumab versus \nIpilimumab in Untreated Melanoma",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              202.60150146484375,
+              88.92242431640625
+            ],
+            [
+              471.76171875,
+              88.92242431640625
+            ],
+            [
+              471.76171875,
+              126.92010498046875
+            ],
+            [
+              202.60150146484375,
+              126.92010498046875
+            ]
+          ]
+        },
+        {
+          "title": "ABSTRACT",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              310.078125,
+              230.66387939453125
+            ],
+            [
+              363.7880859375,
+              230.66387939453125
+            ],
+            [
+              363.7880859375,
+              241.2333984375
+            ],
+            [
+              310.078125,
+              241.2333984375
+            ]
+          ]
+        },
+        {
+          "title": "Background",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              168.05126953125,
+              252.38601684570312
+            ],
+            [
+              222.0380859375,
+              252.38601684570312
+            ],
+            [
+              222.0380859375,
+              261.720703125
+            ],
+            [
+              168.05126953125,
+              261.720703125
+            ]
+          ]
+        },
+        {
+          "title": "Methods",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              168.189697265625,
+              302.8860168457031
+            ],
+            [
+              207.780029296875,
+              302.8860168457031
+            ],
+            [
+              207.780029296875,
+              311.88592529296875
+            ],
+            [
+              168.189697265625,
+              311.88592529296875
+            ]
+          ]
+        },
+        {
+          "title": "Results",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              169.0,
+              413.3860168457031
+            ],
+            [
+              203.350341796875,
+              413.3860168457031
+            ],
+            [
+              203.350341796875,
+              422.38592529296875
+            ],
+            [
+              169.0,
+              422.38592529296875
+            ]
+          ]
+        },
+        {
+          "title": "Conclusions",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              167.359130859375,
+              619.8860321044922
+            ],
+            [
+              227.713623046875,
+              619.8860321044922
+            ],
+            [
+              227.713623046875,
+              629.384765625
+            ],
+            [
+              167.359130859375,
+              629.384765625
+            ]
+          ]
+        },
+        {
+          "title": "Methods",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              341.9125061035156,
+              57.66387939453125
+            ],
+            [
+              396.18017578125,
+              57.66387939453125
+            ],
+            [
+              396.18017578125,
+              68.244873046875
+            ],
+            [
+              341.9125061035156,
+              68.244873046875
+            ]
+          ]
+        },
+        {
+          "title": "Patients",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              264.95068359375,
+              78.135986328125
+            ],
+            [
+              305.37158203125,
+              78.135986328125
+            ],
+            [
+              305.37158203125,
+              88.224609375
+            ],
+            [
+              264.95068359375,
+              88.224609375
+            ]
+          ]
+        },
+        {
+          "title": "Study Design and Treatment",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              266.888671875,
+              258.1360168457031
+            ],
+            [
+              390.3662109375,
+              258.1360168457031
+            ],
+            [
+              390.3662109375,
+              267.13592529296875
+            ],
+            [
+              266.888671875,
+              267.13592529296875
+            ]
+          ]
+        },
+        {
+          "title": "Assessments",
+          "heading_level": null,
+          "page_id": 2,
+          "polygon": [
+            [
+              99.1142578125,
+              306.18353271484375
+            ],
+            [
+              153.1453094482422,
+              306.18353271484375
+            ],
+            [
+              153.1453094482422,
+              315.1834411621094
+            ],
+            [
+              99.1142578125,
+              315.1834411621094
+            ]
+          ]
+        },
+        {
+          "title": "Study Oversight",
+          "heading_level": null,
+          "page_id": 2,
+          "polygon": [
+            [
+              100.0,
+              510.18353271484375
+            ],
+            [
+              171.788818359375,
+              510.18353271484375
+            ],
+            [
+              171.788818359375,
+              519.1834259033203
+            ],
+            [
+              100.0,
+              519.1834259033203
+            ]
+          ]
+        },
+        {
+          "title": "Immunohistochemical Assessment of PD-L1",
+          "heading_level": null,
+          "page_id": 2,
+          "polygon": [
+            [
+              306.2021484375,
+              198.1834716796875
+            ],
+            [
+              494.4638671875,
+              198.1834716796875
+            ],
+            [
+              494.4638671875,
+              207.18341064453125
+            ],
+            [
+              306.2021484375,
+              207.18341064453125
+            ]
+          ]
+        },
+        {
+          "title": "Statistical Analysis",
+          "heading_level": null,
+          "page_id": 2,
+          "polygon": [
+            [
+              306.2021484375,
+              330.18353271484375
+            ],
+            [
+              390.8484802246094,
+              330.18353271484375
+            ],
+            [
+              390.8484802246094,
+              339.1834411621094
+            ],
+            [
+              306.2021484375,
+              339.1834411621094
+            ]
+          ]
+        },
+        {
+          "title": "Results",
+          "heading_level": null,
+          "page_id": 3,
+          "polygon": [
+            [
+              138.34100341796875,
+              103.96136474609375
+            ],
+            [
+              185.21630859375,
+              103.96136474609375
+            ],
+            [
+              185.21630859375,
+              114.89501953125
+            ],
+            [
+              138.34100341796875,
+              114.89501953125
+            ]
+          ]
+        },
+        {
+          "title": "Patients",
+          "heading_level": null,
+          "page_id": 3,
+          "polygon": [
+            [
+              61.73876953125,
+              126.1834716796875
+            ],
+            [
+              97.26970672607422,
+              126.1834716796875
+            ],
+            [
+              97.26970672607422,
+              135.56689453125
+            ],
+            [
+              61.73876953125,
+              135.56689453125
+            ]
+          ]
+        },
+        {
+          "title": "Efficacy",
+          "heading_level": null,
+          "page_id": 3,
+          "polygon": [
+            [
+              61.600341796875,
+              450.18353271484375
+            ],
+            [
+              97.72998046875,
+              450.18353271484375
+            ],
+            [
+              97.72998046875,
+              459.2109375
+            ],
+            [
+              61.600341796875,
+              459.2109375
+            ]
+          ]
+        },
+        {
+          "title": "Safety",
+          "heading_level": null,
+          "page_id": 5,
+          "polygon": [
+            [
+              61.91180419921875,
+              390.18353271484375
+            ],
+            [
+              88.98440551757812,
+              390.18353271484375
+            ],
+            [
+              88.98440551757812,
+              399.41015625
+            ],
+            [
+              61.91180419921875,
+              399.41015625
+            ]
+          ]
+        },
+        {
+          "title": "Figure 1 (facing page). Change in Tumor Burden, \nDurability of Tumor Regressions, and Progression-free \nSurvival.",
+          "heading_level": null,
+          "page_id": 7,
+          "polygon": [
+            [
+              67.691162109375,
+              61.091796875
+            ],
+            [
+              253.01510620117188,
+              61.091796875
+            ],
+            [
+              253.01510620117188,
+              89.5166015625
+            ],
+            [
+              67.691162109375,
+              89.5166015625
+            ]
+          ]
+        },
+        {
+          "title": "Discussion",
+          "heading_level": null,
+          "page_id": 7,
+          "polygon": [
+            [
+              127.491943359375,
+              595.96142578125
+            ],
+            [
+              193.383544921875,
+              595.96142578125
+            ],
+            [
+              193.383544921875,
+              606.4612274169922
+            ],
+            [
+              127.491943359375,
+              606.4612274169922
+            ]
+          ]
+        },
+        {
+          "title": "References",
+          "heading_level": null,
+          "page_id": 10,
+          "polygon": [
+            [
+              99.94482421875,
+              414.41888427734375
+            ],
+            [
+              142.442138671875,
+              414.41888427734375
+            ],
+            [
+              142.442138671875,
+              421.9187927246094
+            ],
+            [
+              99.94482421875,
+              421.9187927246094
+            ]
+          ]
+        },
+        {
+          "title": "Supported by Bristol-Myers Squibb.",
+          "heading_level": null,
+          "page_id": 10,
+          "polygon": [
+            [
+              313.9541015625,
+              248.2470703125
+            ],
+            [
+              424.22100830078125,
+              248.2470703125
+            ],
+            [
+              424.22100830078125,
+              255.9300537109375
+            ],
+            [
+              313.9541015625,
+              255.9300537109375
+            ]
+          ]
+        }
+      ],
+      "page_stats": [
+        {
+          "page_id": 0,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              183
+            ],
+            [
+              "Line",
+              95
+            ],
+            [
+              "Text",
+              12
+            ],
+            [
+              "SectionHeader",
+              7
+            ],
+            [
+              "PageHeader",
+              2
+            ],
+            [
+              "PageFooter",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 1,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              217
+            ],
+            [
+              "Line",
+              105
+            ],
+            [
+              "Text",
+              8
+            ],
+            [
+              "SectionHeader",
+              3
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 2,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              219
+            ],
+            [
+              "Line",
+              105
+            ],
+            [
+              "Text",
+              10
+            ],
+            [
+              "SectionHeader",
+              4
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 3,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              206
+            ],
+            [
+              "Line",
+              106
+            ],
+            [
+              "Text",
+              9
+            ],
+            [
+              "SectionHeader",
+              3
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "TextInlineMath",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 4,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              369
+            ],
+            [
+              "TableCell",
+              179
+            ],
+            [
+              "Line",
+              65
+            ],
+            [
+              "Text",
+              9
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Table",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 5,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              245
+            ],
+            [
+              "Line",
+              96
+            ],
+            [
+              "TableCell",
+              44
+            ],
+            [
+              "Text",
+              10
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Table",
+              1
+            ],
+            [
+              "SectionHeader",
+              1
+            ],
+            [
+              "PageFooter",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 6,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              251
+            ],
+            [
+              "Line",
+              84
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Figure",
+              1
+            ],
+            [
+              "Text",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 7,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              207
+            ],
+            [
+              "Line",
+              102
+            ],
+            [
+              "Text",
+              10
+            ],
+            [
+              "SectionHeader",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "PageFooter",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 8,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              358
+            ],
+            [
+              "TableCell",
+              160
+            ],
+            [
+              "Line",
+              56
+            ],
+            [
+              "Text",
+              5
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Table",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 9,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              387
+            ],
+            [
+              "TableCell",
+              184
+            ],
+            [
+              "Line",
+              85
+            ],
+            [
+              "Text",
+              7
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Table",
+              1
+            ],
+            [
+              "PageFooter",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 10,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              324
+            ],
+            [
+              "Line",
+              151
+            ],
+            [
+              "Text",
+              25
+            ],
+            [
+              "PageHeader",
+              2
+            ],
+            [
+              "SectionHeader",
+              2
+            ],
+            [
+              "Footnote",
+              1
+            ],
+            [
+              "PageFooter",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 11,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              128
+            ],
+            [
+              "Line",
+              54
+            ],
+            [
+              "Text",
+              12
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        }
+      ],
+      "debug_data_path": "debug_data/26"
+    },
+    "tables": [],
+    "metadata": {
+      "total_pages": 0,
+      "document_type": "unknown",
+      "processing_time": 0,
+      "ocr_used": false
+    },
+    "processing_stats": {
+      "return_code": 0,
+      "stdout_length": 87,
+      "stderr_length": 795
+    },
+    "processing_mode": "marker_enhanced",
+    "use_llm": false,
+    "markdown_quality_score": 100.0
+  },
+  "clinical_extraction": {
+    "prompt": "\nTASK: Extract comprehensive clinical trial data from this publication.\n\nCRITICAL REQUIREMENTS:\n1. NCT number: NCT01927419 (already validated)\n2. Expected treatment arms: 1\n3. Output raw JSON only (no markdown, no explanations)\n4. Extract ONLY explicit information - never infer or guess\n5. Use empty string \"\" for missing values\n\nTREATMENT ARMS:\n- Each unique treatment = separate arm\n- Different doses of same drug = separate arms  \n- Combination therapies use \"+\" (e.g., \"Drug A + Drug B\")\n\nDATA FORMATS:\n- Numbers: Extract digits only (e.g., \"25%\" \u2192 \"25\")\n- Survival: Months only (e.g., \"12.5 months\" \u2192 \"12.5\") \n- Binary: \"YES\" or \"NO\" only\n- Missing: Use \"\"\n\nCOMPREHENSIVE JSON STRUCTURE:\n{\n  \"NCT Number\": \"NCT01927419\",\n  \"Publication name\": \"Journal YYYY; Volume:Pages\",\n  \"Publication Year\": \"YYYY\",\n  \"PDF number\": \"filename\",\n  \"Trial name\": \"Trial name or 'No Name'\",\n  \"Sponsors\": \"Industry-Sponsored or non Industry-Sponsored\",\n  \"Clinical Trial Phase\": \"Stage X\",\n  \"Cancer Type\": \"Select from controlled list\",\n  \"Primary endpoint\": \"text\",\n  \"Secondary endpoint\": \"text\",\n  \"Median Age\": \"number\",\n  \"Mechanism of action\": \"text\",\n  \"Target Protein\": \"text\",\n  \"Type of therapy\": \"text\",\n  \"Dosage\": \"text\",\n  \"Type of dosing\": \"text\",\n  \"Number of doses per year\": \"number\",\n  \"Biomarker Inclusion\": \"YES/NO\",\n  \"Biomarkers Inclusion Criteria\": \"text\",\n  \"Biomarkers Exclusion Criteria\": \"text\",\n  \"Major country where clinical trial is conducted\": \"text\",\n  \"Study start date\": \"YYYY-MM-DD\",\n  \"Study completion date\": \"YYYY-MM-DD\",\n  \"First results\": \"YYYY-MM-DD\",\n  \"Trial run in Europe\": \"YES/NO\",\n  \"Trial run in US\": \"YES/NO\",\n  \"Trial run in China\": \"YES/NO\",\n  \"treatment_arms\": [\n    {\n      \"Generic name\": \"Drug name or Drug A + Drug B\",\n      \"Brand name\": \"text\",\n      \"Line of Treatment\": \"Neoadjuvant/First Line/2nd Line/3rd Line+\",\n      \"Number of patients\": \"number\",\n      \"Company EU\": \"text\",\n      \"Company US\": \"text\",\n      \"Company China\": \"text\",\n      \"Biosimilar\": \"YES/NO\",\n      \"Chemotherapy Naive\": \"YES/NO\",\n      \"Chemotherapy Failed\": \"YES/NO\",\n      \"Immune Checkpoint Inhibitor (ICI) Naive\": \"YES/NO\",\n      \"Immune Checkpoint Inhibitor (ICI) failed\": \"YES/NO\",\n      \"Ipilimumab-failure or Ipilimumab-refractory\": \"YES/NO\",\n      \"Anti PD-1/L1-failure or Anti PD-1/L1-refractory\": \"YES/NO\",\n      \"Mutation status\": \"text\",\n      \"BRAF-mutation\": \"YES/NO\",\n      \"NRAS-Mutation\": \"YES/NO\",\n      \"Objective response rate (ORR)\": \"percentage\",\n      \"Complete Response (CR)\": \"percentage\",\n      \"Pathological Complete Response (pCR)\": \"percentage\",\n      \"Complete Metabolic Response (CMR)\": \"percentage\",\n      \"Disease Control Rate or DCR\": \"percentage\",\n      \"Clinical Benefit Rate (CBR)\": \"percentage\",\n      \"Duration of Response (DOR) rate\": \"percentage\",\n      \"Progression free survival (PFS) rate at 6 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 9 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 12 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 18 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 24 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 48 months\": \"percentage\",\n      \"Overall survival (OS) rate at 6 months\": \"percentage\",\n      \"Overall survival (OS) rate at 9 months\": \"percentage\",\n      \"Overall survival (OS) rate at 12 months\": \"percentage\",\n      \"Overall survival (OS) rate at 18 months\": \"percentage\",\n      \"Overall survival (OS) rate at 24 months\": \"percentage\",\n      \"Overall survival (OS) rate at 48 months\": \"percentage\",\n      \"Median Progression free survival (PFS)\": \"months\",\n      \"Length of measuring PFS\": \"months\",\n      \"p-value of PFS\": \"Non-Significant/Significant/Highly Significant\",\n      \"Hazard ratio (HR) PFS\": \"decimal\",\n      \"Median Overall survival (OS)\": \"months\",\n      \"Length of measuring OS\": \"months\",\n      \"p-value of OS\": \"Non-Significant/Significant/Highly Significant\",\n      \"Hazard ratio (HR) OS\": \"decimal\",\n      \"Event-Free Survival (EFS)\": \"months\",\n      \"p-value of EFS\": \"Non-Significant/Significant/Highly Significant\",\n      \"Hazard ratio (HR) EFS\": \"decimal\",\n      \"Recurrence-Free Survival (RFS)\": \"months\",\n      \"p-value of RFS\": \"Non-Significant/Significant/Highly Significant\",\n      \"Length of measuring RFS\": \"months\",\n      \"Hazard ratio (HR) RFS\": \"decimal\",\n      \"Metastasis-Free Survival (MFS)\": \"months\",\n      \"Length of measuring MFS\": \"months\",\n      \"Hazard ratio (HR) MFS\": \"decimal\",\n      \"Time to response (TTR)\": \"months\",\n      \"Time to Progression (TTP)\": \"months\",\n      \"Time to Next Treatment (TTNT)\": \"months\",\n      \"Time to Treatment Failure (TTF)\": \"months\",\n      \"Median Duration of response or DOR\": \"months\",\n      \"Adverse events (AE)\": \"percentage\",\n      \"Treatment emergent adverse events (TEAE)\": \"percentage\",\n      \"Treatment-related adverse events (TRAE)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 higher adverse events (AE)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 higher treatment emergent adverse events (TEAE)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 higher treatment-related adverse events (TRAE)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 higher treatment-emergent adverse events (TEAE)\": \"percentage\",\n      \"Grade 4 treatment emergent adverse events\": \"percentage\",\n      \"Grade 5 treatment emergent adverse events\": \"percentage\",\n      \"Serious Adverse Events (SAE)\": \"percentage\",\n      \"Serious treatment emergent adverse events\": \"percentage\",\n      \"Serious treatment related adverse events\": \"percentage\",\n      \"Treatment-emergent adverse events (TEAE) led to treatment discontinuation\": \"percentage\",\n      \"Adverse events (AEs) leading to discontinuation\": \"percentage\",\n      \"Treatment-emergent adverse events (TEAE) led to death\": \"percentage\",\n      \"Adverse Events leading to death\": \"percentage\",\n      \"Immune related adverse events (irAEs)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Immune related adverse events (irAEs)\": \"percentage\",\n      \"Cytokine Release Syndrome or CRS\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Cytokine Release Syndrome or CRS\": \"percentage\",\n      \"White blood cell (WBC) decreased\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Thrombocytopenia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Neutropenia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Leukopenia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Anemia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Neutrophil count decreased\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 White blood cell (WBC) decreased\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Nausea\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Diarrhea\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Colitis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Constipation\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Dyspnea\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Cough\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Pneumonia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Pneumonitis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Hyperglycemia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Thyroiditis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Hypophysitis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Hepatitis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Alanine aminotransferase\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Pyrexia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Bleeding\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Pruritus\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Rash\": \"percentage\"\n    }\n  ]\n}\n\nEXTRACTION INSTRUCTIONS:\n1. Extract ALL fields listed above that are explicitly mentioned in the publication\n2. For percentages: extract number only (e.g., \"25%\" \u2192 \"25\")\n3. For months: extract number only (e.g., \"12.5 months\" \u2192 \"12.5\")\n4. For binary fields: use \"YES\" or \"NO\" only\n5. For missing data: use empty string \"\"\n6. For survival data with \"not reached\": use \"NR\"\n\nPUBLICATION TEXT:\n# original article\n\n# Nivolumab and Ipilimumab versus Ipilimumab in Untreated Melanoma\n\nMichael A. Postow, M.D., Jason Chesney, M.D., Ph.D., Anna C. Pavlick, D.O., Caroline Robert, M.D., Ph.D., Kenneth Grossmann, M.D., Ph.D., David McDermott, M.D., Gerald P. Linette, M.D., Ph.D., Nicolas Meyer, M.D., Jeffrey K. Giguere, M.D., Sanjiv S. Agarwala, M.D., Montaser Shaheen, M.D., Marc S. Ernstoff, M.D., David Minor, M.D., April K. Salama, M.D., Matthew Taylor, M.D., Patrick A. Ott, M.D., Ph.D., Linda M. Rollin, Ph.D., Christine Horak, Ph.D., Paul Gagnier, M.D., Ph.D., Jedd D. Wolchok, M.D., Ph.D., and F. Stephen Hodi, M.D.\n\n## ABSTRACT\n\n#### **Background**\n\nFrom Memorial Sloan Kettering Cancer Center (M.A.P., J.D.W.), Weill Cornell Medical College (M.A.P., J.D.W.), and New York University, Perlmutter Cancer Center (A.C.P.) \u2014 all in New York; J. Graham Brown Cancer Center, University of Louisville, Louisville, KY (J.C.); Institute Gustave Roussy, Villejuif (C.R.), Paris-Sud University, Orsay (C.R.), and Institut Universitaire du Cancer, Toulouse (N.M.) \u2014 all in France; Huntsman Cancer Institute, Salt Lake City (K.G.); Beth Israel Deaconess Medical Center (D. McDermott) and Dana\u2013Farber Cancer Institute (P.A.O., F.S.H.) \u2014 both in Boston; Washington University in St. Louis, St. Louis (G.P.L.); Greenville Health System, Greenville, SC (J.K.G.); St. Luke's Cancer Center, Bethlehem, PA (S.S.A.); University of New Mexico, Albuquerque (M.S.); Taussig Cancer Institute, Cleveland Clinic Foundation, Cleveland (M.S.E.); California Pacific Center for Melanoma Research, San Francisco (D. Minor); Duke University, Durham, NC (A.K.S.); Oregon Health and Science University, Portland (M.T.); Bristol-Myers Squibb, Lawrenceville, NJ (C.H.); and Bristol-Myers Squibb, Wallingford, CT (L.M.R., P.G.). Address reprint requests to Dr. Hodi at the Dana\u2013 Farber Cancer Institute, 450 Brookline Ave., Boston, MA 02215, or at stephen\\_hodi@ dfci.harvard.edu; or to Dr. Wolchok at the Ludwig Center at Memorial Sloan Kettering Cancer Center, 1275 York Ave., New York, NY 10065, or at wolchokj@mskcc.org.\n\nDrs. Wolchok and Hodi contributed equally to this article.\n\nThis article was published on April 20, 2015, at NEJM.org.\n\n**N Engl J Med 2015;372:2006-17. DOI: 10.1056/NEJMoa1414428** *Copyright \u00a9 2015 Massachusetts Medical Society.* In a phase 1 dose-escalation study, combined inhibition of T-cell checkpoint pathways by nivolumab and ipilimumab was associated with a high rate of objective response, including complete responses, among patients with advanced melanoma.\n\n#### **Methods**\n\nIn this double-blind study involving 142 patients with metastatic melanoma who had not previously received treatment, we randomly assigned patients in a 2:1 ratio to receive ipilimumab (3 mg per kilogram of body weight) combined with either nivolumab (1 mg per kilogram) or placebo once every 3 weeks for four doses, followed by nivolumab (3 mg per kilogram) or placebo every 2 weeks until the occurrence of disease progression or unacceptable toxic effects. The primary end point was the rate of investigator-assessed, confirmed objective response among patients with *BRAF* V600 wild-type tumors.\n\n#### **Results**\n\nAmong patients with *BRAF* wild-type tumors, the rate of confirmed objective response was 61% (44 of 72 patients) in the group that received both ipilimumab and nivolumab (combination group) versus 11% (4 of 37 patients) in the group that received ipilimumab and placebo (ipilimumab-monotherapy group) (P<0.001), with complete responses reported in 16 patients (22%) in the combination group and no patients in the ipilimumab-monotherapy group. The median duration of response was not reached in either group. The median progression-free survival was not reached with the combination therapy and was 4.4 months with ipilimumab monotherapy (hazard ratio associated with combination therapy as compared with ipilimumab monotherapy for disease progression or death, 0.40; 95% confidence interval, 0.23 to 0.68; P<0.001). Similar results for response rate and progression-free survival were observed in 33 patients with *BRAF* mutation\u2013positive tumors. Drug-related adverse events of grade 3 or 4 were reported in 54% of the patients who received the combination therapy as compared with 24% of the patients who received ipilimumab monotherapy. Select adverse events with potential immunologic causes were consistent with those in a phase 1 study, and most of these events resolved with immune-modulating medication.\n\n## **Conclusions**\n\nThe objective-response rate and the progression-free survival among patients with advanced melanoma who had not previously received treatment were significantly greater with nivolumab combined with ipilimumab than with ipilimumab monotherapy. Combination therapy had an acceptable safety profile. (Funded by Bristol-Myers Squibb; ClinicalTrials.gov number, NCT01927419.)\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\nRecent approaches to the treatment of metastatic melanoma enhance antitumor immunity by blocking immune checkpoints, such as cytotoxic T-lymphocyte\u2013associated antigen 4 (CTLA-4) and the programmed death 1 (PD-1) receptor. Ipilimumab, an anti\u2013CTLA-4 antibody, is approved by the Food and Drug Administration (FDA) on the basis of improvement in overall survival among patients with advanced melanoma, with objective responses in approximately 11% of the patients.1,2 Nivolumab, an anti\u2013PD-1 monoclonal antibody, has recently been shown to improve overall survival, as compared with dacarbazine (objective response rate, 40% vs. 14%), among previously untreated patients with advanced *BRAF* wild-type melanoma.3 Nivolumab is approved by the FDA on the basis of an improvement in confirmed objective responses, as compared with chemotherapy (32% vs. 11%), among patients with metastatic melanoma who have disease progression after treatment with ipilimumab or a BRAF inhibitor.<sup>4</sup>\n\nTargeted therapies, such as BRAF and MEK inhibitors that are approved for the treatment of patients with advanced melanoma who harbor *BRAF* V600 mutation\u2013positive tumors, result in a high rate of initial tumor responses, with a significant survival advantage over dacarbazine; however, the median duration of response is less than 1 year.5-12 Therefore, there is a need for new treatment options, particularly for the 50 to 60% of patients with *BRAF* wild-type melanoma.\n\nCTLA-4 and PD-1 inhibit antitumor immunity through complementary and nonredundant mechanisms.13 Preclinical models have shown that dual blockade, as compared with blockade of either pathway alone, synergistically improves antitumor responses.14,15 High rates of objective response (including complete responses), a prolonged duration of response, and a favorable overall survival rate of 79% at 2 years were observed in a phase 1 dose-escalation study involving patients with advanced melanoma who received the combination regimen of nivolumab and ipilimumab.16,17 Here, we report the results of a randomized, double-blind trial comparing nivolumab in combination with ipilimumab with standard-of-care ipilimumab monotherapy as a first-line treatment in patients with advanced melanoma.\n\n## Methods\n\n## **Patients**\n\nEligible patients had histologically confirmed, unresectable, previously untreated stage III or IV melanoma with measurable disease. Other inclusion criteria included a known *BRAF* V600 mutation status, an Eastern Cooperative Oncology Group performance-status score of 0 or 1 (on a scale of 0 to 5, with 0 indicating no symptoms and higher scores indicating greater disability), and the availability of tumor tissue from a metastatic or unresectable site for immunohistochemical assessment of PD-1 ligand (PD-L1) expression. Key exclusion criteria were active brain metastases, uveal melanoma, and serious autoimmune disease.\n\n#### **Study Design and Treatment**\n\nPatients were randomly assigned, in a 2:1 ratio and in a double-blinded manner, to receive both nivolumab and ipilimumab (combination group) or ipilimumab alone (ipilimumab-monotherapy group). Randomization was stratified according to *BRAF* mutation status (V600 wild-type vs. mutation-positive). In the combination group, nivolumab was administered intravenously at a dose of 1 mg per kilogram of body weight over a period of 60 minutes, once every 3 weeks for four doses. Thirty minutes after the completion of each nivolumab infusion, patients received 3 mg of ipilimumab per kilogram over a period of 90 minutes. After the fourth dose of both agents, ipilimumab was discontinued, and thereafter (maintenance phase), nivolumab was administered as a single agent at a dose of 3 mg per kilogram over a period of 60 minutes, once every 2 weeks.\n\nIn the ipilimumab-monotherapy group, the same dosing schedule was used, except that nivolumab was replaced with matched placebo during both the combination and maintenance portions of the trial. Treatment was continued as long as clinical benefit (as defined by the investigator) was observed or until unacceptable side effects occurred.\n\nPatients who had investigator-assessed disease progression could be treated beyond progression (with blinding maintained) or have blinded study therapy discontinued (after which time the treatment assignment could be disclosed to the investigator and patient). After unblinding, patients in the ipilimumab-monotherapy group had the op-\n\ntion of receiving nivolumab at a dose of 3 mg per kilogram every 2 weeks until further disease progression, and patients in the combination group were required to discontinue treatment (Fig. S1 in the Supplementary Appendix, available with the full text of this article at NEJM.org).\n\nThe primary end point was the rate of investigator-assessed, confirmed objective response among patients with *BRAF* V600 wild-type tumors. The primary end point was restricted to this group of patients because at the time of study enrollment, approved treatment options were limited for these patients and only ipilimumab had shown an overall survival benefit in a randomized, controlled trial. Secondary end points included investigator-assessed progression-free survival in patients with *BRAF* wild-type tumors, the objective response rate and progression-free survival among patients with *BRAF* V600 mutation\u2013positive tumors, and safety.\n\n#### **Assessments**\n\nTumor response was assessed according to the Response Evaluation Criteria in Solid Tumors, version 1.1,18 at the following time points: 12 weeks after the first treatment, every 6 weeks thereafter for the first year, then every 12 weeks until disease progression or discontinuation of treatment. Safety evaluations were performed in patients who had received at least one dose of study treatment, and the severity of adverse events was graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events, version 4.0.19 Guidelines for the management of adverse events were provided by the sponsor and are available in the Supplementary Appendix.\n\n#### **Study Oversight**\n\nThe study protocol, available along with the most recent version of the statistical analysis plan at NEJM.org, was approved by the institutional review board at each participating center. The study was conducted in accordance with the provisions of the Declaration of Helsinki and International Conference on Harmonisation Guidelines for Good Clinical Practice. All the patients provided written informed consent. An independent radiology review committee was established to provide a sensitivity assessment of objective responses, and a data and safety monitoring committee provided general oversight. Data were collected by the sponsor, Bristol-Myers Squibb, and were analyzed in collaboration with the authors. The authors vouch for the accuracy and completeness of the data and the fidelity of the study to the protocol. The first draft of the manuscript was written by the first and last authors, with all the authors contributing to subsequent drafts. Medical-writing support, funded by the sponsor, was provided by StemScientific. All the authors made the decision to submit the manuscript for publication.\n\n#### **Immunohistochemical Assessment of PD-L1**\n\nThe expression of PD-L1 on the surface of tumor cells was assessed in pretreatment tumor samples at a central laboratory with the use of an automated immunohistochemical assay (Bristol-Myers Squibb and Dako), as described previously.17 A tumor was considered to be PD-L1\u2013positive if at least 5% of tumor cells showed cell-surface PD-L1 staining of any intensity in a section containing at least 100 tumor cells that could be evaluated.\n\n#### **Statistical Analysis**\n\nWe planned to enroll approximately 100 patients with *BRAF* V600 wild-type tumors who would be randomly assigned in a 2:1 ratio to one of the two treatment groups (the intention-to-treat population). Patients with *BRAF* V600 mutation\u2013positive tumors were eligible for the study, with approximately 50 planned to undergo randomization. Analyses in the population with *BRAF* V600 mutation\u2013positive tumors were intended to be descriptive only and were not part of the sample-size consideration. Given a two-sided alpha level of 0.05, we calculated that the sample of 100 patients with *BRAF* wild-type tumors would give the study approximately 87% power to detect a significant difference in the objective response rate between the combination group and the ipilimumab-monotherapy group, assuming an objective response rate of 40% versus 10%. In order to preserve an experiment-wide type I error rate of 5%, a hierarchical testing approach was applied to key secondary end points after analysis of the primary end point of the objective response rate in all patients with *BRAF* wild-type tumors who underwent randomization. Of the key secondary end points, the objective response rate among all randomly assigned patients was tested first, followed by testing of progression-free survival among all patients with *BRAF* wild-type tumors who under-\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\nwent randomization; progression-free survival among all randomly assigned patients was tested last.\n\n## Results\n\n### **Patients**\n\nBaseline characteristics were well balanced between the study groups (Table 1). At trial entry, the majority of patients (87%) had stage IV disease according to the American Joint Committee on Cancer staging system, and 46% of the patients had tumors characterized as M1c disease (metastases to visceral sites other than skin, subcutaneous, distant lymph nodes, or lung, or distant metastases to any site along with elevated serum lactate dehydrogenase level). Elevated lactate dehydrogenase levels were observed in 35 patients (25%), and 23% of the patients had *BRAF* V600 mutation\u2013positive tumors. Of 118 patients whose PD-L1 expression could be evaluated, 35 (30%) had PD-L1\u2013positive tumors.\n\nFrom September 16, 2013, to February 6, 2014, a total of 179 patients were screened in the United States and France, and 142 patients (109 with *BRAF* wild-type tumors and 33 with *BRAF* V600 mutation\u2013positive tumors) were randomly assigned to one of the two treatment groups (Table S1 in the Supplementary Appendix). Clinical database lock for the results reported here occurred on January 30, 2015, with a minimum follow-up period of 11 months after randomization.\n\n#### **Efficacy**\n\nThe rate of investigator-assessed, confirmed objective response among the patients with *BRAF* wild-type tumors was 61% (95% confidence interval [CI], 49 to 72) in the combination group, versus 11% (95% CI, 3 to 25) in the ipilimumabmonotherapy group (odds ratio, 12.96; 95% CI, 3.91 to 54.49; P<0.001) (Table 2). A complete response was observed in 16 patients (22%) in the combination group and no patients in the ipilimumab-monotherapy group. Figure 1A shows the distribution of tumor-burden change from baseline among patients with *BRAF* wild-type tumors. The median change in investigator-assessed tumor volume was a 68.1% decrease in the combination group and a 5.5% increase in the ipilimumab-monotherapy group.\n\nAmong the patients with *BRAF* wild-type tumors who underwent randomization, the median duration of response was not reached in either group, with an ongoing response observed in 36 of the 44 patients with a response (82%) in the combination group and in 3 of the 4 patients with a response (75%) in the ipilimumab-monotherapy group (Fig. 1B). The time to a response did not differ significantly between the groups, with the majority of all responses observed at the time the first scan was obtained (Fig. 1B).\n\nAmong patients with *BRAF* mutation\u2013positive tumors, the objective response rate was 52% (12 of 23 patients) in the combination group, with the percentage of complete responses (22% [5 patients]) similar to that in patients with *BRAF* wildtype tumors (Table 2). In the population with *BRAF* wild-type tumors, the median progressionfree survival was not reached with the combination therapy and was 4.4 months (95% CI, 2.8 to 5.7) with ipilimumab monotherapy (hazard ratio associated with combination therapy as compared with ipilimumab monotherapy for disease progression or death, 0.40; 95% CI, 0.23 to 0.68; P<0.001) (Fig. 1C). Among patients with *BRAF* mutation\u2013positive tumors, the median progression-free survival was 8.5 months (95% CI, 2.8 to not estimable) in the combination group and 2.7 months (95% CI, 1.0 to 5.4) in the ipilimumabmonotherapy group (hazard ratio associated with combination therapy as compared with ipilimumab monotherapy for disease progression or death, 0.38; 95% CI, 0.15 to 1.00) (Fig. S2 in the Supplementary Appendix). Among all randomly assigned patients who discontinued study treatment owing to toxic effects, the objective response rate was 68% (95% CI, 52 to 81) in the combination group (30 of 44 patients), as compared with 10% (95% CI, 0 to 45) in the ipilimumab-monotherapy group (1 of 10 patients).\n\nIn patients with *BRAF* wild-type tumors, the response benefit with the nivolumab-and-ipilimumab combination, as compared with ipilimumab alone, was observed across all prespecified patient subgroups, including patients with stage M1c disease and those with elevated lactate dehydrogenase levels (Fig. S3 in the Supplementary Appendix). In the combination group, the objective response rate was independent of tumor PD-L1 status: 58% (95% CI, 37 to 78) among patients with PD-L1\u2013positive tumors and 55% (95% CI, 41 to 69) among patients with PD-L1\u2013negative tumors (Table S2 in the Supplementary Appendix). In the ipilimumab-monotherapy group, a numerically higher objective re-\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\n| Table 1. Baseline Characteristics of the Patients.* |                                        |                                     |                                        |                      |                  |  |\n|-----------------------------------------------------|----------------------------------------|-------------------------------------|----------------------------------------|----------------------|------------------|--|\n| Characteristic                                      |                                        | Patients with BRAF Wild-Type Tumors | All Randomly Assigned Patients         |                      |                  |  |\n|                                                     | Nivolumab plus<br>Ipilimumab<br>(N=72) | Ipilimumab<br>(N=37)                | Nivolumab plus<br>Ipilimumab<br>(N=95) | Ipilimumab<br>(N=47) | Total<br>(N=142) |  |\n| Age \u2014 yr                                            |                                        |                                     |                                        |                      |                  |  |\n| Median                                              | 66                                     | 69                                  | 64                                     | 67                   | 65               |  |\n| Range                                               | 27\u201387                                  | 46\u201380                               | 27\u201387                                  | 31\u201380                | 27\u201387            |  |\n| Sex \u2014 no. (%)                                       |                                        |                                     |                                        |                      |                  |  |\n| Male                                                | 48 (67)                                | 23 (62)                             | 63 (66)                                | 32 (68)              | 95 (67)          |  |\n| Female                                              | 24 (33)                                | 14 (38)                             | 32 (34)                                | 15 (32)              | 47 (33)          |  |\n| Disease stage at study entry \u2014<br>no. (%)\u2020          |                                        |                                     |                                        |                      |                  |  |\n| III                                                 | 8 (11)                                 | 8 (22)                              | 10 (11)                                | 9 (19)               | 19 (13)          |  |\n| IV                                                  | 64 (89)                                | 29 (78)                             | 85 (89)                                | 38 (81)              | 123 (87)         |  |\n| ECOG performance-status<br>score \u2014 no. (%)\u2021         |                                        |                                     |                                        |                      |                  |  |\n| 0                                                   | 62 (86)                                | 30 (81)                             | 79 (83)                                | 37 (79)              | 116 (82)         |  |\n| 1                                                   | 9 (12)                                 | 7 (19)                              | 14 (15)                                | 10 (21)              | 24 (17)          |  |\n| \u22652                                                  | 1 (1)                                  | 0                                   | 2 (2)                                  | 0                    | 2 (1)            |  |\n| Metastasis stage at study<br>entry \u2014 no. (%)\u00a7       |                                        |                                     |                                        |                      |                  |  |\n| M0                                                  | 6 (8)                                  | 5 (14)                              | 8 (8)                                  | 5 (11)               | 13 (9)           |  |\n| M1a                                                 | 9 (12)                                 | 7 (19)                              | 15 (16)                                | 8 (17)               | 23 (16)          |  |\n| M1b                                                 | 22 (31)                                | 8 (22)                              | 27 (28)                                | 12 (26)              | 39 (27)          |  |\n| M1c                                                 | 34 (47)                                | 16 (43)                             | 44 (46)                                | 21 (45)              | 65 (46)          |  |\n| Not reported                                        | 1 (1)                                  | 1 (3)                               | 1 (1)                                  | 1 (2)                | 2 (1)            |  |\n| Lactate dehydrogenase<br>\u2014 no. (%)\u00b6                 |                                        |                                     |                                        |                      |                  |  |\n| \u2264ULN                                                | 57 (79)                                | 30 (81)                             | 70 (74)                                | 36 (77)              | 106 (75)         |  |\n| >ULN                                                | 15 (21)                                | 7 (19)                              | 24 (25)                                | 11 (23)              | 35 (25)          |  |\n| \u22642\u00d7 ULN                                             | 69 (96)                                | 36 (97)                             | 88 (93)                                | 46 (98)              | 134 (94)         |  |\n| >2\u00d7 ULN                                             | 3 (4)                                  | 1 (3)                               | 6 (6)                                  | 1 (2)                | 7 (5)            |  |\n| History of brain metastases \u2014<br>no. (%)\u2016           |                                        |                                     |                                        |                      |                  |  |\n| Yes                                                 | 4 (6)                                  | 0                                   | 4 (4)                                  | 0                    | 4 (3)            |  |\n| No                                                  | 67 (93)                                | 37 (100)                            | 90 (95)                                | 47 (100)             | 137 (96)         |  |\n| BRAF V600 mutation \u2014 no. (%)                        | 0                                      | 0                                   | 23 (24)                                | 10 (21)              | 33 (23)          |  |\n\n\\* P values were not calculated, per the statistical analysis plan. ULN denotes upper limit of the normal range.\n\n\u2020 The disease stage was defined according to the staging system for melanoma of the American Joint Committee on Cancer.\n\n\u2021 An Eastern Cooperative Oncology Group (ECOG) performance-status score of 0 indicates no symptoms, 1 mild symptoms, and 2 moderate symptoms, with the patient being ambulatory and capable of all self-care but unable to carry out any work activities. Two patients randomly assigned to the nivolumab-plus-ipilimumab group were inadvertently enrolled in the study, despite having an ECOG performance-status score of 2.\n\n\u00a7 The metastasis stage was defined according to the tumor\u2013node\u2013metastasis system of the American Joint Committee on Cancer and the Union for International Cancer Control.\n\n\u00b6One patient randomly assigned to the nivolumab-plus-ipilimumab group inadvertently did not have a baseline lactate dehydrogenase level of \u22642\u00d7 ULN.\n\n\u2016 For one additional patient with a *BRAF* wild-type tumor who was randomly assigned to the nivolumab-plus-ipilimumab group, the history of brain metastases was not recorded on the clinical report form.\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\n| Table 2. Response to Treatment.                         |                                        |                      |                                                     |                      |  |  |\n|---------------------------------------------------------|----------------------------------------|----------------------|-----------------------------------------------------|----------------------|--|--|\n| Variable                                                | Patients with BRAF<br>Wild-Type Tumors |                      | Patients with BRAF<br>V600 Mutation\u2013Positive Tumors |                      |  |  |\n|                                                         | Nivolumab plus<br>Ipilimumab<br>(N=72) | Ipilimumab<br>(N=37) | Nivolumab plus<br>Ipilimumab<br>(N=23)              | Ipilimumab<br>(N=10) |  |  |\n| Best overall response \u2014 no. (%)*                        |                                        |                      |                                                     |                      |  |  |\n| Complete response                                       | 16 (22)                                | 0                    | 5 (22)                                              | 0                    |  |  |\n| Partial response                                        | 28 (39)                                | 4 (11)               | 7 (30)                                              | 1 (10)               |  |  |\n| Stable disease                                          | 9 (12)                                 | 13 (35)              | 3 (13)                                              | 1 (10)               |  |  |\n| Progressive disease                                     | 10 (14)                                | 15 (41)              | 5 (22)                                              | 7 (70)               |  |  |\n| Could not be determined                                 | 9 (12)                                 | 5 (14)               | 3 (13)                                              | 1 (10)               |  |  |\n| Patients with objective response<br>\u2014 no. (% [95% CI])\u2020 | 44 (61 [49\u201372])                        | 4 (11 [3\u201325])        | 12 (52 [31\u201373])                                     | 1 (10 [0\u201345])        |  |  |\n\n\\* The best overall response was assessed by the investigator with the use of the Response Evaluation Criteria in Solid Tumors, version 1.1.\n\n\u2020 Data include patients with a complete response and those with a partial response. The calculation of the confidence interval (CI) was based on the Clopper\u2013Pearson method. The estimated odds ratio for nivolumab plus ipilimumab as compared with ipilimumab alone was 12.96 (95% CI, 3.91 to 54.49) among patients with *BRAF* wild-type tumors (P<0.001) and 9.82 (95% CI, 0.99 to 465.39) among patients with *BRAF* V600 mutation\u2013positive tumors (P value was not calculated, per the statistical analysis plan).\n\nsponse rate was observed among patients with PD-L1\u2013positive tumors than among patients with PD-L1\u2013negative tumors (18% [95% CI, 2 to 52] vs. 4% [95% CI, 0 to 19]).\n\n#### **Safety**\n\nIn the combination group, 59% and 57% of the patients received at least four doses of nivolumab and ipilimumab, respectively; in the ipilimumab monotherapy group, 70% of the patients received at least four doses of ipilimumab (Table S3 in the Supplementary Appendix). The rate of treatmentrelated adverse events, as assessed by the investigators, was 91% in the combination group and 93% in the ipilimumab-monotherapy group (Table 3). Drug-related adverse events of grade 3 or 4 were reported more frequently in the combination group than in the ipilimumab-monotherapy group (54% vs. 24%); in patients who received the combination regimen, the onset of most adverse events occurred during the combination phase rather than the maintenance (nivolumab-monotherapy) phase. The most common grade 3 or 4 adverse events associated with the combination therapy were colitis (17%), diarrhea (11%), and an elevated alanine aminotransferase level (11%). Diarrhea was the most frequently reported grade 3 or 4 adverse event associated with ipilimumab monotherapy (11%), followed by colitis (7%).\n\nSelect adverse events of potentially immune-\n\nmediated cause occurred most frequently in the skin, gastrointestinal, endocrine, and hepatic organ categories (Table S4 in the Supplementary Appendix) and were observed more frequently with combination therapy than with ipilimumab monotherapy. Immunosuppressive medications for the management of adverse events, including topical agents for dermatologic adverse events, were used in a higher percentage of patients in the combination group than in the ipilimumab group (89% vs. 59%). The most commonly used systemic immunosuppressive agents across both treatment groups were glucocorticoids (82% of the patients in the combination group and 50% of the patients in the ipilimumab-monotherapy group). Infliximab was administered to 13% and 9% of the patients in the respective groups for adverse-event management. Hormone-replacement therapy was used to manage endocrine adverse events. Of 46 grade 3 or 4 drug-related select adverse events in the combination group that were managed with immunomodulatory medication, the majority (approximately 80%) resolved completely, or symptoms returned to baseline levels (Table 4). There was a similar resolution rate across organ categories in both treatment groups.\n\nThe most common reason for discontinuation of study treatment was drug-related adverse events in the combination group (45%) and disease progression in the ipilimumab-monothera-\n\nn engl j med 372;21 nejm.org may 21, 2015 2011\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\n![](_page_6_Figure_1.jpeg)\n\n## **Figure 1 (facing page). Change in Tumor Burden, Durability of Tumor Regressions, and Progression-free Survival.**\n\nPanel A shows the best change from baseline in the sum of the reference diameters of the target lesion in patients receiving the combination of nivolumab and ipilimumab (left) and those receiving ipilimumab monotherapy (right). The dashed line indicates the 30% reduction in tumor burden that is consistent with a response to treatment according to the Response Evaluation Criteria in Solid Tumors (RECIST), version 1.1. Panel B shows the durability of tumor regressions in patients with advanced melanoma with *BRAF* wildtype tumors who had objective responses to the combination regimen or ipilimumab monotherapy according to conventional RECIST guidelines. Open circles indicate the first evidence of objective response and arrows indicate an ongoing response at the time of the analysis. Panel C shows Kaplan\u2013Meier curves for progression-free survival among patients with *BRAF* wild-type tumors treated with the combination regimen or ipilimumab alone. NR denotes not reached.\n\npy group (37%) (Table S5 in the Supplementary Appendix). After the initial four doses, 40% of the patients in the combination group continued to receive nivolumab as monotherapy (Table S3 in the Supplementary Appendix).\n\nThe number of reported deaths among treated patients was 25 in the combination group (27%) and 17 in the ipilimumab-monotherapy group (37%); most deaths were due to progressive disease. Three deaths were related to the combination therapy according to investigator assessment \u2014 one patient with a history of cardiac disease died from ventricular arrhythmia 29 days after the last dose of study treatment; the second died suddenly 69 days after the last dose while clinically improving from pneumonitis and having an iatrogenic pneumothorax. The third patient died suddenly 86 days after the last dose of study treatment (3 days after the resolution of grade 3 pneumonia and grade 4 hypercalcemia). None of the deaths in the ipilimumabmonotherapy group were deemed to be related to the study drug.\n\n## Discussion\n\nIn this double-blind, randomized study, the combination of nivolumab and ipilimumab resulted in a significantly higher objective response rate, more frequent complete responses, and significantly longer progression-free survival than ipilimumab alone among previously untreated patients with advanced melanoma. The confirmed response rate associated with the combination therapy in this trial (61%) is numerically higher than the 40% response rate that was recently reported with nivolumab monotherapy as first-line therapy in patients with advanced melanoma who have *BRAF* wild-type tumors and also higher than the rate observed in trials of monotherapy with pembrolizumab, another anti\u2013PD-1 agent.<sup>20</sup> However, it is inherently difficult to compare the efficacy of the combination therapy with that of anti\u2013PD-1 monotherapy, because the demographic characteristics of the patients differed among the trials.\n\nOn the basis of the high degree of tumor reduction in the current study, with a high rate of complete responses (22% among the patients with *BRAF* wild-type tumors who were assigned to the combination therapy), a favorable clinical benefit can be anticipated with longer follow-up. Overall, the characteristics of response observed with nivolumab plus ipilimumab in the current study are consistent with results reported previously,16,17 with most responses occurring by the time of the first tumor assessment and, in many patients, responses continuing despite discontinuation of therapy. The response rate associated with the combination regimen in this current phase 2 study was even higher than response rates reported previously, which may be explained by the fact that the patient population in this study was previously untreated. A prior phase 1 trial of the combination regimen at varying doses showed high rates of overall survival at 1 year (85%) and 2 years (79%).16,17\n\nThe primary end point of this study specifically addressed patients with *BRAF* wild-type melanoma because at the time of study enrollment, ipilimumab was the only approved therapy for this group of patients that had shown an overall survival benefit in a randomized phase 3 trial. Although BRAF inhibitors as single agents and BRAF inhibitor\u2013MEK inhibitor combinations can result in high response rates among patients with *BRAF*-mutant melanoma,14,15,21 no\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Chalmers Tekniska Hogskola on June 16, 2025. For personal use only.\n\n| Table 3. Treatment-Related Adverse Events.*                                |           |                                     |                      |              |  |  |\n|----------------------------------------------------------------------------|-----------|-------------------------------------|----------------------|--------------|--|--|\n| Event                                                                      |           | Nivolumab plus Ipilimumab<br>(N=94) | Ipilimumab<br>(N=46) |              |  |  |\n|                                                                            | Any Grade | Grade 3 or 4                        | Any Grade            | Grade 3 or 4 |  |  |\n|                                                                            |           | number of patients (percent)        |                      |              |  |  |\n| Any treatment-related adverse event                                        | 86 (91)   | 51 (54)                             | 43 (93)              | 11 (24)      |  |  |\n| Most common treatment-related<br>adverse events\u2020                           |           |                                     |                      |              |  |  |\n| Diarrhea\u2021                                                                  | 42 (45)   | 10 (11)                             | 17 (37)              | 5 (11)       |  |  |\n| Rash                                                                       | 39 (41)   | 5 (5)                               | 12 (26)              | 0            |  |  |\n| Fatigue                                                                    | 37 (39)   | 5 (5)                               | 20 (43)              | 0            |  |  |\n| Pruritus                                                                   | 33 (35)   | 1 (1)                               | 13 (28)              | 0            |  |  |\n| Colitis\u2021                                                                   | 22 (23)   | 16 (17)                             | 6 (13)               | 3 (7)        |  |  |\n| Nausea                                                                     | 21 (22)   | 1 (1)                               | 11 (24)              | 1 (2)        |  |  |\n| Elevated alanine aminotransferase                                          | 21 (22)   | 10 (11)                             | 2 (4)                | 0            |  |  |\n| Elevated aspartate aminotransferase                                        | 20 (21)   | 7 (7)                               | 2 (4)                | 0            |  |  |\n| Pyrexia                                                                    | 19 (20)   | 3 (3)                               | 7 (15)               | 0            |  |  |\n| Maculopapular rash                                                         | 15 (16)   | 3 (3)                               | 8 (17)               | 0            |  |  |\n| Hypothyroidism                                                             | 15 (16)   | 0                                   | 7 (15)               | 0            |  |  |\n| Decreased appetite                                                         | 14 (15)   | 0                                   | 4 (9)                | 0            |  |  |\n| Headache                                                                   | 13 (14)   | 2 (2)                               | 5 (11)               | 0            |  |  |\n| Vomiting                                                                   | 13 (14)   | 1 (1)                               | 5 (11)               | 0            |  |  |\n| Increased lipase                                                           | 12 (13)   | 8 (9)                               | 2 (4)                | 1 (2)        |  |  |\n| Hypophysitis                                                               | 11 (12)   | 2 (2)                               | 3 (7)                | 2 (4)        |  |  |\n| Pneumonitis\u00a7                                                               | 10 (11)   | 2 (2)                               | 2 (4)                | 1 (2)        |  |  |\n| Arthralgia                                                                 | 10 (11)   | 0                                   | 4 (9)                | 0            |  |  |\n| Chills                                                                     | 10 (11)   | 0                                   | 3 (7)                | 0            |  |  |\n| Vitiligo                                                                   | 10 (11)   | 0                                   | 4 (9)                | 0            |  |  |\n| Abdominal pain                                                             | 10 (11)   | 0                                   | 4 (9)                | 1 (2)        |  |  |\n| Constipation                                                               | 10 (11)   | 1 (1)                               | 4 (9)                | 0            |  |  |\n| Myalgia                                                                    | 9 (10)    | 0                                   | 6 (13)               | 0            |  |  |\n| Dyspnea                                                                    | 9 (10)    | 3 (3)                               | 5 (11)               | 0            |  |  |\n| Asthenia                                                                   | 8 (9)     | 0                                   | 5 (11)               | 0            |  |  |\n| Pruritic rash                                                              | 3 (3)     | 0                                   | 5 (11)               | 0            |  |  |\n| Treatment-related adverse event leading<br>to discontinuation of treatment | 44 (47)   | 36 (38)                             | 8 (17)               | 6 (13)       |  |  |\n\n\\* The table includes events reported after the first dose of study treatment and within 100 days after the last dose of study treatment.\n\n\u2020 Shown are events that were reported in at least 10% of the patients in either study group.\n\n\u2021 Diarrhea was defined as a disorder characterized by frequent and watery bowel movements; colitis was defined as a disorder characterized by inflammation of the colon. Grade 3 or 4 drug-related adverse events were reported more frequently in the combination group than in the ipilimumab-monotherapy group; in patients who received the combination regimen, most adverse events had first onset during the combination phase rather than the maintenance (nivolumab-monotherapy) phase.\n\n\u00a7 One additional patient in the ipilimumab-monotherapy group had progressive disease on April 28, 2014, and data were unblinded before the patient started nivolumab monotherapy a day later. This patient received 10 cycles of nivolumab monotherapy before the onset of pneumonitis after the last dose on September 25, 2014.\n\nsingle agent or combination of agents has similarly been shown to result in a high response rate among patients with *BRAF* wild-type melanoma. Nevertheless, among patients with *BRAF*mutant melanoma, the overall response rate and progression-free survival associated with the combination regimen were also substantially higher than those with ipilimumab alone. These results are consistent with the results of a previous phase 1 trial and suggest that the presence of the *BRAF* V600 mutation does not influence the efficacy of checkpoint blockade.16,17,22\n\nIn general, the spectrum of select adverse events that we observed was consistent with previous experience with the combination therapy.16 Three deaths related to the combination regimen were reported in this study; these deaths could be linked to preexisting conditions that were related to the cause of death or that required medical procedures that might have contributed to the death. The proportion of patients who had a grade 3 or 4 treatment-related adverse event was higher with the nivolumaband-ipilimumab combination than with ipilimumab monotherapy (54% vs. 24%). Select grade 3 or 4 adverse events generally occurred within the first 15 weeks of treatment with the combination regimen and typically required less than 9 weeks to resolve, depending on the specific adverse event. Aside from patients with endocrinopathies, which typically require continued hormone-replacement therapy, the majority of patients\n\n| Table 4. Select Adverse Events and Their Management with Immunomodulatory Medication (IMM), According to Organ Category. |                                  |                       |                                                       |                              |                              |                       |                                                       |                              |\n|--------------------------------------------------------------------------------------------------------------------------|----------------------------------|-----------------------|-------------------------------------------------------|------------------------------|------------------------------|-----------------------|-------------------------------------------------------|------------------------------|\n| Organ Category                                                                                                           | Nivolumab plus Ipilimumab (N=94) |                       |                                                       |                              | Ipilimumab (N=46)            |                       |                                                       |                              |\n|                                                                                                                          | Reported<br>Adverse<br>Event     | Treatment<br>with IMM | Resolution of<br>Event after<br>Treatment<br>with IMM | Median Time<br>to Resolution | Reported<br>Adverse<br>Event | Treatment<br>with IMM | Resolution of<br>Event after<br>Treatment<br>with IMM | Median Time<br>to Resolution |\n|                                                                                                                          | no. of patients                  |                       | no. of patients/total no. (%)                         | wk (95% CI)                  | no. of patients              |                       | no. of patients/total no. (%)                         | wk (95% CI)                  |\n| Skin                                                                                                                     |                                  |                       |                                                       |                              |                              |                       |                                                       |                              |\n| Any grade                                                                                                                | 67                               | 41/67 (61)            | 24/35 (69)                                            | 18.6 (9.3\u201335.1)              | 26                           | 13/26 (50)            | 11/13 (85)                                            | 8.6 (3.3\u201322.0)               |\n| Grade 3 or 4                                                                                                             | 9                                | 9/9 (100)             | 8/9 (89)                                              | 6.1 (0.9\u201324.1)               | 0                            | 0                     | 0                                                     | NE                           |\n| Gastrointestinal                                                                                                         |                                  |                       |                                                       |                              |                              |                       |                                                       |                              |\n| Any grade                                                                                                                | 48                               | 31/48 (65)            | 26/28 (93)                                            | 4.7 (3.0\u20136.7)                | 17                           | 11/17 (65)            | 7/9 (78)                                              | 5.0 (1.4\u201312.1)               |\n| Grade 3 or 4                                                                                                             | 20                               | 17/20 (85)            | 15/17 (88)                                            | 4.3 (1.4\u201310.7)               | 5                            | 5/5 (100)             | 4/5 (80)                                              | 3.6 (0.7\u20135.0)                |\n| Endocrine\u2020                                                                                                               |                                  |                       |                                                       |                              |                              |                       |                                                       |                              |\n| Any grade                                                                                                                | 32                               | 14/32 (44)            | 2/14 (14)                                             | NE (NE\u2013NE)                   | 8                            | 3/8 (38)              | 1/3 (33)                                              | NE (0.9\u2013NE)                  |\n| Grade 3 or 4                                                                                                             | 5                                | 4/5 (80)              | 1/4 (25)                                              | NE (5.6\u2013NE)                  | 2                            | 2/2 (100)             | 1/2 (50)                                              | NE (0.9\u2013NE)                  |\n| Hepatic                                                                                                                  |                                  |                       |                                                       |                              |                              |                       |                                                       |                              |\n| Any grade                                                                                                                | 26                               | 13/26 (50)            | 11/13 (85)                                            | 14.1 (3.1\u201319.6)              | 2                            | 0/2                   | 0                                                     | NE                           |\n| Grade 3 or 4                                                                                                             | 14                               | 12/14 (86)            | 10/12 (83)                                            | 8.3 (2.1\u201314.1)               | 0                            | 0                     | 0                                                     | NE                           |\n| Pulmonary                                                                                                                |                                  |                       |                                                       |                              |                              |                       |                                                       |                              |\n| Any grade                                                                                                                | 11                               | 8/11 (73)             | 6/8 (75)                                              | 6.1 (0.3\u20139.0)                | 2                            | 2/2 (100)             | 2/2 (100)                                             | 3.2 (2.9\u20133.6)                |\n| Grade 3 or 4                                                                                                             | 3                                | 3/3 (100)             | 2/3 (67)                                              | 9.0 (0.3\u20139.0)                | 1                            | 1/1 (100)             | 1/1 (100)                                             | 3.6 (NE\u2013NE)                  |\n| Renal                                                                                                                    |                                  |                       |                                                       |                              |                              |                       |                                                       |                              |\n| Any grade                                                                                                                | 3                                | 2/3 (67)              | 2/2 (100)                                             | 0.4 (0.3\u20130.6)                | 1                            | 0/1                   | 0                                                     | NE                           |\n| Grade 3 or 4                                                                                                             | 1                                | 1/1 (100)             | 1/1 (100)                                             | 0.6 (NE\u2013NE)                  | 0                            | 0                     | 0                                                     | NE                           |\n\n\\* The table includes events reported after the first dose and within 100 days after the last dose of study treatment. Resolution of an event was restricted to patients who received IMM during their longest clustered event and was defined as complete resolution or improvement to the baseline level for all clustered events in a given category that occurred in the patient. NE denotes not estimable.\n\n\u2020 Endocrine events were managed with hormone-replacement therapy. Patients requiring long-term hormone-replacement therapy were not counted as having resolution of an event.\n\nn engl j med 372;21 nejm.org may 21, 2015 2015\n\neventually had complete resolution of grade 3 or 4 adverse events. It is noteworthy that of the patients who discontinued combination treatment owing to toxic effects, 68% had an objective response and most continue to have a response.\n\nPositive expression of PD-L1, one of the ligands of PD-1, has been associated with increased response rates among patients treated with nivolumab as a single agent.23,24 Among patients treated with the combination regimen in our study, however, there was no significant difference in response rates between patients whose pretreatment tumors were defined as PD-L1\u2013positive and those whose tumors were PD-L1\u2013negative. These data suggest that PD-L1 should not be used to select patients to receive combination treatment. The mechanism for response independent of baseline PD-L1 status remains unclear. It is possible that ipilimumab drives T cells into the tumor and that this T-cell infiltration during treatment leads to a more favorable microenvironment for anti\u2013PD-1 efficacy.25,26 It is also possible that assessment of PD-L1 status with the incorporation of PD-L1\u2013expressing tumor-infiltrating macrophages or T cells (rather than tumor cells, as in our study) may be most relevant, but this possibility requires additional investigation.\n\nIn summary, the combination of ipilimumab plus nivolumab resulted in durable responses and\n\n#### **References**\n\n**2.** Robert C, Thomas L, Bondarenko I, et al. Ipilimumab plus dacarbazine for previously untreated metastatic melanoma. N Engl J Med 2011;364:2517-26.\n\n**3.** Robert C, Long GV, Brady B, et al. Nivolumab in previously untreated melanoma without *BRA*F mutation. N Engl J Med 2015;372:320-30.\n\n**4.** Weber JS, D'Angelo SP, Minor D, et al. Nivolumab versus chemotherapy in patients with advanced melanoma who progressed after anti-CTLA-4 treatment (CheckMate 037): a randomised, controlled, open-label, phase 3 trial. Lancet Oncol 2015 March 17 (Epub ahead of print).\n\n**5.** Larkin J, Ascierto PA, Dr\u00e9no B, et al. Combined vemurafenib and cobimetinib in *BRAF*-mutated melanoma. N Engl J Med 2014;371:1867-76.\n\n**6.** Long GV, Stroyakovskiy D, Gogas H, et al. Combined BRAF and MEK inhibition versus BRAF inhibition alone in melanoma. N Engl J Med 2014;371:1877-88.\n\na substantially higher objective response rate, longer progression-free survival, and higher rates of complete response than ipilimumab monotherapy among patients with *BRAF* wild-type advanced melanoma and those with *BRAF*-mutant advanced melanoma. The incidence of grade 3 or 4 adverse events was higher with combination therapy, but adverse events were generally manageable when established safety guidelines were used. The risk\u2013 benefit profile of combined PD-1 and CTLA-4 blockade, as compared with monotherapy, will be further clarified by data from ongoing phase 3 double-blind, randomized trials, such as the CheckMate 067 study (ClincalTrials.gov number, NCT01844505).\n\n#### Supported by Bristol-Myers Squibb.\n\nDisclosure forms provided by the authors are available with the full text of this article at NEJM.org.\n\nWe thank the patients who participated in this study; clinical faculty and person  # Increased text length for comprehensive extraction\n\nReturn JSON only:",
+    "validation_data": {
+      "can_process": true,
+      "nct_number": "NCT01927419",
+      "treatment_arms_count": 1,
+      "errors": [],
+      "warnings": []
+    },
+    "extraction_ready": true,
+    "source": "marker_enhanced",
+    "markdown_length": 65091,
+    "extraction_timestamp": "2025-07-23T12:40:46.004321"
+  },
+  "quality_assessment": {
+    "markdown_quality": 100.0,
+    "clinical_keywords_found": 13,
+    "table_structures": 846,
+    "section_headers": 67,
+    "nct_numbers": 2,
+    "extraction_fields_filled": 6,
+    "processing_success": true
+  },
+  "success": true,
+  "processing_time": 1753254646.007762,
+  "use_llm": false
+}

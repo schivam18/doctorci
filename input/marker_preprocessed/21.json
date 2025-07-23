@@ -1,0 +1,1793 @@
+{
+  "pdf_path": "resources/21.pdf",
+  "pdf_name": "21",
+  "marker_processing": {
+    "pdf_path": "resources/21.pdf",
+    "pdf_name": "21",
+    "markdown_path": "/var/folders/k8/d1yv1yjs12d97mqvcvxgjnhm0000gn/T/tmpwca51jr9/21/21.md",
+    "json_path": "/var/folders/k8/d1yv1yjs12d97mqvcvxgjnhm0000gn/T/tmpwca51jr9/21/21_meta.json",
+    "success": true,
+    "markdown_content": "# JOURNAL OF CLINICAL ONCOLOGY RAPID COMMUNICATION\n\n# Randomized, Open-Label Phase II Study Evaluating the Efficacy and Safety of Talimogene Laherparepvec in Combination With Ipilimumab Versus Ipilimumab Alone in Patients With Advanced, Unresectable Melanoma\n\nJason Chesney, Igor Puzanov, Frances Collichio, Parminder Singh, Mohammed M. Milhem, John Glaspy, Omid Hamid, Merrick Ross, Philip Friedlander, Claus Garbe, Theodore F. Logan, Axel Hauschild, Celeste Lebb\u00b4e, Lisa Chen, Jenny J. Kim, Jennifer Gansert, Robert H.I. Andtbacka, and Howard L. Kaufman\n\nABSTRACT\n\nAuthor affiliations and support information (if applicable) appear at the end of this article.\n\nPublished at [jco.org](http://jco.org) on October 5, 2017.\n\nClinical trial information: NCT01740297.\n\nCorrespondence to: Jason Chesney, MD, PhD, Department of Medicine, J. Graham Brown Cancer Center, University of Louisville, 529 S Jackson St, Louisville, KY 40202; e-mail: [jason.chesney@](mailto:jason.chesney@louisville.edu) [louisville.edu.](mailto:jason.chesney@louisville.edu)\n\n\u00a9 2017 by American Society of Clinical Oncology\n\n0732-183X/18/3617w-1658w/\\$20.00\n\n# Purpose\n\nWe evaluated the combination of talimogene laherparepvec plus ipilimumab versus ipilimumab alone in patients with advanced melanoma in a phase II study. To our knowledge, this was the first randomized trial to evaluate addition of an oncolytic virus to a checkpoint inhibitor.\n\n# Methods\n\nPatients with unresectable stages IIIB to IV melanoma, with no more than one prior therapy if BRAF wild-type, no more than two prior therapies if BRAF mutant, measurable/injectable disease, and without symptomatic autoimmunity or clinically significant immunosuppression were randomly assigned 1:1 to receive talimogene laherparepvec plus ipilimumab or ipilimumab alone. Talimogene laherparepvec treatment began in week 1 (first dose, # 4 mL 3 106 plaque-forming units/mL; after 3 weeks, # 4 mL 3 108 plaque-forming units/mL every 2 weeks). Ipilimumab (3 mg/kg every 3 weeks; up to four doses) began week 1 in the ipilimumab alone arm and week 6 in the combination arm. The primary end point was objective response rate evaluated by investigators per immunerelated response criteria.\n\n# Results\n\nOne hundred ninety-eight patients were randomly assigned to talimogene laherparepvec plus ipilimumab (n = 98), or ipilimumab alone (n = 100). Thirty-eight patients (39%) in the combination arm and 18 patients (18%) in the ipilimumab arm had an objective response (odds ratio, 2.9; 95% CI, 1.5 to 5.5; P = .002). Responses were not limited to injected lesions; visceral lesion decreases were observed in 52% of patients in the combination arm and 23% of patients in the ipilimumab arm. Frequently occurring adverse events (AEs) included fatigue (combination, 59%; ipilimumab alone, 42%), chills (combination, 53%; ipilimumab alone, 3%), and diarrhea (combination, 42%; ipilimumab alone, 35%). Incidence of grade \\$ 3 AEs was 45% and 35%, respectively. Three patients in the combination arm had fatal AEs; none were treatment related.\n\n#### Conclusion\n\nThe study met its primary end point; the objective response rate was significantly higher with talimogene laherparepvec plus ipilimumab versus ipilimumab alone. These data indicate that the combination has greater antitumor activity without additional safety concerns versus ipilimumab.\n\nJ Clin Oncol 36:1658-1667. \u00a9 2017 by American Society of Clinical Oncology\n\nAppendix DOI: [https://doi.org/10.1200/JCO.](http://ascopubs.org/doi/full/10.1200/JCO.2017.73.7379) [2017.73.7379](http://ascopubs.org/doi/full/10.1200/JCO.2017.73.7379)\n\n![](_page_0_Picture_22.jpeg)\n\nDOI: [https://doi.org/10.1200/JCO.2017.](http://ascopubs.org/doi/full/10.1200/JCO.2017.73.7379) [73.7379](http://ascopubs.org/doi/full/10.1200/JCO.2017.73.7379)\n\n#### INTRODUCTION\n\nNew therapies, such as immune checkpoint inhibitors and oncolytic viruses, have transformed patient care in advanced melanoma. Potentially, combination therapy strategies targeting complementary cancer immunity pathways could improve antitumor responses versus single-agent therapy[.1](#page-9-0) Consistent with this hypothesis, combination therapy with ipilimumab plus nivolumab improved response rates in untreated metastatic melanoma versus ipilimumab monotherapy, albeit with increased toxicity.[2,3](#page-9-0) These results advocate for evaluation of novel combinations with lower toxicity.\n\nIpilimumab is an anti\u2013cytotoxic T-lymphocyte antigen 4 (CTLA-4) antibody[.4](#page-9-0) In previously treated advanced melanoma, ipilimumab improved overall response versus gp100 (10.9% v 1.5%; P , .001; complete response [CR], 1.5% v 0%)[.5](#page-9-0) In treatment-naive advanced melanoma, ipilimumab treatment resulted in an objective response rate (ORR) of 19.0% (CR, 2.2%) and median time to objective response of 2.8 months (range, 2.5 to 12.4 months).[2](#page-9-0) Improvement in overall survival (OS) with ipilimumab monotherapy relative to gp100[5](#page-9-0) and in combination with dacarbazine versus dacarbazine alone has been reported.[6](#page-9-0) Talimogene laherparepvec is a genetically modified herpes simplex virus type 1 that expresses the immunostimulatory cytokine granulocyte-macrophage colonystimulating factor.[7](#page-9-0) In the phase III single-agent registration study OPTiM talimogene laherparepvec improved durable response rate (primary end point) versus subcutaneous granulocyte-macrophage colony-stimulating factor (16% v 2%; P , .001).[8](#page-9-0)\n\nTalimogene laherparepvec and ipilimumab enhance T-cell activation through different mechanisms. Talimogene laherparepvec is designed to increase tumor-specific immune activation by improving antigen presentation and T-cell priming,[9](#page-9-0) whereas CTLA-4 blockade with ipilimumab promotes T-cell expansion.[10](#page-9-0) Combining these therapies may enhance antitumor immune responses, and thereby provide greater antitumor activity than either agent alone. Specifically, we hypothesized that ipilimumab would augment systemic antitumor responses triggered by talimogene laherparepvec, yielding improved outcomes.\n\nTo test this hypothesis, we evaluated talimogene laherparepvec in combination with ipilimumab in patients with unresected advanced melanoma in a phase Ib/II study. Phase Ib results have been reported previously.[11](#page-9-0) Herein, we report the primary analysis of the randomized phase II portion, which compared talimogene laherparepvec plus ipilimumab with ipilimumab alone in patients with stages IIIB to IV melanoma.\n\n# METHODS\n\n# Patients\n\nEligible patients (\\$ 18 years of age) had histologically confirmed stages IIIB to IVM1c malignant melanoma not suitable for surgical resection, but suitable for injection (\\$ 1 cutaneous/subcutaneous/nodal lesion \\$ 5 mm in longest diameter); measurable disease per contrastenhanced or spiral computed tomography (CT; visceral lesions) or calipers (cutaneous/subcutaneous lesions); Eastern Cooperative Oncology Group performance status # 1; and adequate hematologic, hepatic, and renal function. Patients were initially required to be treatment naive; however, a protocol amendment that was intended to account for the availability of new melanoma therapies allowed the enrollment of patients who had received one line of systemic anticancer therapy if BRAF wild-type or # 2 lines if BRAF mutant (one must have been a BRAF inhibitor). Patients with primary uveal or mucosal melanoma, history of melanoma in an immunodeficient state, clinically active cerebral metastases, active herpetic lesions that require systemic treatment with antiherpetic drugs, evidence of clinically significant immunosuppression, history of inflammatory bowel disease and/or other symptomatic autoimmune disease, or prior exposure to talimogene laherparepvec and/or other oncolytic immunotherapy were excluded. Prior ipilimumab therapy was permitted if patients had previously had a partial response (PR), CR, or stable disease for \\$ 6 months. Prior anti\u2013programmed death-1 or anti\u2013CTLA-4 antibody therapy was permitted if discontinuation did not result from treatment-related adverse events (AEs).\n\nPatients provided written informed consent. Institutional review boards/ethics committees at each site approved study procedures.\n\n#### Study Design\n\nThe phase II part of the study was an open-label, multicenter, randomized trial evaluating talimogene laherparepvec in combination with ipilimumab (Appendix [Fig A1,](#page-11-0) online only). Patients were randomly assigned (1:1) to receive talimogene laherparepvec plus ipilimumab or ipilimumab alone. Before the protocol amendment, random assignment was stratified by disease stage (IIIB/IIIC/IVM1a/IVM1b v IVM1c) and BRAFV600E status (mutant v wild-type); after the amendment, random assignment was stratified by disease stage (stage IIIB/IIIC/IVM1a v IVM1b/ IVM1c) and prior therapy (treatment naive v previous systemic anticancer immunotherapy v systemic anticancer treatment other than immunotherapy) to better distinguish between patients whose disease had or had not spread beyond the skin and/or lymph nodes.\n\nIn the combination arm, talimogene laherparepvec was injected intralesionally on day 1 of week 1 at a dose of 106 plaque-forming units/mL (# 4.0 mL total injection volume; new and larger lesions were prioritized) followed by administration on day 1 of week 4, and every 2 weeks thereafter at 108 plaque-forming units/mL (# 4.0 mL)[12;](#page-9-0) ipilimumab (3 mg/kg) was administered intravenously every 3 weeks beginning on day 1 of week 6 for up to four infusions. Talimogene laherparepvec acts in the earliest stages of the cancer immunity cycle by initiating antigen release/presentation.[9](#page-9-0),[13](#page-9-0) Ipilimumab was initiated after two doses of talimogene laherparepvec to potentially maximize the agents' complementary mechanisms of action. In the ipilimumab arm, ipilimumab (3 mg/kg) was administered intravenously every 3 weeks beginning on day 1 of week 1 for up to four infusions. Talimogene laherparepvec treatment continued until CR, all injectable tumors had disappeared, confirmed disease progression per modified immune-related response criteria (irRC),[14](#page-9-0) or intolerance. Ipilimumab treatment continued for four infusions, until disease progression per irRC or unacceptable ipilimumab-related toxicity. Talimogene laherparepvec dose reductions were not permitted, other than a reduction in injection volume as a result of a reduction in lesion dimensions. Treatment could be delayed and/or withheld as a result of toxicity; delays . 4 weeks as a result of AEs resulted in permanent discontinuation. Ipilimumab dose reductions were not permitted; dosing could be withheld and/or discontinued as a result of toxicity. If talimogene laherparepvec was delayed and/or discontinued, ipilimumab treatment could continue. The study protocol includes complete dose modification rules.\n\n#### End Points\n\nThe primary end point was investigator-assessed ORR per modified irRC (Study Protocol).[14](#page-9-0) Secondary end points included OS, best overall response, disease control rate, time to response, duration of response, progression-free survival (PFS), and safety.\n\n#### Assessments\n\nRadiographic imaging was done at baseline, every 12 weeks thereafter (independent of treatment cycle) until clinically relevant disease progression, and at the safety follow-up. Tumor assessments included measurement of cutaneous/subcutaneous/nodal lesions by calipers. Radiographic assessments of the chest, abdomen, and pelvis were performed by CT, positron emission tomography/CT, or magnetic resonance imaging. Response assessments were per irR[C14](#page-9-0) and required response/disease progression to be confirmed by a second consecutive clinical/radiographic assessment \\$ 4 weeks after the first documented response/disease progression. Confirmation of disease progression was only required in the absence of rapid clinical deterioration. AEs occurring during the study were recorded and graded using Common Terminology Criteria for Adverse Events version 3.0.\n\n#### Statistical Analysis\n\nThe planned sample size of approximately 200 patients was estimated to provide 90% power to detect a significant difference in investigatorassessed ORR with an overall two-sided 5% significance level for testing the null hypothesis of no treatment effect, assuming a range of potential ORRs <span id=\"page-2-0\"></span>in the ipilimumab arm. Assuming an ORR for ipilimumab of 15.0%, 90% power was achieved if the ORR in the combination arm was at least 35.7%. The intent-to-treat analysis set included all randomly assigned patients analyzed according to the treatment to which they were randomly assigned. The safety analysis set included all patients who received \\$ 1 dose of talimogene laherparepvec or ipilimumab, analyzed according to the treatment received. The between-arm treatment comparison in ORR was evaluated using a x<sup>2</sup> test with continuity correction with a two-sided 5% significance level.[15](#page-9-0) Exact binomial two-sided 95% CIs were calculated for each arm for ORR and disease control rate.[16](#page-9-0) Logistic regression was used to evaluate treatment effect adjusted for covariates. An unstratified log-rank test was used to compare PFS (defined as time from random assignment to the earlier of disease progression or death), time to response, and duration of response between arms. Treatment effects on PFS, time to response, and duration of response were estimated using unstratified Cox proportional hazards models; P values for these end points were descriptive. The primary analysis of OS (using an unstratified log-rank test; two-sided a = 0.05 conditional on a statistically significant ORR increase) was planned for approximately 3 years after the last patient was randomly assigned.\n\n### RESULTS\n\n# Patients\n\nBetween August 2013 and February 2016, 198 patients from 45 sites in the United States, France, and Germany were randomly assigned to talimogene laherparepvec plus ipilimumab (n = 98), or ipilimumab (n = 100). At the time of the primary analysis (August 23, 2016), five patients were continuing to receive talimogene\n\n![](_page_2_Figure_6.jpeg)\n\nFig 1. Disposition of patients in the study. (\\*) Of the 76 patients who were not randomly assigned, 57 did not meet eligibility criteria. (\u2020) Ninety-one patients in the talimogene laherparepvec plus ipilimumab arm received at least one dose of both study treatments. (\u2021) Eight patients were enrolled in the study but did not receive any study medication: talimogene laherparepvec plus ipilimumab (n = 3); ipilimumab alone (n = 5). All but one patient withdrew consent before treatment began; the remaining patient withdrew for insurance reasons. All were included in the intentto-treat analysis of efficacy.\n\nlaherparepvec and three patients (all in the combination arm) were continuing to receive ipilimumab ([Fig 1\\)](#page-2-0). Baseline characteristics were generally balanced between arms (Table 1).\n\n# Exposure\n\nThe median duration of talimogene laherparepvec treatment was 21.1 weeks; the median duration of ipilimumab treatment was 9.1 weeks in both arms. The median number of talimogene laherparepvec doses was 10 (range, 1 to 45 doses). Of the 95 patients in each arm who received treatment, 63 patients in the combination arm and 66 patients in the ipilimumab arm received four ipilimumab doses. The mean (6 standard deviation) number of ipilimumab doses administered was 3.3 (6 1.1) in the combination arm and 3.5 (6 0.9) in the ipilimumab arm. At the time of analysis, 29% of patients in the combination arm and 27% of patients in the ipilimumab arm were being followed for tumor response. The median follow-up time was 68 weeks (range, 0 to 156 weeks) in the combination arm and 58 weeks (range, 0 to 152 weeks) in the ipilimumab arm.\n\n# Response Rate\n\nThe ORR was significantly improved in the combination arm versus the ipilimumab arm. Among randomly assigned patients, 38 patients (39% [CR, 13%; PR, 26%]) in the combination arm and 18 patients (18% [CR, 7%; PR, 11%]) in the ipilimumab arm had an objective response (see footnote in [Table 2](#page-4-0)). Some patients were unevaluable for response ([Table 2\\)](#page-4-0). The between-arm difference in ORR was 20.8% (odds ratio [OR], 2.9; 95% CI, 1.5 to 5.5; x<sup>2</sup> , P = .002). Seven patients in the combination arm and one patient in the ipilimumab arm had disease progression per irRC before response.\n\nThe ORR for patients with stage IIIB/IIIC/IVM1a disease was 44% in the combination arm and 19% in the ipilimumab arm (OR, 3.3; 95% CI, 1.4 to 7.8; P = .007); for patients with stage IVM1b/IVM1c disease, the ORR was 33% and 16%, respectively (OR, 2.6; 95% CI, 0.9 to 7.0; P = .09; [Fig 2A\\)](#page-5-0). Among BRAF wildtype patients, the ORR was 42% (26 of 62 patients) in the combination arm versus 10% (six of 60 patients) in the ipilimumab arm (OR, 6.5; 95% CI, 2.4 to 17.4; P , .001). Among patients with BRAF-mutant tumors, the ORR was 34% (12 of 35 patients) in the combination arm versus 32% (11 of 34 patients) in the ipilimumab arm (OR, 1.1; 95% CI, 0.4 to 3.0; P = 1.0; [Fig](#page-5-0) [2A\\)](#page-5-0). The estimated OR for treatment effect in a stepwise logistic regression model was 2.73 (P = .004; Appendix [Table A1](#page-11-0), online only).\n\nThe median time to response was 5.8 months (95% CI, 5.4 to 10.9 months) in the combination arm (n = 38) and not estimable (95% CI, not estimable) in the ipilimumab arm (n = 18; HR, 1.41; 95% CI, 0.8 to 2.5; [Table 2](#page-4-0)). The median duration of response was not reached in either arm [\\(Table 2](#page-4-0)). At the time of analysis, 89% of patients in the combination arm and 83% of patients in the ipilimumab arm with a response remained in response. The disease control rate was 58% in the combination arm and 42% in the ipilimumab arm (OR, 1.9; 95% CI, 1.1 to 3.4; P = .033; [Table 2\\)](#page-4-0). The disease control rate in all subgroups, with the exception of patients with BRAF mutations, favored the combination arm ([Fig 2B\\)](#page-5-0).\n\n| Table 1. Baseline Demographic Data and Clinical Characteristics |                                                         |                         |  |  |  |\n|-----------------------------------------------------------------|---------------------------------------------------------|-------------------------|--|--|--|\n| Characteristic                                                  | Talimogene Laherparepvec<br>Plus Ipilimumab<br>(n = 98) | Ipilimumab<br>(n = 100) |  |  |  |\n| Sex                                                             |                                                         |                         |  |  |  |\n| Female                                                          | 36 (37)                                                 | 45 (45)                 |  |  |  |\n| Male                                                            | 62 (63)                                                 | 55 (55)                 |  |  |  |\n| Median age, years (range)                                       | 65 (23-93)                                              | 64 (23-90)              |  |  |  |\n| Race                                                            |                                                         |                         |  |  |  |\n| White                                                           | 97 (99)                                                 | 92 (92)                 |  |  |  |\n| Black                                                           | 0                                                       | 3 (3)                   |  |  |  |\n| Other                                                           | 1 (1)                                                   | 5 (5)                   |  |  |  |\n| ECOG performance status                                         |                                                         |                         |  |  |  |\n| 0                                                               | 69 (70)                                                 | 73 (73)                 |  |  |  |\n| 1<br>Disease substage, AJCC<br>classification                   | 29 (30)                                                 | 27 (27)                 |  |  |  |\n| IIIB                                                            | 5 (5)                                                   | 9 (9)                   |  |  |  |\n| IIIC                                                            | 29 (30)                                                 | 31 (31)                 |  |  |  |\n| IVM1a                                                           | 16 (16)                                                 | 17 (17)                 |  |  |  |\n| IVM1b                                                           | 20 (20)                                                 | 10 (10)                 |  |  |  |\n| IVM1c                                                           | 28 (29)                                                 | 33 (33)                 |  |  |  |\n| BRAF status                                                     |                                                         |                         |  |  |  |\n| Mutant                                                          | 35 (36)                                                 | 34 (34)                 |  |  |  |\n| Wild-type                                                       | 62 (63)                                                 | 60 (60)                 |  |  |  |\n| Missing/unknown                                                 | 1 (1)                                                   | 6 (6)                   |  |  |  |\n| Baseline LDH                                                    |                                                         |                         |  |  |  |\n| # 1 3 ULN                                                       | 79 (81)                                                 | 74 (74)                 |  |  |  |\n| . 1-2 3 ULN                                                     | 10 (10)                                                 | 20 (20)                 |  |  |  |\n| . 2 3 ULN                                                       | 7 (7)                                                   | 5 (5)                   |  |  |  |\n| Unknown                                                         | 2 (2)                                                   | 1 (1)                   |  |  |  |\n| Visceral disease at baseline                                    | 39 (40)                                                 | 46 (46)                 |  |  |  |\n| Median SPD* of all index<br>lesions, mm2 (range)                | 930 (49-26,138)                                         | 589 (36-15,802)         |  |  |  |\n| Prior surgery                                                   | 93 (95)                                                 | 89 (89)                 |  |  |  |\n| Prior anticancer therapy\u2020                                       | 25 (26)                                                 | 29 (29)                 |  |  |  |\n| Radiotherapy                                                    | 12 (12)                                                 | 13 (13)                 |  |  |  |\n| Immunotherapy                                                   | 10 (10)                                                 | 16 (16)                 |  |  |  |\n| PD-1 inhibitors                                                 | 2 (2)                                                   | 3 (3)                   |  |  |  |\n| Chemotherapy                                                    | 4 (4)                                                   | 4 (4)                   |  |  |  |\n| Targeted small molecules                                        | 2 (2)                                                   | 0 (0)                   |  |  |  |\n| BRAF inhibitors                                                 | 2 (2)                                                   | 0 (0)                   |  |  |  |\n| MEK inhibitors<br>Biochemotherapy                               | 1 (1)<br>2 (2)                                          | 0 (0)<br>1 (1)          |  |  |  |\n| Isolated limb perfusion                                         | 0 (0)                                                   | 2 (2)                   |  |  |  |\n| Other                                                           | 3 (3)                                                   | 2 (2)                   |  |  |  |\n|                                                                 |                                                         |                         |  |  |  |\n\nNOTE. Data presented as number (%) unless specified otherwise.\n\nAbbreviations: AJCC, American Joint Committee on Cancer; ECOG, Eastern Cooperative Oncology Group; LDH, lactate dehydrogenase; PD-1, programmed death-1; ULN, upper limit of normal.\n\n\\*SPD refers to the sum of the products of the two longest perpendicular diameters.\n\n\u2020Among patients who had previously received anticancer therapy, seven had received systemic therapy for advanced melanoma.\n\nMost patients in both arms had reductions in tumor burden from baseline ([Fig 3A\\)](#page-6-0). Responses occurred in both injected and uninjected lesions (including visceral lesions). Injected lesion burden was calculated as the sum of tumor areas from all injected lesions. Among 89 patients in the combination arm with evaluable injected lesion burdens (defined as having baseline and at least one postbaseline assessment), 62 (70%) had a reduction in injected lesion burden from baseline [\\(Fig 3B](#page-6-0)). Among 37 patients in the combination arm and 80 in the ipilimumab arm with evaluable uninjected, nonvisceral lesion burdens, 21 (57%) and 45 (56%), respectively, had a decrease in their corresponding lesion burden ([Fig 3C](#page-6-0)). Among 31 patients in the combination arm and\n\n# Chesney et al\n\n<span id=\"page-4-0\"></span>\n\n|                                                                                                                                                                                                    | Table 2. Objective Response Rate (intent-to-treat analysis) |                                                   |                                                   |\n|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------|---------------------------------------------------|\n| Variable                                                                                                                                                                                           | Talimogene Laherparepvec<br>Plus Ipilimumab (n = 98)        |                                                   |                                                   |\n| Objective response<br>Best overall response*<br>Complete response<br>Partial response<br>Stable disease<br>Progressive disease<br>Unevaluable\u2020                                                     | 13 (13)<br>25 (26)<br>19 (19)<br>31 (32)<br>4 (4)           |                                                   | 7 (7)<br>11 (11)<br>24 (24)<br>33 (33)<br>17 (17) |\n| Not done\u2021<br>Objective response rate<br>Rate difference (95% CI)<br>x2 P value<br>Odds ratio (95% CI)                                                                                              | 6 (6)<br>38 (39)                                            | 20.8% (7.5% to 33.2%)<br>.002<br>2.9 (1.5 to 5.5) | 8 (8)<br>18 (18)                                  |\n| Disease control<br>Disease control rate<br>Rate difference (95% CI)<br>x2 P value\u00a7<br>Odds ratio (95% CI)                                                                                          | 57 (58)                                                     | 16.2% (1.5% to 29.9%)<br>.033<br>1.9 (1.1 to 3.4) | 42 (42)                                           |\n| Time to response<br>No. of patients with a response<br>Median time to response, months (95% CI)<br>Hazard ratio (95% CI)<br>Unstratified log-rank P value\u00a7                                         | 38<br>5.8 (5.4 to 10.9)                                     | 1.41 (0.8 to 2.5)<br>.228                         | 18<br>NE (NE)k                                    |\n| Duration of response<br>No. of patients with a response<br>Median duration of response, months (range)\u00b6<br>Patients in response at time of analysis<br>Median duration of follow-up, weeks (range) | 38<br>NE (1.0+ to 31.3+)<br>34 (89)<br>68 (0-156)           |                                                   | 18<br>NE (2.8+ to 29.7+)<br>15 (83)<br>58 (0-152) |\n\nNOTE. Data presented as number (%) unless otherwise specified.\n\nAbbreviation: NE, not estimable.\n\n\\*Initial complete response, partial response, and progressive disease assessment was confirmed by subsequent assessment \\$ 4 weeks apart. A complete response or partial response without confirmation was classified as stable disease. There was no confirmation for unevaluable or stable disease; however, stable disease duration must have been . 77 days.\n\n\u2020Patients could be classified as unevaluable if (1) they had a single unconfirmed evaluation of progressive disease at the last assessment before data cutoff, (2) all postbaseline response assessments were classified as unevaluable, or (3) patients were evaluated as having stable disease with no subsequent tumor evaluation after 77 days from randomization. The highest incidence of assessment of unevaluable was because of unconfirmed progressive disease: combination arm (n = 2), ipilimumab arm (n = 10); the remaining patients had stable disease before 77 days from random assignment: combination arm (n = 1), ipilimumab arm (n = 3); had all postbaseline assessments classified as unevaluable: combination arm ( n = 1), ipilimumab arm (n = 3), or were in the study awaiting potential confirmation of progressive disease: ipilimumab arm (n = 1).\n\n\u2021Radiographic imaging or clinical measurement of index lesions was not performed at any postbaseline time point. The highest incidence of assessment of \"not done\" was because of patients not receiving study treatment: combination arm (n = 3), ipilimumab arm (n = 5). Imaging was also not done for patients who had early end of treatment or end of response before the first scheduled assessment: combination arm (n = 3), ipilimumab arm (n = 3).\n\n\u00a7P value is descriptive. kThe median time to response in the ipilimumab alone arm could not be estimated using the Kaplan-Meier technique.\n\n\u00b6Plus sign indicates response is ongoing.\n\n22 patients in the ipilimumab arm with evaluable visceral metastasis disease burdens, 16 (52%) and 5 (23%), respectively, had a decrease in visceral lesion burden [\\(Fig 3D](#page-6-0)).\n\n# Progression-Free Survival\n\nPFS analysis was descriptive [\\(Fig 4](#page-7-0)). Fifty-two of 98 patients (53%) in the combination arm and 51 of 100 patients (51%) in the ipilimumab arm had PFS events. The median PFS was 8.2 months (95% CI, 4.2 to 21.5 months) in the combination arm and 6.4 months (95% CI, 3.2 to 16.5 months) in the ipilimumab arm (HR, 0.83; 95% CI, 0.56 to 1.23; P = .35). PFS was defined as time from random assignment to the earlier of disease progression or death; consequently, patients in the combination arm initiated ipilimumab therapy 5 weeks later than patients in the ipilimumab arm and had received only two ipilimumab doses at the first response assessment (12 weeks). At data cutoff, 20 of 98 patients (20%) in the combination arm and 23 of 100 patients (23%) in the ipilimumab arm had died. The HR for OS was 0.80 (95% CI, 0.44 to 1.46).\n\n# Safety\n\nNinety-three patients (98%) in the combination arm and 90 patients (95%) in the ipilimumab arm had \\$ 1 AE ([Table 3](#page-8-0)). Incidences of grade \\$ 3 AEs were 45% and 35%, respectively. The most frequently occurring AEs and events with greatest betweenarm differences in incidence were similar to those seen in other talimogene laherparepvec[8](#page-9-0) and ipilimumab studies[2](#page-9-0),[5](#page-9-0) and included fatigue (59%, 42%), chills (53%, 3%), diarrhea (42%, 35%), pruritus (40%, 36%), rash (39%, 28%), and nausea (38%, 24%, respectively; [Table 3\\)](#page-8-0). The incidence of grade \\$ 3 ipilimumab-related AEs was 19% in the combination arm and 18% in the ipilimumab arm; the most frequently occurring were GI disorders (colitis: 5%, 4%; diarrhea: 3%, 3%; autoimmune colitis: 2%, 3%, respectively). The incidence of grade \\$ 3 talimogene laherparepvec\u2013related\n\n# Talimogene Laherparepvec Plus Ipilimumab in Melanoma\n\n<span id=\"page-5-0\"></span>\n\n| A                        | Favors<br>ipilimumab | Favors<br>talimogene<br>laherparepvec<br>plus ipilimumab | Ipilimumab<br>No. | Talimogene<br>laherparepvec<br>plus ipilimumab<br>No. | OR   | 95% CI                 |\n|--------------------------|----------------------|----------------------------------------------------------|-------------------|-------------------------------------------------------|------|------------------------|\n| All randomized           |                      |                                                          | 100               | 98                                                    | 2.89 | (1.50 to 5.54)         |\n| Disease stage            |                      |                                                          |                   |                                                       |      |                        |\n| Stages IIIB/C-IVM1a      |                      |                                                          | 57                | 50                                                    | 3.29 | (1.39 to 7.79)         |\n| Stages IVM1b/IVM1c       |                      |                                                          | 43                | 48                                                    | 2.57 | (0.94 to 7.04)         |\n| Baseline SPD             |                      |                                                          |                   |                                                       |      |                        |\n| < 836 mm2                |                      |                                                          | 56                | 42                                                    | 3.33 | (1.38 to 8.04)         |\n| \uf0b3\uf020836 mm2                |                      |                                                          | 43                | 55                                                    | 3.00 | (1.07 to 8.40)         |\n| Baseline LDH             |                      |                                                          |                   |                                                       |      |                        |\n| \uf0a3\uf020ULN                    |                      |                                                          | 74                | 79                                                    | 3.73 | (1.77 to 7.86)         |\n| > ULN                    |                      |                                                          | 25                | 17                                                    | 0.53 | (0.09 to 3.13)         |\n| BRAF mutation            |                      |                                                          |                   |                                                       |      |                        |\n| Mutation                 |                      |                                                          | 34                | 35                                                    | 1.09 | (0.40 to 2.97)         |\n| Wild-type                |                      |                                                          | 60                | 62                                                    |      | 6.50 (2.43 to 17.37)   |\n| Sex                      |                      |                                                          |                   |                                                       |      |                        |\n| Male                     |                      |                                                          | 55                | 62                                                    | 2.20 | (0.95 to 5.10)         |\n| Female                   |                      |                                                          | 45                | 36                                                    |      | 4.34 (1.53 to 12.29)   |\n| Lines of prior therapy   |                      |                                                          |                   |                                                       |      |                        |\n| No prior line of therapy |                      |                                                          | 97                | 94                                                    | 2.98 | (1.54 to 5.75)         |\n| Current disease stage    |                      |                                                          |                   |                                                       |      |                        |\n| Stage IIIB               |                      |                                                          | 9                 | 5                                                     |      | 12.00 (0.77 to 186.36) |\n| Stage IIIC               |                      |                                                          | 31                | 29                                                    | 2.34 | (0.79 to 6.93)         |\n| Stage IVM1a              |                      |                                                          | 17                | 16                                                    |      | 4.50 (0.75 to 26.93)   |\n| Stage IVM1b              |                      |                                                          | 10                | 20                                                    |      | 2.33 (0.47 to 11.69)   |\n| Stage IVM1c              |                      |                                                          | 33                | 28                                                    | 1.98 | (0.50 to 7.87)         |\n|                          |                      |                                                          |                   |                                                       |      |                        |\n| 0.001 0.01               | 0.1                  | 1<br>10<br>100<br>1000                                   |                   |                                                       |      |                        |\n\nOdds Ratio\n\n(Talimogene laherparepvec plus ipilimumab/ipilimumab)\n\n| B                        | Favors<br>ipilimumab | Favors<br>Talimogene<br>laherparepvec<br>plus ipilimumab | Ipilimumab<br>No. | Talimogene<br>laherparepvec<br>plus ipilimumab<br>No. | OR   | 95% CI               |\n|--------------------------|----------------------|----------------------------------------------------------|-------------------|-------------------------------------------------------|------|----------------------|\n| All randomized           |                      |                                                          | 100               | 98                                                    | 1.92 | (1.09 to 3.38)       |\n| Disease stage            |                      |                                                          |                   |                                                       |      |                      |\n| Stages IIIB/C-IVM1a      |                      |                                                          | 57                | 50                                                    | 1.55 | (0.72 to 3.35)       |\n| Stages IVM1b/IVM1c       |                      |                                                          | 43                | 48                                                    | 2.66 | (1.13 to 6.27)       |\n| Baseline SPD             |                      |                                                          |                   |                                                       |      |                      |\n| < 836 mm2                |                      |                                                          | 56                | 42                                                    | 2.97 | (1.28 to 6.90)       |\n| \uf0b3\uf020836 mm2                |                      |                                                          | 43                | 55                                                    | 1.59 | (0.71 to 3.56)       |\n| Baseline LDH             |                      |                                                          |                   |                                                       |      |                      |\n| \uf0a3\uf020ULN                    |                      |                                                          | 74                | 79                                                    | 2.15 | (1.13 to 4.10)       |\n| > ULN                    |                      |                                                          | 25                | 17                                                    | 1.13 | (0.33 to 3.90)       |\n| BRAF mutation            |                      |                                                          |                   |                                                       |      |                      |\n| Mutation                 |                      |                                                          | 34                | 35                                                    | 0.94 | (0.37 to 2.43)       |\n| Wild-type                |                      |                                                          | 60                | 62                                                    | 2.54 | (1.23 to 5.28)       |\n| Sex                      |                      |                                                          |                   |                                                       |      |                      |\n| Male                     |                      |                                                          | 55                | 62                                                    | 2.06 | (0.98 to 4.31)       |\n| Female                   |                      |                                                          | 45                | 36                                                    | 1.71 | (0.71 to 4.14)       |\n| Lines of prior therapy   |                      |                                                          |                   |                                                       |      |                      |\n| No prior line of therapy |                      |                                                          | 97                | 94                                                    | 1.93 | (1.09 to 3.43)       |\n| Current disease stage    |                      |                                                          |                   |                                                       |      |                      |\n| Stage IIIB               |                      |                                                          | 9                 | 5                                                     |      | 3.20 (0.25 to 41.21) |\n| Stage IIIC               |                      |                                                          | 31                | 29                                                    | 1.33 | (0.48 to 3.69)       |\n| Stage IVM1a              |                      |                                                          | 17                | 16                                                    | 1.84 | (0.46 to 7.31)       |\n| Stage IVM1b              |                      |                                                          | 10                | 20                                                    | 1.86 | (0.40 to 8.69)       |\n| Stage IVM1c              |                      |                                                          | 33                | 28                                                    | 2.67 | (0.92 to 7.74)       |\n|                          | 0.001 0.01<br>0.1    | 1<br>10<br>100<br>1000                                   |                   |                                                       |      |                      |\n|                          |                      | Odds Ratio                                               |                   |                                                       |      |                      |\n|                          |                      | (Talimogene laherparepvec plus ipilimumab/ipilimumab)    |                   |                                                       |      |                      |\n\nFig 2. Subgroup analysis of objective response rate (A) and disease control rate (B) per immune-related response criteria. LDH, lactate dehydrogenase; OR, odds ratio; SPD, sum of the products of the two longest perpendicular diameters; ULN, upper limit of normal.\n\n# Chesney et al\n\n<span id=\"page-6-0\"></span>![](_page_6_Figure_1.jpeg)\n\nFig 3. Change in lesion burden from baseline (A) for all lesions, (B) injected lesions, (C) uninjected nonvisceral lesions, and (D) visceral lesions. Per protocol, visceral lesions were not injected. Evaluable patients had baseline and at least one postbaseline evaluation of lesion burden. In panel D, two patients identified as having stage IVM1a disease at baseline had visceral index lesions (one with an adrenal lesion and one with a lung lesion; indicated with (\\*) and (\u2020), respectively). The remaining patients with stages IIIC and IVM1a disease developed visceral lesions during the study.\n\n1664 \u00a9 2017 by American Society of Clinical Oncology JOURNAL OF CLINICAL ONCOLOGY\n\n<span id=\"page-7-0\"></span>![](_page_7_Figure_1.jpeg)\n\nFig 4. Kaplan-Meier estimate of progressionfree survival (PFS). (\\*) P value is descriptive.\n\nAEs was 15%; the most frequently occurring were influenza-like illness (4%) and lymphopenia (4%). Two patients (2%) in the combination arm discontinued talimogene laherparepvec as a result of AEs; 12 patients (13%) in the combination arm and 16 patients (17%) in the ipilimumab arm discontinued ipilimumab as a result of AEs. Three patients in the combination arm had fatal AEs (myocardial infarction [n = 1], and disease progression [n = 2]); none were considered treatment related.\n\n#### DISCUSSION\n\nThis study, which to our knowledge is the first to evaluate an oncolytic virus in combination with a checkpoint inhibitor, met its primary end point: talimogene laherparepvec plus ipilimumab resulted in a significantly higher ORR versus ipilimumab alone (OR, 2.9; 95% CI, 1.5 to 5.5; P = .002). Responses occurred in patients with and without visceral disease and in uninjected lesions after combination treatment. The confirmed ORR (39%) in the combination arm is higher than historical controls of either agent administered as monotherapy (ipilimumab, 11% to 19%[2](#page-9-0),[5](#page-9-0),[17,18](#page-9-0); talimogene laherparepvec, 26%[8](#page-9-0) ). In OPTiM, talimogene laherparepvec monotherapy was associated with a \\$ 50% size decrease in 64% of injected lesions and 15% of visceral lesions,[19](#page-9-0) suggesting that additional responses might be achievable through the addition of T-cell checkpoint inhibition. In the previously reported phase Ib portion, we observed changes in T-cell subsets consistent with this hypothesis,[11](#page-9-0) and, in this phase II portion, we found evidence of enhanced systemic antitumor response. Individual lesion-type analysis indicated that responses occurred in both injected and uninjected tumor burden. The higher rate of decrease (combination arm, 52%; ipilimumab arm, 23%) and higher rate of complete reduction in visceral tumor burden (combination arm, 23%; ipilimumab arm, 0%) is consistent with a systemic effect of the combination because talimogene laherparepvec was not injected into these lesions. The nonvisceral uninjected lesion tumor burden response was similar across arms. However, the number of patients in this category in the combination arm was smaller than in the control arm because patients with injected nonvisceral lesions were excluded. These results indicate that the combination elicited a greater systemic antitumor response than could be achieved with either agent alone.\n\nResponse rate favored the combination arm for both diseasestage subsets (IIIB/IIIC/IVM1a, 44% v 19%; IVM1b/IVM1c, 33% v 16%). Although response rates were high in patients with both BRAF wild-type and BRAF-mutant tumors, the effect size favoring combination treatment was greater in the BRAF wild-type subgroup (42% v 10%). The response rate was also greater in the combination arm for patients with BRAF wild-type versus BRAFmutant tumors (42% v 34%). Although small patient numbers in these subgroups may have contributed to this finding, similar results were observed in a previous phase III study of ipilimumab plus nivolumab.[3](#page-9-0) Treatment effect differences between BRAFmutant and BRAF wild-type subgroups might reflect differences in biologic response to the combination; however, we cannot exclude the possibility that they were driven by other patient and/or tumor characteristics.\n\nDespite ipilimumab treatment starting 5 weeks later in the combination arm, PFS was 8.2 months in the combination arm versus 6.4 months in the ipilimumab arm (HR, 0.83; 95% CI, 0.56 to 1.23). The median PFS in the combination arm was also greater than that previously observed in ipilimumab monotherapy studies (2.8 to 2.9 months)[5,17,18](#page-9-0) and similar to the median time to treatment failure in the OPTiM study (8.2 months).[8](#page-9-0) The analysis of OS was immature; patients are still being followed for response and OS.\n\nToxicity observed with the combination was consistent with expectations from the phase Ib study.[11](#page-9-0) The incidence of grade \\$ 3 ipilimumab-related toxicities was similar between arms; no unexpected grade \\$ 3 treatment-related AEs occurred. AEs with the greatest between-arm differences were consistent with monotherapy studies that have found flu-like symptoms to be characteristic of treatment with talimogene laherparepvec[8](#page-9-0) ; these events were typically grades 1 and 2. There was no evidence that the combination was associated with cardiotoxicity, as has been reported with ipilimumab plus nivolumab,[20](#page-9-0) and there was no meaningful increase in grade \\$ 3 AEs with combination therapy. Overall, combination treatment was not associated with unexpected AEs or increase in incidence or severity of AEs, suggesting\n\n# Chesney et al\n\n<span id=\"page-8-0\"></span>\n\n| Table 3. Incidence of Treatment-Emergent Adverse Events    |                    |                                                      |                     |            |  |\n|------------------------------------------------------------|--------------------|------------------------------------------------------|---------------------|------------|--|\n| AE                                                         |                    | Talimogene Laherparepvec Plus<br>Ipilimumab, No. (%) | Ipilimumab, No. (%) |            |  |\n| No. of patients                                            |                    | 95                                                   | 95                  |            |  |\n| Any grade AEs                                              |                    | 93 (98)                                              | 90 (95)             |            |  |\n| Grade \\$ 3 AEs                                             |                    | 43 (45)                                              |                     | 33 (35)    |  |\n| Fatal AEs*                                                 | 3 (3)              |                                                      | 0                   |            |  |\n| AEs leading to discontinuation of talimogene laherparepvec | 1 (1)\u2020<br>2 (2)    |                                                      |                     |            |  |\n| AEs leading to discontinuation of ipilimumab               | 12 (13)<br>16 (17) |                                                      |                     |            |  |\n| AEs occurring in \\$ 20% of patients in either arm          | Any grade          | Grade \\$ 3                                           | Any grade           | Grade \\$ 3 |  |\n| Fatigue                                                    | 56 (59)            | 1 (1)                                                | 40 (42)             | 2 (2)      |  |\n| Chills                                                     | 50 (53)            | 0                                                    | 3 (3)               | 0          |  |\n| Diarrhea                                                   | 40 (42)            | 3 (3)                                                | 33 (35)             | 3 (3)      |  |\n| Pruritus                                                   | 38 (40)            | 0                                                    | 34 (36)             | 0          |  |\n| Rash                                                       | 37 (39)            | 1 (1)                                                | 27 (28)             | 1 (1)      |  |\n| Nausea                                                     | 36 (38)            | 2 (2)                                                | 23 (24)             | 0          |  |\n| Pyrexia                                                    | 36 (38)            | 1 (1)                                                | 7 (7)               | 0          |  |\n| Headache                                                   | 34 (36)            | 0                                                    | 18 (19)             | 1 (1)      |  |\n| Influenza-like illness                                     | 28 (29)            | 4 (4)                                                | 1 (1)               | 0          |  |\n| Injection site pain                                        | 26 (27)            | 0                                                    | 0                   | 0          |  |\n| Arthralgia                                                 | 20 (21)            | 0                                                    | 13 (14)             | 1 (1)      |  |\n\nAbbreviation: AEs, adverse events.\n\n\\*None of the fatal AEs that occurred during the study were considered treatment related by investigators.\n\n\u2020The recording of this patient as discontinuing talimogene laherparepvec was a data error; this error was corrected after the primary analysis data cutoff.\n\nthat combination therapy is tolerable for patients with advanced melanoma.\n\nMany combination strategies are under investigation to augment efficacy of single-agent therapies. Ipilimumab plus nivolumab improves patient outcomes, but is associated with significant toxicity. In trials evaluating ipilimumab plus nivolumab, increases in clinically significant grade \\$ 3 AEs were observed in the combination arm versus the monotherapy arm(s)[2,3](#page-9-0) ; the National Comprehensive Cancer Network recommends careful patient selection and monitoring for this regimen[.21](#page-9-0) Combination regimens with lower toxicity may allow for their use in a broader range of patients. Since this study was initiated, other immune checkpoint inhibitors have been introduced for melanoma. The combination of talimogene laherparepvec with an anti\u2013programmed death-1 antibody is being evaluated in MASTERKEY-265, a phase Ib/III trial of talimogene laherparepvec plus pembrolizumab in patients with previously untreated stages IIIB to IV melanoma.[22,23](#page-9-0) Results from the phase Ib portion of MASTERKEY-265 showed a response rate . 50% with no dose-limiting toxicities; the phase III portion is enrolling patients[.22,23](#page-9-0)\n\nAlthough the outcome of this trial was positive, as a phase II study it had certain limitations. First, because of the population size of 198 patients, there were relatively small patient numbers in certain subgroups. Second, this was an open-label study without central review of investigator-assessed response. Third, the duration of follow-up at the time of this analysis limited the interpretation of time-to-event end points. Fourth, delayed ipilimumab initiation may have limited the interpretation of benefit from combination therapy. Fifth, there were between-arm differences in certain baseline characteristics (eg, disease stage/substage, visceral disease, prior therapy) that may have influenced treatment-effect estimates. However, improvement in ORR in the combination arm remained significant in a final logistic regression analysis after adjustment for potentially imbalanced covariates. Finally, differences in eligibility criteria (eg, injectable disease requirement) may confound between-study comparisons.\n\nThis randomized trial of an oncolytic immunotherapy in combination with a checkpoint inhibitor, which is the first such study to our knowledge, met its primary end point: talimogene laherparepvec plus ipilimumab resulted in a significantly higher ORR versus ipilimumab alone. The combination seems to have greater efficacy (including in uninjected and visceral lesions), without additional safety concerns versus ipilimumab alone in patients with unresected stages IIIB to IV melanoma. The combination of talimogene laherparepvec and a checkpoint inhibitor may have significant clinical utility in treatment of advanced melanoma.\n\n# AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST\n\nDisclosures provided by the authors are available with this article at [jco.org](http://jco.org).\n\n# AUTHOR CONTRIBUTIONS\n\nConception and design: Jason Chesney, Igor Puzanov, Merrick Ross, Jennifer Gansert, Robert H.I. Andtbacka, Howard L. Kaufman Provision of study materials or patients: Igor Puzanov, Frances Collichio, Howard L. Kaufman\n\nCollection and assembly of data: Jason Chesney, Igor Puzanov, Frances Collichio, Parminder Singh, John Glaspy, Omid Hamid, Philip Friedlander, Claus Garbe, Theodore F. Logan, Axel Hauschild, Celeste Lebbe,\u00b4 Jenny J. Kim, Jennifer Gansert, Howard L. Kaufman\n\nData analysis and interpretation: Jason Chesney, Igor Puzanov, Frances Collichio, Mohammed M. Milhem, John Glaspy, Omid Hamid, Theodore F. Logan, Axel Hauschild, Celeste Lebbe, Lisa Chen, Jenny J. Kim, Jennifer \u00b4 Gansert, Robert H.I. Andtbacka, Howard L. Kaufman\n\nManuscript writing: All authors\n\nFinal approval of manuscript: All authors Accountable for all aspects of the work: All authors\n\n#### REFERENCES\n\n<span id=\"page-9-0\"></span>1. Antonia SJ, Larkin J, Ascierto PA: Immunooncology combinations: A review of clinical experience and future prospects. Clin Cancer Res 20: 6258-6268, 2014\n\n2. Larkin J, Chiarion-Sileni V, Gonzalez R, et al: Combined nivolumab and ipilimumab or monotherapy in untreated melanoma. N Engl J Med 373: 23-34, 2015\n\n3. Postow MA, Chesney J, Pavlick AC, et al: Nivolumab and ipilimumab versus ipilimumab in untreated melanoma. N Engl J Med 372:2006-2017, 2015\n\n4. YERVOY, ipilimumab. Bristol-Myers Squibb, Princeton, NJ, 2015\n\n5. Hodi FS, O'Day SJ, McDermott DF, et al: Improved survival with ipilimumab in patients with metastatic melanoma. N Engl J Med 363:711-723, 2010\n\n6. Robert C, Thomas L, Bondarenko I, et al: Ipilimumab plus dacarbazine for previously untreated metastatic melanoma. N Engl J Med 364:2517-2526, 2011\n\n7. IMLYGIC, talimogene laherparepvec. Amgen, Thousand Oaks, CA, 2015\n\n8. Andtbacka RH, Kaufman HL, Collichio F, et al: Talimogene laherparepvec improves durable response rate in patients with advanced melanoma. J Clin Oncol 33:2780-2788, 2015\n\n9. Kohlhapp FJ, Kaufman HL: Molecular pathways: Mechanism of action for talimogene laherparepvec, a new oncolytic virus immunotherapy. Clin Cancer Res 22:1048-1054, 2016\n\n10. Subudhi SK, Aparicio A, Gao J, et al: Clonal expansion of CD8 T cells in the systemic circulation precedes development of ipilimumab-induced toxicities. Proc Natl Acad Sci USA 113:11919-11924, 2016\n\n11. Puzanov I, Milhem MM, Minor D, et al: Talimogene laherparepvec in combination with ipilimumab in previously untreated, unresectable stage IIIB-IV melanoma. J Clin Oncol 34:2619-2626, 2016\n\n12. Hoffner B, Iodice GM, Gasal E: Administration and handling of talimogene laherparepvec: An intralesional oncolytic immunotherapy for melanoma. Oncol Nurs Forum 43:219-226, 2016\n\n13. Chen DS, Mellman I: Oncology meets immunology: The cancer-immunity cycle. Immunity 39: 1-10, 2013\n\n14. Wolchok JD, Hoos A, O'Day S, et al: Guidelines for the evaluation of immune therapy activity in solid tumors: Immune-related response criteria. Clin Cancer Res 15:7412-7420, 2009\n\n15. Fleiss JL, Tytun A, Ury HK: A simple approximation for calculating sample sizes for comparing independent proportions. Biometrics 36:343-346, 1980\n\n16. Clopper CJ, Pearson ES: The use of confidence and fiducial limits illustrated in the case of the binomial. Biometrika 26:404-413, 1934\n\n17. Robert C, Schachter J, Long GV, et al: Pembrolizumab versus ipilimumab in advanced melanoma. N Engl J Med 372:2521-2532, 2015\n\n18. Wolchok J, Chiarion-Sileni V, Gonzalez R, et al: Updated results from a phase III trial of nivolumab (NIVO) combined with ipilimumab (IPI) in treatmentnaive patients (pts) with advanced melanoma (MEL) (CheckMate 067). J Clin Oncol 34, 2016 (suppl; abstr 9505)\n\n19. Andtbacka RH, Ross M, Puzanov I, et al: Patterns of clinical response with talimogene laherparepvec (T-VEC) in patients with melanoma treated in the OPTiM phase III clinical trial. Ann Surg Oncol 23:4169-4177, 2016\n\n20. Johnson DB, Balko JM, Compton ML, et al: Fulminant myocarditis with combination immune checkpoint blockade. N Engl J Med 375:1749-1755, 2016\n\n21. National Comprehensive Cancer Network: NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines): Melanoma version 1.2017. Fort Washington, PA, 2017\n\n22. Long GV, Dummer R, Ribas A, et al: Efficacy analysis of MASTERKEY-265 phase 1b study of talimogene laherparepvec (T-VEC) and pembrolizumab (pembro) for unresectable stage IIIB-IV melanoma. J Clin Oncol 34, 2016 (suppl; abstr 9568)\n\n23. Long GV, Dummer R, Ribas A, et al: Primary analysis of MASTERKEY-265 phase 1b study of talimogene laherparepvec and pembrolizumab for unresectable stage IIIB-IV melanoma, 12th International Congress of the Society for Melanoma Research. San Francisco, CA, November 18-21, 2015\n\n# Affiliations\n\nJason Chesney, J. Graham Brown Cancer Center, University of Louisville, Louisville, KY; Igor Puzanov, Roswell Park Cancer Institute, Buffalo; Philip Friedlander, Mt Sinai School of Medicine, New York, NY; Frances Collichio, The University of North Carolina at Chapel Hill, Chapel Hill, NC; Parminder Singh, Mayo Clinic, Phoenix, AZ; Mohammed M. Milhem, University of Iowa Hospitals and Clinics, Iowa City, IA; John Glaspy, University of California Los Angeles School of Medicine; Omid Hamid, The Angeles Clinic and Research Institute, Los Angeles; Lisa Chen, Jenny J. Kim, and Jennifer Gansert, Amgen, Thousand Oaks, CA; Merrick Ross, MD Anderson Cancer Center, Houston, TX; Claus Garbe, University Hospital Tuebingen, Tuebingen; Axel Hauschild, University of Kiel, Kiel, Germany; Theodore F. Logan, Indiana University Simon Cancer Center, Indianapolis, IN; Celeste Lebbe\u00b4, Assistance Publique-Hopital De \u02c6 Paris Dermatology and CIC Hopital Saint Louis University Paris Diderot Sorbonne, Institut National de la Sant\u00b4 \u02c6 e et de la Recherche Medicale U976, Paris, France; \u00b4 Robert H.I. Andtbacka, University of Utah, Salt Lake City, UT; and Howard L. Kaufman, Rutgers Cancer Institute of New Jersey, New Brunswick, NJ.\n\nFunded by Amgen.\n\n# Support\n\n# Prior Presentation\n\nPresented at the European Society for Medical Oncology 2016 Congress, Copenhagen, Denmark, October 7-11, 2016; and at the American Society of Clinical Oncology 2017 Annual Meeting, Chicago, Illinois, June 2-6, 2017.\n\nnnn\n\n### AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST\n\n# Randomized, Open-Label Phase II Study Evaluating the Efficacy and Safety of Talimogene Laherparepvec in Combination With Ipilimumab Versus Ipilimumab Alone in Patients With Advanced, Unresectable Melanoma\n\nThe following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated. Relationships are self-held unless noted. I = Immediate Family Member, Inst = My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO's conflict of interest policy, please refer to [www.asco.org/rwc](http://www.asco.org/rwc) or [ascopubs.org/jco/site/ifc](http://ascopubs.org/jco/site/ifc).\n\n#### Jason Chesney\n\nConsulting or Advisory Role: Amgen Research Funding: Amgen Travel, Accommodations, Expenses: Amgen\n\n### Igor Puzanov\n\nConsulting or Advisory Role: Amgen, Genentech, Bristol-Myers Squibb Travel, Accommodations, Expenses: Amgen, Merck\n\n#### Frances Collichio\n\nConsulting or Advisory Role: Amgen (Inst) Research Funding: Amgen (Inst), Novartis (Inst), Mayo Phase II (Inst), Vascular Biogenics (Inst), Morphotek (Inst)\n\n### Parminder Singh\n\nConsulting or Advisory Role: Genentech Speakers' Bureau: Genentech\n\n#### Mohammed M. Milhem\n\nConsulting or Advisory Role: Genentech, EMD Serono, Novartis, Eisai, Bristol-Myers Squibb, Amgen\n\n# John Glaspy\n\nResearch Funding: Amgen\n\n### Omid Hamid\n\nConsulting or Advisory Role: Amgen, Novartis, Roche, Bristol-Myers Squibb, Merck\n\nSpeakers' Bureau: Bristol-Myers Squibb, Genentech, Novartis, Amgen Research Funding: AstraZeneca (Inst), Bristol-Myers Squibb (Inst), Celldex (Inst), Genentech (Inst), Immunocore (Inst), Incyte (Inst), Merck (Inst), Merck Serono (Inst), MedImmune (Inst), Novartis (Inst), Pfizer (Inst), Rinat (Inst), Roche (Inst)\n\n#### Merrick Ross\n\nHonoraria: Merck, Amgen, Castle Biosciences\n\nConsulting or Advisory Role: Merck, Amgen\n\nSpeakers' Bureau: Amgen\n\nResearch Funding: Amgen (Inst)\n\nTravel, Accommodations, Expenses: Merck, Amgen, Castle Biosciences, Provectus\n\n# Philip Friedlander\n\nStock or Other Ownership: Allergan, Incyte, Merrimack, Bristol-Myers Squibb\n\nConsulting or Advisory Role: Novartis, Castle Biosciences, Genentech, EMD Serono, Pfizer\n\nResearch Funding: Celgene, Amgen, Merck, Genentech, Oncovir Travel, Accommodations, Expenses: Castle Biosciences, Novartis\n\n# Claus Garbe\n\nHonoraria: Amgen, Bristol-Myers Squibb, MSD, Novartis, Philogen, Roche, Incyte\n\nConsulting or Advisory Role: Amgen, Bristol-Myers Squibb, MSD, Novartis, Philogen, Roche, Incyte\n\nResearch Funding: Bristol-Myers Squibb (Inst), Novartis (Inst), Roche (Inst)\n\nTravel, Accommodations, Expenses: Amgen, Bristol-Myers Squibb, Novartis, Philogen, Roche, MSD\n\n# Theodore F. Logan\n\n# Consulting or Advisory Role: Prometheus\n\nResearch Funding: Abbott Laboratories (Inst), Abraxis BioScience (Inst), Amgen (Inst), Argos Therapeutics (Inst), AstraZeneca (Inst), AVEO (Inst), BioVex (Inst), Bristol-Myers Squibb (Inst), Eisai (Inst), Eli Lilly (Inst), GlaxoSmithKline (Inst), Roche (Inst), Immatics (Inst), Merck (Inst), Novartis (Inst), Pfizer (Inst), Prometheus (Inst), Roche (Inst), Synta (Inst), Threshold Pharmaceuticals (Inst), Millennium (Inst), TRACON Pharma (Inst), Cerulean Pharma (Inst), EMD Serono (Inst), Acceleron Pharma (Inst)\n\n# Axel Hauschild\n\nHonoraria: Amgen, Bristol-Myers Squibb, MedImmune, Merck Serono, Merck Sharp & Dohme, Novartis, OncoSec, Roche, Nektar, Philogen, Provectus, Regeneron\n\nConsulting or Advisory Role: Amgen, Bristol-Myers Squibb, MedImmune, Merck Serono, Merck Sharp & Dohme, Novartis, OncoSec, Roche, Nektar Therapeutics, Philogen, Provectus, Regeneron Research Funding: Amgen, Bristol-Myers Squibb, Celgene, Eisai, GlaxoSmithKline, Merck Serono, Merck Sharp & Dohme, Novartis, Roche Travel, Accommodations, Expenses: Amgen, Bristol-Myers Squibb, MedImmune, Merck Serono, Merck Sharp & Dohme, Novartis, OncoSec, Roche, Nektar Therapeutics, Philogen, Provectus, Regeneron\n\n#### Celeste Lebbe\u00b4\n\nHonoraria: Roche, Bristol-Myers Squibb, Novartis, MSD, Amgen Consulting or Advisory Role: Roche, Bristol-Myers Squibb, Novartis, Amgen, MSD\n\nSpeakers' Bureau: Roche, Bristol-Myers Squibb, Amgen, Novartis Research Funding: Roche (Inst), Bristol-Myers Squibb (Inst) Travel, Accommodations, Expenses: Roche, Bristol-Myers Squibb, Novartis, Amgen\n\nLisa Chen Employment: Amgen Stock or Other Ownership: Amgen\n\nJenny J. Kim Employment: Amgen Stock or Other Ownership: Amgen\n\nJennifer Gansert Employment: Amgen Stock or Other Ownership: Amgen Patents, Royalties, Other Intellectual Property: Amgen\n\n# Robert H.I. Andtbacka\n\nHonoraria: Amgen, Merck/Schering Plough Consulting or Advisory Role: Amgen, Merck/Schering Plough Research Funding: Amgen (Inst), Viralytics (Inst), Takara Bio (Inst), OncoSec (Inst)\n\n# Howard L. Kaufman\n\nEmployment: Compass Therapeutics Leadership: Compass Therapeutics Honoraria: Amgen, EMD Serono, Merck, Celldex, Prometheus, Turnstone Bio, Compass Therapeutics Consulting or Advisory Role: Amgen, Merck, Merck Serono, Paometheus, Celldex, Turnstone Bio, Bristol-Myers Squibb, Compass Therapeutics Speakers' Bureau: Merck Research Funding: Amgen (Inst), Merck (Inst) Travel, Accommodations, Expenses: EMD Serono, Turnstone Bio\n\n# Acknowledgment\n\n<span id=\"page-11-0\"></span>We thank Meghan Johnson and Ali Hassan at Complete Healthcare Communications (West Chester, PA), a CHC Group company, whose work was funded by Amgen, for medical writing assistance in the preparation of this article. We also thank the patients who participated in this study; the clinical trial personnel including Stacy Baum, Cynthia Swartz, and Katie Golladay at the University of Louisville; and the clinical protocol office staff at the University of North Carolina at Chapel Hill, especially Diana Wallack.\n\n# Appendix\n\n![](_page_11_Figure_4.jpeg)\n\nFig A1. Study schema for phase II. ECOG, Eastern Cooperative Oncology Group; irRC, immune-related response criteria; IV, intravenous; ORR, objective response rate; OS, overall survival; PD-1, programmed death-1; PFS, progression-free survival; PFU, plaque-forming unit; R, randomization. (\\*) irRC described in Wolchok et al[.14](#page-9-0)\n\n| Table A1. Stepwise Regression Model of Objective Response Rate per<br>Modified Immune-Related Response Criteria<br>Variable                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Odds Ratio (95% CI)              | P*   |\n|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|------|\n| Treatment<br>Talimogene laherparepvec plus ipilimumab<br>Ipilimumab                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 2.73 (1.39 to 5.37)<br>Reference | .004 |\n| Baseline LDH<br># ULN<br>. ULN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 2.21 (0.90 to 5.43)<br>Reference | .085 |\n| NOTE. The logistic regression model included planned treatment and the fol<br>lowing baseline covariates: geographic region (United States v rest of world), age<br>(, 50 v \\$ 50 years), disease stage per case-report form (reference stage IVM1c),<br>SPD (sum of the products of the two largest perpendicular diameters) of index<br>lesions (less than the median v greater than or equal to the median), LDH (# ULN<br>v . ULN), prior chemotherapy (yes v no), prior immunotherapy (yes v no), prior<br>ipilimumab (yes v no), prior programmed death-1 inhibitor (yes v no), prior<br>programmed death-ligand 1 inhibitor (yes v no), prior BRAF inhibitor (yes v no),<br>prior MEK inhibitor (yes v no), BRAFV600 mutation per case-report form (wild-type<br>v mutant), and baseline visceral disease (yes v no).<br>Abbreviations: LDH, lactate dehydrogenase; ULN, upper limit of normal.<br>*Covariates selected using stepwise regression required a significance level of<br>10% for a covariate to enter or be removed from the model. |                                  |      |",
+    "json_data": {
+      "table_of_contents": [
+        {
+          "title": "JOURNAL OF CLINICAL ONCOLOGY RAPID COMMUNICATION",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              59.4140625,
+              55.77154541015625
+            ],
+            [
+              540.9013061523438,
+              55.77154541015625
+            ],
+            [
+              540.9013061523438,
+              71.08917236328125
+            ],
+            [
+              59.4140625,
+              71.08917236328125
+            ]
+          ]
+        },
+        {
+          "title": "Randomized, Open-Label Phase II Study Evaluating\nthe Efficacy and Safety of Talimogene Laherparepvec in\nCombination With Ipilimumab Versus Ipilimumab Alone\nin Patients With Advanced, Unresectable Melanoma",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              163.5590057373047,
+              129.40484619140625
+            ],
+            [
+              540.439453125,
+              129.40484619140625
+            ],
+            [
+              540.439453125,
+              199.1468505859375
+            ],
+            [
+              163.5590057373047,
+              199.1468505859375
+            ]
+          ]
+        },
+        {
+          "title": "Purpose",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              163.5590057373047,
+              267.435791015625
+            ],
+            [
+              215.66162109375,
+              267.435791015625
+            ],
+            [
+              215.66162109375,
+              279.6518859863281
+            ],
+            [
+              163.5590057373047,
+              279.6518859863281
+            ]
+          ]
+        },
+        {
+          "title": "Methods",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              161.246337890625,
+              317.5129699707031
+            ],
+            [
+              197.523193359375,
+              317.5129699707031
+            ],
+            [
+              197.523193359375,
+              327.26953125
+            ],
+            [
+              161.246337890625,
+              327.26953125
+            ]
+          ]
+        },
+        {
+          "title": "Results",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              163.5582275390625,
+              428.9677734375
+            ],
+            [
+              193.095703125,
+              428.9677734375
+            ],
+            [
+              193.095703125,
+              438.5047912597656
+            ],
+            [
+              163.5582275390625,
+              438.5047912597656
+            ]
+          ]
+        },
+        {
+          "title": "Conclusion",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              161.103515625,
+              541.1079254150391
+            ],
+            [
+              206.08718872070312,
+              541.1079254150391
+            ],
+            [
+              206.08718872070312,
+              550.07421875
+            ],
+            [
+              161.103515625,
+              550.07421875
+            ]
+          ]
+        },
+        {
+          "title": "",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              45.81024169921875,
+              626.62939453125
+            ],
+            [
+              111.97265625,
+              626.62939453125
+            ],
+            [
+              111.97265625,
+              634.27587890625
+            ],
+            [
+              45.81024169921875,
+              634.27587890625
+            ]
+          ]
+        },
+        {
+          "title": "INTRODUCTION",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              223.802490234375,
+              623.57080078125
+            ],
+            [
+              284.8778991699219,
+              623.57080078125
+            ],
+            [
+              284.8778991699219,
+              632.7918548583984
+            ],
+            [
+              223.802490234375,
+              632.7918548583984
+            ]
+          ]
+        },
+        {
+          "title": "METHODS",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              138.53759765625,
+              435.0849609375
+            ],
+            [
+              179.384765625,
+              435.0849609375
+            ],
+            [
+              179.384765625,
+              444.7416076660156
+            ],
+            [
+              138.53759765625,
+              444.7416076660156
+            ]
+          ]
+        },
+        {
+          "title": "Patients",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              33.866729736328125,
+              459.17138671875
+            ],
+            [
+              67.74873352050781,
+              459.17138671875
+            ],
+            [
+              67.74873352050781,
+              468.7240905761719
+            ],
+            [
+              33.866729736328125,
+              468.7240905761719
+            ]
+          ]
+        },
+        {
+          "title": "Study Design",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              299.39520263671875,
+              56.2537841796875
+            ],
+            [
+              354.48486328125,
+              56.2537841796875
+            ],
+            [
+              354.48486328125,
+              65.42523193359375
+            ],
+            [
+              299.39520263671875,
+              65.42523193359375
+            ]
+          ]
+        },
+        {
+          "title": "End Points",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              299.06982421875,
+              453.05419921875
+            ],
+            [
+              342.5415954589844,
+              453.05419921875
+            ],
+            [
+              342.5415954589844,
+              461.9776916503906
+            ],
+            [
+              299.06982421875,
+              461.9776916503906
+            ]
+          ]
+        },
+        {
+          "title": "Assessments",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              299.39520263671875,
+              521.3056945800781
+            ],
+            [
+              353.36962890625,
+              521.3056945800781
+            ],
+            [
+              353.36962890625,
+              530.28369140625
+            ],
+            [
+              299.39520263671875,
+              530.28369140625
+            ]
+          ]
+        },
+        {
+          "title": "Statistical Analysis",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              298.49853515625,
+              669.1039962768555
+            ],
+            [
+              377.42474365234375,
+              669.1039962768555
+            ],
+            [
+              377.42474365234375,
+              677.9208984375
+            ],
+            [
+              298.49853515625,
+              677.9208984375
+            ]
+          ]
+        },
+        {
+          "title": "RESULTS",
+          "heading_level": null,
+          "page_id": 2,
+          "polygon": [
+            [
+              406.47216796875,
+              121.5791015625
+            ],
+            [
+              443.60595703125,
+              121.5791015625
+            ],
+            [
+              443.60595703125,
+              130.88970947265625
+            ],
+            [
+              406.47216796875,
+              130.88970947265625
+            ]
+          ]
+        },
+        {
+          "title": "Patients",
+          "heading_level": null,
+          "page_id": 2,
+          "polygon": [
+            [
+              301.54949951171875,
+              146.243896484375
+            ],
+            [
+              341.0595703125,
+              146.243896484375
+            ],
+            [
+              341.0595703125,
+              156.05718994140625
+            ],
+            [
+              301.54949951171875,
+              156.05718994140625
+            ]
+          ]
+        },
+        {
+          "title": "Exposure",
+          "heading_level": null,
+          "page_id": 3,
+          "polygon": [
+            [
+              34.366607666015625,
+              111.94464111328125
+            ],
+            [
+              76.409912109375,
+              111.94464111328125
+            ],
+            [
+              76.409912109375,
+              121.7579345703125
+            ],
+            [
+              34.366607666015625,
+              121.7579345703125
+            ]
+          ]
+        },
+        {
+          "title": "Response Rate",
+          "heading_level": null,
+          "page_id": 3,
+          "polygon": [
+            [
+              34.259490966796875,
+              306.68475341796875
+            ],
+            [
+              101.9802474975586,
+              306.68475341796875
+            ],
+            [
+              101.9802474975586,
+              316.498046875
+            ],
+            [
+              34.259490966796875,
+              316.498046875
+            ]
+          ]
+        },
+        {
+          "title": "Chesney et al",
+          "heading_level": null,
+          "page_id": 4,
+          "polygon": [
+            [
+              271.0487060546875,
+              28.33978271484375
+            ],
+            [
+              316.12945556640625,
+              28.33978271484375
+            ],
+            [
+              316.12945556640625,
+              41.8543701171875
+            ],
+            [
+              271.0487060546875,
+              41.8543701171875
+            ]
+          ]
+        },
+        {
+          "title": "Progression-Free Survival",
+          "heading_level": null,
+          "page_id": 4,
+          "polygon": [
+            [
+              36.24114990234375,
+              570.04541015625
+            ],
+            [
+              152.105712890625,
+              570.04541015625
+            ],
+            [
+              152.105712890625,
+              580.0066528320312
+            ],
+            [
+              36.24114990234375,
+              580.0066528320312
+            ]
+          ]
+        },
+        {
+          "title": "Safety",
+          "heading_level": null,
+          "page_id": 4,
+          "polygon": [
+            [
+              301.0693359375,
+              558.7413482666016
+            ],
+            [
+              331.1179504394531,
+              558.7413482666016
+            ],
+            [
+              331.1179504394531,
+              568.5546569824219
+            ],
+            [
+              301.0693359375,
+              568.5546569824219
+            ]
+          ]
+        },
+        {
+          "title": "Talimogene Laherparepvec Plus Ipilimumab in Melanoma",
+          "heading_level": null,
+          "page_id": 5,
+          "polygon": [
+            [
+              195.238037109375,
+              28.14862060546875
+            ],
+            [
+              386.88934326171875,
+              28.14862060546875
+            ],
+            [
+              386.88934326171875,
+              41.853515625
+            ],
+            [
+              195.238037109375,
+              41.853515625
+            ]
+          ]
+        },
+        {
+          "title": "Chesney et al",
+          "heading_level": null,
+          "page_id": 6,
+          "polygon": [
+            [
+              271.0487060546875,
+              28.1964111328125
+            ],
+            [
+              316.20849609375,
+              28.1964111328125
+            ],
+            [
+              316.20849609375,
+              41.8543701171875
+            ],
+            [
+              271.0487060546875,
+              41.8543701171875
+            ]
+          ]
+        },
+        {
+          "title": "DISCUSSION",
+          "heading_level": null,
+          "page_id": 7,
+          "polygon": [
+            [
+              133.1103515625,
+              386.9626770019531
+            ],
+            [
+              182.58067321777344,
+              386.9626770019531
+            ],
+            [
+              182.58067321777344,
+              395.9289855957031
+            ],
+            [
+              133.1103515625,
+              395.9289855957031
+            ]
+          ]
+        },
+        {
+          "title": "Chesney et al",
+          "heading_level": null,
+          "page_id": 8,
+          "polygon": [
+            [
+              271.0487060546875,
+              28.172515869140625
+            ],
+            [
+              316.494140625,
+              28.172515869140625
+            ],
+            [
+              316.494140625,
+              41.8543701171875
+            ],
+            [
+              271.0487060546875,
+              41.8543701171875
+            ]
+          ]
+        },
+        {
+          "title": "AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS\nOF INTEREST",
+          "heading_level": null,
+          "page_id": 8,
+          "polygon": [
+            [
+              323.9208984375,
+              468.34716796875
+            ],
+            [
+              525.0146484375,
+              468.34716796875
+            ],
+            [
+              525.0146484375,
+              488.22802734375
+            ],
+            [
+              323.9208984375,
+              488.22802734375
+            ]
+          ]
+        },
+        {
+          "title": "AUTHOR CONTRIBUTIONS",
+          "heading_level": null,
+          "page_id": 8,
+          "polygon": [
+            [
+              377.63140869140625,
+              546.34130859375
+            ],
+            [
+              475.3125,
+              546.34130859375
+            ],
+            [
+              475.3125,
+              556.28173828125
+            ],
+            [
+              377.63140869140625,
+              556.28173828125
+            ]
+          ]
+        },
+        {
+          "title": "REFERENCES",
+          "heading_level": null,
+          "page_id": 9,
+          "polygon": [
+            [
+              89.97802734375,
+              62.5091552734375
+            ],
+            [
+              138.89552307128906,
+              62.5091552734375
+            ],
+            [
+              138.89552307128906,
+              71.4754638671875
+            ],
+            [
+              89.97802734375,
+              71.4754638671875
+            ]
+          ]
+        },
+        {
+          "title": "Affiliations",
+          "heading_level": null,
+          "page_id": 9,
+          "polygon": [
+            [
+              264.79248046875,
+              352.12060546875
+            ],
+            [
+              314.676025390625,
+              352.12060546875
+            ],
+            [
+              314.676025390625,
+              362.0584411621094
+            ],
+            [
+              264.79248046875,
+              362.0584411621094
+            ]
+          ]
+        },
+        {
+          "title": "Support",
+          "heading_level": null,
+          "page_id": 9,
+          "polygon": [
+            [
+              274.3946533203125,
+              487.5807800292969
+            ],
+            [
+              309.35302734375,
+              487.5807800292969
+            ],
+            [
+              309.35302734375,
+              497.40380859375
+            ],
+            [
+              274.3946533203125,
+              497.40380859375
+            ]
+          ]
+        },
+        {
+          "title": "Prior Presentation",
+          "heading_level": null,
+          "page_id": 9,
+          "polygon": [
+            [
+              253.24790954589844,
+              514.6083984375
+            ],
+            [
+              329.5609436035156,
+              514.6083984375
+            ],
+            [
+              329.5609436035156,
+              524.4283752441406
+            ],
+            [
+              253.24790954589844,
+              524.4283752441406
+            ]
+          ]
+        },
+        {
+          "title": "AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST",
+          "heading_level": null,
+          "page_id": 10,
+          "polygon": [
+            [
+              36.419677734375,
+              54.67236328125
+            ],
+            [
+              255.794677734375,
+              54.67236328125
+            ],
+            [
+              255.794677734375,
+              64.0645751953125
+            ],
+            [
+              36.419677734375,
+              64.0645751953125
+            ]
+          ]
+        },
+        {
+          "title": "Randomized, Open-Label Phase II Study Evaluating the Efficacy and Safety of Talimogene Laherparepvec in Combination With Ipilimumab Versus\nIpilimumab Alone in Patients With Advanced, Unresectable Melanoma",
+          "heading_level": null,
+          "page_id": 10,
+          "polygon": [
+            [
+              36.705322265625,
+              69.839111328125
+            ],
+            [
+              551.865234375,
+              69.839111328125
+            ],
+            [
+              551.865234375,
+              91.184326171875
+            ],
+            [
+              36.705322265625,
+              91.184326171875
+            ]
+          ]
+        },
+        {
+          "title": "Jason Chesney",
+          "heading_level": null,
+          "page_id": 10,
+          "polygon": [
+            [
+              36.259002685546875,
+              133.43115234375
+            ],
+            [
+              88.5748291015625,
+              133.43115234375
+            ],
+            [
+              88.5748291015625,
+              142.415771484375
+            ],
+            [
+              36.259002685546875,
+              142.415771484375
+            ]
+          ]
+        },
+        {
+          "title": "Igor Puzanov",
+          "heading_level": null,
+          "page_id": 10,
+          "polygon": [
+            [
+              36.0626220703125,
+              178.736572265625
+            ],
+            [
+              84.91148376464844,
+              178.736572265625
+            ],
+            [
+              84.91148376464844,
+              188.0628662109375
+            ],
+            [
+              36.0626220703125,
+              188.0628662109375
+            ]
+          ]
+        },
+        {
+          "title": "Frances Collichio",
+          "heading_level": null,
+          "page_id": 10,
+          "polygon": [
+            [
+              36.294708251953125,
+              215.439697265625
+            ],
+            [
+              99.832763671875,
+              215.439697265625
+            ],
+            [
+              99.832763671875,
+              224.233154296875
+            ],
+            [
+              36.294708251953125,
+              224.233154296875
+            ]
+          ]
+        },
+        {
+          "title": "Parminder Singh",
+          "heading_level": null,
+          "page_id": 10,
+          "polygon": [
+            [
+              35.848388671875,
+              261.2890625
+            ],
+            [
+              97.69930267333984,
+              261.2890625
+            ],
+            [
+              97.69930267333984,
+              270.685546875
+            ],
+            [
+              35.848388671875,
+              270.685546875
+            ]
+          ]
+        },
+        {
+          "title": "Mohammed M. Milhem",
+          "heading_level": null,
+          "page_id": 10,
+          "polygon": [
+            [
+              36.74102783203125,
+              296.68359375
+            ],
+            [
+              122.8271484375,
+              296.68359375
+            ],
+            [
+              122.8271484375,
+              305.859375
+            ],
+            [
+              36.74102783203125,
+              305.859375
+            ]
+          ]
+        },
+        {
+          "title": "John Glaspy",
+          "heading_level": null,
+          "page_id": 10,
+          "polygon": [
+            [
+              36.419677734375,
+              333.00439453125
+            ],
+            [
+              83.69384765625,
+              333.00439453125
+            ],
+            [
+              83.69384765625,
+              342.5625
+            ],
+            [
+              36.419677734375,
+              342.5625
+            ]
+          ]
+        },
+        {
+          "title": "Omid Hamid",
+          "heading_level": null,
+          "page_id": 10,
+          "polygon": [
+            [
+              36.0626220703125,
+              357.85546875
+            ],
+            [
+              86.1932373046875,
+              357.85546875
+            ],
+            [
+              86.1932373046875,
+              367.382080078125
+            ],
+            [
+              36.0626220703125,
+              367.382080078125
+            ]
+          ]
+        },
+        {
+          "title": "Merrick Ross",
+          "heading_level": null,
+          "page_id": 10,
+          "polygon": [
+            [
+              36.74102783203125,
+              443.87841796875
+            ],
+            [
+              86.121826171875,
+              443.87841796875
+            ],
+            [
+              86.121826171875,
+              453.1022644042969
+            ],
+            [
+              36.74102783203125,
+              453.1022644042969
+            ]
+          ]
+        },
+        {
+          "title": "Philip Friedlander",
+          "heading_level": null,
+          "page_id": 10,
+          "polygon": [
+            [
+              36.84814453125,
+              518.81396484375
+            ],
+            [
+              102.117919921875,
+              518.81396484375
+            ],
+            [
+              102.117919921875,
+              528.7876434326172
+            ],
+            [
+              36.84814453125,
+              528.7876434326172
+            ]
+          ]
+        },
+        {
+          "title": "Claus Garbe",
+          "heading_level": null,
+          "page_id": 10,
+          "polygon": [
+            [
+              36.7767333984375,
+              594.896484375
+            ],
+            [
+              82.0513916015625,
+              594.896484375
+            ],
+            [
+              82.0513916015625,
+              604.5297698974609
+            ],
+            [
+              36.7767333984375,
+              604.5297698974609
+            ]
+          ]
+        },
+        {
+          "title": "Theodore F. Logan",
+          "heading_level": null,
+          "page_id": 10,
+          "polygon": [
+            [
+              301.54949951171875,
+              132.093017578125
+            ],
+            [
+              369.6240234375,
+              132.093017578125
+            ],
+            [
+              369.6240234375,
+              142.255126953125
+            ],
+            [
+              301.54949951171875,
+              142.255126953125
+            ]
+          ]
+        },
+        {
+          "title": "Consulting or Advisory Role: Prometheus",
+          "heading_level": null,
+          "page_id": 10,
+          "polygon": [
+            [
+              300.498046875,
+              142.60693359375
+            ],
+            [
+              448.9427490234375,
+              142.60693359375
+            ],
+            [
+              448.9427490234375,
+              152.23321533203125
+            ],
+            [
+              300.498046875,
+              152.23321533203125
+            ]
+          ]
+        },
+        {
+          "title": "Axel Hauschild",
+          "heading_level": null,
+          "page_id": 10,
+          "polygon": [
+            [
+              301.35498046875,
+              228.24755859375
+            ],
+            [
+              355.49700927734375,
+              228.24755859375
+            ],
+            [
+              355.49700927734375,
+              237.89666748046875
+            ],
+            [
+              301.35498046875,
+              237.89666748046875
+            ]
+          ]
+        },
+        {
+          "title": "Celeste Lebbe\u00b4",
+          "heading_level": null,
+          "page_id": 10,
+          "polygon": [
+            [
+              300.21240234375,
+              354.77734375
+            ],
+            [
+              349.8385925292969,
+              354.77734375
+            ],
+            [
+              349.8385925292969,
+              363.781494140625
+            ],
+            [
+              300.21240234375,
+              363.781494140625
+            ]
+          ]
+        },
+        {
+          "title": "Robert H.I. Andtbacka",
+          "heading_level": null,
+          "page_id": 10,
+          "polygon": [
+            [
+              301.54864501953125,
+              557.04638671875
+            ],
+            [
+              383.90625,
+              557.04638671875
+            ],
+            [
+              383.90625,
+              566.6601715087891
+            ],
+            [
+              301.54864501953125,
+              566.6601715087891
+            ]
+          ]
+        },
+        {
+          "title": "Howard L. Kaufman",
+          "heading_level": null,
+          "page_id": 10,
+          "polygon": [
+            [
+              300.498046875,
+              602.92529296875
+            ],
+            [
+              375.3369140625,
+              602.92529296875
+            ],
+            [
+              375.3369140625,
+              612.4680328369141
+            ],
+            [
+              300.498046875,
+              612.4680328369141
+            ]
+          ]
+        },
+        {
+          "title": "Acknowledgment",
+          "heading_level": null,
+          "page_id": 11,
+          "polygon": [
+            [
+              251.9384765625,
+              54.9591064453125
+            ],
+            [
+              330.49072265625,
+              54.9591064453125
+            ],
+            [
+              330.49072265625,
+              65.2144775390625
+            ],
+            [
+              251.9384765625,
+              65.2144775390625
+            ]
+          ]
+        },
+        {
+          "title": "Appendix",
+          "heading_level": null,
+          "page_id": 11,
+          "polygon": [
+            [
+              269.93408203125,
+              145.32476806640625
+            ],
+            [
+              312.4951171875,
+              145.32476806640625
+            ],
+            [
+              312.4951171875,
+              155.032470703125
+            ],
+            [
+              269.93408203125,
+              155.032470703125
+            ]
+          ]
+        }
+      ],
+      "page_stats": [
+        {
+          "page_id": 0,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              240
+            ],
+            [
+              "Line",
+              80
+            ],
+            [
+              "Text",
+              17
+            ],
+            [
+              "SectionHeader",
+              8
+            ],
+            [
+              "PageHeader",
+              2
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "TextInlineMath",
+              1
+            ],
+            [
+              "Picture",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 1,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              412
+            ],
+            [
+              "Line",
+              123
+            ],
+            [
+              "Text",
+              8
+            ],
+            [
+              "SectionHeader",
+              6
+            ],
+            [
+              "PageFooter",
+              3
+            ],
+            [
+              "TextInlineMath",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 2,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              360
+            ],
+            [
+              "Line",
+              156
+            ],
+            [
+              "Text",
+              4
+            ],
+            [
+              "PageFooter",
+              3
+            ],
+            [
+              "SectionHeader",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Figure",
+              1
+            ],
+            [
+              "Reference",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 3,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              377
+            ],
+            [
+              "Line",
+              129
+            ],
+            [
+              "TableCell",
+              121
+            ],
+            [
+              "Text",
+              7
+            ],
+            [
+              "TextInlineMath",
+              3
+            ],
+            [
+              "PageFooter",
+              3
+            ],
+            [
+              "SectionHeader",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Table",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 4,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              306
+            ],
+            [
+              "Line",
+              86
+            ],
+            [
+              "TableCell",
+              26
+            ],
+            [
+              "Text",
+              11
+            ],
+            [
+              "SectionHeader",
+              3
+            ],
+            [
+              "PageFooter",
+              3
+            ],
+            [
+              "Table",
+              1
+            ],
+            [
+              "Reference",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 5,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              464
+            ],
+            [
+              "TableCell",
+              385
+            ],
+            [
+              "Line",
+              91
+            ],
+            [
+              "Text",
+              3
+            ],
+            [
+              "PageFooter",
+              3
+            ],
+            [
+              "Table",
+              2
+            ],
+            [
+              "SectionHeader",
+              1
+            ],
+            [
+              "Reference",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 6,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              331
+            ],
+            [
+              "Line",
+              153
+            ],
+            [
+              "Text",
+              2
+            ],
+            [
+              "SectionHeader",
+              1
+            ],
+            [
+              "Figure",
+              1
+            ],
+            [
+              "Caption",
+              1
+            ],
+            [
+              "PageFooter",
+              1
+            ],
+            [
+              "FigureGroup",
+              1
+            ],
+            [
+              "Reference",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 7,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              322
+            ],
+            [
+              "Line",
+              109
+            ],
+            [
+              "Text",
+              6
+            ],
+            [
+              "PageFooter",
+              3
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Figure",
+              1
+            ],
+            [
+              "Caption",
+              1
+            ],
+            [
+              "SectionHeader",
+              1
+            ],
+            [
+              "FigureGroup",
+              1
+            ],
+            [
+              "Reference",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 8,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              285
+            ],
+            [
+              "Line",
+              96
+            ],
+            [
+              "TableCell",
+              87
+            ],
+            [
+              "Text",
+              13
+            ],
+            [
+              "SectionHeader",
+              3
+            ],
+            [
+              "PageFooter",
+              3
+            ],
+            [
+              "Table",
+              1
+            ],
+            [
+              "Reference",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 9,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              327
+            ],
+            [
+              "Line",
+              115
+            ],
+            [
+              "Text",
+              27
+            ],
+            [
+              "SectionHeader",
+              4
+            ],
+            [
+              "PageFooter",
+              3
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Reference",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 10,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              380
+            ],
+            [
+              "Line",
+              113
+            ],
+            [
+              "Text",
+              32
+            ],
+            [
+              "SectionHeader",
+              18
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 11,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              229
+            ],
+            [
+              "Line",
+              66
+            ],
+            [
+              "TableCell",
+              12
+            ],
+            [
+              "PageFooter",
+              3
+            ],
+            [
+              "SectionHeader",
+              2
+            ],
+            [
+              "Text",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Figure",
+              1
+            ],
+            [
+              "Table",
+              1
+            ],
+            [
+              "Reference",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        }
+      ],
+      "debug_data_path": "debug_data/21"
+    },
+    "tables": [],
+    "metadata": {
+      "total_pages": 0,
+      "document_type": "unknown",
+      "processing_time": 0,
+      "ocr_used": false
+    },
+    "processing_stats": {
+      "return_code": 0,
+      "stdout_length": 87,
+      "stderr_length": 795
+    },
+    "processing_mode": "marker_enhanced",
+    "use_llm": false,
+    "markdown_quality_score": 100.0
+  },
+  "clinical_extraction": {
+    "prompt": "\nTASK: Extract comprehensive clinical trial data from this publication.\n\nCRITICAL REQUIREMENTS:\n1. NCT number: NCT01740297 (already validated)\n2. Expected treatment arms: 0\n3. Output raw JSON only (no markdown, no explanations)\n4. Extract ONLY explicit information - never infer or guess\n5. Use empty string \"\" for missing values\n\nTREATMENT ARMS:\n- Each unique treatment = separate arm\n- Different doses of same drug = separate arms  \n- Combination therapies use \"+\" (e.g., \"Drug A + Drug B\")\n\nDATA FORMATS:\n- Numbers: Extract digits only (e.g., \"25%\" \u2192 \"25\")\n- Survival: Months only (e.g., \"12.5 months\" \u2192 \"12.5\") \n- Binary: \"YES\" or \"NO\" only\n- Missing: Use \"\"\n\nCOMPREHENSIVE JSON STRUCTURE:\n{\n  \"NCT Number\": \"NCT01740297\",\n  \"Publication name\": \"Journal YYYY; Volume:Pages\",\n  \"Publication Year\": \"YYYY\",\n  \"PDF number\": \"filename\",\n  \"Trial name\": \"Trial name or 'No Name'\",\n  \"Sponsors\": \"Industry-Sponsored or non Industry-Sponsored\",\n  \"Clinical Trial Phase\": \"Stage X\",\n  \"Cancer Type\": \"Select from controlled list\",\n  \"Primary endpoint\": \"text\",\n  \"Secondary endpoint\": \"text\",\n  \"Median Age\": \"number\",\n  \"Mechanism of action\": \"text\",\n  \"Target Protein\": \"text\",\n  \"Type of therapy\": \"text\",\n  \"Dosage\": \"text\",\n  \"Type of dosing\": \"text\",\n  \"Number of doses per year\": \"number\",\n  \"Biomarker Inclusion\": \"YES/NO\",\n  \"Biomarkers Inclusion Criteria\": \"text\",\n  \"Biomarkers Exclusion Criteria\": \"text\",\n  \"Major country where clinical trial is conducted\": \"text\",\n  \"Study start date\": \"YYYY-MM-DD\",\n  \"Study completion date\": \"YYYY-MM-DD\",\n  \"First results\": \"YYYY-MM-DD\",\n  \"Trial run in Europe\": \"YES/NO\",\n  \"Trial run in US\": \"YES/NO\",\n  \"Trial run in China\": \"YES/NO\",\n  \"treatment_arms\": [\n    {\n      \"Generic name\": \"Drug name or Drug A + Drug B\",\n      \"Brand name\": \"text\",\n      \"Line of Treatment\": \"Neoadjuvant/First Line/2nd Line/3rd Line+\",\n      \"Number of patients\": \"number\",\n      \"Company EU\": \"text\",\n      \"Company US\": \"text\",\n      \"Company China\": \"text\",\n      \"Biosimilar\": \"YES/NO\",\n      \"Chemotherapy Naive\": \"YES/NO\",\n      \"Chemotherapy Failed\": \"YES/NO\",\n      \"Immune Checkpoint Inhibitor (ICI) Naive\": \"YES/NO\",\n      \"Immune Checkpoint Inhibitor (ICI) failed\": \"YES/NO\",\n      \"Ipilimumab-failure or Ipilimumab-refractory\": \"YES/NO\",\n      \"Anti PD-1/L1-failure or Anti PD-1/L1-refractory\": \"YES/NO\",\n      \"Mutation status\": \"text\",\n      \"BRAF-mutation\": \"YES/NO\",\n      \"NRAS-Mutation\": \"YES/NO\",\n      \"Objective response rate (ORR)\": \"percentage\",\n      \"Complete Response (CR)\": \"percentage\",\n      \"Pathological Complete Response (pCR)\": \"percentage\",\n      \"Complete Metabolic Response (CMR)\": \"percentage\",\n      \"Disease Control Rate or DCR\": \"percentage\",\n      \"Clinical Benefit Rate (CBR)\": \"percentage\",\n      \"Duration of Response (DOR) rate\": \"percentage\",\n      \"Progression free survival (PFS) rate at 6 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 9 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 12 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 18 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 24 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 48 months\": \"percentage\",\n      \"Overall survival (OS) rate at 6 months\": \"percentage\",\n      \"Overall survival (OS) rate at 9 months\": \"percentage\",\n      \"Overall survival (OS) rate at 12 months\": \"percentage\",\n      \"Overall survival (OS) rate at 18 months\": \"percentage\",\n      \"Overall survival (OS) rate at 24 months\": \"percentage\",\n      \"Overall survival (OS) rate at 48 months\": \"percentage\",\n      \"Median Progression free survival (PFS)\": \"months\",\n      \"Length of measuring PFS\": \"months\",\n      \"p-value of PFS\": \"Non-Significant/Significant/Highly Significant\",\n      \"Hazard ratio (HR) PFS\": \"decimal\",\n      \"Median Overall survival (OS)\": \"months\",\n      \"Length of measuring OS\": \"months\",\n      \"p-value of OS\": \"Non-Significant/Significant/Highly Significant\",\n      \"Hazard ratio (HR) OS\": \"decimal\",\n      \"Event-Free Survival (EFS)\": \"months\",\n      \"p-value of EFS\": \"Non-Significant/Significant/Highly Significant\",\n      \"Hazard ratio (HR) EFS\": \"decimal\",\n      \"Recurrence-Free Survival (RFS)\": \"months\",\n      \"p-value of RFS\": \"Non-Significant/Significant/Highly Significant\",\n      \"Length of measuring RFS\": \"months\",\n      \"Hazard ratio (HR) RFS\": \"decimal\",\n      \"Metastasis-Free Survival (MFS)\": \"months\",\n      \"Length of measuring MFS\": \"months\",\n      \"Hazard ratio (HR) MFS\": \"decimal\",\n      \"Time to response (TTR)\": \"months\",\n      \"Time to Progression (TTP)\": \"months\",\n      \"Time to Next Treatment (TTNT)\": \"months\",\n      \"Time to Treatment Failure (TTF)\": \"months\",\n      \"Median Duration of response or DOR\": \"months\",\n      \"Adverse events (AE)\": \"percentage\",\n      \"Treatment emergent adverse events (TEAE)\": \"percentage\",\n      \"Treatment-related adverse events (TRAE)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 higher adverse events (AE)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 higher treatment emergent adverse events (TEAE)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 higher treatment-related adverse events (TRAE)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 higher treatment-emergent adverse events (TEAE)\": \"percentage\",\n      \"Grade 4 treatment emergent adverse events\": \"percentage\",\n      \"Grade 5 treatment emergent adverse events\": \"percentage\",\n      \"Serious Adverse Events (SAE)\": \"percentage\",\n      \"Serious treatment emergent adverse events\": \"percentage\",\n      \"Serious treatment related adverse events\": \"percentage\",\n      \"Treatment-emergent adverse events (TEAE) led to treatment discontinuation\": \"percentage\",\n      \"Adverse events (AEs) leading to discontinuation\": \"percentage\",\n      \"Treatment-emergent adverse events (TEAE) led to death\": \"percentage\",\n      \"Adverse Events leading to death\": \"percentage\",\n      \"Immune related adverse events (irAEs)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Immune related adverse events (irAEs)\": \"percentage\",\n      \"Cytokine Release Syndrome or CRS\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Cytokine Release Syndrome or CRS\": \"percentage\",\n      \"White blood cell (WBC) decreased\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Thrombocytopenia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Neutropenia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Leukopenia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Anemia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Neutrophil count decreased\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 White blood cell (WBC) decreased\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Nausea\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Diarrhea\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Colitis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Constipation\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Dyspnea\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Cough\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Pneumonia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Pneumonitis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Hyperglycemia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Thyroiditis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Hypophysitis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Hepatitis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Alanine aminotransferase\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Pyrexia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Bleeding\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Pruritus\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Rash\": \"percentage\"\n    }\n  ]\n}\n\nEXTRACTION INSTRUCTIONS:\n1. Extract ALL fields listed above that are explicitly mentioned in the publication\n2. For percentages: extract number only (e.g., \"25%\" \u2192 \"25\")\n3. For months: extract number only (e.g., \"12.5 months\" \u2192 \"12.5\")\n4. For binary fields: use \"YES\" or \"NO\" only\n5. For missing data: use empty string \"\"\n6. For survival data with \"not reached\": use \"NR\"\n\nPUBLICATION TEXT:\n# JOURNAL OF CLINICAL ONCOLOGY RAPID COMMUNICATION\n\n# Randomized, Open-Label Phase II Study Evaluating the Efficacy and Safety of Talimogene Laherparepvec in Combination With Ipilimumab Versus Ipilimumab Alone in Patients With Advanced, Unresectable Melanoma\n\nJason Chesney, Igor Puzanov, Frances Collichio, Parminder Singh, Mohammed M. Milhem, John Glaspy, Omid Hamid, Merrick Ross, Philip Friedlander, Claus Garbe, Theodore F. Logan, Axel Hauschild, Celeste Lebb\u00b4e, Lisa Chen, Jenny J. Kim, Jennifer Gansert, Robert H.I. Andtbacka, and Howard L. Kaufman\n\nABSTRACT\n\nAuthor affiliations and support information (if applicable) appear at the end of this article.\n\nPublished at [jco.org](http://jco.org) on October 5, 2017.\n\nClinical trial information: NCT01740297.\n\nCorrespondence to: Jason Chesney, MD, PhD, Department of Medicine, J. Graham Brown Cancer Center, University of Louisville, 529 S Jackson St, Louisville, KY 40202; e-mail: [jason.chesney@](mailto:jason.chesney@louisville.edu) [louisville.edu.](mailto:jason.chesney@louisville.edu)\n\n\u00a9 2017 by American Society of Clinical Oncology\n\n0732-183X/18/3617w-1658w/\\$20.00\n\n# Purpose\n\nWe evaluated the combination of talimogene laherparepvec plus ipilimumab versus ipilimumab alone in patients with advanced melanoma in a phase II study. To our knowledge, this was the first randomized trial to evaluate addition of an oncolytic virus to a checkpoint inhibitor.\n\n# Methods\n\nPatients with unresectable stages IIIB to IV melanoma, with no more than one prior therapy if BRAF wild-type, no more than two prior therapies if BRAF mutant, measurable/injectable disease, and without symptomatic autoimmunity or clinically significant immunosuppression were randomly assigned 1:1 to receive talimogene laherparepvec plus ipilimumab or ipilimumab alone. Talimogene laherparepvec treatment began in week 1 (first dose, # 4 mL 3 106 plaque-forming units/mL; after 3 weeks, # 4 mL 3 108 plaque-forming units/mL every 2 weeks). Ipilimumab (3 mg/kg every 3 weeks; up to four doses) began week 1 in the ipilimumab alone arm and week 6 in the combination arm. The primary end point was objective response rate evaluated by investigators per immunerelated response criteria.\n\n# Results\n\nOne hundred ninety-eight patients were randomly assigned to talimogene laherparepvec plus ipilimumab (n = 98), or ipilimumab alone (n = 100). Thirty-eight patients (39%) in the combination arm and 18 patients (18%) in the ipilimumab arm had an objective response (odds ratio, 2.9; 95% CI, 1.5 to 5.5; P = .002). Responses were not limited to injected lesions; visceral lesion decreases were observed in 52% of patients in the combination arm and 23% of patients in the ipilimumab arm. Frequently occurring adverse events (AEs) included fatigue (combination, 59%; ipilimumab alone, 42%), chills (combination, 53%; ipilimumab alone, 3%), and diarrhea (combination, 42%; ipilimumab alone, 35%). Incidence of grade \\$ 3 AEs was 45% and 35%, respectively. Three patients in the combination arm had fatal AEs; none were treatment related.\n\n#### Conclusion\n\nThe study met its primary end point; the objective response rate was significantly higher with talimogene laherparepvec plus ipilimumab versus ipilimumab alone. These data indicate that the combination has greater antitumor activity without additional safety concerns versus ipilimumab.\n\nJ Clin Oncol 36:1658-1667. \u00a9 2017 by American Society of Clinical Oncology\n\nAppendix DOI: [https://doi.org/10.1200/JCO.](http://ascopubs.org/doi/full/10.1200/JCO.2017.73.7379) [2017.73.7379](http://ascopubs.org/doi/full/10.1200/JCO.2017.73.7379)\n\n![](_page_0_Picture_22.jpeg)\n\nDOI: [https://doi.org/10.1200/JCO.2017.](http://ascopubs.org/doi/full/10.1200/JCO.2017.73.7379) [73.7379](http://ascopubs.org/doi/full/10.1200/JCO.2017.73.7379)\n\n#### INTRODUCTION\n\nNew therapies, such as immune checkpoint inhibitors and oncolytic viruses, have transformed patient care in advanced melanoma. Potentially, combination therapy strategies targeting complementary cancer immunity pathways could improve antitumor responses versus single-agent therapy[.1](#page-9-0) Consistent with this hypothesis, combination therapy with ipilimumab plus nivolumab improved response rates in untreated metastatic melanoma versus ipilimumab monotherapy, albeit with increased toxicity.[2,3](#page-9-0) These results advocate for evaluation of novel combinations with lower toxicity.\n\nIpilimumab is an anti\u2013cytotoxic T-lymphocyte antigen 4 (CTLA-4) antibody[.4](#page-9-0) In previously treated advanced melanoma, ipilimumab improved overall response versus gp100 (10.9% v 1.5%; P , .001; complete response [CR], 1.5% v 0%)[.5](#page-9-0) In treatment-naive advanced melanoma, ipilimumab treatment resulted in an objective response rate (ORR) of 19.0% (CR, 2.2%) and median time to objective response of 2.8 months (range, 2.5 to 12.4 months).[2](#page-9-0) Improvement in overall survival (OS) with ipilimumab monotherapy relative to gp100[5](#page-9-0) and in combination with dacarbazine versus dacarbazine alone has been reported.[6](#page-9-0) Talimogene laherparepvec is a genetically modified herpes simplex virus type 1 that expresses the immunostimulatory cytokine granulocyte-macrophage colonystimulating factor.[7](#page-9-0) In the phase III single-agent registration study OPTiM talimogene laherparepvec improved durable response rate (primary end point) versus subcutaneous granulocyte-macrophage colony-stimulating factor (16% v 2%; P , .001).[8](#page-9-0)\n\nTalimogene laherparepvec and ipilimumab enhance T-cell activation through different mechanisms. Talimogene laherparepvec is designed to increase tumor-specific immune activation by improving antigen presentation and T-cell priming,[9](#page-9-0) whereas CTLA-4 blockade with ipilimumab promotes T-cell expansion.[10](#page-9-0) Combining these therapies may enhance antitumor immune responses, and thereby provide greater antitumor activity than either agent alone. Specifically, we hypothesized that ipilimumab would augment systemic antitumor responses triggered by talimogene laherparepvec, yielding improved outcomes.\n\nTo test this hypothesis, we evaluated talimogene laherparepvec in combination with ipilimumab in patients with unresected advanced melanoma in a phase Ib/II study. Phase Ib results have been reported previously.[11](#page-9-0) Herein, we report the primary analysis of the randomized phase II portion, which compared talimogene laherparepvec plus ipilimumab with ipilimumab alone in patients with stages IIIB to IV melanoma.\n\n# METHODS\n\n# Patients\n\nEligible patients (\\$ 18 years of age) had histologically confirmed stages IIIB to IVM1c malignant melanoma not suitable for surgical resection, but suitable for injection (\\$ 1 cutaneous/subcutaneous/nodal lesion \\$ 5 mm in longest diameter); measurable disease per contrastenhanced or spiral computed tomography (CT; visceral lesions) or calipers (cutaneous/subcutaneous lesions); Eastern Cooperative Oncology Group performance status # 1; and adequate hematologic, hepatic, and renal function. Patients were initially required to be treatment naive; however, a protocol amendment that was intended to account for the availability of new melanoma therapies allowed the enrollment of patients who had received one line of systemic anticancer therapy if BRAF wild-type or # 2 lines if BRAF mutant (one must have been a BRAF inhibitor). Patients with primary uveal or mucosal melanoma, history of melanoma in an immunodeficient state, clinically active cerebral metastases, active herpetic lesions that require systemic treatment with antiherpetic drugs, evidence of clinically significant immunosuppression, history of inflammatory bowel disease and/or other symptomatic autoimmune disease, or prior exposure to talimogene laherparepvec and/or other oncolytic immunotherapy were excluded. Prior ipilimumab therapy was permitted if patients had previously had a partial response (PR), CR, or stable disease for \\$ 6 months. Prior anti\u2013programmed death-1 or anti\u2013CTLA-4 antibody therapy was permitted if discontinuation did not result from treatment-related adverse events (AEs).\n\nPatients provided written informed consent. Institutional review boards/ethics committees at each site approved study procedures.\n\n#### Study Design\n\nThe phase II part of the study was an open-label, multicenter, randomized trial evaluating talimogene laherparepvec in combination with ipilimumab (Appendix [Fig A1,](#page-11-0) online only). Patients were randomly assigned (1:1) to receive talimogene laherparepvec plus ipilimumab or ipilimumab alone. Before the protocol amendment, random assignment was stratified by disease stage (IIIB/IIIC/IVM1a/IVM1b v IVM1c) and BRAFV600E status (mutant v wild-type); after the amendment, random assignment was stratified by disease stage (stage IIIB/IIIC/IVM1a v IVM1b/ IVM1c) and prior therapy (treatment naive v previous systemic anticancer immunotherapy v systemic anticancer treatment other than immunotherapy) to better distinguish between patients whose disease had or had not spread beyond the skin and/or lymph nodes.\n\nIn the combination arm, talimogene laherparepvec was injected intralesionally on day 1 of week 1 at a dose of 106 plaque-forming units/mL (# 4.0 mL total injection volume; new and larger lesions were prioritized) followed by administration on day 1 of week 4, and every 2 weeks thereafter at 108 plaque-forming units/mL (# 4.0 mL)[12;](#page-9-0) ipilimumab (3 mg/kg) was administered intravenously every 3 weeks beginning on day 1 of week 6 for up to four infusions. Talimogene laherparepvec acts in the earliest stages of the cancer immunity cycle by initiating antigen release/presentation.[9](#page-9-0),[13](#page-9-0) Ipilimumab was initiated after two doses of talimogene laherparepvec to potentially maximize the agents' complementary mechanisms of action. In the ipilimumab arm, ipilimumab (3 mg/kg) was administered intravenously every 3 weeks beginning on day 1 of week 1 for up to four infusions. Talimogene laherparepvec treatment continued until CR, all injectable tumors had disappeared, confirmed disease progression per modified immune-related response criteria (irRC),[14](#page-9-0) or intolerance. Ipilimumab treatment continued for four infusions, until disease progression per irRC or unacceptable ipilimumab-related toxicity. Talimogene laherparepvec dose reductions were not permitted, other than a reduction in injection volume as a result of a reduction in lesion dimensions. Treatment could be delayed and/or withheld as a result of toxicity; delays . 4 weeks as a result of AEs resulted in permanent discontinuation. Ipilimumab dose reductions were not permitted; dosing could be withheld and/or discontinued as a result of toxicity. If talimogene laherparepvec was delayed and/or discontinued, ipilimumab treatment could continue. The study protocol includes complete dose modification rules.\n\n#### End Points\n\nThe primary end point was investigator-assessed ORR per modified irRC (Study Protocol).[14](#page-9-0) Secondary end points included OS, best overall response, disease control rate, time to response, duration of response, progression-free survival (PFS), and safety.\n\n#### Assessments\n\nRadiographic imaging was done at baseline, every 12 weeks thereafter (independent of treatment cycle) until clinically relevant disease progression, and at the safety follow-up. Tumor assessments included measurement of cutaneous/subcutaneous/nodal lesions by calipers. Radiographic assessments of the chest, abdomen, and pelvis were performed by CT, positron emission tomography/CT, or magnetic resonance imaging. Response assessments were per irR[C14](#page-9-0) and required response/disease progression to be confirmed by a second consecutive clinical/radiographic assessment \\$ 4 weeks after the first documented response/disease progression. Confirmation of disease progression was only required in the absence of rapid clinical deterioration. AEs occurring during the study were recorded and graded using Common Terminology Criteria for Adverse Events version 3.0.\n\n#### Statistical Analysis\n\nThe planned sample size of approximately 200 patients was estimated to provide 90% power to detect a significant difference in investigatorassessed ORR with an overall two-sided 5% significance level for testing the null hypothesis of no treatment effect, assuming a range of potential ORRs <span id=\"page-2-0\"></span>in the ipilimumab arm. Assuming an ORR for ipilimumab of 15.0%, 90% power was achieved if the ORR in the combination arm was at least 35.7%. The intent-to-treat analysis set included all randomly assigned patients analyzed according to the treatment to which they were randomly assigned. The safety analysis set included all patients who received \\$ 1 dose of talimogene laherparepvec or ipilimumab, analyzed according to the treatment received. The between-arm treatment comparison in ORR was evaluated using a x<sup>2</sup> test with continuity correction with a two-sided 5% significance level.[15](#page-9-0) Exact binomial two-sided 95% CIs were calculated for each arm for ORR and disease control rate.[16](#page-9-0) Logistic regression was used to evaluate treatment effect adjusted for covariates. An unstratified log-rank test was used to compare PFS (defined as time from random assignment to the earlier of disease progression or death), time to response, and duration of response between arms. Treatment effects on PFS, time to response, and duration of response were estimated using unstratified Cox proportional hazards models; P values for these end points were descriptive. The primary analysis of OS (using an unstratified log-rank test; two-sided a = 0.05 conditional on a statistically significant ORR increase) was planned for approximately 3 years after the last patient was randomly assigned.\n\n### RESULTS\n\n# Patients\n\nBetween August 2013 and February 2016, 198 patients from 45 sites in the United States, France, and Germany were randomly assigned to talimogene laherparepvec plus ipilimumab (n = 98), or ipilimumab (n = 100). At the time of the primary analysis (August 23, 2016), five patients were continuing to receive talimogene\n\n![](_page_2_Figure_6.jpeg)\n\nFig 1. Disposition of patients in the study. (\\*) Of the 76 patients who were not randomly assigned, 57 did not meet eligibility criteria. (\u2020) Ninety-one patients in the talimogene laherparepvec plus ipilimumab arm received at least one dose of both study treatments. (\u2021) Eight patients were enrolled in the study but did not receive any study medication: talimogene laherparepvec plus ipilimumab (n = 3); ipilimumab alone (n = 5). All but one patient withdrew consent before treatment began; the remaining patient withdrew for insurance reasons. All were included in the intentto-treat analysis of efficacy.\n\nlaherparepvec and three patients (all in the combination arm) were continuing to receive ipilimumab ([Fig 1\\)](#page-2-0). Baseline characteristics were generally balanced between arms (Table 1).\n\n# Exposure\n\nThe median duration of talimogene laherparepvec treatment was 21.1 weeks; the median duration of ipilimumab treatment was 9.1 weeks in both arms. The median number of talimogene laherparepvec doses was 10 (range, 1 to 45 doses). Of the 95 patients in each arm who received treatment, 63 patients in the combination arm and 66 patients in the ipilimumab arm received four ipilimumab doses. The mean (6 standard deviation) number of ipilimumab doses administered was 3.3 (6 1.1) in the combination arm and 3.5 (6 0.9) in the ipilimumab arm. At the time of analysis, 29% of patients in the combination arm and 27% of patients in the ipilimumab arm were being followed for tumor response. The median follow-up time was 68 weeks (range, 0 to 156 weeks) in the combination arm and 58 weeks (range, 0 to 152 weeks) in the ipilimumab arm.\n\n# Response Rate\n\nThe ORR was significantly improved in the combination arm versus the ipilimumab arm. Among randomly assigned patients, 38 patients (39% [CR, 13%; PR, 26%]) in the combination arm and 18 patients (18% [CR, 7%; PR, 11%]) in the ipilimumab arm had an objective response (see footnote in [Table 2](#page-4-0)). Some patients were unevaluable for response ([Table 2\\)](#page-4-0). The between-arm difference in ORR was 20.8% (odds ratio [OR], 2.9; 95% CI, 1.5 to 5.5; x<sup>2</sup> , P = .002). Seven patients in the combination arm and one patient in the ipilimumab arm had disease progression per irRC before response.\n\nThe ORR for patients with stage IIIB/IIIC/IVM1a disease was 44% in the combination arm and 19% in the ipilimumab arm (OR, 3.3; 95% CI, 1.4 to 7.8; P = .007); for patients with stage IVM1b/IVM1c disease, the ORR was 33% and 16%, respectively (OR, 2.6; 95% CI, 0.9 to 7.0; P = .09; [Fig 2A\\)](#page-5-0). Among BRAF wildtype patients, the ORR was 42% (26 of 62 patients) in the combination arm versus 10% (six of 60 patients) in the ipilimumab arm (OR, 6.5; 95% CI, 2.4 to 17.4; P , .001). Among patients with BRAF-mutant tumors, the ORR was 34% (12 of 35 patients) in the combination arm versus 32% (11 of 34 patients) in the ipilimumab arm (OR, 1.1; 95% CI, 0.4 to 3.0; P = 1.0; [Fig](#page-5-0) [2A\\)](#page-5-0). The estimated OR for treatment effect in a stepwise logistic regression model was 2.73 (P = .004; Appendix [Table A1](#page-11-0), online only).\n\nThe median time to response was 5.8 months (95% CI, 5.4 to 10.9 months) in the combination arm (n = 38) and not estimable (95% CI, not estimable) in the ipilimumab arm (n = 18; HR, 1.41; 95% CI, 0.8 to 2.5; [Table 2](#page-4-0)). The median duration of response was not reached in either arm [\\(Table 2](#page-4-0)). At the time of analysis, 89% of patients in the combination arm and 83% of patients in the ipilimumab arm with a response remained in response. The disease control rate was 58% in the combination arm and 42% in the ipilimumab arm (OR, 1.9; 95% CI, 1.1 to 3.4; P = .033; [Table 2\\)](#page-4-0). The disease control rate in all subgroups, with the exception of patients with BRAF mutations, favored the combination arm ([Fig 2B\\)](#page-5-0).\n\n| Table 1. Baseline Demographic Data and Clinical Characteristics |                                                         |                         |  |  |  |\n|-----------------------------------------------------------------|---------------------------------------------------------|-------------------------|--|--|--|\n| Characteristic                                                  | Talimogene Laherparepvec<br>Plus Ipilimumab<br>(n = 98) | Ipilimumab<br>(n = 100) |  |  |  |\n| Sex                                                             |                                                         |                         |  |  |  |\n| Female                                                          | 36 (37)                                                 | 45 (45)                 |  |  |  |\n| Male                                                            | 62 (63)                                                 | 55 (55)                 |  |  |  |\n| Median age, years (range)                                       | 65 (23-93)                                              | 64 (23-90)              |  |  |  |\n| Race                                                            |                                                         |                         |  |  |  |\n| White                                                           | 97 (99)                                                 | 92 (92)                 |  |  |  |\n| Black                                                           | 0                                                       | 3 (3)                   |  |  |  |\n| Other                                                           | 1 (1)                                                   | 5 (5)                   |  |  |  |\n| ECOG performance status                                         |                                                         |                         |  |  |  |\n| 0                                                               | 69 (70)                                                 | 73 (73)                 |  |  |  |\n| 1<br>Disease substage, AJCC<br>classification                   | 29 (30)                                                 | 27 (27)                 |  |  |  |\n| IIIB                                                            | 5 (5)                                                   | 9 (9)                   |  |  |  |\n| IIIC                                                            | 29 (30)                                                 | 31 (31)                 |  |  |  |\n| IVM1a                                                           | 16 (16)                                                 | 17 (17)                 |  |  |  |\n| IVM1b                                                           | 20 (20)                                                 | 10 (10)                 |  |  |  |\n| IVM1c                                                           | 28 (29)                                                 | 33 (33)                 |  |  |  |\n| BRAF status                                                     |                                                         |                         |  |  |  |\n| Mutant                                                          | 35 (36)                                                 | 34 (34)                 |  |  |  |\n| Wild-type                                                       | 62 (63)                                                 | 60 (60)                 |  |  |  |\n| Missing/unknown                                                 | 1 (1)                                                   | 6 (6)                   |  |  |  |\n| Baseline LDH                                                    |                                                         |                         |  |  |  |\n| # 1 3 ULN                                                       | 79 (81)                                                 | 74 (74)                 |  |  |  |\n| . 1-2 3 ULN                                                     | 10 (10)                                                 | 20 (20)                 |  |  |  |\n| . 2 3 ULN                                                       | 7 (7)                                                   | 5 (5)                   |  |  |  |\n| Unknown                                                         | 2 (2)                                                   | 1 (1)                   |  |  |  |\n| Visceral disease at baseline                                    | 39 (40)                                                 | 46 (46)                 |  |  |  |\n| Median SPD* of all index<br>lesions, mm2 (range)                | 930 (49-26,138)                                         | 589 (36-15,802)         |  |  |  |\n| Prior surgery                                                   | 93 (95)                                                 | 89 (89)                 |  |  |  |\n| Prior anticancer therapy\u2020                                       | 25 (26)                                                 | 29 (29)                 |  |  |  |\n| Radiotherapy                                                    | 12 (12)                                                 | 13 (13)                 |  |  |  |\n| Immunotherapy                                                   | 10 (10)                                                 | 16 (16)                 |  |  |  |\n| PD-1 inhibitors                                                 | 2 (2)                                                   | 3 (3)                   |  |  |  |\n| Chemotherapy                                                    | 4 (4)                                                   | 4 (4)                   |  |  |  |\n| Targeted small molecules                                        | 2 (2)                                                   | 0 (0)                   |  |  |  |\n| BRAF inhibitors                                                 | 2 (2)                                                   | 0 (0)                   |  |  |  |\n| MEK inhibitors<br>Biochemotherapy                               | 1 (1)<br>2 (2)                                          | 0 (0)<br>1 (1)          |  |  |  |\n| Isolated limb perfusion                                         | 0 (0)                                                   | 2 (2)                   |  |  |  |\n| Other                                                           | 3 (3)                                                   | 2 (2)                   |  |  |  |\n|                                                                 |                                                         |                         |  |  |  |\n\nNOTE. Data presented as number (%) unless specified otherwise.\n\nAbbreviations: AJCC, American Joint Committee on Cancer; ECOG, Eastern Cooperative Oncology Group; LDH, lactate dehydrogenase; PD-1, programmed death-1; ULN, upper limit of normal.\n\n\\*SPD refers to the sum of the products of the two longest perpendicular diameters.\n\n\u2020Among patients who had previously received anticancer therapy, seven had received systemic therapy for advanced melanoma.\n\nMost patients in both arms had reductions in tumor burden from baseline ([Fig 3A\\)](#page-6-0). Responses occurred in both injected and uninjected lesions (including visceral lesions). Injected lesion burden was calculated as the sum of tumor areas from all injected lesions. Among 89 patients in the combination arm with evaluable injected lesion burdens (defined as having baseline and at least one postbaseline assessment), 62 (70%) had a reduction in injected lesion burden from baseline [\\(Fig 3B](#page-6-0)). Among 37 patients in the combination arm and 80 in the ipilimumab arm with evaluable uninjected, nonvisceral lesion burdens, 21 (57%) and 45 (56%), respectively, had a decrease in their corresponding lesion burden ([Fig 3C](#page-6-0)). Among 31 patients in the combination arm and\n\n# Chesney et al\n\n<span id=\"page-4-0\"></span>\n\n|                                                                                                                                                                                                    | Table 2. Objective Response Rate (intent-to-treat analysis) |                                                   |                                                   |\n|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------|---------------------------------------------------|\n| Variable                                                                                                                                                                                           | Talimogene Laherparepvec<br>Plus Ipilimumab (n = 98)        |                                                   |                                                   |\n| Objective response<br>Best overall response*<br>Complete response<br>Partial response<br>Stable disease<br>Progressive disease<br>Unevaluable\u2020                                                     | 13 (13)<br>25 (26)<br>19 (19)<br>31 (32)<br>4 (4)           |                                                   | 7 (7)<br>11 (11)<br>24 (24)<br>33 (33)<br>17 (17) |\n| Not done\u2021<br>Objective response rate<br>Rate difference (95% CI)<br>x2 P value<br>Odds ratio (95% CI)                                                                                              | 6 (6)<br>38 (39)                                            | 20.8% (7.5% to 33.2%)<br>.002<br>2.9 (1.5 to 5.5) | 8 (8)<br>18 (18)                                  |\n| Disease control<br>Disease control rate<br>Rate difference (95% CI)<br>x2 P value\u00a7<br>Odds ratio (95% CI)                                                                                          | 57 (58)                                                     | 16.2% (1.5% to 29.9%)<br>.033<br>1.9 (1.1 to 3.4) | 42 (42)                                           |\n| Time to response<br>No. of patients with a response<br>Median time to response, months (95% CI)<br>Hazard ratio (95% CI)<br>Unstratified log-rank P value\u00a7                                         | 38<br>5.8 (5.4 to 10.9)                                     | 1.41 (0.8 to 2.5)<br>.228                         | 18<br>NE (NE)k                                    |\n| Duration of response<br>No. of patients with a response<br>Median duration of response, months (range)\u00b6<br>Patients in response at time of analysis<br>Median duration of follow-up, weeks (range) | 38<br>NE (1.0+ to 31.3+)<br>34 (89)<br>68 (0-156)           |                                                   | 18<br>NE (2.8+ to 29.7+)<br>15 (83)<br>58 (0-152) |\n\nNOTE. Data presented as number (%) unless otherwise specified.\n\nAbbreviation: NE, not estimable.\n\n\\*Initial complete response, partial response, and progressive disease assessment was confirmed by subsequent assessment \\$ 4 weeks apart. A complete response or partial response without confirmation was classified as stable disease. There was no confirmation for unevaluable or stable disease; however, stable disease duration must have been . 77 days.\n\n\u2020Patients could be classified as unevaluable if (1) they had a single unconfirmed evaluation of progressive disease at the last assessment before data cutoff, (2) all postbaseline response assessments were classified as unevaluable, or (3) patients were evaluated as having stable disease with no subsequent tumor evaluation after 77 days from randomization. The highest incidence of assessment of unevaluable was because of unconfirmed progressive disease: combination arm (n = 2), ipilimumab arm (n = 10); the remaining patients had stable disease before 77 days from random assignment: combination arm (n = 1), ipilimumab arm (n = 3); had all postbaseline assessments classified as unevaluable: combination arm ( n = 1), ipilimumab arm (n = 3), or were in the study awaiting potential confirmation of progressive disease: ipilimumab arm (n = 1).\n\n\u2021Radiographic imaging or clinical measurement of index lesions was not performed at any postbaseline time point. The highest incidence of assessment of \"not done\" was because of patients not receiving study treatment: combination arm (n = 3), ipilimumab arm (n = 5). Imaging was also not done for patients who had early end of treatment or end of response before the first scheduled assessment: combination arm (n = 3), ipilimumab arm (n = 3).\n\n\u00a7P value is descriptive. kThe median time to response in the ipilimumab alone arm could not be estimated using the Kaplan-Meier technique.\n\n\u00b6Plus sign indicates response is ongoing.\n\n22 patients in the ipilimumab arm with evaluable visceral metastasis disease burdens, 16 (52%) and 5 (23%), respectively, had a decrease in visceral lesion burden [\\(Fig 3D](#page-6-0)).\n\n# Progression-Free Survival\n\nPFS analysis was descriptive [\\(Fig 4](#page-7-0)). Fifty-two of 98 patients (53%) in the combination arm and 51 of 100 patients (51%) in the ipilimumab arm had PFS events. The median PFS was 8.2 months (95% CI, 4.2 to 21.5 months) in the combination arm and 6.4 months (95% CI, 3.2 to 16.5 months) in the ipilimumab arm (HR, 0.83; 95% CI, 0.56 to 1.23; P = .35). PFS was defined as time from random assignment to the earlier of disease progression or death; consequently, patients in the combination arm initiated ipilimumab therapy 5 weeks later than patients in the ipilimumab arm and had received only two ipilimumab doses at the first response assessment (12 weeks). At data cutoff, 20 of 98 patients (20%) in the combination arm and 23 of 100 patients (23%) in the ipilimumab arm had died. The HR for OS was 0.80 (95% CI, 0.44 to 1.46).\n\n# Safety\n\nNinety-three patients (98%) in the combination arm and 90 patients (95%) in the ipilimumab arm had \\$ 1 AE ([Table 3](#page-8-0)). Incidences of grade \\$ 3 AEs were 45% and 35%, respectively. The most frequently occurring AEs and events with greatest betweenarm differences in incidence were similar to those seen in other talimogene laherparepvec[8](#page-9-0) and ipilimumab studies[2](#page-9-0),[5](#page-9-0) and included fatigue (59%, 42%), chills (53%, 3%), diarrhea (42%, 35%), pruritus (40%, 36%), rash (39%, 28%), and nausea (38%, 24%, respectively; [Table 3\\)](#page-8-0). The incidence of grade \\$ 3 ipilimumab-related AEs was 19% in the combination arm and 18% in the ipilimumab arm; the most frequently occurring were GI disorders (colitis: 5%, 4%; diarrhea: 3%, 3%; autoimmune colitis: 2%, 3%, respectively). The incidence of grade \\$ 3 talimogene laherparepvec\u2013related\n\n# Talimogene Laherparepvec Plus Ipilimumab in Melanoma\n\n<span id=\"page-5-0\"></span>\n\n| A                        | Favors<br>ipilimumab | Favors<br>talimogene<br>laherparepvec<br>plus ipilimumab | Ipilimumab<br>No. | Talimogene<br>laherparepvec<br>plus ipilimumab<br>No. | OR   | 95% CI                 |\n|--------------------------|----------------------|----------------------------------------------------------|-------------------|-------------------------------------------------------|------|------------------------|\n| All randomized           |                      |                                                          | 100               | 98                                                    | 2.89 | (1.50 to 5.54)         |\n| Disease stage            |                      |                                                          |                   |                                                       |      |                        |\n| Stages IIIB/C-IVM1a      |                      |                                                          | 57                | 50                                                    | 3.29 | (1.39 to 7.79)         |\n| Stages IVM1b/IVM1c       |                      |                                                          | 43                | 48                                                    | 2.57 | (0.94 to 7.04)         |\n| Baseline SPD             |                      |                                                          |                   |                                                       |      |                        |\n| < 836 mm2                |                      |                                                          | 56                | 42                                                    | 3.33 | (1.38 to 8.04)         |\n| \uf0b3\uf020836 mm2                |                      |                                                          | 43                | 55                                                    | 3.00 | (1.07 to 8.40)         |\n| Baseline LDH             |                      |                                                          |                   |                                                       |      |                        |\n| \uf0a3\uf020ULN                    |                      |                                                          | 74                | 79                                                    | 3.73 | (1.77 to 7.86)         |\n| > ULN                    |                      |                                                          | 25                | 17                                                    | 0.53 | (0.09 to 3.13)         |\n| BRAF mutation            |                      |                                                          |                   |                                                       |      |                        |\n| Mutation                 |                      |                                                          | 34                | 35                                                    | 1.09 | (0.40 to 2.97)         |\n| Wild-type                |                      |                                                          | 60                | 62                                                    |      | 6.50 (2.43 to 17.37)   |\n| Sex                      |                      |                                                          |                   |                                                       |      |                        |\n| Male                     |                      |                                                          | 55                | 62                                                    | 2.20 | (0.95 to 5.10)         |\n| Female                   |                      |                                                          | 45                | 36                                                    |      | 4.34 (1.53 to 12.29)   |\n| Lines of prior therapy   |                      |                                                          |                   |                                                       |      |                        |\n| No prior line of therapy |                      |                                                          | 97                | 94                                                    | 2.98 | (1.54 to 5.75)         |\n| Current disease stage    |                      |                                                          |                   |                                                       |      |                        |\n| Stage IIIB               |                      |                                                          | 9                 | 5                                                     |      | 12.00 (0.77 to 186.36) |\n| Stage IIIC               |                      |                                                          | 31                | 29                                                    | 2.34 | (0.79 to 6.93)         |\n| Stage IVM1a              |                      |                                                          | 17                | 16                                                    |      | 4.50 (0.75 to 26.93)   |\n| Stage IVM1b              |                      |                                                          | 10                | 20                                                    |      | 2.33 (0.47 to 11.69)   |\n| Stage IVM1c              |                      |                                                          | 33                | 28                                                    | 1.98 | (0.50 to 7.87)         |\n|                          |                      |                                                          |                   |                                                       |      |                        |\n| 0.001 0.01               | 0.1                  | 1<br>10<br>100<br>1000                                   |                   |                                                       |      |                        |\n\nOdds Ratio\n\n(Talimogene laherparepvec plus ipilimumab/ipilimumab)\n\n| B                        | Favors<br>ipilimumab | Favors<br>Talimogene<br>laherparepvec<br>plus ipilimumab | Ipilimumab<br>No. | Talimogene<br>laherparepvec<br>plus ipilimumab<br>No. | OR   | 95% CI               |\n|--------------------------|----------------------|----------------------------------------------------------|-------------------|-------------------------------------------------------|------|----------------------|\n| All randomized           |                      |                                                          | 100               | 98                                                    | 1.92 | (1.09 to 3.38)       |\n| Disease stage            |                      |                                                          |                   |                                                       |      |                      |\n| Stages IIIB/C-IVM1a      |                      |                                                          | 57                | 50                                                    | 1.55 | (0.72 to 3.35)       |\n| Stages IVM1b/IVM1c       |                      |                                                          | 43                | 48                                                    | 2.66 | (1.13 to 6.27)       |\n| Baseline SPD             |                      |                                                          |                   |                                                       |      |                      |\n| < 836 mm2                |                      |                                                          | 56                | 42                                                    | 2.97 | (1.28 to 6.90)       |\n| \uf0b3\uf020836 mm2                |                      |                                                          | 43                | 55                                                    | 1.59 | (0.71 to 3.56)       |\n| Baseline LDH             |                      |                                                          |                   |                                                       |      |                      |\n| \uf0a3\uf020ULN                    |                      |                                                          | 74                | 79                                                    | 2.15 | (1.13 to 4.10)       |\n| > ULN                    |                      |                                                          | 25                | 17                                                    | 1.13 | (0.33 to 3.90)       |\n| BRAF mutation            |                      |                                                          |                   |                                                       |      |                      |\n| Mutation                 |                      |                                                          | 34                | 35                                                    | 0.94 | (0.37 to 2.43)       |\n| Wild-type                |                      |                                                          | 60                | 62                                                    | 2.54 | (1.23 to 5.28)       |\n| Sex                      |                      |                                                          |                   |                                                       |      |                      |\n| Male                     |                      |                                                          | 55                | 62                                                    | 2.06 | (0.98 to 4.31)       |\n| Female                   |                      |                                                          | 45                | 36                                                    | 1.71 | (0.71 to 4.14)       |\n| Lines of prior therapy   |                      |                                                          |                   |                                                       |      |                      |\n| No prior line of therapy |                      |                                                          | 97                | 94                                                    | 1.93 | (1.09 to 3.43)       |\n| Current disease stage    |                      |                                                          |                   |                                                       |      |                      |\n| Stage IIIB               |                      |                                                          | 9                 | 5                                                     |      | 3.20 (0.25 to 41.21) |\n| Stage IIIC               |                      |                                                          | 31                | 29                                                    | 1.33 | (0.48 to 3.69)       |\n| Stage IVM1a              |                      |                                                          | 17                | 16                                                    | 1.84 | (0.46 to 7.31)       |\n| Stage IVM1b              |                      |                                                          | 10                | 20                                                    | 1.86 | (0.40 to 8.69)       |\n| Stage IVM1c              |                      |                                                          | 33                | 28                                                    | 2.67 | (0.92 to 7.74)       |\n|                          | 0.001 0.01<br>0.1    | 1<br>10<br>100<br>1000                                   |                   |                                                       |      |                      |\n|                          |                      | Odds Ratio                                               |                   |                                                       |      |                      |\n|                          |                      | (Talimogene laherparepvec plus ipilimumab/ipilimumab)    |                   |                                                       |      |                      |\n\nFig 2. Subgroup analysis of objective response rate (A) and disease control rate (B) per immune-related response criteria. LDH, lactate dehydrogenase; OR, odds ratio; SPD, sum of the products of the two longest perpendicular diameters; ULN, upper limit of normal.\n\n# Chesney et al\n\n<span id=\"page-6-0\"></span>![](_page_6_Figure_1.jpeg)\n\nFig 3. Change in lesion burden from baseline (A) for all lesions, (B) injected lesions, (C) uninjected nonvisceral lesions, and (D) visceral lesions. Per protocol, visceral lesions were not injected. Evaluable patients had baseline and at least one postbaseline evaluation of lesion burden. In panel D, two patients identified as having stage IVM1a disease at baseline had visceral index lesions (one with an adrenal lesion and one with a lung lesion; indicated with (\\*) and (\u2020), respectively). The remaining patients with stages IIIC and IVM1a disease developed visceral lesions during the study.\n\n1664 \u00a9 2017 by American Society of Clinical Oncology JOURNAL OF CLINICAL ONCOLOGY\n\n<span id=\"page-7-0\"></span>![](_page_7_Figure_1.jpeg)\n\nFig 4. Kaplan-Meier estimate of progressionfree survival (PFS). (\\*) P value is descriptive.\n\nAEs was 15%; the most frequently occurring were influenza-like illness (4%) and lymphopenia (4%). Two patients (2%) in the combination arm discontinued talimogene laherparepvec as a result of AEs; 12 patients (13%) in the combination arm and 16 patients (17%) in the ipilimumab arm discontinued ipilimumab as a result of AEs. Three patients in the combination arm had fatal AEs (myocardial infarction [n = 1], and disease progression [n = 2]); none were considered treatment related.\n\n#### DISCUSSION\n\nThis study, which to our knowledge is the first to evaluate an oncolytic virus in combination with a checkpoint inhibitor, met its primary end point: talimogene laherparepvec plus ipilimumab resulted in a significantly higher ORR versus ipilimumab alone (OR, 2.9; 95% CI, 1.5 to 5.5; P = .002). Responses occurred in patients with and without visceral disease and in uninjected lesions after combination treatment. The confirmed ORR (39%) in the combination arm is higher than historical controls of either agent administered as monotherapy (ipilimumab, 11% to 19%[2](#page-9-0),[5](#page-9-0),[17,18](#page-9-0); talimogene laherparepvec, 26%[8](#page-9-0) ). In OPTiM, talimogene laherparepvec monotherapy was associated with a \\$ 50% size decrease in 64% of injected lesions and 15% of visceral lesions,[19](#page-9-0) suggesting that additional responses might be achievable through the addition of T-cell checkpoint inhibition. In the previously reported phase Ib portion, we observed changes in T-cell subsets consistent with this hypothesis,[11](#page-9-0) and, in this phase II portion, we found evidence of enhanced systemic antitumor response. Individual lesion-type analysis indicated that responses occurred in both injected and uninjected tumor burden. The higher rate of decrease (combination arm, 52%; ipilimumab arm, 23%) and higher rate of complete reduction in visceral tumor burden (combination arm, 23%; ipilimumab arm, 0%) is consistent with a systemic effect of the combination because talimogene laherparepvec was not injected into these lesions. The nonvisceral uninjected lesion tumor burden response was similar across arms. However, the number of patients in this category in the combination arm was smaller than in the control arm because patients with injected nonvisceral lesions were excluded. These results indicate that the combination elicited a greater systemic antitumor response than could be achieved with either agent alone.\n\nResponse rate favored the combination arm for both diseasestage subsets (IIIB/IIIC/IVM1a, 44% v 19%; IVM1b/IVM1c, 33% v 16%). Although response rates were high in patients with both BRAF wild-type and BRAF-mutant tumors, the effect size favoring combination treatment was greater in the BRAF wild-type subgroup (42% v 10%). The response rate was also greater in the combination arm for patients with BRAF wild-type versus BRAFmutant tumors (42% v 34%). Although small patient numbers in these subgroups may have contributed to this finding, similar results were observed in a previous phase III study of ipilimumab plus nivolumab.[3](#page-9-0) Treatment effect differences between BRAFmutant and BRAF wild-type subgroups might reflect differences in biologic response to the combination; however, we cannot exclude the possibility that they were driven by other patient and/or tumor characteristics.\n\nDespite ipilimumab treatment starting 5 weeks later in the combination arm, PFS was 8.2 months in the combination arm versus 6.4 months in the ipilimumab arm (HR, 0.83; 95% CI, 0.56 to 1.23). The median PFS in the combination arm was also greater than that previously observed in ipilimumab monotherapy studies (2.8 to 2.9 months)[5,17,18](#page-9-0) and similar to the median time to treatment failure in the OPTiM study (8.2 months).[8](#page-9-0) The analysis of OS was immature; patients are still being followed for response and OS.\n\nToxicity observed with the combination was consistent with expectations from the phase Ib study.[11](#page-9-0) The incidence of grade \\$ 3 ipilimumab-related toxicities was similar between arms; no unexpected grade \\$ 3 treatment-related AEs occurred. AEs with the greatest between-arm differences were consistent with monotherapy studies that have found flu-like symptoms to be characteristic of treatment with talimogene laherparepvec[8](#page-9-0) ; these events were typically grades 1 and 2. There was no evidence that the combination was associated with cardiotoxicity, as has been reported with ipilimumab plus nivolumab,[20](#page-9-0) and there was no meaningful increase in grade \\$ 3 AEs with combination therapy. Overall, combination treatment was not associated with unexpected AEs or increase in incidence or severity of AEs, suggesting\n\n# Chesney et al\n\n<span id=\"page-8-0\"></span>\n\n| Table 3. Incidence of Treatment-Emergent Adverse Events    |                    |                                                      |                     |            |  |\n|------------------------------------------------------------|--------------------|------------------------------------------------------|---------------------|------------|--|\n| AE                                                         |                    | Talimogene Laherparepvec Plus<br>Ipilimumab, No. (%) | Ipilimumab, No. (%) |            |  |\n| No. of patients                                            |                    | 95                                                   | 95                  |            |  |\n| Any grade AEs                                              |                    | 93 (98)                                              | 90 (95)             |            |  |\n| Grade \\$ 3 AEs                                             |                    | 43 (45)                                              |                     | 33 (35)    |  |\n| Fatal AEs*                                                 | 3 (3)              |                                                      | 0                   |            |  |\n| AEs leading to discontinuation of talimogene laherparepvec | 1 (1)\u2020<br>2 (2)    |                                                      |                     |            |  |\n| AEs leading to discontinuation of ipilimumab               | 12 (13)<br>16 (17) |                                                      |                     |            |  |\n| AEs occurring in \\$ 20% of patients in either arm          | Any grade          | Grade \\$ 3                                           | Any grade           | Grade \\$ 3 |  |\n| Fatigue                                                    | 56 (59)            | 1 (1)                                                | 40 (42)             | 2 (2)      |  |\n| Chills                                                     | 50 (53)            | 0                                                    | 3 (3)               | 0          |  |\n| Diarrhea                                                   | 40 (42)            | 3 (3)                                                | 33 (35)             | 3 (3)      |  |\n| Pruritus                                                   | 38 (40)            | 0                                                    | 34 (36)             | 0          |  |\n| Rash                                                       | 37 (39)            | 1 (1)                                                | 27 (28)             | 1 (1)      |  |\n| Nausea                                                     | 36 (38)            | 2 (2)                                                | 23 (24)             | 0          |  |\n| Pyrexia                                                    | 36 (38)            | 1 (1)                                                | 7 (7)               | 0          |  |\n| Headache                                                   | 34 (36)            | 0                                                    | 18 (19)             | 1 (1)      |  |\n| Influenza-like illness                                     | 28 (29)            | 4 (4)                                                | 1 (1)               | 0          |  |\n| Injection site pain                                        | 26 (27)            | 0                                                    | 0                   | 0          |  |\n| Arthralgia                                                 | 20 (21)            | 0                                                    | 13 (14)             | 1 (1)      |  |\n\nAbbreviation: AEs, adverse events.\n\n\\*None of the fatal AEs that occurred during the study were considered treatment related by investigators.\n\n\u2020The recording of this patient as discontinuing talimogene laherparepvec was a data error; this error was corrected after the primary analysis data cutoff.\n\nthat combination therapy is tolerable for patients with advanced melanoma.\n\nMany combination strategies are under investigation to augment efficacy of single-agent therapies. Ipilimumab plus nivolumab improves patient outcomes, but is associated with significant toxicity. In trials evaluating ipilimumab plus nivolumab, increases in clinically significant grade \\$ 3 AEs were observed in the combination arm versus the monotherapy arm(s)[2,3](#page-9-0) ; the National Comprehensive Cancer Network recommends careful patient selection and monitoring for this regimen[.21](#page-9-0) Combination regimens with lower toxicity may allow for their use in a broader range of patients. Since this study was initiated, other immune checkpoint inhibitors have been introduced for melanoma. The combination of talimogene laherparepvec with an anti\u2013programmed death-1 antibody is being evaluated in MASTERKEY-265, a phase Ib/III trial of talimogene laherparepvec plus pembrolizumab in patients with previously untreated stages IIIB to IV melanoma.[22,23](#page-9-0) Results from the phase Ib portion of MASTERKEY-265 showed a response rate . 50% with no dose-limiting toxicities; the phase III portion is enrolling patients[.22,23](#page-9-0)\n\nAlthough the outcome of this trial was positive, as a phase II study it had certain limitations. First, because of the population size of 198 patients, there were relatively small patient numbers in certain subgroups. Second, this was an open-label study without central review of investigator-assessed response. Third, the duration of follow-up at the time of this analysis limited the interpretation of time-to-event end points. Fourth, delayed ipilimumab initiation may have limited the interpretation of benefit from combination therapy. Fifth, there were between-arm differences in certain baseline characteristics (eg, disease stage/substage, visceral disease, prior therapy) that may have influenced treatment-effect estimates. However, improvement in ORR in the combination arm remained significant in a final logistic regression analysis after adjustment for potentially imbalanced covariates. Finally, differences in eligibility criteria (eg, injectable disease requirement) may confound between-study comparisons.\n\nThis randomized trial of an oncolytic immunotherapy in combination with a checkpoint inhibitor, which is the first such study to our knowledge, met its primary end point: talimogene laherparepvec plus ipilimumab resulted in a significantly higher ORR versus ipilimumab alone. The combination seems to have greater efficacy (including in uninjected and visceral lesions), without additional safety concerns versus ipilimumab alone in patients with unresected stages IIIB to IV melanoma. The combination of talimogene laherparepvec and a checkpoint inhibitor may have significant clinical utility in treatment of advanced melanoma.\n\n# AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST\n\nDisclosures provided by the authors are available with this article at [jco.org](http://jco.org).\n\n# AUTHOR CONTRIBUTIONS\n\nConception and design: Jason Chesney, Igor Puzanov, Merrick Ross, Jennifer Gansert, Robert H.I. Andtbacka, Howard L. Kaufman Provision of study materials or patients: Igor Puzanov, Frances Collichio, Howard L. Kaufman\n\nCollection and assembly of data: Jason Chesney, Igor Puzanov, Frances Collichio, Parminder Singh, John Glaspy, Omid Hamid, Philip Friedlander, Claus Garbe, Theodore F. Logan, Axel Hauschild, Celeste Lebbe,\u00b4 Jenny J. Kim, Jennifer Gansert, Howard L. Kaufman\n\nData analysis and interpretation: Jason Chesney, Igor Puzanov, Frances Collichio, Mohammed M. Milhem, John Glaspy, Omid Hamid, Theodore F. Logan, Axel Hauschild, Celeste Lebbe, Lisa Chen, Jenny J. Kim, Jennifer \u00b4 Gansert, Robert H.I. Andtbacka, Howard L. Kaufman\n\nManuscript writing: All authors\n\nFinal approval of manuscript: All authors Accountable for all aspects of the work: All authors\n\n#### REFERENCES\n\n<span id=\"page-9-0\"></span>1. Antonia SJ, Larkin J, Ascierto PA: Immunooncology combinations: A review of clinical experience and future prospects. Clin Cancer Res 20: 6258-6268, 2014\n\n2. Larkin J, Chiarion-Sileni V, Gonzalez R, et al: Combined nivolumab and ipilimumab or monotherapy in untreated melanoma. N Engl J Med 373: 23-34, 2015\n\n3. Postow MA, Chesney J, Pavlick AC, et al: Nivolumab and ipilimumab versus ipilimuma  # Increased text length for comprehensive extraction\n\nReturn JSON only:",
+    "validation_data": {
+      "can_process": true,
+      "nct_number": "NCT01740297",
+      "treatment_arms_count": 0,
+      "errors": [],
+      "warnings": []
+    },
+    "extraction_ready": true,
+    "source": "marker_enhanced",
+    "markdown_length": 76494,
+    "extraction_timestamp": "2025-07-23T12:39:14.513308"
+  },
+  "quality_assessment": {
+    "markdown_quality": 100.0,
+    "clinical_keywords_found": 14,
+    "table_structures": 957,
+    "section_headers": 167,
+    "nct_numbers": 1,
+    "extraction_fields_filled": 6,
+    "processing_success": true
+  },
+  "success": true,
+  "processing_time": 1753254554.5188758,
+  "use_llm": false
+}

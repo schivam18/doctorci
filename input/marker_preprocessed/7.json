@@ -1,0 +1,1005 @@
+{
+  "pdf_path": "resources/7.pdf",
+  "pdf_name": "7",
+  "marker_processing": {
+    "pdf_path": "resources/7.pdf",
+    "pdf_name": "7",
+    "markdown_path": "/var/folders/k8/d1yv1yjs12d97mqvcvxgjnhm0000gn/T/tmp4j_h00f5/7/7.md",
+    "json_path": "/var/folders/k8/d1yv1yjs12d97mqvcvxgjnhm0000gn/T/tmp4j_h00f5/7/7_meta.json",
+    "success": true,
+    "markdown_content": "# *The* new england journal *of* medicine\n\nestablished in 1812 november 13, 2014 vol. 371 no. 20\n\n# Combined Vemurafenib and Cobimetinib in *BRAF*-Mutated Melanoma\n\nJames Larkin, M.D., Ph.D., Paolo A. Ascierto, M.D., Brigitte Dr\u00e9no, M.D., Ph.D., Victoria Atkinson, M.D., Gabriella Liszkay, M.D., Michele Maio, M.D., Mario Mandal\u00e0, M.D., Lev Demidov, M.D., Daniil Stroyakovskiy, M.D., Luc Thomas, M.D., Ph.D., Luis de la Cruz-Merino, M.D., Caroline Dutriaux, M.D., Claus Garbe, M.D., Mika A. Sovak, M.D., Ph.D., Ilsung Chang, Ph.D., Nicholas Choong, M.D., Stephen P. Hack, M.D., Ph.D., Grant A. McArthur, M.B., B.S., Ph.D., and Antoni Ribas, M.D., Ph.D.\n\n# ABSTRACT\n\n#### **BACKGROUND**\n\nThe combined inhibition of BRAF and MEK is hypothesized to improve clinical outcomes in patients with melanoma by preventing or delaying the onset of resistance observed with BRAF inhibitors alone. This randomized phase 3 study evaluated the combination of the BRAF inhibitor vemurafenib and the MEK inhibitor cobimetinib.\n\n#### **METHODS**\n\nWe randomly assigned 495 patients with previously untreated unresectable locally advanced or metastatic *BRAF* V600 mutation\u2013positive melanoma to receive vemurafenib and cobimetinib (combination group) or vemurafenib and placebo (control group). The primary end point was investigator-assessed progression-free survival.\n\n#### **RESULTS**\n\nThe median progression-free survival was 9.9 months in the combination group and 6.2 months in the control group (hazard ratio for death or disease progression, 0.51; 95% confidence interval [CI], 0.39 to 0.68; P<0.001). The rate of complete or partial response in the combination group was 68%, as compared with 45% in the control group (P<0.001), including rates of complete response of 10% in the combination group and 4% in the control group. Progression-free survival as assessed by independent review was similar to investigator-assessed progression-free survival. Interim analyses of overall survival showed 9-month survival rates of 81% (95% CI, 75 to 87) in the combination group and 73% (95% CI, 65 to 80) in the control group. Vemurafenib and cobimetinib was associated with a nonsignificantly higher incidence of adverse events of grade 3 or higher, as compared with vemurafenib and placebo (65% vs. 59%), and there was no significant difference in the rate of study-drug discontinuation. The number of secondary cutaneous cancers decreased with the combination therapy.\n\n### **CONCLUSIONS**\n\nThe addition of cobimetinib to vemurafenib was associated with a significant improvement in progression-free survival among patients with *BRAF* V600\u2013mutated metastatic melanoma, at the cost of some increase in toxicity. (Funded by F. Hoffmann\u2013 La Roche/Genentech; coBRIM ClinicalTrials.gov number, NCT01689519.)\n\nFrom Royal Marsden Hospital, London (J.L.); Istituto Nazionale Tumori Fondazione G. Pascale, Naples (P.A.A.), Azienda Ospedaliera Universitaria Senese, Siena (M. Maio), and Papa Giovanni XXIII Hospital, Bergamo (M. Mandal\u00e0) \u2014 all in Italy; H\u00f4tel Dieu Place Alexis Ricordeau, Nantes (B.D.), Centre Hospitalier Lyon Sud, Pierre-B\u00e9nite (L.T.), and H\u00f4pital Saint Andr\u00e9, Bordeaux (C.D.) \u2014 all in France; Princess Alexandra Hospital, Woolloongabba, QLD (V.A.), and Peter MacCallum Cancer Centre, Melbourne, VIC (G.A.M.) \u2014 both in Australia; National Institute of Oncology, Budapest, Hungary (G.L.); N.N. Blokhin Russian Cancer Research Center, Moscow (L.D.), and Moscow City Oncology Hospital 62, Krasnogorsk (D.S.) both in Russia; Hospital Universitario Virgen Macarena, Seville, Spain (L.C.-M.); University of T\u00fcbingen, T\u00fcbingen, Germany (C.G.); Genentech, South San Francisco, CA (M.A.S., I.C., N.C., S.P.H.); and Jonsson Comprehensive Cancer Center at the University of California, Los Angeles, Los Angeles (A.R.). Address reprint requests to Dr. Ribas at the Department of Medicine, Division of Hematology\u2013 Oncology, Jonsson Comprehensive Cancer Center, University of California, Los Angeles, 11-934 Factor Bldg., 10833 Le Conte Ave., Los Angeles, CA 90095-1782, or at aribas@mednet.ucla.edu.\n\nDrs. Larkin and Ascierto contributed equally to this article.\n\nThis article was published on September 29, 2014, at NEJM.org.\n\n**N Engl J Med 2014;371:1867-76. DOI: 10.1056/NEJMoa1408868** *Copyright \u00a9 2014 Massachusetts Medical Society.*\n\nn engl j med 371;20 nejm.org november 13, 2014 1867\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org on June 16, 2025. For personal use only.\n\nApproximately 50% of metastatic cutaneous melanomas harbor a *BRAF* V600 mutation, resulting in constitutive activation of the mitogen-activated protein kinase (MAPK) pathway.1,2 These discoveries led to the development of agents that specifically target this driver mutation. The BRAF inhibitor vemurafenib (Zelboraf, Genentech) was approved worldwide on the basis of results from a phase 3 trial showing improved progression-free survival and overall survival, as compared with chemotherapy alone; the relative reduction in the risk of death was 63% and in the risk of disease progression was 74%.3 Similar results were also reported for another BRAF inhibitor, dabrafenib,4 which has also been approved widely. Although common toxic events with both agents are similar (rash, fatigue, and joint pain), the incidence of clinically significant photosensitivity is higher with vemurafenib, whereas the incidence of clinically significant pyrexia is higher with dabrafenib. A toxic event common to both is secondary cutaneous squamous-cell carcinomas and keratoacanthomas, which occur in approximately 14 to 26% of patients treated with a BRAF inhibitor, usually within the first 2 to 3 months of therapy.5,6 The skin tumors develop owing to a paradoxical activation of the MAPK pathway in keratinocytes with upstream activation of signaling by preexisting *RAS* mutations,7,8 which can be blocked with the addition of a MEK inhibitor.<sup>8</sup>\n\nProgression after a period of tumor response (acquired resistance) is common with single-agent BRAF-inhibitor therapy after a median progression-free survival of 6 to 7 months.3,4 The mechanisms of acquired resistance are diverse and include the reactivation of oncogenic signaling by means of the MAPK pathway in approximately two thirds of cases and mechanisms that lead to MAPK pathway\u2013independent signaling that substitutes for the inhibited driver oncogenic signal within the MAPK pathway.9-11 The finding of multiple genetic mechanisms of escape in individual patients10 implies that upfront inhibition of both MEK and the mutant BRAF kinases might be a strategy for obtaining more durable responses than the inhibition of BRAF alone.\n\nPreclinical and clinical data suggest that the inhibition of both MEK and mutant BRAF kinases might result in a greater initial tumor response, prevent MAPK-driven acquired resistance, and decrease the frequency and severity of toxic events that occur owing to paradoxical MAPK-pathway activation from BRAF-inhibitor monotherapy. Trametinib, a MEK inhibitor, was approved for the treatment of *BRAF*-mutated metastatic melanoma as a single agent after an improvement in progression-free and overall survival was shown in a randomized trial12 and in combination with dabrafenib on the basis of improvement in progression-free survival.13 Cobimetinib (also known as GDC-0973 [Roche] or XL518 [Exelixis]) is an orally bioavailable, potent, and selective MEK inhibitor.14 The most common toxic events associated with single-agent use of cobimetinib in phase 1 testing were diarrhea, rash, fatigue, and edema; grade 3 or higher events included diarrhea, rash, and fatigue.\n\nCobimetinib in combination with vemurafenib was studied in patients with advanced *BRAF* V600\u2013mutated melanoma in a phase 1b study (BRAF Inhibitor in Melanoma [BRIM] 7).15 Dose escalation was stopped at the maximum tolerated single-agent dose of each drug, with daily dosing of vemurafenib and cobimetinib administered for 21 days, followed by 7 days off. At these doses, a confirmed objective response was noted in 55 of 63 patients (87%) who had never received a BRAF inhibitor, and the antitumor activity appeared to be favorable, as compared with historical single-agent vemurafenib activity.3 Common adverse events were similar to those observed with the single agents and included rash, diarrhea, photosensitivity, and hepatic-enzyme abnormalities, and as expected, the incidence of cutaneous secondary cancers was decreased. To confirm and build on these early data, we report on the primary end point of coBRIM, an international, multicenter, randomized phase 3 study that evaluated the efficacy and safety of cobimetinib combined with vemurafenib in previously untreated patients with advanced *BRAF*-mutated melanoma.\n\n# METHODS\n\n#### **PATIENTS**\n\nEligible patients were at least 18 years of age; had histologically confirmed unresectable, locally advanced stage IIIC or stage IV melanoma with a *BRAF* V600 mutation detected with the use of a real-time polymerase-chain-reaction assay (Cobas 4800 BRAF V600 Mutation Test, Roche Molecular Systems); had measurable disease, according to\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org on June 16, 2025. For personal use only.\n\nthe Response Evaluation Criteria in Solid Tumors (RECIST), version 1.1,16 as assessed by means of computed tomography; had an Eastern Cooperative Oncology Group (ECOG) performance-status score of 0 (fully active and able to carry on all performance without restriction) or 1 (restricted in physically strenuous activity but ambulatory and able to carry out work of a light or sedentary nature); and had adequate hematologic, hepatic, renal, and cardiac function. Patients with previously treated brain metastases were eligible if they had at least a 3-week history of stable disease.\n\n#### **STUDY OVERSIGHT**\n\nThe study was approved by the institutional review board or ethics committee at each participating institution and was conducted in accordance with the provisions of the Declaration of Helsinki and the International Conference on Harmonisation guidelines for Good Clinical Practice. All the patients provided written informed consent. An independent data and safety monitoring committee conducted regular review and evaluation of the safety data.\n\nF. Hoffmann\u2013La Roche/Genentech sponsored the study. All the authors and their research teams collected the data. Representatives of the sponsor and the members of the study steering committee designed the study. Representatives of the sponsor confirmed the accuracy of the data and compiled the data for analysis. The analysis was performed in collaboration with the authors. All the authors had full access to the data and analyses pertinent for the compilation of this report.\n\nTwo of the academic authors wrote the first draft of the manuscript, which was reviewed, modified, and approved in its final version by all the authors. Editorial assistance that did not involve writing was provided by Apothecom and funded by the sponsor. All the authors vouch for the accuracy and completeness of the data reported and for the fidelity of the study to the protocol (available with the full text of this article at NEJM.org).\n\n#### **RANDOMIZATION AND TREATMENT**\n\nFrom January 2013 through January 2014, we enrolled 495 patients at 135 sites in the United States, Canada, Australia, New Zealand, Europe, Russia, Turkey, and Israel. Patients were randomly assigned in a 1:1 ratio to receive vemurafenib orally (at a dose of 960 mg twice daily) together with either placebo (control group) or cobimetinib (at a dose of 60 mg once daily for 21 days, followed by 7 days off) (combination group). The study treatment continued until patients withdrew consent, unacceptable adverse effects arose, or disease progression occurred. Continuation of the study treatment or crossover after disease progression was not permitted. Study patients were stratified according to American Joint Committee on Cancer stage and geographic region. To manage adverse events, we allowed modifications to the dose of both vemurafenib and cobimetinib, with dose modifications for prespecified levels of toxic events (i.e., grade \u22652; see the study protocol).\n\n#### **STUDY END POINTS**\n\nThe primary end point was progression-free survival as assessed by the investigator, according to RECIST criteria, version 1.1. The secondary end points included overall survival, rate of confirmed objective response according to RECIST criteria, version 1.1, duration of response, progression-free survival as assessed by an independent review facility, and safety (assessed according to the study treatment received). Tumor assessments were carried out at baseline and every 8 weeks, and we performed a blinded, independent central review of tumor assessments.\n\n#### **STATISTICAL ANALYSIS**\n\nThe prespecified number of progression events (206 events) was reached in May 2014, and the results reported here are based on data analyses from July 2014 (database locked on July 10, 2014). All the efficacy analyses were carried out in the intention-to-treat population. We estimated that 206 progression events would provide the study with at least 95% power to detect a hazard ratio for death or progression of disease of 0.55, with an alpha level of 0.05 (an increase in the median progression-free survival, from 6 months for vemurafenib and placebo to 11 months for vemurafenib plus cobimetinib). Progression-free survival was defined as the time between the date of randomization and the date of the first documented event of disease progression or death, whichever occurred first according to the assessment of the site investigator.\n\nWe used the Kaplan\u2013Meier method to estimate rates of progression-free and overall survival and used a stratified log-rank test for all the comparisons. Response rates and 95% confidence intervals\n\nn engl j med 371;20 nejm.org november 13, 2014 1869\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org on June 16, 2025. For personal use only.\n\n| Table 1. Characteristics of the Patients.*            |                                       |                                           |  |  |  |  |  |\n|-------------------------------------------------------|---------------------------------------|-------------------------------------------|--|--|--|--|--|\n| Characteristic                                        | Vemurafenib<br>and Placebo<br>(N=248) | Vemurafenib<br>and Cobimetinib<br>(N=247) |  |  |  |  |  |\n| Age \u2014 yr                                              |                                       |                                           |  |  |  |  |  |\n| Median                                                | 55                                    | 56                                        |  |  |  |  |  |\n| Range                                                 | 25\u201385                                 | 23\u201388                                     |  |  |  |  |  |\n| Male sex \u2014 no. (%)                                    | 140 (56)                              | 146 (59)                                  |  |  |  |  |  |\n| White race \u2014 no. (%)\u2020                                 | 235 (95)                              | 227 (92)                                  |  |  |  |  |  |\n| Geographic region \u2014 no. (%)                           |                                       |                                           |  |  |  |  |  |\n| Australia, New Zealand, or Israel                     | 38 (15)                               | 40 (16)                                   |  |  |  |  |  |\n| Europe\u2021                                               | 184 (74)                              | 182 (74)                                  |  |  |  |  |  |\n| North America                                         | 26 (10)                               | 25 (10)                                   |  |  |  |  |  |\n| ECOG performance-status score \u2014<br>no./total no. (%)\u00a7 |                                       |                                           |  |  |  |  |  |\n| 0                                                     | 164/244 (67)                          | 184/243 (76)                              |  |  |  |  |  |\n| 1                                                     | 80/244 (33)                           | 58/243 (24)                               |  |  |  |  |  |\n| 2                                                     | 0/244                                 | 1/243 (<1)                                |  |  |  |  |  |\n| Metastatic status \u2014 no. (%)\u00b6                          |                                       |                                           |  |  |  |  |  |\n| Unresectable stage IIIC                               | 13 (5)                                | 21 (9)                                    |  |  |  |  |  |\n| M1a                                                   | 40 (16)                               | 40 (16)                                   |  |  |  |  |  |\n| M1b                                                   | 42 (17)                               | 40 (16)                                   |  |  |  |  |  |\n| M1c                                                   | 153 (62)                              | 146 (59)                                  |  |  |  |  |  |\n| Elevated LDH \u2014 no./total no. (%)                      | 104/242 (43)                          | 112/242 (46)                              |  |  |  |  |  |\n| History of brain metastases \u2014 no. (%)                 | 2 (1)                                 | 1 (<1)                                    |  |  |  |  |  |\n| BRAF-mutation genotype \u2014 no. (%)\u2016                     |                                       |                                           |  |  |  |  |  |\n| V600E                                                 | 174 (70)                              | 170 (69)                                  |  |  |  |  |  |\n| V600K                                                 | 32 (13)                               | 24 (10)                                   |  |  |  |  |  |\n| Could not be evaluated                                | 42 (17)                               | 53 (21)                                   |  |  |  |  |  |\n\n\\* There were no significant differences in baseline characteristics between the study groups. LDH denotes lactate dehydrogenase.\n\n\u2020 Race was determined by the investigator.\n\n\u2021 The data for patients from Russia and Turkey were included with those for Europe.\n\n\u00a7 An Eastern Cooperative Oncology Group (ECOG) performance-status score of 0 indicates that the patient is fully active and able to carry on all performance without restriction and a score of 1 that the patient is restricted in physically strenuous activity but ambulatory and able to carry out work of a light or sedentary nature. One patient randomly assigned to receive vemurafenib and cobimetinib had an ECOG performance-status score of 1 at randomization but had an ECOG performance-status score of 2 (indicating the patient is ambulatory and capable of all self-care but is unable to carry out any work activities and is out of bed more than 50% of waking hours) after randomization but before the first dose was received.\n\n\u00b6The criteria of the American Joint Committee on Cancer for distant metastasis are as follows: M1a indicates metastases to skin, subcutaneous tissue, or distant lymph nodes; M1b metastases to lung; and M1c metastases to all other visceral sites or distant metastases to any site combined with an elevated serum LDH level.\n\n\u2016 After randomization, we characterized tumor DNA to identify specific V600 mutations using next-generation sequencing. Cases that could not be evaluated were those in which either no tumor sample was provided or sequencing could not be performed on the tissue provided.\n\n## **Figure 1 (facing page). Progression-free Survival in the Intention-to-Treat Population and Prespecified Subgroups.**\n\nPanel A shows Kaplan\u2013Meier estimates of progression-free survival (as assessed by the site investigators) in the intention-to-treat population. The tick marks indicate censored data, and the dashed line 50% survival. Panel B shows hazard ratios and 95% confidence intervals (error bars) for progression-free survival in prespecified subgroups of patients, according to various baseline characteristics. The data for patients from Russia and Turkey were included with those for Europe. The size of the blue boxes indicates the number of events, and the dashed line the hazard ratio for the risk of disease progression or death in the overall population. NR denotes not reached.\n\nare reported for the two study groups. Differences in the response rate between the two treatment groups were tested with the use of a chi-square test with Schouten correction.17 We used the Kaplan\u2013Meier method to calculate median and interquartile ranges to summarize the duration of response. Safety analyses included all the patients who had received at least one dose of a study drug.\n\nThe final analysis of overall survival will occur after 385 deaths are recorded, which we estimate will provide the study with 80% power to detect a hazard ratio for death of 0.75. Two interim analyses have been planned. The first interim analysis was performed at the time of the final analysis of progression-free survival, and the second interim analysis of overall survival will be triggered after 256 deaths have occurred. A Lan\u2013DeMets implementation of an O'Brien\u2013Fleming boundary function was used in the analysis of overall survival.<sup>18</sup>\n\nRESULTS\n\n# **PATIENTS**\n\nA total of 1049 patients were screened, and 495 patients with *BRAF* V600\u2013mutated metastatic melanoma were randomly assigned to receive vemurafenib and cobimetinib (247 patients) or vemurafenib and placebo (248) (Fig. S1 in the Supplementary Appendix, available at NEJM.org). The most common reason for exclusion from the study was a negative test result for the *BRAF* V600 mutation. The characteristics of the patients at baseline were generally well balanced between the two study groups (Table 1). Visceral metastases were present in 59% of the patients in the\n\n1870 n engl j med 371;20 nejm.org november 13, 2014\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org on June 16, 2025. For personal use only.\n\n![](_page_4_Figure_1.jpeg)\n\n#### **B Subgroup Analyses of Progression-free Survival**\n\n| Subgroup                                                                                                                                                                             | Total No.<br>of Patients |                    | Vemurafenib +<br>Placebo |                | Vemurafenib +<br>Cobimetinib |               | Hazard Ratio (95% CI) |                                     |     |                                 |\n|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|--------------------|--------------------------|----------------|------------------------------|---------------|-----------------------|-------------------------------------|-----|---------------------------------|\n|                                                                                                                                                                                      |                          |                    | no. of<br>patients       |                | no. of<br>patients           |               |                       |                                     |     |                                 |\n|                                                                                                                                                                                      |                          | no. of<br>patients | with<br>event            | median<br>(mo) | no. of<br>patients           | with<br>event | median<br>(mo)        |                                     |     |                                 |\n| All patients                                                                                                                                                                         | 495                      | 248                | 128                      | 6.2            | 247                          | 79            | 9.9                   |                                     |     | 0.51 (0.39\u20130.68)                |\n| Disease stage                                                                                                                                                                        |                          |                    |                          |                |                              |               |                       |                                     |     |                                 |\n| M1c                                                                                                                                                                                  | 299                      | 153                | 99                       | 5.3            | 146                          | 55            | 9.1                   |                                     |     | 0.46 (0.33\u20130.64)                |\n| Unresectable IIIc, M1a, or M1b                                                                                                                                                       | 196                      | 95                 | 29                       | NR             | 101                          | 24            | NR                    |                                     |     | 0.69 (0.40\u20131.19)                |\n| Age                                                                                                                                                                                  |                          |                    |                          |                |                              |               |                       |                                     |     |                                 |\n| <65 yr                                                                                                                                                                               | 362                      | 179                | 92                       | 6.5            | 183                          | 61            | 9.9                   |                                     |     | 0.54 (0.39\u20130.75)                |\n| \u226565 yr                                                                                                                                                                               | 133                      | 69                 | 36                       | 5.5            | 64                           | 18            | NR                    |                                     |     | 0.45 (0.25\u20130.79)                |\n| Sex                                                                                                                                                                                  |                          |                    |                          |                |                              |               |                       |                                     |     |                                 |\n| Female                                                                                                                                                                               | 209                      | 108                | 51                       | 7.2            | 101                          | 27            | NR                    |                                     |     | 0.49 (0.31\u20130.78)                |\n| Male                                                                                                                                                                                 | 286                      | 140                | 77                       | 5.6            | 146                          | 52            | 9.8                   |                                     |     | 0.52 (0.36\u20130.74)                |\n| Geographic region                                                                                                                                                                    |                          |                    |                          |                |                              |               |                       |                                     |     |                                 |\n| Australia, New Zealand, or Israel                                                                                                                                                    | 78                       | 38                 | 16                       | NR             | 40                           | 9             | NR                    |                                     |     | 0.51 (0.22\u20131.15)                |\n| Europe                                                                                                                                                                               | 366                      | 184                | 101                      | 5.7            | 182                          | 62            | 9.9                   |                                     |     | 0.50 (0.36\u20130.68)                |\n| North America                                                                                                                                                                        | 51                       | 26                 | 11                       | 7.4            | 25                           | 8             | NR                    |                                     |     | 0.60 (0.24\u20131.51)                |\n| ECOG performance-status score                                                                                                                                                        |                          |                    |                          |                |                              |               |                       |                                     |     |                                 |\n| 0                                                                                                                                                                                    | 348                      | 164                | 75                       | 7.5            | 184                          | 57            | 9.9                   |                                     |     | 0.60 (0.42\u20130.85)                |\n| 1                                                                                                                                                                                    | 138                      | 80                 | 51                       | 5.5            | 58                           | 21            | 11.1                  |                                     |     | 0.40 (0.24\u20130.67)                |\n| Lactate dehydrogenase level                                                                                                                                                          |                          |                    |                          |                |                              |               |                       |                                     |     |                                 |\n| \u2265Upper limit of normal range                                                                                                                                                         | 216                      | 104                | 67                       | 4.7            | 112                          | 51            | 7.7                   |                                     |     | 0.55 (0.38\u20130.79)                |\n| <upper limit=\"\" normal=\"\" of=\"\" range<=\"\" td=\"\"><td>268</td><td>138</td><td>57</td><td>7.5</td><td>130</td><td>28</td><td>NR</td><td></td><td></td><td>0.45 (0.29\u20130.71)</td></upper> | 268                      | 138                | 57                       | 7.5            | 130                          | 28            | NR                    |                                     |     | 0.45 (0.29\u20130.71)                |\n| Prior adjuvant therapy                                                                                                                                                               |                          |                    |                          |                |                              |               |                       |                                     |     |                                 |\n| Yes                                                                                                                                                                                  | 48                       | 24                 | 11                       | 7.2            | 24                           | 6             | NR                    |                                     |     | 0.50 (0.18\u20131.35)                |\n| No                                                                                                                                                                                   | 447                      | 224                | 117                      | 6.0            | 223                          | 73            | 9.9                   |                                     |     | 0.51 (0.38\u20130.69)                |\n| BRAF V600 mutation status                                                                                                                                                            |                          |                    |                          |                |                              |               |                       |                                     |     |                                 |\n| V600E                                                                                                                                                                                | 344                      | 174                | 88                       | 6.5            | 170                          | 58            | NR                    |                                     |     | 0.57 (0.41\u20130.80)                |\n| V600K                                                                                                                                                                                | 56                       | 32                 | 17                       | 5.3            | 24                           | 4             | NR                    |                                     |     | 0.27 (0.09\u20130.81)                |\n|                                                                                                                                                                                      |                          |                    |                          |                |                              |               | 0.01                  | 0.1                                 | 1.0 | 10.0                            |\n|                                                                                                                                                                                      |                          |                    |                          |                |                              |               |                       | Vemurafenib +<br>Cobimetinib Better |     | Vemurafenib +<br>Placebo Better |\n\nn engl j med 371;20 nejm.org november 13, 2014 1871\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org on June 16, 2025. For personal use only.\n\ncombination group and in 62% of those in the control group. At baseline, 46% and 43% of the patients, respectively, had an elevated lactate dehydrogenase level. The median follow-up of patients at the time of reporting was 7.3 months (range, 0.5 to 16.5).\n\n#### **EFFICACY**\n\n#### *Progression-free Survival*\n\nThe combination of vemurafenib and cobimetinib significantly prolonged progression-free survival according to investigator assessment in the intention-to-treat population: a median of 9.9 months (95% confidence interval [CI], 9.0 to not reached), as compared with 6.2 months (95% CI, 5.6 to 7.4) in patients treated with vemurafenib and placebo. The hazard ratio for death or progression of disease was 0.51 (95% CI, 0.39 to 0.68; P<0.001) (Fig. 1A). The benefit for progressionfree survival was evident in all the prespecified patient subgroups (Fig. 1B) and according to analysis by independent radiology central review (Table 2, and Fig. S2 in the Supplementary Appendix).\n\n| Table 2. Efficacy Summary.*                             |                                       |                                           |  |  |  |  |  |\n|---------------------------------------------------------|---------------------------------------|-------------------------------------------|--|--|--|--|--|\n| End Point                                               | Vemurafenib<br>and Placebo<br>(N=248) | Vemurafenib<br>and Cobimetinib<br>(N=247) |  |  |  |  |  |\n| Progression-free survival                               |                                       |                                           |  |  |  |  |  |\n| According to investigator assessment\u2020                   |                                       |                                           |  |  |  |  |  |\n| Median duration \u2014 mo (95% CI)                           | 6.2 (5.6\u20137.4)                         | 9.9 (9.0\u2013NR)                              |  |  |  |  |  |\n| Hazard ratio for death or disease progression (95% CI)  | Reference                             | 0.51 (0.39\u20130.68)                          |  |  |  |  |  |\n| P value                                                 | Reference                             | <0.001                                    |  |  |  |  |  |\n| According to assessment by independent review facility\u2020 |                                       |                                           |  |  |  |  |  |\n| Median duration \u2014 mo (95% CI)                           | 6.0 (5.6\u20137.5)                         | 11.3 (8.5\u2013NR)                             |  |  |  |  |  |\n| Hazard ratio for death or disease progression (95% CI)  | Reference                             | 0.60 (0.45\u20130.79)                          |  |  |  |  |  |\n| P value                                                 | Reference                             | <0.001                                    |  |  |  |  |  |\n| Best response \u2014 no. (%)                                 |                                       |                                           |  |  |  |  |  |\n| Complete response                                       | 11 (4)                                | 25 (10)                                   |  |  |  |  |  |\n| Partial response                                        | 100 (40)                              | 142 (57)                                  |  |  |  |  |  |\n| Stable disease                                          | 105 (42)                              | 49 (20)                                   |  |  |  |  |  |\n| Progressive disease                                     | 25 (10)                               | 19 (8)                                    |  |  |  |  |  |\n| No complete response or progressive disease             | 1 (<1)                                | 0                                         |  |  |  |  |  |\n| Could not be evaluated\u2021                                 | 6 (2)                                 | 12 (5)                                    |  |  |  |  |  |\n| Complete or partial response                            |                                       |                                           |  |  |  |  |  |\n| No. of patients                                         | 111                                   | 167                                       |  |  |  |  |  |\n| Percent of patients (95% CI)                            | 45 (38\u201351)                            | 68 (61\u201373)                                |  |  |  |  |  |\n| P value                                                 | Reference                             | <0.001                                    |  |  |  |  |  |\n| Median duration of response \u2014 mo (95% CI)               | 7.3 (5.8\u2013NR)                          | NR (9.3\u2013NR)                               |  |  |  |  |  |\n| Overall survival at 9 mo \u2014 % (95% CI)                   | 73 (65\u201380)                            | 81 (75\u201387)                                |  |  |  |  |  |\n| Overall survival\u2020                                       |                                       |                                           |  |  |  |  |  |\n| Median duration \u2014 mo (95% CI)                           | NR                                    | NR                                        |  |  |  |  |  |\n| Hazard ratio for death (95% CI)                         | Reference                             | 0.65 (0.42\u20131.00)                          |  |  |  |  |  |\n| P value                                                 | Reference                             | 0.046                                     |  |  |  |  |  |\n\n\\* NR denotes not reached.\n\n\u2020 Patients were stratified according to geographic region and metastasis classification.\n\n\u2021 Responses could not be evaluated for patients who withdrew consent, were withdrawn by the site investigator, died, or started new anticancer therapy before the first tumor assessment.\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org on June 16, 2025. For personal use only.\n\n#### *Overall Survival*\n\nThe interim analysis of overall survival in the intention-to-treat population showed that the rate of overall survival at 9 months for the combination of vemurafenib and cobimetinib was 81% (95% CI, 75 to 87), as compared with 73% (95% CI, 65 to 80) with vemurafenib and placebo (Table 2 and Fig. 2). This assessment of overall survival was performed at the time of the final analysis of progression-free survival, and at this early time point, it had not crossed the prespecified hazard-ratio boundary for significance (observed hazard ratio for death, 0.65; 95% CI, 0.42 to 1.00; P=0.046; boundary P<0.0000037). The absolute number of deaths was 34 in the combination group and 51 in the control group, and the median overall survival was not reached in either study group.\n\n#### *Response*\n\nThe investigator-assessed response rate was significantly higher in the combination group than in the control group (Table 2). Overall, 68% of patients in the combination group had an objective response, as compared with 45% in the control group (P<0.001) (Fig. S3 in the Supplementary Appendix). The rate of complete response was also significantly higher in the combination group than in the control group (10% vs. 4%). The majority of responses were seen by the time of the first tumor assessment at 8 weeks (Fig. S4 in the Supplementary Appendix). The median duration of response was 7.3 months in the control group, and the median was not reached in the combination group (Table 2).\n\n#### **SAFETY**\n\nA total of 493 patients (>99%) received at least one dose of study drug and were included in the safety analysis. Adverse events that were reported in at least 20% of patients in either group are shown in Table 3. The combination of vemurafenib and cobimetinib was associated with a higher frequency of certain events than the single-agent therapy, including central serous retinopathy, gastrointestinal events (diarrhea, nausea, or vomiting), photosensitivity, elevated aminotransferase levels, and an increased creatine kinase level; the majority (>50%) of these individual events were grade 1 or 2 (Table 3).\n\nWe observed equivalent rates of grade 3 events (49%) in the two study groups and substantially fewer grade 4 events (9% in the control group vs. 13% in the combination group), with close to\n\n![](_page_6_Figure_9.jpeg)\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org on June 16, 2025. For personal use only.\n\n| Table 3. Common Adverse Events.*         |                                 |         |          |         |                                     |         |          |         |  |\n|------------------------------------------|---------------------------------|---------|----------|---------|-------------------------------------|---------|----------|---------|--|\n| Adverse Event                            | Vemurafenib and Placebo (N=239) |         |          |         | Vemurafenib and Cobimetinib (N=254) |         |          |         |  |\n|                                          | Grade 1                         | Grade 2 | Grade 3  | Grade 4 | Grade 1                             | Grade 2 | Grade 3  | Grade 4 |  |\n|                                          | number of patients (percent)    |         |          |         |                                     |         |          |         |  |\n| Any adverse event                        | 21 (9)                          | 70 (29) | 117 (49) | 22 (9)  | 19 (7)                              | 66 (26) | 125 (49) | 34 (13) |  |\n| Most common adverse events\u2020              |                                 |         |          |         |                                     |         |          |         |  |\n| Diarrhea                                 | 51 (21)                         | 16 (7)  | 0        | 0       | 99 (39)                             | 29 (11) | 16 (6)   | 0       |  |\n| Nausea                                   | 43 (18)                         | 12 (5)  | 2 (1)    | 0       | 75 (30)                             | 22 (9)  | 2 (1)    | 0       |  |\n| Vomiting                                 | 21 (9)                          | 6 (3)   | 2 (1)    | 0       | 41 (16)                             | 10 (4)  | 3 (1)    | 0       |  |\n| Rash                                     | 46 (19)                         | 27 (11) | 12 (5)   | 0       | 55 (22)                             | 29 (11) | 13 (5)   | 2 (1)   |  |\n| Photosensitivity reaction                | 25 (10)                         | 12 (5)  | 0        | 0       | 48 (19)                             | 18 (7)  | 6 (2)    | 0       |  |\n| Hyperkeratosis                           | 49 (21)                         | 14 (6)  | 5 (2)    | 0       | 23 (9)                              | 3 (1)   | 0        | 0       |  |\n| Fatigue                                  | 42 (18)                         | 24 (10) | 7 (3)    | 0       | 48 (19)                             | 24 (9)  | 9 (4)    | 0       |  |\n| Pyrexia                                  | 43 (18)                         | 10 (4)  | 0        | 0       | 49 (19)                             | 13 (5)  | 4 (2)    | 0       |  |\n| Arthralgia                               | 53 (22)                         | 31 (13) | 12 (5)   | 0       | 54 (21)                             | 23 (9)  | 6 (2)    | 0       |  |\n| Alopecia                                 | 55 (23)                         | 14 (6)  | 1 (<1)   | 0       | 33 (13)                             | 1 (<1)  | 1 (<1)   | 0       |  |\n| Increased alanine aminotrans<br>ferase   | 17 (7)                          | 11 (5)  | 14 (6)   | 1 (<1)  | 16 (6)                              | 15 (6)  | 28 (11)  | 1 (<1)  |  |\n| Increased aspartate amino<br>transferase | 15 (6)                          | 10 (4)  | 4 (2)    | 1 (<1)  | 17 (7)                              | 18 (7)  | 21 (8)   | 0       |  |\n| Increased creatine kinase                | 6 (3)                           | 1 (<1)  | 0        | 0       | 23 (9)                              | 27 (11) | 17 (7)   | 9 (4)   |  |\n| Selected adverse events                  |                                 |         |          |         |                                     |         |          |         |  |\n| Cutaneous squamous-cell<br>carcinoma     | 0                               | 0       | 27 (11)  | 0       | 0                                   | 1 (<1)  | 6 (2)    | 0       |  |\n| Keratoacanthoma                          | 1 (<1)                          | 1 (<1)  | 18 (8)   | 0       | 0                                   | 0       | 2 (1)    | 0       |  |\n| Chorioretinopathy                        | 1 (<1)                          | 0       | 0        | 0       | 17 (7)                              | 12 (5)  | 1 (<1)   | 0       |  |\n| Retinal detachment                       | 0                               | 0       | 0        | 0       | 9 (4)                               | 6 (2)   | 5 (2)    | 1 (<1)  |  |\n| Decreased ejection fraction              | 0                               | 4 (2)   | 3 (1)    | 0       | 2 (1)                               | 14 (6)  | 3 (1)    | 0       |  |\n| QT-interval prolongation                 | 8 (3)                           | 2 (1)   | 3 (1)    | 0       | 6 (2)                               | 2 (1)   | 1 (<1)   | 0       |  |\n\n\\* The safety population was analyzed according to the study treatment received. Eight patients assigned to the control group received investigational cobimetinib as a result of dispensing errors. Two patients (one in each study group) did not receive the assigned study drug and were therefore excluded from the safety analysis. Multiple occurrences of a specific adverse event for a patient were counted once at the highest grade of the occurrence, according to the National Cancer Institute Common Terminology Criteria for Adverse Events, version 4.0. For example, if a patient had two episodes of a specific toxic event, one grade 3 and one grade 4, the patient was counted only once, in the grade 4 column. Similarly, in the \"Any adverse events\" row, if a patient had, for example, three separate events of grade 1, 3, and 4, the patient was counted only once, in the grade 4 column.\n\n\u2020 The most common adverse events were those that occurred in at least 20% of the patients in either study group.\n\nhalf of these in the experimental group being due to laboratory abnormalities (elevated aspartate aminotransferase, alanine aminotransferase, and creatine kinase levels) but without symptoms. An elevated creatine kinase level, a known class effect of MEK blockade, was the single most common grade 4 event (4%) seen with the combination therapy, although the majority of events related to creatine kinase (66%) were grade 1 or 2.\n\nSome toxic events were observed at a lower frequency in the combination group than in the control group, including keratoacanthomas and cutaneous squamous-cell carcinoma, alopecia, and arthralgias. Rates of clinically significant cardiac events (QT-interval prolongation and decreased ejection fraction) were low and similar in the two groups, as was pyrexia, with only four patients with grade 3 events (all in the combina-\n\n1874 n engl j med 371;20 nejm.org november 13, 2014\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org on June 16, 2025. For personal use only.\n\ntion group). Overall, six deaths were attributed to adverse events in the combination group and three deaths in the control group (Table S1 in the Supplementary Appendix). Despite differences between the two groups in the type and frequency of adverse events, the incidence of toxic events leading to the withdrawal from treatment was similar (12% in the control group and 13% in the combination group). At the time of the data cutoff, a total of 85 patients had died, primarily as a result of disease progression (96% of the deaths in the control group and 85% of those in the combination group were due to progression).\n\n# DISCUSSION\n\nThis phase 3 study showed an improvement in the response rate and in progression-free survival when cobimetinib was added to vemurafenib. Together with the results of a phase 3 trial comparing dabrafenib plus trametinib with dabrafenib alone,19 these findings provide clear evidence of the benefit of combined MEK and BRAF inhibition. The data combining BRAF and MEK inhibitor\u2013targeted therapies need to be put in context with the rapidly evolving melanoma-treatment landscape \u2014 namely, the development of immunotherapies that are based on checkpoint blockade with ipilimumab or anti\u2013programmed death 1 antibodies. Evidence suggests that these agents can lead to durable tumor responses in patients with metastatic melanoma, albeit with lower response rates than have been observed with BRAF and MEK inhibition.20-23\n\nThe primary end point of the hazard ratio for the risk of progression or death that we report for vemurafenib plus cobimetinib, as compared with vemurafenib alone, is significant. The data from the prespecified interim analysis of overall survival we report here are immature, reflecting analysis at the time of the planned analysis of progression-free survival, and they do not cross the boundary prespecified in the statistical analysis plan. Nevertheless, these early data are encouraging, although mature data are needed before definitive conclusions can be drawn. The consistency between both primary and secondary end points and subgroups is a strength of the current study, as was the performance of the control group, which was broadly consistent with prior randomized trials of BRAF inhibitors in both the response rate and median progression-free survival.3,4 It is possible that the intermittent dosing regimen of cobimetinib, resulting from the definition of the maximum tolerated dose in phase 1 testing,15 might have an effect on the outcomes of the combination with vemurafenib: preclinical data suggest that the intermittent blockade of oncogenic BRAF signaling might delay the development of acquired resistance.<sup>24</sup>\n\nThe majority of common toxic events seen with the combination of vemurafenib and cobimetinib were of grade 1 or 2 (Table 3). With relatively long-term treatment with vemurafenib and cobimetinib, it is important to distinguish side effects of the combination therapy (e.g., nausea, vomiting, and diarrhea) that can be managed with appropriate supportive interventions. In this study, several MEK inhibitor\u2013specific toxic events were observed. An asymptomatic elevated creatine kinase level is a known class effect of MEK inhibition and was observed in 30% of patients with exposure to vemurafenib and cobimetinib in our study, the majority of events being grade 1 or 2 and rapidly reversible. MEK inhibitors are also associated with ocular conditions resembling central serous retinopathy,25,26 recently referred to in the literature as transient drug-induced retinopathy.<sup>26</sup> Consistent with previous reports, most cases (86%) of retinopathy in our study were grade 1 (clinically asymptomatic) or 2 (moderate decrease in visual acuity), were found to be reversible at subsequent ophthalmic examinations in the majority of cases without any treatment, or were managed with dose reduction or withdrawal of cobimetinib.\n\nIn conclusion, the combination of vemurafenib and cobimetinib, as compared with vemurafenib alone, resulted in an improvement in progression-free survival and objective responses, with early evidence of improved overall survival and a somewhat increased toxicity profile, among patients with advanced *BRAF*-mutated melanoma.\n\nDisclosure forms provided by the authors are available with the full text of this article at NEJM.org.\n\nWe thank the patients and their families for their participation.\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org on June 16, 2025. For personal use only.\n\nSupported by F. Hoffmann\u2013La Roche/Genentech. Cobimetinib is being developed by F. Hoffmann\u2013La Roche/Genentech, under a collaboration with Exelixis.\n\n#### **REFERENCES**\n\n**1.** Davies H, Bignell GR, Cox C, et al. Mutations of the BRAF gene in human cancer. Nature 2002;417:949-54.\n\n**2.** Curtin JA, Fridlyand J, Kageshita T, et al. Distinct sets of genetic alterations in melanoma. N Engl J Med 2005;353:2135-47.\n\n**3.** Chapman PB, Hauschild A, Robert C, et al. Improved survival with vemurafenib in melanoma with BRAF V600E mutation. N Engl J Med 2011;364:2507-16.\n\n**4.** Hauschild A, Grob JJ, Demidov L, et al. Dabrafenib in BRAF-mutated metastatic melanoma: a multicentre, open-label, phase 3 randomised controlled trial. Lancet 2012;380:358-65.\n\n**5.** Sosman JA, Kim KB, Schuchter L, et al. Survival in BRAF V600\u2013mutant advanced melanoma treated with vemurafenib. N Engl J Med 2012;366:707-14.\n\n**6.** Larkin J, Del Vecchio M, Ascierto PA, et al. Vemurafenib in patients with BRAF(V600) mutated metastatic melanoma: an open-label, multicentre, safety study. Lancet Oncol 2014;15:436-44.\n\n**7.** Oberholzer PA, Kee D, Dziunycz P, et al. RAS mutations are associated with the development of cutaneous squamous cell tumors in patients treated with RAF inhibitors. J Clin Oncol 2012;30:316-21.\n\n**8.** Su F, Viros A, Milagre C, et al. *RAS* mutations in cutaneous squamous-cell carcinomas in patients treated with BRAF inhibitors. N Engl J Med 2012;366:207-15. **9.** Shi H, Hong A, Kong X, et al. A novel AKT1 mutant amplifies an adaptive melanoma response to BRAF inhibition. Cancer Discov 2014;4:69-79.\n\n**10.** Shi H, Hugo W, Kong X, et al. Ac-\n\nquired resistance and clonal evolution in melanoma during BRAF inhibitor therapy. Cancer Discov 2014;4:80-93.\n\n**11.** Van Allen EM, Wagle N, Sucker A, et al. The genetic landscape of clinical resistance to RAF inhibition in metastatic melanoma. Cancer Discov 2014;4:94-109. **12.** Flaherty KT, Robert C, Hersey P, et al. Improved survival with MEK inhibition in BRAF-mutated melanoma. N Engl J Med 2012;367:107-14.\n\n**13.** Flaherty KT, Infante JR, Daud A, et al. Combined BRAF and MEK inhibition in melanoma with BRAF V600 mutations. N Engl J Med 2012;367:1694-703.\n\n**14.** Hoeflich KP, Merchant M, Orr C, et al. Intermittent administration of MEK inhibitor GDC-0973 plus PI3K inhibitor GDC-0941 triggers robust apoptosis and tumor growth inhibition. Cancer Res 2012; 72:210-9.\n\n**15.** Ribas A, Gonzalez R, Pavlick A, et al. Combination of vemurafenib and cobimetinib in patients with advanced BRAF(V600)-mutated melanoma: a phase 1b study. Lancet Oncol 2014;15:954-65.\n\n**16.** Eisenhauer EA, Therasse P, Bogaerts J, et al. New response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1). Eur J Cancer 2009;45:228-47. **17.** Schouten HJA, Molenaar IW, Van Strik R, Boomsma A. Comparing two independent binomial distributions by a modified chi square test. Biometrical J 1980;22:241-8.\n\n**18.** Lan KKG, DeMets DL. Discrete sequential boundaries for clinical trials. Biometrika 1983;70:659-63.\n\n**19.** Long GV, Stroyakovskiy D, Gogas H, et al. Combined BRAF and MEK inhibition versus BRAF inhibition alone in melanoma. N Engl J Med. DOI: 10.1056/ NEJMoa1406037.\n\n**20.** Hodi FS, O'Day SJ, McDermott DF, et al. Improved survival with ipilimumab in patients with metastatic melanoma. N Engl J Med 2010;363:711-23. [Erratum, N Engl J Med 2010;363:1290.]\n\n**21.** Topalian SL, Hodi FS, Brahmer JR, et al. Safety, activity, and immune correlates of anti\u2013PD-1 antibody in cancer. N Engl J Med 2012;366:2443-54.\n\n**22.** Hamid O, Robert C, Daud A, et al. Safety and tumor responses with lambrolizumab (anti\u2013PD-1) in melanoma. N Engl J Med 2013;369:134-44.\n\n**23.** Wolchok JD, Kluger H, Callahan MK, et al. Nivolumab plus ipilimumab in advanced melanoma. N Engl J Med 2013; 369:122-33.\n\n**24.** Das Thakur M, Salangsang F, Landman AS, et al. Modelling vemurafenib resistance in melanoma reveals a strategy to forestall drug resistance. Nature 2013; 494:251-5.\n\n**25.** McCannel TA, Chmielowski B, Finn RS, et al. Bilateral subfoveal neurosensory retinal detachment associated with MEK inhibitor use for metastatic cancer. JAMA Ophthalmol 2014;132:1005-9.\n\n**26.** Urner-Bloch U, Urner M, Stieger P, et al. Transient MEK inhibitor-associated retinopathy in metastatic melanoma. Ann Oncol 2014;25:1437-41.\n\n*Copyright \u00a9 2014 Massachusetts Medical Society.*\n\n**receive immediate notification when an article is published online first**\n\nTo be notified by e-mail when *Journal* articles are published Online First, sign up at NEJM.org.\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org on June 16, 2025. For personal use only.",
+    "json_data": {
+      "table_of_contents": [
+        {
+          "title": "The new england \njournal of medicine",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              115.04209899902344,
+              36.1075439453125
+            ],
+            [
+              483.943359375,
+              36.1075439453125
+            ],
+            [
+              483.943359375,
+              101.3570556640625
+            ],
+            [
+              115.04209899902344,
+              101.3570556640625
+            ]
+          ]
+        },
+        {
+          "title": "Combined Vemurafenib and Cobimetinib in BRAF-Mutated \nMelanoma",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              77.934814453125,
+              138.70458984375
+            ],
+            [
+              523.0005493164062,
+              138.70458984375
+            ],
+            [
+              523.0005493164062,
+              178.2421875
+            ],
+            [
+              77.934814453125,
+              178.2421875
+            ]
+          ]
+        },
+        {
+          "title": "ABSTRACT",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              272.39678955078125,
+              263.71331787109375
+            ],
+            [
+              325.6055603027344,
+              263.71331787109375
+            ],
+            [
+              325.6055603027344,
+              274.4560546875
+            ],
+            [
+              272.39678955078125,
+              274.4560546875
+            ]
+          ]
+        },
+        {
+          "title": "BACKGROUND",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              61.5311279296875,
+              288.8525390625
+            ],
+            [
+              114.9642333984375,
+              288.8525390625
+            ],
+            [
+              114.9642333984375,
+              298.2525329589844
+            ],
+            [
+              61.5311279296875,
+              298.2525329589844
+            ]
+          ]
+        },
+        {
+          "title": "METHODS",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              62.0,
+              366.556640625
+            ],
+            [
+              101.60595703125,
+              366.556640625
+            ],
+            [
+              101.60595703125,
+              376.154296875
+            ],
+            [
+              62.0,
+              376.154296875
+            ]
+          ]
+        },
+        {
+          "title": "RESULTS",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              61.91180419921875,
+              432.25262451171875
+            ],
+            [
+              94.6153564453125,
+              432.25262451171875
+            ],
+            [
+              94.6153564453125,
+              441.861328125
+            ],
+            [
+              61.91180419921875,
+              441.861328125
+            ]
+          ]
+        },
+        {
+          "title": "CONCLUSIONS",
+          "heading_level": null,
+          "page_id": 0,
+          "polygon": [
+            [
+              61.70416259765625,
+              617.7526245117188
+            ],
+            [
+              117.38671875,
+              617.7526245117188
+            ],
+            [
+              117.38671875,
+              627.5390625
+            ],
+            [
+              61.70416259765625,
+              627.5390625
+            ]
+          ]
+        },
+        {
+          "title": "METHODS",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              380.3290710449219,
+              559.96142578125
+            ],
+            [
+              431.673095703125,
+              559.96142578125
+            ],
+            [
+              431.673095703125,
+              570.4612274169922
+            ],
+            [
+              380.3290710449219,
+              570.4612274169922
+            ]
+          ]
+        },
+        {
+          "title": "PATIENTS",
+          "heading_level": null,
+          "page_id": 1,
+          "polygon": [
+            [
+              307.0,
+              582.134765625
+            ],
+            [
+              342.7470703125,
+              582.134765625
+            ],
+            [
+              342.7470703125,
+              591.1834259033203
+            ],
+            [
+              307.0,
+              591.1834259033203
+            ]
+          ]
+        },
+        {
+          "title": "STUDY OVERSIGHT",
+          "heading_level": null,
+          "page_id": 2,
+          "polygon": [
+            [
+              61.84259033203125,
+              210.1834716796875
+            ],
+            [
+              132.11911010742188,
+              210.1834716796875
+            ],
+            [
+              132.11911010742188,
+              219.18341064453125
+            ],
+            [
+              61.84259033203125,
+              219.18341064453125
+            ]
+          ]
+        },
+        {
+          "title": "RANDOMIZATION AND TREATMENT",
+          "heading_level": null,
+          "page_id": 2,
+          "polygon": [
+            [
+              61.600341796875,
+              594.1835327148438
+            ],
+            [
+              193.00698852539062,
+              594.1835327148438
+            ],
+            [
+              193.00698852539062,
+              603.1834259033203
+            ],
+            [
+              61.600341796875,
+              603.1834259033203
+            ]
+          ]
+        },
+        {
+          "title": "STUDY END POINTS",
+          "heading_level": null,
+          "page_id": 2,
+          "polygon": [
+            [
+              269.0,
+              234.1834716796875
+            ],
+            [
+              342.415771484375,
+              234.1834716796875
+            ],
+            [
+              342.415771484375,
+              243.6328125
+            ],
+            [
+              269.0,
+              243.6328125
+            ]
+          ]
+        },
+        {
+          "title": "STATISTICAL ANALYSIS",
+          "heading_level": null,
+          "page_id": 2,
+          "polygon": [
+            [
+              267.16552734375,
+              402.18353271484375
+            ],
+            [
+              352.7710876464844,
+              402.18353271484375
+            ],
+            [
+              352.7710876464844,
+              411.22265625
+            ],
+            [
+              267.16552734375,
+              411.22265625
+            ]
+          ]
+        },
+        {
+          "title": "Figure 1 (facing page). Progression-free Survival in \nthe Intention-to-Treat Population and Prespecified \nSubgroups.",
+          "heading_level": null,
+          "page_id": 3,
+          "polygon": [
+            [
+              312.29296875,
+              58.97021484375
+            ],
+            [
+              485.0616455078125,
+              58.97021484375
+            ],
+            [
+              485.0616455078125,
+              88.7783203125
+            ],
+            [
+              312.29296875,
+              88.7783203125
+            ]
+          ]
+        },
+        {
+          "title": "PATIENTS",
+          "heading_level": null,
+          "page_id": 3,
+          "polygon": [
+            [
+              304.81787109375,
+              526.025390625
+            ],
+            [
+              342.23101806640625,
+              526.025390625
+            ],
+            [
+              342.23101806640625,
+              536.1834259033203
+            ],
+            [
+              304.81787109375,
+              536.1834259033203
+            ]
+          ]
+        },
+        {
+          "title": "B Subgroup Analyses of Progression-free Survival",
+          "heading_level": null,
+          "page_id": 4,
+          "polygon": [
+            [
+              64.50732421875,
+              292.3527526855469
+            ],
+            [
+              224.54380798339844,
+              292.3527526855469
+            ],
+            [
+              224.54380798339844,
+              301.3527526855469
+            ],
+            [
+              64.50732421875,
+              301.3527526855469
+            ]
+          ]
+        },
+        {
+          "title": "EFFICACY",
+          "heading_level": null,
+          "page_id": 5,
+          "polygon": [
+            [
+              100.0,
+              138.1834716796875
+            ],
+            [
+              135.93603515625,
+              138.1834716796875
+            ],
+            [
+              135.93603515625,
+              147.4716796875
+            ],
+            [
+              100.0,
+              147.4716796875
+            ]
+          ]
+        },
+        {
+          "title": "Progression-free Survival",
+          "heading_level": null,
+          "page_id": 5,
+          "polygon": [
+            [
+              99.3218994140625,
+              150.3006591796875
+            ],
+            [
+              190.6195526123047,
+              150.3006591796875
+            ],
+            [
+              190.6195526123047,
+              159.800537109375
+            ],
+            [
+              99.3218994140625,
+              159.800537109375
+            ]
+          ]
+        },
+        {
+          "title": "Overall Survival",
+          "heading_level": null,
+          "page_id": 6,
+          "polygon": [
+            [
+              61.9464111328125,
+              54.69171142578125
+            ],
+            [
+              121.69075012207031,
+              54.69171142578125
+            ],
+            [
+              121.69075012207031,
+              64.19158935546875
+            ],
+            [
+              61.9464111328125,
+              64.19158935546875
+            ]
+          ]
+        },
+        {
+          "title": "Response",
+          "heading_level": null,
+          "page_id": 6,
+          "polygon": [
+            [
+              61.63494873046875,
+              282.69268798828125
+            ],
+            [
+              96.10464477539062,
+              282.69268798828125
+            ],
+            [
+              96.10464477539062,
+              292.1925964355469
+            ],
+            [
+              61.63494873046875,
+              292.1925964355469
+            ]
+          ]
+        },
+        {
+          "title": "SAFETY",
+          "heading_level": null,
+          "page_id": 6,
+          "polygon": [
+            [
+              268.82666015625,
+              162.1834716796875
+            ],
+            [
+              295.984375,
+              162.1834716796875
+            ],
+            [
+              295.984375,
+              171.18341064453125
+            ],
+            [
+              268.82666015625,
+              171.18341064453125
+            ]
+          ]
+        },
+        {
+          "title": "DISCUSSION",
+          "heading_level": null,
+          "page_id": 8,
+          "polygon": [
+            [
+              127.9072265625,
+              235.96142578125
+            ],
+            [
+              193.2451171875,
+              235.96142578125
+            ],
+            [
+              193.2451171875,
+              246.955078125
+            ],
+            [
+              127.9072265625,
+              246.955078125
+            ]
+          ]
+        },
+        {
+          "title": "REFERENCES",
+          "heading_level": null,
+          "page_id": 9,
+          "polygon": [
+            [
+              98.560546875,
+              52.91888427734375
+            ],
+            [
+              142.718994140625,
+              52.91888427734375
+            ],
+            [
+              142.718994140625,
+              60.41876220703125
+            ],
+            [
+              98.560546875,
+              60.41876220703125
+            ]
+          ]
+        }
+      ],
+      "page_stats": [
+        {
+          "page_id": 0,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              183
+            ],
+            [
+              "Line",
+              86
+            ],
+            [
+              "Text",
+              16
+            ],
+            [
+              "SectionHeader",
+              7
+            ],
+            [
+              "PageFooter",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 1,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              237
+            ],
+            [
+              "Line",
+              107
+            ],
+            [
+              "Text",
+              9
+            ],
+            [
+              "PageHeader",
+              2
+            ],
+            [
+              "SectionHeader",
+              2
+            ],
+            [
+              "PageFooter",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 2,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              199
+            ],
+            [
+              "Line",
+              105
+            ],
+            [
+              "Text",
+              12
+            ],
+            [
+              "SectionHeader",
+              4
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Caption",
+              1
+            ],
+            [
+              "PageFooter",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 3,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              310
+            ],
+            [
+              "Line",
+              113
+            ],
+            [
+              "TableCell",
+              76
+            ],
+            [
+              "Text",
+              15
+            ],
+            [
+              "SectionHeader",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Table",
+              1
+            ],
+            [
+              "PageFooter",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 4,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              580
+            ],
+            [
+              "TableCell",
+              333
+            ],
+            [
+              "Line",
+              258
+            ],
+            [
+              "Text",
+              5
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Figure",
+              1
+            ],
+            [
+              "SectionHeader",
+              1
+            ],
+            [
+              "Table",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 5,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              224
+            ],
+            [
+              "TableCell",
+              82
+            ],
+            [
+              "Line",
+              66
+            ],
+            [
+              "Text",
+              9
+            ],
+            [
+              "SectionHeader",
+              2
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Table",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 6,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              257
+            ],
+            [
+              "Line",
+              112
+            ],
+            [
+              "Text",
+              8
+            ],
+            [
+              "SectionHeader",
+              3
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Figure",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 7,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              468
+            ],
+            [
+              "TableCell",
+              221
+            ],
+            [
+              "Line",
+              63
+            ],
+            [
+              "Text",
+              8
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "Table",
+              1
+            ],
+            [
+              "PageFooter",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 8,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              203
+            ],
+            [
+              "Line",
+              104
+            ],
+            [
+              "Text",
+              11
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "SectionHeader",
+              1
+            ],
+            [
+              "Footnote",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        },
+        {
+          "page_id": 9,
+          "text_extraction_method": "pdftext",
+          "block_counts": [
+            [
+              "Span",
+              308
+            ],
+            [
+              "Line",
+              123
+            ],
+            [
+              "Text",
+              30
+            ],
+            [
+              "PageFooter",
+              2
+            ],
+            [
+              "PageHeader",
+              1
+            ],
+            [
+              "SectionHeader",
+              1
+            ]
+          ],
+          "block_metadata": {
+            "llm_request_count": 0,
+            "llm_error_count": 0,
+            "llm_tokens_used": 0,
+            "previous_text": "",
+            "previous_type": "",
+            "previous_order": 0
+          }
+        }
+      ],
+      "debug_data_path": "debug_data/7"
+    },
+    "tables": [],
+    "metadata": {
+      "total_pages": 0,
+      "document_type": "unknown",
+      "processing_time": 0,
+      "ocr_used": false
+    },
+    "processing_stats": {
+      "return_code": 0,
+      "stdout_length": 87,
+      "stderr_length": 795
+    },
+    "processing_mode": "marker_enhanced",
+    "use_llm": false,
+    "markdown_quality_score": 100.0
+  },
+  "clinical_extraction": {
+    "prompt": "\nTASK: Extract comprehensive clinical trial data from this publication.\n\nCRITICAL REQUIREMENTS:\n1. NCT number: NCT01689519 (already validated)\n2. Expected treatment arms: 2\n3. Output raw JSON only (no markdown, no explanations)\n4. Extract ONLY explicit information - never infer or guess\n5. Use empty string \"\" for missing values\n\nTREATMENT ARMS:\n- Each unique treatment = separate arm\n- Different doses of same drug = separate arms  \n- Combination therapies use \"+\" (e.g., \"Drug A + Drug B\")\n\nDATA FORMATS:\n- Numbers: Extract digits only (e.g., \"25%\" \u2192 \"25\")\n- Survival: Months only (e.g., \"12.5 months\" \u2192 \"12.5\") \n- Binary: \"YES\" or \"NO\" only\n- Missing: Use \"\"\n\nCOMPREHENSIVE JSON STRUCTURE:\n{\n  \"NCT Number\": \"NCT01689519\",\n  \"Publication name\": \"Journal YYYY; Volume:Pages\",\n  \"Publication Year\": \"YYYY\",\n  \"PDF number\": \"filename\",\n  \"Trial name\": \"Trial name or 'No Name'\",\n  \"Sponsors\": \"Industry-Sponsored or non Industry-Sponsored\",\n  \"Clinical Trial Phase\": \"Stage X\",\n  \"Cancer Type\": \"Select from controlled list\",\n  \"Primary endpoint\": \"text\",\n  \"Secondary endpoint\": \"text\",\n  \"Median Age\": \"number\",\n  \"Mechanism of action\": \"text\",\n  \"Target Protein\": \"text\",\n  \"Type of therapy\": \"text\",\n  \"Dosage\": \"text\",\n  \"Type of dosing\": \"text\",\n  \"Number of doses per year\": \"number\",\n  \"Biomarker Inclusion\": \"YES/NO\",\n  \"Biomarkers Inclusion Criteria\": \"text\",\n  \"Biomarkers Exclusion Criteria\": \"text\",\n  \"Major country where clinical trial is conducted\": \"text\",\n  \"Study start date\": \"YYYY-MM-DD\",\n  \"Study completion date\": \"YYYY-MM-DD\",\n  \"First results\": \"YYYY-MM-DD\",\n  \"Trial run in Europe\": \"YES/NO\",\n  \"Trial run in US\": \"YES/NO\",\n  \"Trial run in China\": \"YES/NO\",\n  \"treatment_arms\": [\n    {\n      \"Generic name\": \"Drug name or Drug A + Drug B\",\n      \"Brand name\": \"text\",\n      \"Line of Treatment\": \"Neoadjuvant/First Line/2nd Line/3rd Line+\",\n      \"Number of patients\": \"number\",\n      \"Company EU\": \"text\",\n      \"Company US\": \"text\",\n      \"Company China\": \"text\",\n      \"Biosimilar\": \"YES/NO\",\n      \"Chemotherapy Naive\": \"YES/NO\",\n      \"Chemotherapy Failed\": \"YES/NO\",\n      \"Immune Checkpoint Inhibitor (ICI) Naive\": \"YES/NO\",\n      \"Immune Checkpoint Inhibitor (ICI) failed\": \"YES/NO\",\n      \"Ipilimumab-failure or Ipilimumab-refractory\": \"YES/NO\",\n      \"Anti PD-1/L1-failure or Anti PD-1/L1-refractory\": \"YES/NO\",\n      \"Mutation status\": \"text\",\n      \"BRAF-mutation\": \"YES/NO\",\n      \"NRAS-Mutation\": \"YES/NO\",\n      \"Objective response rate (ORR)\": \"percentage\",\n      \"Complete Response (CR)\": \"percentage\",\n      \"Pathological Complete Response (pCR)\": \"percentage\",\n      \"Complete Metabolic Response (CMR)\": \"percentage\",\n      \"Disease Control Rate or DCR\": \"percentage\",\n      \"Clinical Benefit Rate (CBR)\": \"percentage\",\n      \"Duration of Response (DOR) rate\": \"percentage\",\n      \"Progression free survival (PFS) rate at 6 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 9 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 12 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 18 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 24 months\": \"percentage\",\n      \"Progression free survival (PFS) rate at 48 months\": \"percentage\",\n      \"Overall survival (OS) rate at 6 months\": \"percentage\",\n      \"Overall survival (OS) rate at 9 months\": \"percentage\",\n      \"Overall survival (OS) rate at 12 months\": \"percentage\",\n      \"Overall survival (OS) rate at 18 months\": \"percentage\",\n      \"Overall survival (OS) rate at 24 months\": \"percentage\",\n      \"Overall survival (OS) rate at 48 months\": \"percentage\",\n      \"Median Progression free survival (PFS)\": \"months\",\n      \"Length of measuring PFS\": \"months\",\n      \"p-value of PFS\": \"Non-Significant/Significant/Highly Significant\",\n      \"Hazard ratio (HR) PFS\": \"decimal\",\n      \"Median Overall survival (OS)\": \"months\",\n      \"Length of measuring OS\": \"months\",\n      \"p-value of OS\": \"Non-Significant/Significant/Highly Significant\",\n      \"Hazard ratio (HR) OS\": \"decimal\",\n      \"Event-Free Survival (EFS)\": \"months\",\n      \"p-value of EFS\": \"Non-Significant/Significant/Highly Significant\",\n      \"Hazard ratio (HR) EFS\": \"decimal\",\n      \"Recurrence-Free Survival (RFS)\": \"months\",\n      \"p-value of RFS\": \"Non-Significant/Significant/Highly Significant\",\n      \"Length of measuring RFS\": \"months\",\n      \"Hazard ratio (HR) RFS\": \"decimal\",\n      \"Metastasis-Free Survival (MFS)\": \"months\",\n      \"Length of measuring MFS\": \"months\",\n      \"Hazard ratio (HR) MFS\": \"decimal\",\n      \"Time to response (TTR)\": \"months\",\n      \"Time to Progression (TTP)\": \"months\",\n      \"Time to Next Treatment (TTNT)\": \"months\",\n      \"Time to Treatment Failure (TTF)\": \"months\",\n      \"Median Duration of response or DOR\": \"months\",\n      \"Adverse events (AE)\": \"percentage\",\n      \"Treatment emergent adverse events (TEAE)\": \"percentage\",\n      \"Treatment-related adverse events (TRAE)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 higher adverse events (AE)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 higher treatment emergent adverse events (TEAE)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 higher treatment-related adverse events (TRAE)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 higher treatment-emergent adverse events (TEAE)\": \"percentage\",\n      \"Grade 4 treatment emergent adverse events\": \"percentage\",\n      \"Grade 5 treatment emergent adverse events\": \"percentage\",\n      \"Serious Adverse Events (SAE)\": \"percentage\",\n      \"Serious treatment emergent adverse events\": \"percentage\",\n      \"Serious treatment related adverse events\": \"percentage\",\n      \"Treatment-emergent adverse events (TEAE) led to treatment discontinuation\": \"percentage\",\n      \"Adverse events (AEs) leading to discontinuation\": \"percentage\",\n      \"Treatment-emergent adverse events (TEAE) led to death\": \"percentage\",\n      \"Adverse Events leading to death\": \"percentage\",\n      \"Immune related adverse events (irAEs)\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Immune related adverse events (irAEs)\": \"percentage\",\n      \"Cytokine Release Syndrome or CRS\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Cytokine Release Syndrome or CRS\": \"percentage\",\n      \"White blood cell (WBC) decreased\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Thrombocytopenia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Neutropenia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Leukopenia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Anemia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Neutrophil count decreased\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 White blood cell (WBC) decreased\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Nausea\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Diarrhea\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Colitis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Constipation\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Dyspnea\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Cough\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Pneumonia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Pneumonitis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Hyperglycemia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Thyroiditis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Hypophysitis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Hepatitis\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Alanine aminotransferase\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Pyrexia\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Bleeding\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Pruritus\": \"percentage\",\n      \"Grade \u22653 or Grade 3+ or Grade 3-5 or Grade 3-4 Rash\": \"percentage\"\n    }\n  ]\n}\n\nEXTRACTION INSTRUCTIONS:\n1. Extract ALL fields listed above that are explicitly mentioned in the publication\n2. For percentages: extract number only (e.g., \"25%\" \u2192 \"25\")\n3. For months: extract number only (e.g., \"12.5 months\" \u2192 \"12.5\")\n4. For binary fields: use \"YES\" or \"NO\" only\n5. For missing data: use empty string \"\"\n6. For survival data with \"not reached\": use \"NR\"\n\nPUBLICATION TEXT:\n# *The* new england journal *of* medicine\n\nestablished in 1812 november 13, 2014 vol. 371 no. 20\n\n# Combined Vemurafenib and Cobimetinib in *BRAF*-Mutated Melanoma\n\nJames Larkin, M.D., Ph.D., Paolo A. Ascierto, M.D., Brigitte Dr\u00e9no, M.D., Ph.D., Victoria Atkinson, M.D., Gabriella Liszkay, M.D., Michele Maio, M.D., Mario Mandal\u00e0, M.D., Lev Demidov, M.D., Daniil Stroyakovskiy, M.D., Luc Thomas, M.D., Ph.D., Luis de la Cruz-Merino, M.D., Caroline Dutriaux, M.D., Claus Garbe, M.D., Mika A. Sovak, M.D., Ph.D., Ilsung Chang, Ph.D., Nicholas Choong, M.D., Stephen P. Hack, M.D., Ph.D., Grant A. McArthur, M.B., B.S., Ph.D., and Antoni Ribas, M.D., Ph.D.\n\n# ABSTRACT\n\n#### **BACKGROUND**\n\nThe combined inhibition of BRAF and MEK is hypothesized to improve clinical outcomes in patients with melanoma by preventing or delaying the onset of resistance observed with BRAF inhibitors alone. This randomized phase 3 study evaluated the combination of the BRAF inhibitor vemurafenib and the MEK inhibitor cobimetinib.\n\n#### **METHODS**\n\nWe randomly assigned 495 patients with previously untreated unresectable locally advanced or metastatic *BRAF* V600 mutation\u2013positive melanoma to receive vemurafenib and cobimetinib (combination group) or vemurafenib and placebo (control group). The primary end point was investigator-assessed progression-free survival.\n\n#### **RESULTS**\n\nThe median progression-free survival was 9.9 months in the combination group and 6.2 months in the control group (hazard ratio for death or disease progression, 0.51; 95% confidence interval [CI], 0.39 to 0.68; P<0.001). The rate of complete or partial response in the combination group was 68%, as compared with 45% in the control group (P<0.001), including rates of complete response of 10% in the combination group and 4% in the control group. Progression-free survival as assessed by independent review was similar to investigator-assessed progression-free survival. Interim analyses of overall survival showed 9-month survival rates of 81% (95% CI, 75 to 87) in the combination group and 73% (95% CI, 65 to 80) in the control group. Vemurafenib and cobimetinib was associated with a nonsignificantly higher incidence of adverse events of grade 3 or higher, as compared with vemurafenib and placebo (65% vs. 59%), and there was no significant difference in the rate of study-drug discontinuation. The number of secondary cutaneous cancers decreased with the combination therapy.\n\n### **CONCLUSIONS**\n\nThe addition of cobimetinib to vemurafenib was associated with a significant improvement in progression-free survival among patients with *BRAF* V600\u2013mutated metastatic melanoma, at the cost of some increase in toxicity. (Funded by F. Hoffmann\u2013 La Roche/Genentech; coBRIM ClinicalTrials.gov number, NCT01689519.)\n\nFrom Royal Marsden Hospital, London (J.L.); Istituto Nazionale Tumori Fondazione G. Pascale, Naples (P.A.A.), Azienda Ospedaliera Universitaria Senese, Siena (M. Maio), and Papa Giovanni XXIII Hospital, Bergamo (M. Mandal\u00e0) \u2014 all in Italy; H\u00f4tel Dieu Place Alexis Ricordeau, Nantes (B.D.), Centre Hospitalier Lyon Sud, Pierre-B\u00e9nite (L.T.), and H\u00f4pital Saint Andr\u00e9, Bordeaux (C.D.) \u2014 all in France; Princess Alexandra Hospital, Woolloongabba, QLD (V.A.), and Peter MacCallum Cancer Centre, Melbourne, VIC (G.A.M.) \u2014 both in Australia; National Institute of Oncology, Budapest, Hungary (G.L.); N.N. Blokhin Russian Cancer Research Center, Moscow (L.D.), and Moscow City Oncology Hospital 62, Krasnogorsk (D.S.) both in Russia; Hospital Universitario Virgen Macarena, Seville, Spain (L.C.-M.); University of T\u00fcbingen, T\u00fcbingen, Germany (C.G.); Genentech, South San Francisco, CA (M.A.S., I.C., N.C., S.P.H.); and Jonsson Comprehensive Cancer Center at the University of California, Los Angeles, Los Angeles (A.R.). Address reprint requests to Dr. Ribas at the Department of Medicine, Division of Hematology\u2013 Oncology, Jonsson Comprehensive Cancer Center, University of California, Los Angeles, 11-934 Factor Bldg., 10833 Le Conte Ave., Los Angeles, CA 90095-1782, or at aribas@mednet.ucla.edu.\n\nDrs. Larkin and Ascierto contributed equally to this article.\n\nThis article was published on September 29, 2014, at NEJM.org.\n\n**N Engl J Med 2014;371:1867-76. DOI: 10.1056/NEJMoa1408868** *Copyright \u00a9 2014 Massachusetts Medical Society.*\n\nn engl j med 371;20 nejm.org november 13, 2014 1867\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org on June 16, 2025. For personal use only.\n\nApproximately 50% of metastatic cutaneous melanomas harbor a *BRAF* V600 mutation, resulting in constitutive activation of the mitogen-activated protein kinase (MAPK) pathway.1,2 These discoveries led to the development of agents that specifically target this driver mutation. The BRAF inhibitor vemurafenib (Zelboraf, Genentech) was approved worldwide on the basis of results from a phase 3 trial showing improved progression-free survival and overall survival, as compared with chemotherapy alone; the relative reduction in the risk of death was 63% and in the risk of disease progression was 74%.3 Similar results were also reported for another BRAF inhibitor, dabrafenib,4 which has also been approved widely. Although common toxic events with both agents are similar (rash, fatigue, and joint pain), the incidence of clinically significant photosensitivity is higher with vemurafenib, whereas the incidence of clinically significant pyrexia is higher with dabrafenib. A toxic event common to both is secondary cutaneous squamous-cell carcinomas and keratoacanthomas, which occur in approximately 14 to 26% of patients treated with a BRAF inhibitor, usually within the first 2 to 3 months of therapy.5,6 The skin tumors develop owing to a paradoxical activation of the MAPK pathway in keratinocytes with upstream activation of signaling by preexisting *RAS* mutations,7,8 which can be blocked with the addition of a MEK inhibitor.<sup>8</sup>\n\nProgression after a period of tumor response (acquired resistance) is common with single-agent BRAF-inhibitor therapy after a median progression-free survival of 6 to 7 months.3,4 The mechanisms of acquired resistance are diverse and include the reactivation of oncogenic signaling by means of the MAPK pathway in approximately two thirds of cases and mechanisms that lead to MAPK pathway\u2013independent signaling that substitutes for the inhibited driver oncogenic signal within the MAPK pathway.9-11 The finding of multiple genetic mechanisms of escape in individual patients10 implies that upfront inhibition of both MEK and the mutant BRAF kinases might be a strategy for obtaining more durable responses than the inhibition of BRAF alone.\n\nPreclinical and clinical data suggest that the inhibition of both MEK and mutant BRAF kinases might result in a greater initial tumor response, prevent MAPK-driven acquired resistance, and decrease the frequency and severity of toxic events that occur owing to paradoxical MAPK-pathway activation from BRAF-inhibitor monotherapy. Trametinib, a MEK inhibitor, was approved for the treatment of *BRAF*-mutated metastatic melanoma as a single agent after an improvement in progression-free and overall survival was shown in a randomized trial12 and in combination with dabrafenib on the basis of improvement in progression-free survival.13 Cobimetinib (also known as GDC-0973 [Roche] or XL518 [Exelixis]) is an orally bioavailable, potent, and selective MEK inhibitor.14 The most common toxic events associated with single-agent use of cobimetinib in phase 1 testing were diarrhea, rash, fatigue, and edema; grade 3 or higher events included diarrhea, rash, and fatigue.\n\nCobimetinib in combination with vemurafenib was studied in patients with advanced *BRAF* V600\u2013mutated melanoma in a phase 1b study (BRAF Inhibitor in Melanoma [BRIM] 7).15 Dose escalation was stopped at the maximum tolerated single-agent dose of each drug, with daily dosing of vemurafenib and cobimetinib administered for 21 days, followed by 7 days off. At these doses, a confirmed objective response was noted in 55 of 63 patients (87%) who had never received a BRAF inhibitor, and the antitumor activity appeared to be favorable, as compared with historical single-agent vemurafenib activity.3 Common adverse events were similar to those observed with the single agents and included rash, diarrhea, photosensitivity, and hepatic-enzyme abnormalities, and as expected, the incidence of cutaneous secondary cancers was decreased. To confirm and build on these early data, we report on the primary end point of coBRIM, an international, multicenter, randomized phase 3 study that evaluated the efficacy and safety of cobimetinib combined with vemurafenib in previously untreated patients with advanced *BRAF*-mutated melanoma.\n\n# METHODS\n\n#### **PATIENTS**\n\nEligible patients were at least 18 years of age; had histologically confirmed unresectable, locally advanced stage IIIC or stage IV melanoma with a *BRAF* V600 mutation detected with the use of a real-time polymerase-chain-reaction assay (Cobas 4800 BRAF V600 Mutation Test, Roche Molecular Systems); had measurable disease, according to\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org on June 16, 2025. For personal use only.\n\nthe Response Evaluation Criteria in Solid Tumors (RECIST), version 1.1,16 as assessed by means of computed tomography; had an Eastern Cooperative Oncology Group (ECOG) performance-status score of 0 (fully active and able to carry on all performance without restriction) or 1 (restricted in physically strenuous activity but ambulatory and able to carry out work of a light or sedentary nature); and had adequate hematologic, hepatic, renal, and cardiac function. Patients with previously treated brain metastases were eligible if they had at least a 3-week history of stable disease.\n\n#### **STUDY OVERSIGHT**\n\nThe study was approved by the institutional review board or ethics committee at each participating institution and was conducted in accordance with the provisions of the Declaration of Helsinki and the International Conference on Harmonisation guidelines for Good Clinical Practice. All the patients provided written informed consent. An independent data and safety monitoring committee conducted regular review and evaluation of the safety data.\n\nF. Hoffmann\u2013La Roche/Genentech sponsored the study. All the authors and their research teams collected the data. Representatives of the sponsor and the members of the study steering committee designed the study. Representatives of the sponsor confirmed the accuracy of the data and compiled the data for analysis. The analysis was performed in collaboration with the authors. All the authors had full access to the data and analyses pertinent for the compilation of this report.\n\nTwo of the academic authors wrote the first draft of the manuscript, which was reviewed, modified, and approved in its final version by all the authors. Editorial assistance that did not involve writing was provided by Apothecom and funded by the sponsor. All the authors vouch for the accuracy and completeness of the data reported and for the fidelity of the study to the protocol (available with the full text of this article at NEJM.org).\n\n#### **RANDOMIZATION AND TREATMENT**\n\nFrom January 2013 through January 2014, we enrolled 495 patients at 135 sites in the United States, Canada, Australia, New Zealand, Europe, Russia, Turkey, and Israel. Patients were randomly assigned in a 1:1 ratio to receive vemurafenib orally (at a dose of 960 mg twice daily) together with either placebo (control group) or cobimetinib (at a dose of 60 mg once daily for 21 days, followed by 7 days off) (combination group). The study treatment continued until patients withdrew consent, unacceptable adverse effects arose, or disease progression occurred. Continuation of the study treatment or crossover after disease progression was not permitted. Study patients were stratified according to American Joint Committee on Cancer stage and geographic region. To manage adverse events, we allowed modifications to the dose of both vemurafenib and cobimetinib, with dose modifications for prespecified levels of toxic events (i.e., grade \u22652; see the study protocol).\n\n#### **STUDY END POINTS**\n\nThe primary end point was progression-free survival as assessed by the investigator, according to RECIST criteria, version 1.1. The secondary end points included overall survival, rate of confirmed objective response according to RECIST criteria, version 1.1, duration of response, progression-free survival as assessed by an independent review facility, and safety (assessed according to the study treatment received). Tumor assessments were carried out at baseline and every 8 weeks, and we performed a blinded, independent central review of tumor assessments.\n\n#### **STATISTICAL ANALYSIS**\n\nThe prespecified number of progression events (206 events) was reached in May 2014, and the results reported here are based on data analyses from July 2014 (database locked on July 10, 2014). All the efficacy analyses were carried out in the intention-to-treat population. We estimated that 206 progression events would provide the study with at least 95% power to detect a hazard ratio for death or progression of disease of 0.55, with an alpha level of 0.05 (an increase in the median progression-free survival, from 6 months for vemurafenib and placebo to 11 months for vemurafenib plus cobimetinib). Progression-free survival was defined as the time between the date of randomization and the date of the first documented event of disease progression or death, whichever occurred first according to the assessment of the site investigator.\n\nWe used the Kaplan\u2013Meier method to estimate rates of progression-free and overall survival and used a stratified log-rank test for all the comparisons. Response rates and 95% confidence intervals\n\nn engl j med 371;20 nejm.org november 13, 2014 1869\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org on June 16, 2025. For personal use only.\n\n| Table 1. Characteristics of the Patients.*            |                                       |                                           |  |  |  |  |  |\n|-------------------------------------------------------|---------------------------------------|-------------------------------------------|--|--|--|--|--|\n| Characteristic                                        | Vemurafenib<br>and Placebo<br>(N=248) | Vemurafenib<br>and Cobimetinib<br>(N=247) |  |  |  |  |  |\n| Age \u2014 yr                                              |                                       |                                           |  |  |  |  |  |\n| Median                                                | 55                                    | 56                                        |  |  |  |  |  |\n| Range                                                 | 25\u201385                                 | 23\u201388                                     |  |  |  |  |  |\n| Male sex \u2014 no. (%)                                    | 140 (56)                              | 146 (59)                                  |  |  |  |  |  |\n| White race \u2014 no. (%)\u2020                                 | 235 (95)                              | 227 (92)                                  |  |  |  |  |  |\n| Geographic region \u2014 no. (%)                           |                                       |                                           |  |  |  |  |  |\n| Australia, New Zealand, or Israel                     | 38 (15)                               | 40 (16)                                   |  |  |  |  |  |\n| Europe\u2021                                               | 184 (74)                              | 182 (74)                                  |  |  |  |  |  |\n| North America                                         | 26 (10)                               | 25 (10)                                   |  |  |  |  |  |\n| ECOG performance-status score \u2014<br>no./total no. (%)\u00a7 |                                       |                                           |  |  |  |  |  |\n| 0                                                     | 164/244 (67)                          | 184/243 (76)                              |  |  |  |  |  |\n| 1                                                     | 80/244 (33)                           | 58/243 (24)                               |  |  |  |  |  |\n| 2                                                     | 0/244                                 | 1/243 (<1)                                |  |  |  |  |  |\n| Metastatic status \u2014 no. (%)\u00b6                          |                                       |                                           |  |  |  |  |  |\n| Unresectable stage IIIC                               | 13 (5)                                | 21 (9)                                    |  |  |  |  |  |\n| M1a                                                   | 40 (16)                               | 40 (16)                                   |  |  |  |  |  |\n| M1b                                                   | 42 (17)                               | 40 (16)                                   |  |  |  |  |  |\n| M1c                                                   | 153 (62)                              | 146 (59)                                  |  |  |  |  |  |\n| Elevated LDH \u2014 no./total no. (%)                      | 104/242 (43)                          | 112/242 (46)                              |  |  |  |  |  |\n| History of brain metastases \u2014 no. (%)                 | 2 (1)                                 | 1 (<1)                                    |  |  |  |  |  |\n| BRAF-mutation genotype \u2014 no. (%)\u2016                     |                                       |                                           |  |  |  |  |  |\n| V600E                                                 | 174 (70)                              | 170 (69)                                  |  |  |  |  |  |\n| V600K                                                 | 32 (13)                               | 24 (10)                                   |  |  |  |  |  |\n| Could not be evaluated                                | 42 (17)                               | 53 (21)                                   |  |  |  |  |  |\n\n\\* There were no significant differences in baseline characteristics between the study groups. LDH denotes lactate dehydrogenase.\n\n\u2020 Race was determined by the investigator.\n\n\u2021 The data for patients from Russia and Turkey were included with those for Europe.\n\n\u00a7 An Eastern Cooperative Oncology Group (ECOG) performance-status score of 0 indicates that the patient is fully active and able to carry on all performance without restriction and a score of 1 that the patient is restricted in physically strenuous activity but ambulatory and able to carry out work of a light or sedentary nature. One patient randomly assigned to receive vemurafenib and cobimetinib had an ECOG performance-status score of 1 at randomization but had an ECOG performance-status score of 2 (indicating the patient is ambulatory and capable of all self-care but is unable to carry out any work activities and is out of bed more than 50% of waking hours) after randomization but before the first dose was received.\n\n\u00b6The criteria of the American Joint Committee on Cancer for distant metastasis are as follows: M1a indicates metastases to skin, subcutaneous tissue, or distant lymph nodes; M1b metastases to lung; and M1c metastases to all other visceral sites or distant metastases to any site combined with an elevated serum LDH level.\n\n\u2016 After randomization, we characterized tumor DNA to identify specific V600 mutations using next-generation sequencing. Cases that could not be evaluated were those in which either no tumor sample was provided or sequencing could not be performed on the tissue provided.\n\n## **Figure 1 (facing page). Progression-free Survival in the Intention-to-Treat Population and Prespecified Subgroups.**\n\nPanel A shows Kaplan\u2013Meier estimates of progression-free survival (as assessed by the site investigators) in the intention-to-treat population. The tick marks indicate censored data, and the dashed line 50% survival. Panel B shows hazard ratios and 95% confidence intervals (error bars) for progression-free survival in prespecified subgroups of patients, according to various baseline characteristics. The data for patients from Russia and Turkey were included with those for Europe. The size of the blue boxes indicates the number of events, and the dashed line the hazard ratio for the risk of disease progression or death in the overall population. NR denotes not reached.\n\nare reported for the two study groups. Differences in the response rate between the two treatment groups were tested with the use of a chi-square test with Schouten correction.17 We used the Kaplan\u2013Meier method to calculate median and interquartile ranges to summarize the duration of response. Safety analyses included all the patients who had received at least one dose of a study drug.\n\nThe final analysis of overall survival will occur after 385 deaths are recorded, which we estimate will provide the study with 80% power to detect a hazard ratio for death of 0.75. Two interim analyses have been planned. The first interim analysis was performed at the time of the final analysis of progression-free survival, and the second interim analysis of overall survival will be triggered after 256 deaths have occurred. A Lan\u2013DeMets implementation of an O'Brien\u2013Fleming boundary function was used in the analysis of overall survival.<sup>18</sup>\n\nRESULTS\n\n# **PATIENTS**\n\nA total of 1049 patients were screened, and 495 patients with *BRAF* V600\u2013mutated metastatic melanoma were randomly assigned to receive vemurafenib and cobimetinib (247 patients) or vemurafenib and placebo (248) (Fig. S1 in the Supplementary Appendix, available at NEJM.org). The most common reason for exclusion from the study was a negative test result for the *BRAF* V600 mutation. The characteristics of the patients at baseline were generally well balanced between the two study groups (Table 1). Visceral metastases were present in 59% of the patients in the\n\n1870 n engl j med 371;20 nejm.org november 13, 2014\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org on June 16, 2025. For personal use only.\n\n![](_page_4_Figure_1.jpeg)\n\n#### **B Subgroup Analyses of Progression-free Survival**\n\n| Subgroup                                                                                                                                                                             | Total No.<br>of Patients |                    | Vemurafenib +<br>Placebo |                | Vemurafenib +<br>Cobimetinib |               | Hazard Ratio (95% CI) |                                     |     |                                 |\n|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|--------------------|--------------------------|----------------|------------------------------|---------------|-----------------------|-------------------------------------|-----|---------------------------------|\n|                                                                                                                                                                                      |                          |                    | no. of<br>patients       |                | no. of<br>patients           |               |                       |                                     |     |                                 |\n|                                                                                                                                                                                      |                          | no. of<br>patients | with<br>event            | median<br>(mo) | no. of<br>patients           | with<br>event | median<br>(mo)        |                                     |     |                                 |\n| All patients                                                                                                                                                                         | 495                      | 248                | 128                      | 6.2            | 247                          | 79            | 9.9                   |                                     |     | 0.51 (0.39\u20130.68)                |\n| Disease stage                                                                                                                                                                        |                          |                    |                          |                |                              |               |                       |                                     |     |                                 |\n| M1c                                                                                                                                                                                  | 299                      | 153                | 99                       | 5.3            | 146                          | 55            | 9.1                   |                                     |     | 0.46 (0.33\u20130.64)                |\n| Unresectable IIIc, M1a, or M1b                                                                                                                                                       | 196                      | 95                 | 29                       | NR             | 101                          | 24            | NR                    |                                     |     | 0.69 (0.40\u20131.19)                |\n| Age                                                                                                                                                                                  |                          |                    |                          |                |                              |               |                       |                                     |     |                                 |\n| <65 yr                                                                                                                                                                               | 362                      | 179                | 92                       | 6.5            | 183                          | 61            | 9.9                   |                                     |     | 0.54 (0.39\u20130.75)                |\n| \u226565 yr                                                                                                                                                                               | 133                      | 69                 | 36                       | 5.5            | 64                           | 18            | NR                    |                                     |     | 0.45 (0.25\u20130.79)                |\n| Sex                                                                                                                                                                                  |                          |                    |                          |                |                              |               |                       |                                     |     |                                 |\n| Female                                                                                                                                                                               | 209                      | 108                | 51                       | 7.2            | 101                          | 27            | NR                    |                                     |     | 0.49 (0.31\u20130.78)                |\n| Male                                                                                                                                                                                 | 286                      | 140                | 77                       | 5.6            | 146                          | 52            | 9.8                   |                                     |     | 0.52 (0.36\u20130.74)                |\n| Geographic region                                                                                                                                                                    |                          |                    |                          |                |                              |               |                       |                                     |     |                                 |\n| Australia, New Zealand, or Israel                                                                                                                                                    | 78                       | 38                 | 16                       | NR             | 40                           | 9             | NR                    |                                     |     | 0.51 (0.22\u20131.15)                |\n| Europe                                                                                                                                                                               | 366                      | 184                | 101                      | 5.7            | 182                          | 62            | 9.9                   |                                     |     | 0.50 (0.36\u20130.68)                |\n| North America                                                                                                                                                                        | 51                       | 26                 | 11                       | 7.4            | 25                           | 8             | NR                    |                                     |     | 0.60 (0.24\u20131.51)                |\n| ECOG performance-status score                                                                                                                                                        |                          |                    |                          |                |                              |               |                       |                                     |     |                                 |\n| 0                                                                                                                                                                                    | 348                      | 164                | 75                       | 7.5            | 184                          | 57            | 9.9                   |                                     |     | 0.60 (0.42\u20130.85)                |\n| 1                                                                                                                                                                                    | 138                      | 80                 | 51                       | 5.5            | 58                           | 21            | 11.1                  |                                     |     | 0.40 (0.24\u20130.67)                |\n| Lactate dehydrogenase level                                                                                                                                                          |                          |                    |                          |                |                              |               |                       |                                     |     |                                 |\n| \u2265Upper limit of normal range                                                                                                                                                         | 216                      | 104                | 67                       | 4.7            | 112                          | 51            | 7.7                   |                                     |     | 0.55 (0.38\u20130.79)                |\n| <upper limit=\"\" normal=\"\" of=\"\" range<=\"\" td=\"\"><td>268</td><td>138</td><td>57</td><td>7.5</td><td>130</td><td>28</td><td>NR</td><td></td><td></td><td>0.45 (0.29\u20130.71)</td></upper> | 268                      | 138                | 57                       | 7.5            | 130                          | 28            | NR                    |                                     |     | 0.45 (0.29\u20130.71)                |\n| Prior adjuvant therapy                                                                                                                                                               |                          |                    |                          |                |                              |               |                       |                                     |     |                                 |\n| Yes                                                                                                                                                                                  | 48                       | 24                 | 11                       | 7.2            | 24                           | 6             | NR                    |                                     |     | 0.50 (0.18\u20131.35)                |\n| No                                                                                                                                                                                   | 447                      | 224                | 117                      | 6.0            | 223                          | 73            | 9.9                   |                                     |     | 0.51 (0.38\u20130.69)                |\n| BRAF V600 mutation status                                                                                                                                                            |                          |                    |                          |                |                              |               |                       |                                     |     |                                 |\n| V600E                                                                                                                                                                                | 344                      | 174                | 88                       | 6.5            | 170                          | 58            | NR                    |                                     |     | 0.57 (0.41\u20130.80)                |\n| V600K                                                                                                                                                                                | 56                       | 32                 | 17                       | 5.3            | 24                           | 4             | NR                    |                                     |     | 0.27 (0.09\u20130.81)                |\n|                                                                                                                                                                                      |                          |                    |                          |                |                              |               | 0.01                  | 0.1                                 | 1.0 | 10.0                            |\n|                                                                                                                                                                                      |                          |                    |                          |                |                              |               |                       | Vemurafenib +<br>Cobimetinib Better |     | Vemurafenib +<br>Placebo Better |\n\nn engl j med 371;20 nejm.org november 13, 2014 1871\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org on June 16, 2025. For personal use only.\n\ncombination group and in 62% of those in the control group. At baseline, 46% and 43% of the patients, respectively, had an elevated lactate dehydrogenase level. The median follow-up of patients at the time of reporting was 7.3 months (range, 0.5 to 16.5).\n\n#### **EFFICACY**\n\n#### *Progression-free Survival*\n\nThe combination of vemurafenib and cobimetinib significantly prolonged progression-free survival according to investigator assessment in the intention-to-treat population: a median of 9.9 months (95% confidence interval [CI], 9.0 to not reached), as compared with 6.2 months (95% CI, 5.6 to 7.4) in patients treated with vemurafenib and placebo. The hazard ratio for death or progression of disease was 0.51 (95% CI, 0.39 to 0.68; P<0.001) (Fig. 1A). The benefit for progressionfree survival was evident in all the prespecified patient subgroups (Fig. 1B) and according to analysis by independent radiology central review (Table 2, and Fig. S2 in the Supplementary Appendix).\n\n| Table 2. Efficacy Summary.*                             |                                       |                                           |  |  |  |  |  |\n|---------------------------------------------------------|---------------------------------------|-------------------------------------------|--|--|--|--|--|\n| End Point                                               | Vemurafenib<br>and Placebo<br>(N=248) | Vemurafenib<br>and Cobimetinib<br>(N=247) |  |  |  |  |  |\n| Progression-free survival                               |                                       |                                           |  |  |  |  |  |\n| According to investigator assessment\u2020                   |                                       |                                           |  |  |  |  |  |\n| Median duration \u2014 mo (95% CI)                           | 6.2 (5.6\u20137.4)                         | 9.9 (9.0\u2013NR)                              |  |  |  |  |  |\n| Hazard ratio for death or disease progression (95% CI)  | Reference                             | 0.51 (0.39\u20130.68)                          |  |  |  |  |  |\n| P value                                                 | Reference                             | <0.001                                    |  |  |  |  |  |\n| According to assessment by independent review facility\u2020 |                                       |                                           |  |  |  |  |  |\n| Median duration \u2014 mo (95% CI)                           | 6.0 (5.6\u20137.5)                         | 11.3 (8.5\u2013NR)                             |  |  |  |  |  |\n| Hazard ratio for death or disease progression (95% CI)  | Reference                             | 0.60 (0.45\u20130.79)                          |  |  |  |  |  |\n| P value                                                 | Reference                             | <0.001                                    |  |  |  |  |  |\n| Best response \u2014 no. (%)                                 |                                       |                                           |  |  |  |  |  |\n| Complete response                                       | 11 (4)                                | 25 (10)                                   |  |  |  |  |  |\n| Partial response                                        | 100 (40)                              | 142 (57)                                  |  |  |  |  |  |\n| Stable disease                                          | 105 (42)                              | 49 (20)                                   |  |  |  |  |  |\n| Progressive disease                                     | 25 (10)                               | 19 (8)                                    |  |  |  |  |  |\n| No complete response or progressive disease             | 1 (<1)                                | 0                                         |  |  |  |  |  |\n| Could not be evaluated\u2021                                 | 6 (2)                                 | 12 (5)                                    |  |  |  |  |  |\n| Complete or partial response                            |                                       |                                           |  |  |  |  |  |\n| No. of patients                                         | 111                                   | 167                                       |  |  |  |  |  |\n| Percent of patients (95% CI)                            | 45 (38\u201351)                            | 68 (61\u201373)                                |  |  |  |  |  |\n| P value                                                 | Reference                             | <0.001                                    |  |  |  |  |  |\n| Median duration of response \u2014 mo (95% CI)               | 7.3 (5.8\u2013NR)                          | NR (9.3\u2013NR)                               |  |  |  |  |  |\n| Overall survival at 9 mo \u2014 % (95% CI)                   | 73 (65\u201380)                            | 81 (75\u201387)                                |  |  |  |  |  |\n| Overall survival\u2020                                       |                                       |                                           |  |  |  |  |  |\n| Median duration \u2014 mo (95% CI)                           | NR                                    | NR                                        |  |  |  |  |  |\n| Hazard ratio for death (95% CI)                         | Reference                             | 0.65 (0.42\u20131.00)                          |  |  |  |  |  |\n| P value                                                 | Reference                             | 0.046                                     |  |  |  |  |  |\n\n\\* NR denotes not reached.\n\n\u2020 Patients were stratified according to geographic region and metastasis classification.\n\n\u2021 Responses could not be evaluated for patients who withdrew consent, were withdrawn by the site investigator, died, or started new anticancer therapy before the first tumor assessment.\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org on June 16, 2025. For personal use only.\n\n#### *Overall Survival*\n\nThe interim analysis of overall survival in the intention-to-treat population showed that the rate of overall survival at 9 months for the combination of vemurafenib and cobimetinib was 81% (95% CI, 75 to 87), as compared with 73% (95% CI, 65 to 80) with vemurafenib and placebo (Table 2 and Fig. 2). This assessment of overall survival was performed at the time of the final analysis of progression-free survival, and at this early time point, it had not crossed the prespecified hazard-ratio boundary for significance (observed hazard ratio for death, 0.65; 95% CI, 0.42 to 1.00; P=0.046; boundary P<0.0000037). The absolute number of deaths was 34 in the combination group and 51 in the control group, and the median overall survival was not reached in either study group.\n\n#### *Response*\n\nThe investigator-assessed response rate was significantly higher in the combination group than in the control group (Table 2). Overall, 68% of patients in the combination group had an objective response, as compared with 45% in the control group (P<0.001) (Fig. S3 in the Supplementary Appendix). The rate of complete response was also significantly higher in the combination group than in the control group (10% vs. 4%). The majority of responses were seen by the time of the first tumor assessment at 8 weeks (Fig. S4 in the Supplementary Appendix). The median duration of response was 7.3 months in the control group, and the median was not reached in the combination group (Table 2).\n\n#### **SAFETY**\n\nA total of 493 patients (>99%) received at least one dose of study drug and were included in the safety analysis. Adverse events that were reported in at least 20% of patients in either group are shown in Table 3. The combination of vemurafenib and cobimetinib was associated with a higher frequency of certain events than the single-agent therapy, including central serous retinopathy, gastrointestinal events (diarrhea, nausea, or vomiting), photosensitivity, elevated aminotransferase levels, and an increased creatine kinase level; the majority (>50%) of these individual events were grade 1 or 2 (Table 3).\n\nWe observed equivalent rates of grade 3 events (49%) in the two study groups and substantially fewer grade 4 events (9% in the control group vs. 13% in the combination group), with close to\n\n![](_page_6_Figure_9.jpeg)\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org on June 16, 2025. For personal use only.\n\n| Table 3. Common Adverse Events.*         |                                 |         |          |         |                                     |         |          |         |  |\n|------------------------------------------|---------------------------------|---------|----------|---------|-------------------------------------|---------|----------|---------|--|\n| Adverse Event                            | Vemurafenib and Placebo (N=239) |         |          |         | Vemurafenib and Cobimetinib (N=254) |         |          |         |  |\n|                                          | Grade 1                         | Grade 2 | Grade 3  | Grade 4 | Grade 1                             | Grade 2 | Grade 3  | Grade 4 |  |\n|                                          | number of patients (percent)    |         |          |         |                                     |         |          |         |  |\n| Any adverse event                        | 21 (9)                          | 70 (29) | 117 (49) | 22 (9)  | 19 (7)                              | 66 (26) | 125 (49) | 34 (13) |  |\n| Most common adverse events\u2020              |                                 |         |          |         |                                     |         |          |         |  |\n| Diarrhea                                 | 51 (21)                         | 16 (7)  | 0        | 0       | 99 (39)                             | 29 (11) | 16 (6)   | 0       |  |\n| Nausea                                   | 43 (18)                         | 12 (5)  | 2 (1)    | 0       | 75 (30)                             | 22 (9)  | 2 (1)    | 0       |  |\n| Vomiting                                 | 21 (9)                          | 6 (3)   | 2 (1)    | 0       | 41 (16)                             | 10 (4)  | 3 (1)    | 0       |  |\n| Rash                                     | 46 (19)                         | 27 (11) | 12 (5)   | 0       | 55 (22)                             | 29 (11) | 13 (5)   | 2 (1)   |  |\n| Photosensitivity reaction                | 25 (10)                         | 12 (5)  | 0        | 0       | 48 (19)                             | 18 (7)  | 6 (2)    | 0       |  |\n| Hyperkeratosis                           | 49 (21)                         | 14 (6)  | 5 (2)    | 0       | 23 (9)                              | 3 (1)   | 0        | 0       |  |\n| Fatigue                                  | 42 (18)                         | 24 (10) | 7 (3)    | 0       | 48 (19)                             | 24 (9)  | 9 (4)    | 0       |  |\n| Pyrexia                                  | 43 (18)                         | 10 (4)  | 0        | 0       | 49 (19)                             | 13 (5)  | 4 (2)    | 0       |  |\n| Arthralgia                               | 53 (22)                         | 31 (13) | 12 (5)   | 0       | 54 (21)                             | 23 (9)  | 6 (2)    | 0       |  |\n| Alopecia                                 | 55 (23)                         | 14 (6)  | 1 (<1)   | 0       | 33 (13)                             | 1 (<1)  | 1 (<1)   | 0       |  |\n| Increased alanine aminotrans<br>ferase   | 17 (7)                          | 11 (5)  | 14 (6)   | 1 (<1)  | 16 (6)                              | 15 (6)  | 28 (11)  | 1 (<1)  |  |\n| Increased aspartate amino<br>transferase | 15 (6)                          | 10 (4)  | 4 (2)    | 1 (<1)  | 17 (7)                              | 18 (7)  | 21 (8)   | 0       |  |\n| Increased creatine kinase                | 6 (3)                           | 1 (<1)  | 0        | 0       | 23 (9)                              | 27 (11) | 17 (7)   | 9 (4)   |  |\n| Selected adverse events                  |                                 |         |          |         |                                     |         |          |         |  |\n| Cutaneous squamous-cell<br>carcinoma     | 0                               | 0       | 27 (11)  | 0       | 0                                   | 1 (<1)  | 6 (2)    | 0       |  |\n| Keratoacanthoma                          | 1 (<1)                          | 1 (<1)  | 18 (8)   | 0       | 0                                   | 0       | 2 (1)    | 0       |  |\n| Chorioretinopathy                        | 1 (<1)                          | 0       | 0        | 0       | 17 (7)                              | 12 (5)  | 1 (<1)   | 0       |  |\n| Retinal detachment                       | 0                               | 0       | 0        | 0       | 9 (4)                               | 6 (2)   | 5 (2)    | 1 (<1)  |  |\n| Decreased ejection fraction              | 0                               | 4 (2)   | 3 (1)    | 0       | 2 (1)                               | 14 (6)  | 3 (1)    | 0       |  |\n| QT-interval prolongation                 | 8 (3)                           | 2 (1)   | 3 (1)    | 0       | 6 (2)                               | 2 (1)   | 1 (<1)   | 0       |  |\n\n\\* The safety population was analyzed according to the study treatment received. Eight patients assigned to the control group received investigational cobimetinib as a result of dispensing errors. Two patients (one in each study group) did not receive the assigned study drug and were therefore excluded from the safety analysis. Multiple occurrences of a specific adverse event for a patient were counted once at the highest grade of the occurrence, according to the National Cancer Institute Common Terminology Criteria for Adverse Events, version 4.0. For example, if a patient had two episodes of a specific toxic event, one grade 3 and one grade 4, the patient was counted only once, in the grade 4 column. Similarly, in the \"Any adverse events\" row, if a patient had, for example, three separate events of grade 1, 3, and 4, the patient was counted only once, in the grade 4 column.\n\n\u2020 The most common adverse events were those that occurred in at least 20% of the patients in either study group.\n\nhalf of these in the experimental group being due to laboratory abnormalities (elevated aspartate aminotransferase, alanine aminotransferase, and creatine kinase levels) but without symptoms. An elevated creatine kinase level, a known class effect of MEK blockade, was the single most common grade 4 event (4%) seen with the combination therapy, although the majority of events related to creatine kinase (66%) were grade 1 or 2.\n\nSome toxic events were observed at a lower frequency in the combination group than in the control group, including keratoacanthomas and cutaneous squamous-cell carcinoma, alopecia, and arthralgias. Rates of clinically significant cardiac events (QT-interval prolongation and decreased ejection fraction) were low and similar in the two groups, as was pyrexia, with only four patients with grade 3 events (all in the combina-\n\n1874 n engl j med 371;20 nejm.org november 13, 2014\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org on June 16, 2025. For personal use only.\n\ntion group). Overall, six deaths were attributed to adverse events in the combination group and three deaths in the control group (Table S1 in the Supplementary Appendix). Despite differences between the two groups in the type and frequency of adverse events, the incidence of toxic events leading to the withdrawal from treatment was similar (12% in the control group and 13% in the combination group). At the time of the data cutoff, a total of 85 patients had died, primarily as a result of disease progression (96% of the deaths in the control group and 85% of those in the combination group were due to progression).\n\n# DISCUSSION\n\nThis phase 3 study showed an improvement in the response rate and in progression-free survival when cobimetinib was added to vemurafenib. Together with the results of a phase 3 trial comparing dabrafenib plus trametinib with dabrafenib alone,19 these findings provide clear evidence of the benefit of combined MEK and BRAF inhibition. The data combining BRAF and MEK inhibitor\u2013targeted therapies need to be put in context with the rapidly evolving melanoma-treatment landscape \u2014 namely, the development of immunotherapies that are based on checkpoint blockade with ipilimumab or anti\u2013programmed death 1 antibodies. Evidence suggests that these agents can lead to durable tumor responses in patients with metastatic melanoma, albeit with lower response rates than have been observed with BRAF and MEK inhibition.20-23\n\nThe primary end point of the hazard ratio for the risk of progression or death that we report for vemurafenib plus cobimetinib, as compared with vemurafenib alone, is significant. The data from the prespecified interim analysis of overall survival we report here are immature, reflecting analysis at the time of the planned analysis of progression-free survival, and they do not cross the boundary prespecified in the statistical analysis plan. Nevertheless, these early data are encouraging, although mature data are needed before definitive conclusions can be drawn. The consistency between both primary and secondary end points and subgroups is a strength of the current study, as was the performance of the control group, which was broadly consistent with prior randomized trials of BRAF inhibitors in both the response rate and median progression-free survival.3,4 It is possible that the intermittent dosing regimen of cobimetinib, resulting from the definition of the maximum tolerated dose in phase 1 testing,15 might have an effect on the outcomes of the combination with vemurafenib: preclinical data suggest that the intermittent blockade of oncogenic BRAF signaling might delay the development of acquired resistance.<sup>24</sup>\n\nThe majority of common toxic events seen with the combination of vemurafenib and cobimetinib were of grade 1 or 2 (Table 3). With relatively long-term treatment with vemurafenib and cobimetinib, it is important to distinguish side effects of the combination therapy (e.g., nausea, vomiting, and diarrhea) that can be managed with appropriate supportive interventions. In this study, several MEK inhibitor\u2013specific toxic events were observed. An asymptomatic elevated creatine kinase level is a known class effect of MEK inhibition and was observed in 30% of patients with exposure to vemurafenib and cobimetinib in our study, the majority of events being grade 1 or 2 and rapidly reversible. MEK inhibitors are also associated with ocular conditions resembling central serous retinopathy,25,26 recently referred to in the literature as transient drug-induced retinopathy.<sup>26</sup> Consistent with previous reports, most cases (86%) of retinopathy in our study were grade 1 (clinically asymptomatic) or 2 (moderate decrease in visual acuity), were found to be reversible at subsequent ophthalmic examinations in the majority of cases without any treatment, or were managed with dose reduction or withdrawal of cobimetinib.\n\nIn conclusion, the combination of vemurafenib and cobimetinib, as compared with vemurafenib alone, resulted in an improvement in progression-free survival and objective responses, with early evidence of improved overall survival and a somewhat increased toxicity profile, among patients with advanced *BRAF*-mutated melanoma.\n\nDisclosure forms provided by the authors are available with the full text of this article at NEJM.org.\n\nWe thank the patients and their families for their participation.\n\nThe New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.\n\nDownloaded from nejm.org on June 16, 2025. For personal use only.\n\nSupported by F. Hoffmann\u2013La Roche/Genentech. Cobimetinib is being developed by F. Hoffmann\u2013La Roche/Genentech, under a collaboration with Exelixis.\n\n#### **REFERENCES**\n\n**1.** Davies H, Bignell GR, Cox C, et al. Mutations of the BRAF gene in human cancer. Nature 2002;417:949-54.\n\n**2.** Curtin JA, Fridlyand J, Kageshita T, et al. Distinct sets of genetic alterations in melanoma. N Engl J Med 2005;353:2135-47.\n\n**3.** Chapman PB, Hauschild A, Robert C, et al. Improved survival with vemurafenib in melanoma with BRAF V600E mutation. N Engl J Med 2011;364:2507-16.\n\n**4.** Hauschild A, Grob JJ, Demidov L, et al. Dabrafenib in BRAF-mutated metastatic melanoma: a multicentre, open-label, phase 3 randomised controlled trial. Lancet 2012;380:358-65.\n\n**5.** Sosman JA, Kim KB, Schuchter L, et al. Survival in BRAF V600\u2013mutant advanced melanoma treated with vemurafenib. N Engl J Med 2012;366:707-14.\n\n**6.** Larkin J, Del Vecchio M, Ascierto PA, et al. Vemurafenib in patients with BRAF(V600) mutated metastatic melanoma: an open-label, multicentre, safety study. Lancet Oncol 2014;15:436-44.\n\n**7.** Oberholzer PA, Kee D, Dziunycz P, et al. RAS mutations are associated with the development of cutaneous squamous cell tumors in patients treated with RAF inhibitors. J Clin Oncol 2012;30:316-21.\n\n**8.** Su F, Viros A, Milagre C, et al. *RAS* mutations in cutaneous squamous-cell carcinomas in patients treated with BRAF inhibitors. N Engl J Med 2012;366:207-15. **9.** Shi H, Hong A, Kong X, et al. A novel AKT1 mutant amplifies an adaptive melanoma response to BRAF inhibition. Cancer Discov 2014;4:69-79.\n\n**10.** Shi H, Hugo W, Kong X, et al. Ac-\n\nquired resistance and clonal evolution in melanoma during BRAF inhibitor therapy. Cancer Discov 2014;4:80-93.\n\n**11.** Van Allen EM, Wagle N, Sucker A, et al. The genetic landscape of clinical resistance to RAF inhibition in metastatic melanoma. Cancer Discov 2014;4:94-109. **12.** Flaherty KT, Robert C, Hersey P, et al. Improved survival with MEK inhibition in BRAF-mutated melanoma. N Engl J Med 2012;367:107-14.\n\n**13.** Flaherty KT, Infante JR, Daud A, et al. Combined BRAF and MEK inhibition in melanoma with BRAF V600 mutations. N Engl J Med 2012;367:1694-703.\n\n**14.** Hoeflich KP, Merchant M, Orr C, et al. Intermittent administration of MEK inhibitor GDC-0973 plus PI3K inhibitor GDC-0941 triggers robust apoptosis and tumor growth inhibition. Cancer Res 2012; 72:210-9.\n\n**15.** Ribas A, Gonzalez R, Pavlick A, et al. Combination of vemurafenib and cobimetinib in patients with advanced BRAF(V600)-mutated melanoma: a phase 1b study. Lancet Oncol 2014;15:954-65.\n\n**16.** Eisenhauer EA, Therasse P, Bogaerts J, et al. New response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1). Eur J Cancer 2009;45:228-47. **17.** Schouten HJA, Molenaar IW, Van Strik R, Boomsma A. Comparing two independent binomial distributions by a modified chi square test. Biometrical J 1980;22:241-8.\n\n**18.** Lan KKG, DeMets DL. Discrete sequential boundaries for clinical trials. Biometrika 1983;70:659-63.\n\n**19.** Long GV, Stroyakovskiy D, Gogas H, et al. Combined   # Increased text length for comprehensive extraction\n\nReturn JSON only:",
+    "validation_data": {
+      "can_process": true,
+      "nct_number": "NCT01689519",
+      "treatment_arms_count": 2,
+      "errors": [],
+      "warnings": []
+    },
+    "extraction_ready": true,
+    "source": "marker_enhanced",
+    "markdown_length": 61652,
+    "extraction_timestamp": "2025-07-23T12:43:47.081518"
+  },
+  "quality_assessment": {
+    "markdown_quality": 100.0,
+    "clinical_keywords_found": 15,
+    "table_structures": 1185,
+    "section_headers": 71,
+    "nct_numbers": 1,
+    "extraction_fields_filled": 6,
+    "processing_success": true
+  },
+  "success": true,
+  "processing_time": 1753254827.083978,
+  "use_llm": false
+}
