@@ -1,9 +1,14 @@
 {
   "metadata": {
-    "version": "2.0",
-    "last_updated": "2025-07-17",
-    "description": "Enhanced clinical trial data extraction keywords for melanoma research",
-    "extraction_priority": ["nct_number", "treatment_arms", "efficacy", "safety"]
+    "version": "2.1",
+    "last_updated": "2025-07-24",
+    "description": "Enhanced clinical trial data extraction keywords for melanoma research with complete keyword coverage and NA logic implementation",
+    "extraction_priority": ["nct_number", "treatment_arms", "efficacy", "safety"],
+    "keyword_categories": {
+      "efficacy_prompts": ["Efficacy"],
+      "safety_prompts": ["Safety", "AE prompts", "TEAE prompts", "TRAE prompts"],
+      "table_prompts": ["Sub-types Adverse events prompts (in tables)"]
+    }
   },
   "validation_rules": {
     "critical_fields": {
@@ -58,6 +63,23 @@
       ]
     }
   },
+  "field_categories": {
+    "safety": {
+      "keywords": ["adverse", "ae", "teae", "trae", "grade", "serious", "fatal", "discontinuation", "death"],
+      "missing_protocol": "NA",
+      "description": "All safety-related fields use 'NA' for missing values"
+    },
+    "efficacy": {
+      "keywords": ["response", "survival", "progression", "pfs", "os", "orr", "dcr", "cbr", "duration"],
+      "missing_protocol": "",
+      "description": "All efficacy-related fields use empty string for missing values"
+    },
+    "administrative": {
+      "keywords": ["publication", "nct", "trial", "sponsor", "phase", "date", "country"],
+      "missing_protocol": "",
+      "description": "Administrative fields use empty string for missing values"
+    }
+  },
   "field_groups": {
     "publication_metadata": {
       "fields": [
@@ -66,17 +88,23 @@
           "type": "string",
           "format": "Journal YYYY; Volume:Pages",
           "example": "NEJM 2017; 377:1345-56",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": true
         },
         {
           "name": "Publication Year",
           "type": "integer",
           "validation": {"min": 1990, "max": 2030},
+          "missing_value": "",
+          "field_category": "administrative",
           "required": true
         },
         {
           "name": "PDF number",
           "type": "string",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         }
       ]
@@ -87,6 +115,8 @@
           "name": "NCT Number",
           "type": "string",
           "validation": "regex:NCT\\d{8}",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": true,
           "critical": true
         },
@@ -94,18 +124,24 @@
           "name": "Trial name",
           "type": "controlled_vocabulary",
           "vocabulary": "trial_names",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": true
         },
         {
           "name": "Sponsors",
           "type": "controlled_vocabulary",
           "vocabulary": "sponsors",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": true
         },
         {
           "name": "Clinical Trial Phase",
           "type": "controlled_vocabulary",
           "vocabulary": "clinical_trial_phase",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": true
         }
       ]
@@ -116,22 +152,30 @@
           "name": "Cancer Type",
           "type": "controlled_vocabulary",
           "vocabulary": "cancer_type",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": true
         },
         {
           "name": "Primary endpoint",
           "type": "string",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         },
         {
           "name": "Secondary endpoint",
           "type": "string",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         },
         {
           "name": "Median Age",
           "type": "numeric",
           "format": "years",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         }
       ]
@@ -141,11 +185,15 @@
         {
           "name": "Mechanism of action",
           "type": "string",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         },
         {
           "name": "Target Protein",
           "type": "string",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         },
         {
@@ -160,21 +208,29 @@
             "Bispecific Antibodies": ["Tebentafusp-tebn", "Kimmtrak"],
             "Vaccine/Immunostimulant": ["Cancer vaccines", "immunostimulants"]
           },
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         },
         {
           "name": "Dosage",
           "type": "string",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         },
         {
           "name": "Type of dosing",
           "type": "string",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         },
         {
           "name": "Number of doses per year",
           "type": "numeric",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         }
       ]
@@ -185,16 +241,22 @@
           "name": "Biomarker Inclusion",
           "type": "binary",
           "format": "YES/NO",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         },
         {
           "name": "Biomarkers Inclusion Criteria",
           "type": "string",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         },
         {
           "name": "Biomarkers Exclusion Criteria",
           "type": "string",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         }
       ]
@@ -204,42 +266,56 @@
         {
           "name": "Major country where clinical trial is conducted",
           "type": "string",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         },
         {
           "name": "Study start date",
           "type": "date",
           "format": "YYYY-MM-DD",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         },
         {
           "name": "Study completion date",
           "type": "date",
           "format": "YYYY-MM-DD",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         },
         {
           "name": "First results",
           "type": "date",
           "format": "YYYY-MM-DD",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         },
         {
           "name": "Trial run in Europe",
           "type": "binary",
           "format": "YES/NO",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         },
         {
           "name": "Trial run in US",
           "type": "binary",
           "format": "YES/NO",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         },
         {
           "name": "Trial run in China",
           "type": "binary",
           "format": "YES/NO",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         }
       ]
@@ -252,26 +328,42 @@
           "name": "Generic name",
           "type": "string",
           "format": "Drug name or Drug A + Drug B for combinations",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": true,
           "critical": true
         },
         {
           "name": "Brand name",
           "type": "string",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         },
         {
           "name": "Line of Treatment",
           "type": "controlled_vocabulary",
           "vocabulary": "line_of_treatment",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": true
         },
         {
           "name": "Number of patients",
           "type": "numeric",
           "format": "integer",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": true,
           "critical": true
+        },
+        {
+          "name": "Treatment arm 1",
+          "type": "string",
+          "description": "Treatment arm identifier",
+          "missing_value": "",
+          "field_category": "administrative",
+          "required": false
         }
       ]
     },
@@ -280,22 +372,30 @@
         {
           "name": "Company EU",
           "type": "string",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         },
         {
           "name": "Company US",
           "type": "string",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         },
         {
           "name": "Company China",
           "type": "string",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         },
         {
           "name": "Biosimilar",
           "type": "binary",
           "format": "YES/NO",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         }
       ]
@@ -306,36 +406,48 @@
           "name": "Chemotherapy Naive",
           "type": "binary",
           "format": "YES/NO",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         },
         {
           "name": "Chemotherapy Failed",
           "type": "binary",
           "format": "YES/NO",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         },
         {
           "name": "Immune Checkpoint Inhibitor (ICI) Naive",
           "type": "binary",
           "format": "YES/NO",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         },
         {
           "name": "Immune Checkpoint Inhibitor (ICI) failed",
           "type": "binary",
           "format": "YES/NO",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         },
         {
           "name": "Ipilimumab-failure or Ipilimumab-refractory",
           "type": "binary",
           "format": "YES/NO",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         },
         {
           "name": "Anti PD-1/L1-failure or Anti PD-1/L1-refractory",
           "type": "binary",
           "format": "YES/NO",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         }
       ]
@@ -345,18 +457,24 @@
         {
           "name": "Mutation status",
           "type": "string",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         },
         {
           "name": "BRAF-mutation",
           "type": "binary",
           "format": "YES/NO",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         },
         {
           "name": "NRAS-Mutation",
           "type": "binary",
           "format": "YES/NO",
+          "missing_value": "",
+          "field_category": "administrative",
           "required": false
         }
       ]
@@ -368,42 +486,84 @@
             "name": "Objective response rate (ORR)",
             "type": "percentage",
             "format": "numeric_only",
+            "missing_value": "",
+            "field_category": "efficacy",
+            "validation_rules": {
+              "range": "0-100",
+              "special_values": ["NR"]
+            },
             "required": false
           },
           {
             "name": "Complete Response (CR)",
             "type": "percentage",
             "format": "numeric_only",
+            "missing_value": "",
+            "field_category": "efficacy",
+            "validation_rules": {
+              "range": "0-100",
+              "special_values": ["NR"]
+            },
             "required": false
           },
           {
             "name": "Pathological Complete Response (pCR)",
             "type": "percentage",
             "format": "numeric_only",
+            "missing_value": "",
+            "field_category": "efficacy",
+            "validation_rules": {
+              "range": "0-100",
+              "special_values": ["NR"]
+            },
             "required": false
           },
           {
             "name": "Complete Metabolic Response (CMR)",
             "type": "percentage",
             "format": "numeric_only",
+            "missing_value": "",
+            "field_category": "efficacy",
+            "validation_rules": {
+              "range": "0-100",
+              "special_values": ["NR"]
+            },
             "required": false
           },
           {
             "name": "Disease Control Rate or DCR",
             "type": "percentage",
             "format": "numeric_only",
+            "missing_value": "",
+            "field_category": "efficacy",
+            "validation_rules": {
+              "range": "0-100",
+              "special_values": ["NR"]
+            },
             "required": false
           },
           {
             "name": "Clinical Benefit Rate (CBR)",
             "type": "percentage",
             "format": "numeric_only",
+            "missing_value": "",
+            "field_category": "efficacy",
+            "validation_rules": {
+              "range": "0-100",
+              "special_values": ["NR"]
+            },
             "required": false
           },
           {
             "name": "Duration of Response (DOR) rate",
             "type": "percentage",
             "format": "numeric_only",
+            "missing_value": "",
+            "field_category": "efficacy",
+            "validation_rules": {
+              "range": "0-100",
+              "special_values": ["NR"]
+            },
             "required": false
           }
         ]
@@ -412,39 +572,87 @@
         "pfs_rates": {
           "fields": [
             {
-              "name": "Progression free survival (PFS) rate at 6 months",
+              "name": "PFS rate at 6 months",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "",
+              "field_category": "efficacy",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NR"]
+              },
               "required": false
             },
             {
-              "name": "Progression free survival (PFS) rate at 9 months",
+              "name": "PFS rate at 9 months",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "",
+              "field_category": "efficacy",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NR"]
+              },
               "required": false
             },
             {
-              "name": "Progression free survival (PFS) rate at 12 months",
+              "name": "PFS rate at 12 months or 1 year",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "",
+              "field_category": "efficacy",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NR"]
+              },
               "required": false
             },
             {
-              "name": "Progression free survival (PFS) rate at 18 months",
+              "name": "PFS rate at 18 months",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "",
+              "field_category": "efficacy",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NR"]
+              },
               "required": false
             },
             {
-              "name": "Progression free survival (PFS) rate at 24 months",
+              "name": "PFS rate at 24 months or 2 years",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "",
+              "field_category": "efficacy",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NR"]
+              },
               "required": false
             },
             {
-              "name": "Progression free survival (PFS) rate at 48 months",
+              "name": "PFS rate at 36 months or 3 years",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "",
+              "field_category": "efficacy",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NR"]
+              },
+              "required": false
+            },
+            {
+              "name": "PFS rate at 48 months or 4 years",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "",
+              "field_category": "efficacy",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NR"]
+              },
               "required": false
             }
           ]
@@ -452,39 +660,87 @@
         "os_rates": {
           "fields": [
             {
-              "name": "Overall survival (OS) rate at 6 months",
+              "name": "OS rate at 6 months",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "",
+              "field_category": "efficacy",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NR"]
+              },
               "required": false
             },
             {
-              "name": "Overall survival (OS) rate at 9 months",
+              "name": "OS rate at 9 months",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "",
+              "field_category": "efficacy",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NR"]
+              },
               "required": false
             },
             {
-              "name": "Overall survival (OS) rate at 12 months",
+              "name": "OS rate at 12 months or 1 year",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "",
+              "field_category": "efficacy",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NR"]
+              },
               "required": false
             },
             {
-              "name": "Overall survival (OS) rate at 18 months",
+              "name": "OS rate at 18 months",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "",
+              "field_category": "efficacy",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NR"]
+              },
               "required": false
             },
             {
-              "name": "Overall survival (OS) rate at 24 months",
+              "name": "OS rate at 24 months or 2 years",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "",
+              "field_category": "efficacy",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NR"]
+              },
               "required": false
             },
             {
-              "name": "Overall survival (OS) rate at 48 months",
+              "name": "OS rate at 36 months or 3 years",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "",
+              "field_category": "efficacy",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NR"]
+              },
+              "required": false
+            },
+            {
+              "name": "OS rate at 48 months or 4 years",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "",
+              "field_category": "efficacy",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NR"]
+              },
               "required": false
             }
           ]
@@ -496,24 +752,42 @@
             "name": "Median Progression free survival (PFS)",
             "type": "numeric",
             "format": "months",
+            "missing_value": "",
+            "field_category": "efficacy",
+            "validation_rules": {
+              "range": "positive_number",
+              "special_values": ["NR"]
+            },
             "required": false
           },
           {
-            "name": "Length of measuring PFS",
+            "name": "Length or duration of measuring median PFS",
             "type": "numeric",
             "format": "months",
+            "missing_value": "",
+            "field_category": "efficacy",
+            "validation_rules": {
+              "range": "positive_number"
+            },
             "required": false
           },
           {
-            "name": "p-value of PFS",
+            "name": "p-value of median PFS",
             "type": "categorical",
             "values": ["Non-Significant", "Significant", "Highly Significant"],
+            "missing_value": "",
+            "field_category": "efficacy",
             "required": false
           },
           {
             "name": "Hazard ratio (HR) PFS",
             "type": "numeric",
             "format": "decimal",
+            "missing_value": "",
+            "field_category": "efficacy",
+            "validation_rules": {
+              "range": "positive_number"
+            },
             "required": false
           },
           {
@@ -521,114 +795,205 @@
             "type": "numeric",
             "format": "months",
             "special_values": ["NR"],
+            "missing_value": "",
+            "field_category": "efficacy",
+            "validation_rules": {
+              "range": "positive_number",
+              "special_values": ["NR"]
+            },
             "required": false
           },
           {
-            "name": "Length of measuring OS",
+            "name": "Length or duration of measuring median OS",
             "type": "numeric",
             "format": "months",
+            "missing_value": "",
+            "field_category": "efficacy",
+            "validation_rules": {
+              "range": "positive_number"
+            },
             "required": false
           },
           {
             "name": "p-value of OS",
             "type": "categorical",
             "values": ["Non-Significant", "Significant", "Highly Significant"],
+            "missing_value": "",
+            "field_category": "efficacy",
             "required": false
           },
           {
             "name": "Hazard ratio (HR) OS",
             "type": "numeric",
             "format": "decimal",
+            "missing_value": "",
+            "field_category": "efficacy",
+            "validation_rules": {
+              "range": "positive_number"
+            },
             "required": false
           },
           {
             "name": "Event-Free Survival (EFS)",
             "type": "numeric",
             "format": "months",
+            "missing_value": "",
+            "field_category": "efficacy",
+            "validation_rules": {
+              "range": "positive_number",
+              "special_values": ["NR"]
+            },
             "required": false
           },
           {
             "name": "p-value of EFS",
             "type": "categorical",
             "values": ["Non-Significant", "Significant", "Highly Significant"],
+            "missing_value": "",
+            "field_category": "efficacy",
             "required": false
           },
           {
             "name": "Hazard ratio (HR) EFS",
             "type": "numeric",
             "format": "decimal",
+            "missing_value": "",
+            "field_category": "efficacy",
+            "validation_rules": {
+              "range": "positive_number"
+            },
             "required": false
           },
           {
             "name": "Recurrence-Free Survival (RFS)",
             "type": "numeric",
             "format": "months",
+            "missing_value": "",
+            "field_category": "efficacy",
+            "validation_rules": {
+              "range": "positive_number",
+              "special_values": ["NR"]
+            },
             "required": false
           },
           {
             "name": "p-value of RFS",
             "type": "categorical",
             "values": ["Non-Significant", "Significant", "Highly Significant"],
+            "missing_value": "",
+            "field_category": "efficacy",
             "required": false
           },
           {
             "name": "Length of measuring RFS",
             "type": "numeric",
             "format": "months",
+            "missing_value": "",
+            "field_category": "efficacy",
+            "validation_rules": {
+              "range": "positive_number"
+            },
             "required": false
           },
           {
             "name": "Hazard ratio (HR) RFS",
             "type": "numeric",
             "format": "decimal",
+            "missing_value": "",
+            "field_category": "efficacy",
+            "validation_rules": {
+              "range": "positive_number"
+            },
             "required": false
           },
           {
             "name": "Metastasis-Free Survival (MFS)",
             "type": "numeric",
             "format": "months",
+            "missing_value": "",
+            "field_category": "efficacy",
+            "validation_rules": {
+              "range": "positive_number",
+              "special_values": ["NR"]
+            },
             "required": false
           },
           {
             "name": "Length of measuring MFS",
             "type": "numeric",
             "format": "months",
+            "missing_value": "",
+            "field_category": "efficacy",
+            "validation_rules": {
+              "range": "positive_number"
+            },
             "required": false
           },
           {
             "name": "Hazard ratio (HR) MFS",
             "type": "numeric",
             "format": "decimal",
+            "missing_value": "",
+            "field_category": "efficacy",
+            "validation_rules": {
+              "range": "positive_number"
+            },
             "required": false
           },
           {
             "name": "Time to response (TTR)",
             "type": "numeric",
             "format": "months",
+            "missing_value": "",
+            "field_category": "efficacy",
+            "validation_rules": {
+              "range": "positive_number"
+            },
             "required": false
           },
           {
             "name": "Time to Progression (TTP)",
             "type": "numeric",
             "format": "months",
+            "missing_value": "",
+            "field_category": "efficacy",
+            "validation_rules": {
+              "range": "positive_number"
+            },
             "required": false
           },
           {
             "name": "Time to Next Treatment (TTNT)",
             "type": "numeric",
             "format": "months",
+            "missing_value": "",
+            "field_category": "efficacy",
+            "validation_rules": {
+              "range": "positive_number"
+            },
             "required": false
           },
           {
             "name": "Time to Treatment Failure (TTF)",
             "type": "numeric",
             "format": "months",
+            "missing_value": "",
+            "field_category": "efficacy",
+            "validation_rules": {
+              "range": "positive_number"
+            },
             "required": false
           },
           {
             "name": "Median Duration of response or DOR",
             "type": "numeric",
             "format": "months",
+            "missing_value": "",
+            "field_category": "efficacy",
+            "validation_rules": {
+              "range": "positive_number",
+              "special_values": ["NR"]
+            },
             "required": false
           }
         ]
@@ -641,18 +1006,36 @@
             "name": "Adverse events (AE)",
             "type": "percentage",
             "format": "numeric_only",
+            "missing_value": "NA",
+            "field_category": "safety",
+            "validation_rules": {
+              "range": "0-100",
+              "special_values": ["NA"]
+            },
             "required": false
           },
           {
-            "name": "Treatment emergent adverse events (TEAE)",
+            "name": "Treatment-emergent adverse events (TEAE)",
             "type": "percentage",
             "format": "numeric_only",
+            "missing_value": "NA",
+            "field_category": "safety",
+            "validation_rules": {
+              "range": "0-100",
+              "special_values": ["NA"]
+            },
             "required": false
           },
           {
             "name": "Treatment-related adverse events (TRAE)",
             "type": "percentage",
             "format": "numeric_only",
+            "missing_value": "NA",
+            "field_category": "safety",
+            "validation_rules": {
+              "range": "0-100",
+              "special_values": ["NA"]
+            },
             "required": false
           }
         ]
@@ -660,27 +1043,115 @@
       "grade_3_plus_adverse_events": {
         "fields": [
           {
-            "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 higher adverse events (AE)",
+            "name": "Grade 3+ or Grade 3 higher AE",
             "type": "percentage",
             "format": "numeric_only",
+            "missing_value": "NA",
+            "field_category": "safety",
+            "validation_rules": {
+              "range": "0-100",
+              "special_values": ["NA"]
+            },
             "required": false
           },
           {
-            "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 higher treatment emergent adverse events (TEAE)",
+            "name": "Grade 3+ or Grade 3 higher TEAE",
             "type": "percentage",
             "format": "numeric_only",
+            "missing_value": "NA",
+            "field_category": "safety",
+            "validation_rules": {
+              "range": "0-100",
+              "special_values": ["NA"]
+            },
             "required": false
           },
           {
-            "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 higher treatment-related adverse events (TRAE)",
+            "name": "Grade 3+ or Grade 3 higher TRAE",
             "type": "percentage",
             "format": "numeric_only",
+            "missing_value": "NA",
+            "field_category": "safety",
+            "validation_rules": {
+              "range": "0-100",
+              "special_values": ["NA"]
+            },
+            "required": false
+          }
+        ]
+      },
+      "individual_grade_adverse_events": {
+        "fields": [
+          {
+            "name": "Grade 3 TEAE",
+            "type": "percentage",
+            "format": "numeric_only",
+            "missing_value": "NA",
+            "field_category": "safety",
+            "validation_rules": {
+              "range": "0-100",
+              "special_values": ["NA"]
+            },
             "required": false
           },
           {
-            "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 higher treatment-emergent adverse events (TEAE)",
+            "name": "Grade 4 TEAE",
             "type": "percentage",
             "format": "numeric_only",
+            "missing_value": "NA",
+            "field_category": "safety",
+            "validation_rules": {
+              "range": "0-100",
+              "special_values": ["NA"]
+            },
+            "required": false
+          },
+          {
+            "name": "Grade 5 TEAE",
+            "type": "percentage",
+            "format": "numeric_only",
+            "missing_value": "NA",
+            "field_category": "safety",
+            "validation_rules": {
+              "range": "0-100",
+              "special_values": ["NA"]
+            },
+            "required": false
+          },
+          {
+            "name": "Grade 3 TRAE",
+            "type": "percentage",
+            "format": "numeric_only",
+            "missing_value": "NA",
+            "field_category": "safety",
+            "validation_rules": {
+              "range": "0-100",
+              "special_values": ["NA"]
+            },
+            "required": false
+          },
+          {
+            "name": "Grade 4 TRAE",
+            "type": "percentage",
+            "format": "numeric_only",
+            "missing_value": "NA",
+            "field_category": "safety",
+            "validation_rules": {
+              "range": "0-100",
+              "special_values": ["NA"]
+            },
+            "required": false
+          },
+          {
+            "name": "Grade 5 TRAE",
+            "type": "percentage",
+            "format": "numeric_only",
+            "missing_value": "NA",
+            "field_category": "safety",
+            "validation_rules": {
+              "range": "0-100",
+              "special_values": ["NA"]
+            },
             "required": false
           }
         ]
@@ -688,33 +1159,39 @@
       "severe_adverse_events": {
         "fields": [
           {
-            "name": "Grade 4 treatment emergent adverse events",
+            "name": "Serious AE",
             "type": "percentage",
             "format": "numeric_only",
+            "missing_value": "NA",
+            "field_category": "safety",
+            "validation_rules": {
+              "range": "0-100",
+              "special_values": ["NA"]
+            },
             "required": false
           },
           {
-            "name": "Grade 5 treatment emergent adverse events",
+            "name": "Serious TEAE",
             "type": "percentage",
             "format": "numeric_only",
+            "missing_value": "NA",
+            "field_category": "safety",
+            "validation_rules": {
+              "range": "0-100",
+              "special_values": ["NA"]
+            },
             "required": false
           },
           {
-            "name": "Serious Adverse Events (SAE)",
+            "name": "Serious TRAE",
             "type": "percentage",
             "format": "numeric_only",
-            "required": false
-          },
-          {
-            "name": "Serious treatment emergent adverse events",
-            "type": "percentage",
-            "format": "numeric_only",
-            "required": false
-          },
-          {
-            "name": "Serious treatment related adverse events",
-            "type": "percentage",
-            "format": "numeric_only",
+            "missing_value": "NA",
+            "field_category": "safety",
+            "validation_rules": {
+              "range": "0-100",
+              "special_values": ["NA"]
+            },
             "required": false
           }
         ]
@@ -722,27 +1199,75 @@
       "treatment_discontinuation": {
         "fields": [
           {
-            "name": "Treatment-emergent adverse events (TEAE) led to treatment discontinuation",
+            "name": "AE leading to discontinuation",
             "type": "percentage",
             "format": "numeric_only",
+            "missing_value": "NA",
+            "field_category": "safety",
+            "validation_rules": {
+              "range": "0-100",
+              "special_values": ["NA"]
+            },
             "required": false
           },
           {
-            "name": "Adverse events (AEs) leading to discontinuation",
+            "name": "TEAE led or leading to treatment discontinuation",
             "type": "percentage",
             "format": "numeric_only",
+            "missing_value": "NA",
+            "field_category": "safety",
+            "validation_rules": {
+              "range": "0-100",
+              "special_values": ["NA"]
+            },
             "required": false
           },
           {
-            "name": "Treatment-emergent adverse events (TEAE) led to death",
+            "name": "TRAE led or leading to treatment discontinuation",
             "type": "percentage",
             "format": "numeric_only",
+            "missing_value": "NA",
+            "field_category": "safety",
+            "validation_rules": {
+              "range": "0-100",
+              "special_values": ["NA"]
+            },
             "required": false
           },
           {
-            "name": "Adverse Events leading to death",
+            "name": "AE led or leading to death",
             "type": "percentage",
             "format": "numeric_only",
+            "missing_value": "NA",
+            "field_category": "safety",
+            "validation_rules": {
+              "range": "0-100",
+              "special_values": ["NA"]
+            },
+            "required": false
+          },
+          {
+            "name": "TEAE led or leading to death",
+            "type": "percentage",
+            "format": "numeric_only",
+            "missing_value": "NA",
+            "field_category": "safety",
+            "validation_rules": {
+              "range": "0-100",
+              "special_values": ["NA"]
+            },
+            "required": false
+          },
+          {
+            "name": "TRAE led or leading to death",
+            "type": "percentage",
+            "format": "numeric_only",
+            "missing_value": "NA",
+            "field_category": "safety",
+            "validation_rules": {
+              "range": "0-100",
+              "special_values": ["NA"]
+            },
             "required": false
           }
         ]
@@ -751,27 +1276,135 @@
         "immune_related": {
           "fields": [
             {
-              "name": "Immune related adverse events (irAEs)",
+              "name": "Immune related AE",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
               "required": false
             },
             {
-              "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 Immune related adverse events (irAEs)",
+              "name": "Serious Immune related AE",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Immune related TEAE",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Immune related TRAE",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
               "required": false
             },
             {
               "name": "Cytokine Release Syndrome or CRS",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
               "required": false
             },
             {
-              "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 Cytokine Release Syndrome or CRS",
+              "name": "Grade 3+ or Grade 3 higher \"AE\" Immune related adverse events (irAEs)",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TEAE\" Immune related adverse events (irAEs)",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TRAE\" Immune related adverse events (irAEs)",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"AE\" Cytokine Release Syndrome or CRS",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TEAE\" Cytokine Release Syndrome or CRS",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TRAE\" Cytokine Release Syndrome or CRS",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
               "required": false
             }
           ]
@@ -782,42 +1415,228 @@
               "name": "White blood cell (WBC) decreased",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
               "required": false
             },
             {
-              "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 Thrombocytopenia",
+              "name": "Grade 3+ or Grade 3 higher \"AE\" Thrombocytopenia",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
               "required": false
             },
             {
-              "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 Neutropenia",
+              "name": "Grade 3+ or Grade 3 higher \"TEAE\" Thrombocytopenia",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
               "required": false
             },
             {
-              "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 Leukopenia",
+              "name": "Grade 3+ or Grade 3 higher \"TRAE\" Thrombocytopenia",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
               "required": false
             },
             {
-              "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 Anemia",
+              "name": "Grade 3+ or Grade 3 higher \"AE\" Neutropenia",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
               "required": false
             },
             {
-              "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 Neutrophil count decreased",
+              "name": "Grade 3+ or Grade 3 higher \"TEAE\" Neutropenia",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
               "required": false
             },
             {
-              "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 White blood cell (WBC) decreased",
+              "name": "Grade 3+ or Grade 3 higher \"TRAE\" Neutropenia",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"AE\" Leukopenia",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TEAE\" Leukopenia",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TRAE\" Leukopenia",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"AE\" Anemia",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TEAE\" Anemia",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TRAE\" Anemia",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"AE\" Neutrophil count decreased",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TEAE\" Neutrophil count decreased",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TRAE\" Neutrophil count decreased",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"AE\" White blood cell (WBC) decreased",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TEAE\" White blood cell (WBC) decreased",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TRAE\" White blood cell (WBC) decreased",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
               "required": false
             }
           ]
@@ -825,27 +1644,111 @@
         "gastrointestinal": {
           "fields": [
             {
-              "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 Nausea",
+              "name": "Grade 3+ or Grade 3 higher \"AE\" Nausea",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
               "required": false
             },
             {
-              "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 Diarrhea",
+              "name": "Grade 3+ or Grade 3 higher \"TEAE\" Nausea",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
               "required": false
             },
             {
-              "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 Colitis",
+              "name": "Grade 3+ or Grade 3 higher \"TRAE\" Nausea",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
               "required": false
             },
             {
-              "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 Constipation",
+              "name": "Grade 3+ or Grade 3 higher \"AE\" Diarrhea",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TEAE\" Diarrhea",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TRAE\" Diarrhea",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"AE\" Colitis",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TEAE\" Colitis",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TRAE\" Colitis",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
               "required": false
             }
           ]
@@ -853,27 +1756,111 @@
         "respiratory": {
           "fields": [
             {
-              "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 Dyspnea",
+              "name": "Grade 3+ or Grade 3 higher \"AE\" Dyspnea",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
               "required": false
             },
             {
-              "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 Cough",
+              "name": "Grade 3+ or Grade 3 higher \"TEAE\" Dyspnea",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
               "required": false
             },
             {
-              "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 Pneumonia",
+              "name": "Grade 3+ or Grade 3 higher \"TRAE\" Dyspnea",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
               "required": false
             },
             {
-              "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 Pneumonitis",
+              "name": "Grade 3+ or Grade 3 higher \"AE\" Pneumonia",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TEAE\" Pneumonia",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TRAE\" Pneumonia",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"AE\" Pneumonitis",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TEAE\" Pneumonitis",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TRAE\" Pneumonitis",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
               "required": false
             }
           ]
@@ -881,21 +1868,111 @@
         "endocrine": {
           "fields": [
             {
-              "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 Hyperglycemia",
+              "name": "Grade 3+ or Grade 3 higher \"AE\" Hyperglycemia",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
               "required": false
             },
             {
-              "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 Thyroiditis",
+              "name": "Grade 3+ or Grade 3 higher \"TEAE\" Hyperglycemia",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
               "required": false
             },
             {
-              "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 Hypophysitis",
+              "name": "Grade 3+ or Grade 3 higher \"TRAE\" Hyperglycemia",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"AE\" Thyroiditis",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TEAE\" Thyroiditis",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TRAE\" Thyroiditis",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"AE\" Hypophysitis",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TEAE\" Hypophysitis",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TRAE\" Hypophysitis",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
               "required": false
             }
           ]
@@ -903,15 +1980,75 @@
         "hepatic": {
           "fields": [
             {
-              "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 Hepatitis",
+              "name": "Grade 3+ or Grade 3 higher \"AE\" Hepatitis",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
               "required": false
             },
             {
-              "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 Alanine aminotransferase",
+              "name": "Grade 3+ or Grade 3 higher \"TEAE\" Hepatitis",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TRAE\" Hepatitis",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"AE\" Alanine aminotransferase",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TEAE\" Alanine aminotransferase",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TRAE\" Alanine aminotransferase",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
               "required": false
             }
           ]
@@ -919,32 +2056,185 @@
         "other_systemic": {
           "fields": [
             {
-              "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 Pyrexia",
+              "name": "Grade 3+ or Grade 3 higher \"AE\" Pyrexia",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
               "required": false
             },
             {
-              "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 Bleeding",
+              "name": "Grade 3+ or Grade 3 higher \"TEAE\" Pyrexia",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
               "required": false
             },
             {
-              "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 Pruritus",
+              "name": "Grade 3+ or Grade 3 higher \"TRAE\" Pyrexia",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
               "required": false
             },
             {
-              "name": "Grade ≥3 or Grade 3+ or Grade 3-5 or Grade 3-4 Rash",
+              "name": "Grade 3+ or Grade 3 higher \"AE\" Bleeding",
               "type": "percentage",
               "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TEAE\" Bleeding",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TRAE\" Bleeding",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"AE\" Pruritus",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TEAE\" Pruritus",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TRAE\" Pruritus",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"AE\" Rash",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TEAE\" Rash",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
+              "required": false
+            },
+            {
+              "name": "Grade 3+ or Grade 3 higher \"TRAE\" Rash",
+              "type": "percentage",
+              "format": "numeric_only",
+              "missing_value": "NA",
+              "field_category": "safety",
+              "validation_rules": {
+                "range": "0-100",
+                "special_values": ["NA"]
+              },
               "required": false
             }
           ]
         }
       }
+    }
+  },
+  "keyword_mappings": {
+    "aliases": {
+      "Efficacy": ["efficacy_endpoints"],
+      "Safety": ["safety_endpoints"],
+      "AE prompts": ["general_adverse_events"],
+      "TEAE prompts": ["general_adverse_events", "individual_grade_adverse_events"],
+      "TRAE prompts": ["general_adverse_events", "individual_grade_adverse_events"],
+      "Sub-types Adverse events prompts (in tables)": ["specific_adverse_events"]
+    },
+    "extraction_hints": {
+      "look_for_tables": true,
+      "grade_specific_extraction": true,
+      "time_point_variations": ["months", "years"],
+      "ae_category_detection": true
+    }
+  },
+  "missing_data_handling": {
+    "safety_fields": {
+      "missing_value": "NA",
+      "description": "All safety-related fields (AE, TEAE, TRAE, Grade classifications) use 'NA' for missing values",
+      "applies_to": ["adverse", "safety", "grade", "discontinuation", "serious", "death", "fatal"]
+    },
+    "efficacy_fields": {
+      "missing_value": "",
+      "description": "All efficacy-related fields (ORR, PFS, OS, survival rates) use empty string for missing values",
+      "applies_to": ["response", "survival", "progression", "duration", "orr", "dcr", "cbr", "pfs", "os"]
+    },
+    "administrative_fields": {
+      "missing_value": "",
+      "description": "All administrative fields use empty string for missing values",
+      "applies_to": ["publication", "nct", "trial", "sponsor", "phase", "date", "country"]
     }
   },
   "extraction_guidelines": {
@@ -972,12 +2262,14 @@
     "treatment_arm_rules": {
       "combination_format": "Drug A + Drug B",
       "different_doses": "Treat as separate arms",
-      "patient_count": "Unique per arm, not cumulative"
+      "patient_count": "Unique per arm, not cumulative",
+      "dose_specification": "Include dose in name for same drug different doses"
     },
-    "missing_data_handling": {
-      "empty_string": "Use \"\" for missing values",
+    "missing_data_protocol": {
       "never_infer": "Do not guess or infer missing data",
-      "explicit_only": "Extract only explicitly stated information"
+      "explicit_only": "Extract only explicitly stated information",
+      "safety_na": "Use 'NA' for all safety-related missing values",
+      "efficacy_empty": "Use empty string for all efficacy-related missing values"
     }
   }
-} 
+}
