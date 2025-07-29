@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Enhanced batch processing script with chunked extraction approach
+Enhanced batch processing script with comprehensive field coverage
 """
 
 import os
@@ -16,24 +16,25 @@ sys.path.append('src')
 from openai_client import OpenAIClient
 from enhanced_extractor import EnhancedClinicalExtractor
 from logger_config import get_logger
+from chunk_templates import CHUNK_FIELD_MAP
 
-def process_single_markdown_chunked(markdown_path: str, output_dir: str, client: OpenAIClient,
-                                  total_files: int, current_file: int) -> Dict[str, Any]:
+def process_single_markdown_comprehensive(markdown_path: str, output_dir: str, client: OpenAIClient,
+                                       total_files: int, current_file: int) -> Dict[str, Any]:
     """
-    Process single markdown file using chunked approach
+    Process single markdown file using comprehensive chunked approach
     """
     markdown_filename = os.path.basename(markdown_path)
     pdf_number = markdown_filename.split('.')[0]
     
     print(f"\n{'='*80}")
-    print(f"📄 Processing with CHUNKED approach {current_file}/{total_files}: {markdown_filename}")
+    print(f"📄 Processing with COMPREHENSIVE CHUNKED approach {current_file}/{total_files}: {markdown_filename}")
     print(f"{'='*80}")
     
     result = {
         "markdown_file": markdown_path,
         "pdf_number": pdf_number,
         "status": "failed",
-        "approach": "chunked",
+        "approach": "comprehensive_chunked",
         "chunks_processed": 0,
         "arms_discovered": 0,
         "extraction_time": 0
@@ -53,13 +54,13 @@ def process_single_markdown_chunked(markdown_path: str, output_dir: str, client:
         
         print(f"✅ [{current_file}/{total_files}] Content loaded: {len(full_text):,} characters")
         
-        # Process with chunked approach
-        print(f"🔄 [{current_file}/{total_files}] Starting chunked extraction...")
+        # Process with comprehensive chunked approach
+        print(f"🔄 [{current_file}/{total_files}] Starting comprehensive chunked extraction...")
         
-        extraction_data = client.extract_full_publication_chunked(full_text)
+        extraction_data = client.extract_full_publication_comprehensive(full_text)
         
         if not extraction_data:
-            result["error"] = "Chunked extraction failed"
+            result["error"] = "Comprehensive chunked extraction failed"
             return result
         
         # Update result with extraction metadata
@@ -78,18 +79,18 @@ def process_single_markdown_chunked(markdown_path: str, output_dir: str, client:
         extraction_data["Source markdown"] = markdown_filename
         
         # Save outputs
-        print(f"🔄 [{current_file}/{total_files}] Saving outputs...")
+        print(f"🔄 [{current_file}/{total_files}] Saving comprehensive outputs...")
         
         # Save extraction result
-        output_file = os.path.join(output_dir, f'chunked_extraction_{pdf_number}.json')
+        output_file = os.path.join(output_dir, f'comprehensive_extraction_{pdf_number}.json')
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(extraction_data, f, indent=4, ensure_ascii=False)
         
-        print(f"✅ [{current_file}/{total_files}] Chunked extraction completed!")
+        print(f"✅ [{current_file}/{total_files}] Comprehensive extraction completed!")
         print(f"   📊 Arms discovered: {result['arms_discovered']}")
         print(f"   🧩 Chunks processed: {result['chunks_processed']}")
         print(f"   💰 Cost: ${result['total_cost']:.6f}")
-        print(f"   ⏱️ Time: {result['extraction_time']:.1f}s")
+        print(f"   ⏱️  Time: {result['extraction_time']:.1f}s")
         
         return result
         
@@ -100,18 +101,18 @@ def process_single_markdown_chunked(markdown_path: str, output_dir: str, client:
         return result
 
 def main():
-    """Main batch processing with chunked approach"""
+    """Main batch processing with comprehensive approach"""
     
     # Setup directories
     markdown_dir = "input/marker_preprocessed"
     base_output_dir = "output"
     
-    # Create chunked batch output directory
+    # Create comprehensive batch output directory
     batch_counter = 1
-    while os.path.exists(os.path.join(base_output_dir, f"chunked_batch_{batch_counter}")):
+    while os.path.exists(os.path.join(base_output_dir, f"comprehensive_batch_{batch_counter}")):
         batch_counter += 1
     
-    output_dir = os.path.join(base_output_dir, f"chunked_batch_{batch_counter}")
+    output_dir = os.path.join(base_output_dir, f"comprehensive_batch_{batch_counter}")
     os.makedirs(output_dir, exist_ok=True)
     
     # Get markdown files
@@ -122,12 +123,16 @@ def main():
         print("❌ No markdown files found")
         return
     
-    print(f"🚀 CHUNKED Clinical Trial Data Extraction - Batch Processing")
+    # Calculate total fields
+    total_fields = sum(len(fields) for fields in CHUNK_FIELD_MAP.values() if fields)
+    
+    print(f"🚀 COMPREHENSIVE Clinical Trial Data Extraction - Batch Processing")
     print(f"{'='*80}")
     print(f"📁 Input directory: {markdown_dir}")
     print(f"📁 Output directory: {output_dir}")
     print(f"📄 Files to process: {len(markdown_files)}")
-    print(f"🧩 Approach: Chunked prompts (10 chunks per paper)")
+    print(f"🧩 Approach: Comprehensive chunked prompts (11 chunks per paper)")
+    print(f"💎 Fields covered: {total_fields}")
     print(f"{'='*80}")
     
     # Initialize client
@@ -139,7 +144,7 @@ def main():
     total_files = len(markdown_files)
     
     for i, markdown_path in enumerate(markdown_files, 1):
-        result = process_single_markdown_chunked(
+        result = process_single_markdown_comprehensive(
             markdown_path, output_dir, client, total_files, i
         )
         results.append(result)
@@ -151,7 +156,7 @@ def main():
     
     # Generate summary
     print(f"\n{'='*80}")
-    print(f"📊 CHUNKED BATCH PROCESSING SUMMARY")
+    print(f"📊 COMPREHENSIVE BATCH PROCESSING SUMMARY")
     print(f"{'='*80}")
     
     successful = sum(1 for r in results if r["status"] == "success")
@@ -172,11 +177,12 @@ def main():
     print(f"💰 Total cost: ${total_cost:.6f}")
     print(f"📊 Average chunks per paper: {total_chunks/max(1, successful):.1f}")
     print(f"🎯 Average arms per paper: {total_arms/max(1, successful):.1f}")
+    print(f"💎 Total fields extracted: {total_fields}")
     
     # Save summary
     summary = {
         "batch_metadata": {
-            "approach": "chunked",
+            "approach": "comprehensive_chunked",
             "processing_date": datetime.now().isoformat(),
             "total_files": total_files,
             "successful": successful,
@@ -184,18 +190,19 @@ def main():
             "total_chunks": total_chunks,
             "total_arms": total_arms,
             "total_time": total_time,
-            "total_cost": total_cost
+            "total_cost": total_cost,
+            "total_fields": total_fields
         },
         "api_usage": api_usage,
         "results": results
     }
     
-    summary_file = os.path.join(output_dir, 'chunked_batch_summary.json')
+    summary_file = os.path.join(output_dir, 'comprehensive_batch_summary.json')
     with open(summary_file, 'w', encoding='utf-8') as f:
         json.dump(summary, f, indent=4, ensure_ascii=False)
     
     print(f"\n📄 Summary saved: {summary_file}")
-    print(f"🎉 Chunked batch processing completed!")
+    print(f"🎉 Comprehensive batch processing completed!")
 
 if __name__ == "__main__":
-    main() 
+    main()

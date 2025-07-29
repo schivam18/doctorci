@@ -1,0 +1,95 @@
+General Information
+
+Publication Name	N Engl J Med 2015;372:2006-17
+Publication Year	2015
+PDF number	26
+Trial name	No Name
+Cancer Type	Unresectable Cutaneous Melanoma
+Generic name	Nivolumab + Ipilimumab; Ipilimumab
+Brand name	Nivolumab: Opdivo; Ipilimumab: Yervoy
+Company EU	Bristol-Myers Squibb
+Company US	Bristol-Myers Squibb
+Company China	Bristol-Myers Squibb
+Sponsors	Bristol-Myers Squibb
+Clinical Trial Phase	Stage II
+Chemotherapy Naive	Yes
+Chemotherapy Failed	No
+Immune Checkpoint Inhibitor (ICI) Naive	Yes
+Immune Checkpoint Inhibitor (ICI) failed	No
+Ipilimumab-failure or Ipilimumab-refractory	No
+Anti PD-1/L1-failure or Anti PD-1/L1-refractory	No
+Mutation status	BRAF V600 wild-type and BRAF V600 mutation-positive
+BRAF-mutation	Yes
+NRAS-Mutation	Not Mentioned
+Biosimilar	No
+Line of Treatment	First Line
+NCT Number	NCT01927419
+Mechanism of action	Nivolumab: anti–PD-1 monoclonal antibody; Ipilimumab: anti–CTLA-4 antibody
+Target Protein	CTLA-4 and PD-1
+Type of therapy	Immune Checkpoint Inhibitors
+Dosage	Combination Arm: Nivolumab (1 mg/kg) + Ipilimumab (3 mg/kg) every 3 weeks for 4 doses, then Nivolumab (3 mg/kg) every 2 weeks. Monotherapy Arm: Ipilimumab (3 mg/kg) + Placebo every 3 weeks for 4 doses, then Placebo every 2 weeks.
+Type of dosing	Intravenous
+Number of doses per year	Not applicable
+Primary endpoint	Rate of investigator-assessed, confirmed objective response among patients with BRAF V600 wild-type tumors
+Secondary endpoint	Progression-free survival in patients with BRAF wild-type tumors, objective response rate and progression-free survival among patients with BRAF V600 mutation–positive tumors, and safety
+Median Age	Combination Arm: 64; Monotherapy Arm: 67
+Biomarker Inclusion	BRAF V600 mutation status, PD-L1 expression
+Biomarkers Inclusion Criteria	Known BRAF V600 mutation status
+Biomarkers Exclusion Criteria	Active brain metastases, uveal melanoma, and serious autoimmune disease
+Study start date	September 16, 2013
+Study completion date	Not Mentioned (Data cutoff: January 30, 2015)
+First results	April 20, 2015
+Trial run in Europe	Yes (France)
+Trial run in US	Yes
+Trial run in China	No
+
+Treatment Arm 1: Nivolumab plus Ipilimumab
+(Efficacy data for BRAF wild-type patients; Safety data for all treated patients)
+Efficacy
+Number of patients	72 (BRAF wild-type)
+Median Progression free survival (PFS)	Not reached
+p-value of median PFS	<0.001
+Hazard ratio (HR) PFS	0.40
+Objective response rate (ORR)	61%
+Complete Response (CR)	22%
+Disease Control Rate or DCR	73% (Calculated: 61% ORR + 12% Stable Disease)
+Median Duration of response or DOR	Not reached
+Time to response (TTR)	Majority observed at the first scan (12 weeks)
+Safety (All Patients, N=94)	
+Adverse events (AE)	91% (Treatment-related)
+Grade 3+ or Grade 3 higher TRAE	54%
+AE leading to discontinuation	47% (Treatment-related)
+AE led or leading to death	3.2% (3 patients)
+Grade 3+ or Grade 3 higher "TRAE" Diarrhea	11%
+Grade 3+ or Grade 3 higher "TRAE" Colitis	17%
+Grade 3+ or Grade 3 higher "TRAE" Nausea	1%
+Grade 3+ or Grade 3 higher "TRAE" Rash	5% (Rash); 3% (Maculopapular rash)
+Grade 3+ or Grade 3 higher "TRAE" Pruritus	1%
+Grade 3+ or Grade 3 higher "TRAE" Dyspnea	3%
+Grade 3+ or Grade 3 higher "TRAE" Pyrexia	3%
+Grade 3+ or Grade 3 higher "TRAE" Hypophysitis	2%
+Grade 3+ or Grade 3 higher "TRAE" Pneumonitis	2%
+Grade 3+ or Grade 3 higher "TRAE" Alanine aminotransferase	11%
+Grade 3+ or Grade 3 higher "TRAE" Hepatitis	14.9% (14 patients, select hepatic AE)
+
+Treatment Arm 2: Ipilimumab
+(Efficacy data for BRAF wild-type patients; Safety data for all treated patients)
+
+Efficacy	
+Number of patients	37 (BRAF wild-type)
+Median Progression free survival (PFS)	4.4 months
+Objective response rate (ORR)	11%
+Complete Response (CR)	0%
+Disease Control Rate or DCR	46% (Calculated: 11% ORR + 35% Stable Disease)
+Median Duration of response or DOR	Not reached
+Time to response (TTR)	Majority observed at the first scan (12 weeks)
+Safety (All Patients, N=46)	
+Adverse events (AE)	93% (Treatment-related)
+Grade 3+ or Grade 3 higher TRAE	24%
+AE leading to discontinuation	17% (Treatment-related)
+AE led or leading to death	0%
+Grade 3+ or Grade 3 higher "TRAE" Diarrhea	11%
+Grade 3+ or Grade 3 higher "TRAE" Colitis	7%
+Grade 3+ or Grade 3 higher "TRAE" Nausea	2%
+Grade 3+ or Grade 3 higher "TRAE" Hypophysitis	4%
+Grade 3+ or Grade 3 higher "TRAE" Pneumonitis	2%

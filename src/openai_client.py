@@ -3,14 +3,17 @@
 import json
 import os
 from typing import Any, Dict, List, Optional
-
+import asyncio
 import tiktoken
 from dotenv import load_dotenv
 from openai import OpenAI
+from datetime import datetime
 
 from src.logger_config import get_logger, log_performance
 from src.prompts_pub import generate_arm_aware_prompt
 from src.post_processor import process_extracted_data
+from src.enhanced_extractor import EnhancedClinicalExtractor
+from src.chunk_templates import CHUNK_FIELD_MAP
 
 # Load environment variables
 load_dotenv()
@@ -90,6 +93,237 @@ class OpenAIClient:
                 return None
         except Exception as e:
             self.logger.error(f"An error occurred during extraction: {e}", exc_info=True)
+            return None
+
+    @log_performance
+    def extract_full_publication_chunked(self, full_text: str) -> Optional[Dict[str, Any]]:
+        """
+        Run chunked extraction process on full publication text
+        """
+        self.logger.info("Starting chunked extraction pipeline")
+        
+        if not full_text:
+            self.logger.error("Empty text provided")
+            return None
+        
+        extractor = EnhancedClinicalExtractor()
+        
+        try:
+            # Stage 1: Discover treatment arms
+            self.logger.info("Stage 1: Discovering treatment arms")
+            arm_discovery_prompt = extractor.detect_arms(full_text)["prompt"]
+            
+            arms_response = self.get_chat_completion([{
+                "role": "user", 
+                "content": arm_discovery_prompt
+            }], max_tokens=1000)
+            
+            arms_data = self._parse_json_response(arms_response)
+            if not arms_data or "treatment_arms" not in arms_data:
+                self.logger.error("Failed to discover treatment arms")
+                return None
+            
+            arms = arms_data["treatment_arms"]
+            self.logger.info(f"Discovered {len(arms)} treatment arms")
+            
+            # Stage 2: Extract shared data (chunks 1 and 9)
+            self.logger.info("Stage 2: Extracting shared publication data")
+            shared_data = {}
+            
+            for chunk_id in [1, 9]:
+                prompt = extractor.build_chunk_prompt(full_text, None, chunk_id)
+                response = self.get_chat_completion([{
+                    "role": "user",
+                    "content": prompt["prompt"]
+                }])
+                
+                chunk_data = self._parse_json_response(response)
+                if chunk_data:
+                    shared_data.update(chunk_data)
+                    self.logger.info(f"Extracted shared chunk {chunk_id}")
+            
+            # Stage 3: Extract arm-specific data (chunks 2-8 per arm)
+            self.logger.info("Stage 3: Extracting arm-specific data")
+            final_arms = []
+            
+            for arm in arms:
+                self.logger.info(f"Processing arm: {arm.get('arm_id')} - {arm.get('generic_name')}")
+                
+                arm_partials = []
+                
+                # Process chunks 2-8 for this arm
+                for chunk_id in [2, 3, 4, 5, 6, 7, 8]:
+                    prompt = extractor.build_chunk_prompt(full_text, arm, chunk_id)
+                    response = self.get_chat_completion([{
+                        "role": "user",
+                        "content": prompt["prompt"]
+                    }])
+                    
+                    chunk_data = self._parse_json_response(response)
+                    if chunk_data:
+                        arm_partials.append(chunk_data)
+                        self.logger.info(f"Extracted arm {arm['arm_id']} chunk {chunk_id}")
+                
+                # Merge this arm's data
+                merged_arm = extractor.merge_chunk_results(
+                    arm["arm_id"], 
+                    shared_data.copy(), 
+                    arm_partials
+                )
+                
+                # Add arm identification data
+                merged_arm.update({
+                    "Generic name": arm.get("generic_name", ""),
+                    "Number of patients": arm.get("number_of_patients", ""),
+                    "Dosage": arm.get("dose", "")
+                })
+                
+                final_arms.append(merged_arm)
+            
+            # Stage 4: Compile final result
+            final_result = {
+                **shared_data,
+                "treatment_arms": final_arms,
+                "extraction_metadata": {
+                    "approach": "chunked",
+                    "arms_discovered": len(arms),
+                    "arms_processed": len(final_arms),
+                    "total_llm_calls": self.request_count,
+                    "total_cost": self.total_cost,
+                    "extraction_date": extractor._get_current_datetime()
+                }
+            }
+            
+            self.logger.info(f"Chunked extraction completed: {len(final_arms)} arms processed")
+            return final_result
+            
+        except Exception as e:
+            self.logger.error(f"Chunked extraction failed: {e}", exc_info=True)
+            return None
+
+    @log_performance
+    def extract_full_publication_comprehensive(self, full_text: str) -> Optional[Dict[str, Any]]:
+        """
+        Run comprehensive chunked extraction process with all new fields
+        """
+        self.logger.info("Starting comprehensive chunked extraction pipeline")
+        
+        if not full_text:
+            self.logger.error("Empty text provided")
+            return None
+        
+        extractor = EnhancedClinicalExtractor()
+        
+        try:
+            # Stage 1: Discover treatment arms
+            self.logger.info("Stage 1: Discovering treatment arms")
+            arm_discovery_prompt = extractor.detect_arms(full_text)["prompt"]
+            
+            arms_response = self.get_chat_completion([{
+                "role": "user", 
+                "content": arm_discovery_prompt
+            }], max_tokens=1000)
+            
+            arms_data = self._parse_json_response(arms_response)
+            if not arms_data or "treatment_arms" not in arms_data:
+                self.logger.error("Failed to discover treatment arms")
+                return None
+            
+            arms = arms_data["treatment_arms"]
+            self.logger.info(f"Discovered {len(arms)} treatment arms")
+            
+            # Stage 2: Extract shared data (chunks 1 and 10)
+            self.logger.info("Stage 2: Extracting shared publication data")
+            shared_data = {}
+            
+            for chunk_id in [1, 10]:
+                prompt = extractor.build_chunk_prompt(full_text, None, chunk_id)
+                response = self.get_chat_completion([{
+                    "role": "user",
+                    "content": prompt["prompt"]
+                }])
+                
+                chunk_data = self._parse_json_response(response)
+                if chunk_data:
+                    # Extract data from treatment_arms wrapper if present
+                    if "treatment_arms" in chunk_data and chunk_data["treatment_arms"]:
+                        # Take the first arm's data (should be the only one)
+                        extracted_data = chunk_data["treatment_arms"][0]
+                    else:
+                        # No wrapper, use data directly
+                        extracted_data = chunk_data
+                    
+                    shared_data.update(extracted_data)
+                    self.logger.info(f"Extracted shared chunk {chunk_id}")
+            
+            # Stage 3: Extract arm-specific data (chunks 2-9 per arm)
+            self.logger.info("Stage 3: Extracting comprehensive arm-specific data")
+            final_arms = []
+            
+            for arm in arms:
+                self.logger.info(f"Processing arm: {arm.get('arm_id')} - {arm.get('generic_name')}")
+                
+                arm_partials = []
+                
+                # Process chunks 2-9 for this arm
+                for chunk_id in [2, 3, 4, 5, 6, 7, 8, 9]:
+                    prompt = extractor.build_chunk_prompt(full_text, arm, chunk_id)
+                    response = self.get_chat_completion([{
+                        "role": "user",
+                        "content": prompt["prompt"]
+                    }])
+                    
+                    chunk_data = self._parse_json_response(response)
+                    if chunk_data:
+                        # Extract data from treatment_arms wrapper if present
+                        if "treatment_arms" in chunk_data and chunk_data["treatment_arms"]:
+                            # Take the first arm's data (should be the only one)
+                            extracted_data = chunk_data["treatment_arms"][0]
+                        else:
+                            # No wrapper, use data directly
+                            extracted_data = chunk_data
+                        
+                        arm_partials.append(extracted_data)
+                        self.logger.info(f"Extracted arm {arm['arm_id']} chunk {chunk_id}")
+                
+                # Merge this arm's data
+                merged_arm = extractor.merge_chunk_results(
+                    arm["arm_id"], 
+                    shared_data.copy(), 
+                    arm_partials
+                )
+                
+                # Add arm identification data
+                merged_arm.update({
+                    "Generic name": arm.get("generic_name", ""),
+                    "Number of patients": arm.get("number_of_patients", ""),
+                    "Dosage": arm.get("dose", "")
+                })
+                
+                final_arms.append(merged_arm)
+            
+            # Stage 4: Compile final result
+            total_fields = sum(len(fields) for fields in CHUNK_FIELD_MAP.values() if fields)
+            
+            final_result = {
+                **shared_data,
+                "treatment_arms": final_arms,
+                "extraction_metadata": {
+                    "approach": "comprehensive_chunked",
+                    "arms_discovered": len(arms),
+                    "arms_processed": len(final_arms),
+                    "total_llm_calls": self.request_count,
+                    "total_cost": self.total_cost,
+                    "total_fields_available": total_fields,
+                    "extraction_date": datetime.now().isoformat()
+                }
+            }
+            
+            self.logger.info(f"Comprehensive extraction completed: {len(final_arms)} arms processed")
+            return final_result
+            
+        except Exception as e:
+            self.logger.error(f"Comprehensive extraction failed: {e}", exc_info=True)
             return None
 
     def num_tokens_from_messages(self, messages):

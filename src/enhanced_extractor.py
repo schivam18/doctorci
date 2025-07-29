@@ -4,6 +4,15 @@ import logging
 from typing import Dict, List, Any, Optional, Tuple
 from datetime import datetime
 import os
+import pandas as pd
+import io
+
+from src.chunk_templates import (
+    get_arm_discovery_prompt,
+    get_chunk_prompt,
+    get_shared_chunk_prompt,
+    CHUNK_FIELD_MAP
+)
 
 class EnhancedClinicalExtractor:
     """
@@ -11,6 +20,8 @@ class EnhancedClinicalExtractor:
     1. Pre-validation
     2. Focused extraction  
     3. Post-processing validation
+    
+    Now includes chunked-prompt approach for improved accuracy and reduced hallucination
     """
     
     def __init__(self, keywords_file: str = "data/keywords_structure_enhanced.json"):
@@ -436,9 +447,228 @@ Return JSON only:"""
         
         return cleaned_data
     
+    def detect_arms(self, publication_text: str) -> Dict[str, Any]:
+        """
+        Stage 1: Detect all treatment arms in the publication
+        Returns prompt and metadata for external LLM processing
+        """
+        self.logger.info("Detecting treatment arms...")
+        
+        prompt = get_arm_discovery_prompt(publication_text)
+        
+        return {
+            "prompt": prompt,
+            "stage": "arm_discovery",
+            "chunk_id": 0,
+            "description": "Arm discovery - identifies all treatment arms"
+        }
+
+    def extract_tables_as_csv(self, publication_text: str) -> str:
+        """
+        Extract markdown tables and convert to CSV format for LLM processing
+        """
+        try:
+            # Find all markdown tables
+            table_pattern = r'\|.*?\|\n(?:\|.*?\|\n)+'
+            tables = re.findall(table_pattern, publication_text, re.MULTILINE)
+            
+            csv_tables = []
+            for i, table in enumerate(tables):
+                try:
+                    # Convert markdown table to CSV
+                    lines = table.strip().split('\n')
+                    # Remove separator lines (those with just | - | - |)
+                    data_lines = [line for line in lines if not re.match(r'^\s*\|[\s\-\|]*\|\s*$', line)]
+                    
+                    # Convert to CSV format
+                    csv_lines = []
+                    for line in data_lines:
+                        # Split by | and clean up
+                        cells = [cell.strip() for cell in line.split('|')[1:-1]]  # Remove first/last empty
+                        csv_lines.append(','.join(f'"{cell}"' for cell in cells))
+                    
+                    if csv_lines:
+                        csv_tables.append(f"TABLE_{i+1}:\n" + '\n'.join(csv_lines))
+                        
+                except Exception as e:
+                    self.logger.warning(f"Could not parse table {i+1}: {e}")
+                    continue
+            
+            return '\n\n'.join(csv_tables)
+            
+        except Exception as e:
+            self.logger.error(f"Error extracting tables: {e}")
+            return ""
+
+    def build_chunk_prompt(self, publication_text: str, arm: Optional[Dict], chunk_id: int) -> Dict[str, Any]:
+        """
+        Build prompt for specific chunk extraction
+        Returns prompt and metadata for external LLM processing
+        """
+        # Extract tables for better data extraction
+        tables_csv = self.extract_tables_as_csv(publication_text)
+        
+        # Chunks 1 and 10 are shared (publication-level)
+        if chunk_id in [1, 10]:
+            prompt = get_shared_chunk_prompt(publication_text, chunk_id, tables_csv)
+            return {
+                "prompt": prompt,
+                "chunk_id": chunk_id,
+                "chunk_type": "shared",
+                "fields": CHUNK_FIELD_MAP[chunk_id],
+                "description": f"Shared chunk {chunk_id} - publication-level data"
+            }
+        
+        # Chunks 2-9 are arm-specific
+        if arm is None:
+            raise ValueError(f"Arm information required for chunk {chunk_id}")
+            
+        prompt = get_chunk_prompt(publication_text, arm, chunk_id, tables_csv)
+        return {
+            "prompt": prompt,
+            "chunk_id": chunk_id,
+            "chunk_type": "arm_specific",
+            "arm_id": arm.get("arm_id"),
+            "arm_name": arm.get("generic_name"),
+            "fields": CHUNK_FIELD_MAP[chunk_id],
+            "description": f"Arm-specific chunk {chunk_id} for arm {arm.get('arm_id')}"
+        }
+
+    def merge_chunk_results(self, arm_id: str, shared_data: Dict, arm_partials: List[Dict]) -> Dict:
+        """
+        Merge chunk results into final arm-level JSON
+        """
+        self.logger.info(f"Merging chunk results for arm {arm_id}")
+        
+        # Start with arm identification
+        arm_json = {
+            "arm_id": arm_id,
+            **shared_data  # Add shared publication data
+        }
+        
+        # Merge arm-specific chunks (later chunks override earlier for conflicts)
+        for partial in arm_partials:
+            if partial:  # Skip empty partials
+                arm_json.update(partial)
+        
+        # Validate and clean the merged data
+        return self._validate_arm_data(arm_json)
+
+    def _validate_arm_data(self, arm_data: Dict) -> Dict:
+        """
+        Validate and clean arm-level data
+        """
+        # Basic validation rules
+        if not arm_data.get("Generic name"):
+            self.logger.warning(f"Arm {arm_data.get('arm_id')} missing generic name")
+        
+        # Validate patient count
+        patients = arm_data.get("Number of patients")
+        if patients:
+            try:
+                patient_count = int(str(patients).replace(",", ""))
+                if patient_count <= 0:
+                    self.logger.warning(f"Invalid patient count: {patients}")
+            except ValueError:
+                if patients not in ["", "NA"]:
+                    self.logger.warning(f"Non-numeric patient count: {patients}")
+        
+        # Validate percentages (should be 0-100)
+        percentage_fields = [field for field in arm_data.keys() if "rate" in field.lower() or "response" in field.lower()]
+        for field in percentage_fields:
+            value = arm_data.get(field)
+            if value and value not in ["", "NA", "NR"]:
+                try:
+                    pct = float(str(value).replace("%", ""))
+                    if pct < 0 or pct > 100:
+                        self.logger.warning(f"Invalid percentage for {field}: {value}")
+                except ValueError:
+                    pass
+        
+        return arm_data
+
+    def extract_with_chunked_approach(self, publication_text: str) -> Dict[str, Any]:
+        """
+        Complete chunked extraction pipeline
+        Returns prompts and metadata for external LLM processing
+        """
+        self.logger.info("Starting chunked extraction approach")
+        
+        # Stage 1: Arm discovery
+        arm_discovery = self.detect_arms(publication_text)
+        
+        # Prepare chunk prompts (to be processed externally)
+        chunk_prompts = {
+            "arm_discovery": arm_discovery,
+            "shared_chunks": {},
+            "arm_chunks": {},
+            "extraction_metadata": {
+                "approach": "chunked",
+                "total_chunks": 11,
+                "shared_chunks": [1, 10],
+                "arm_chunks": [2, 3, 4, 5, 6, 7, 8, 9],
+                "extraction_date": datetime.now().isoformat()
+            }
+        }
+        
+        # Build shared chunk prompts (chunks 1 and 10)
+        for chunk_id in [1, 10]:
+            chunk_prompts["shared_chunks"][chunk_id] = self.build_chunk_prompt(publication_text, None, chunk_id)
+        
+        # Placeholder for arm-specific chunks (will be built after arm discovery)
+        chunk_prompts["arm_chunks"] = {
+            "note": "These will be generated after arm discovery is processed",
+            "chunks_per_arm": [2, 3, 4, 5, 6, 7, 8, 9],
+            "total_chunks_per_arm": 8
+        }
+        
+        return chunk_prompts
+
+    def extract_with_comprehensive_approach(self, publication_text: str) -> Dict[str, Any]:
+        """
+        Complete comprehensive chunked extraction pipeline
+        Returns prompts and metadata for external LLM processing
+        """
+        self.logger.info("Starting comprehensive chunked extraction approach")
+        
+        # Stage 1: Arm discovery
+        arm_discovery = self.detect_arms(publication_text)
+        
+        # Prepare chunk prompts (to be processed externally)
+        chunk_prompts = {
+            "arm_discovery": arm_discovery,
+            "shared_chunks": {},
+            "arm_chunks": {},
+            "extraction_metadata": {
+                "approach": "comprehensive_chunked",
+                "total_chunks": 11,
+                "shared_chunks": [1, 10],
+                "arm_chunks": [2, 3, 4, 5, 6, 7, 8, 9],
+                "total_fields_available": sum(len(fields) for fields in CHUNK_FIELD_MAP.values() if fields),
+                "extraction_date": datetime.now().isoformat()
+            }
+        }
+        
+        # Build shared chunk prompts (chunks 1 and 10)
+        for chunk_id in [1, 10]:
+            chunk_prompts["shared_chunks"][chunk_id] = self.build_chunk_prompt(publication_text, None, chunk_id)
+        
+        # Placeholder for arm-specific chunks (will be built after arm discovery)
+        chunk_prompts["arm_chunks"] = {
+            "note": "These will be generated after arm discovery is processed",
+            "chunks_per_arm": [2, 3, 4, 5, 6, 7, 8, 9],
+            "total_chunks_per_arm": 8
+        }
+        
+        return chunk_prompts
+
+    def _get_current_datetime(self) -> str:
+        """Get current datetime as ISO string"""
+        return datetime.now().isoformat()
+
     def extract_with_validation(self, publication_text: str) -> Dict[str, Any]:
         """
-        Complete extraction pipeline with validation
+        Complete extraction pipeline with validation (backward compatibility)
         """
         # Stage 1: Pre-validation
         can_process, validation_data = self.pre_validate(publication_text)
